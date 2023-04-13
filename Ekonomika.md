@@ -491,7 +491,6 @@ Podnik je samostatná hospodárska jednotka, ktorá využívaním výrobných č
 
 ## Cenkros
 &nbsp;
-
 # 7 - Finančné riadenie
 ## Finančné zdroje - charakteristika
 - **Zdroje financovania**
@@ -559,31 +558,77 @@ Finačný plán - nástroj finančného riadenia, <u>písomný dokument</u>, kto
         - Alokácia finančných zdrojov do jednotlivých zložiek majetku
 ## Cash-flow
 Cash-flow (alebo saldo) je výsledkom plánu peňažných príjmov a výdavkov (základná forma krátkodobého FP), ktorý vyjadruje sumu peňažných prostriedkov, ktoré podnik mesačne získa alebo zaplatí  
-Cash-flow môže byť:
-- vyrovnaný - príjmy = výdavky
-- kladný    - príjmy > výdavky
-- záporný   - príjmy < výdavky
-
+- **Cash-flow môže byť:**
+    - vyrovnaný - príjmy = výdavky
+    - kladný    - príjmy > výdavky
+    - záporný   - príjmy < výdavky
 ## Investície + členenie
 <u>Investovanie</u> je činnosť, prostredníctvom ktorej podnik umistňuje finančné zdroje do rôznych zložiek majetku  
 <u>Investície</u> sú výdavky vynaložené na získanie konkrétnych aktív  
 <u>Deinvestovanie</u> je znižovanie objemu majetku podniku  
 
-Členenie investícií
-
+- **Členenie investícií**
+    - Z hľadiska druhu (aktív)
+        - Hmotné, ktorých výsledkom je DHM (pozemky, budovy, stroje a zariadenia) a zásoby
+        - Nehmotné, ktorých výsledkom je DNM (licencie, patenty, know-how)
+        - Finančné - investovanie do finančného majetku (umelecké zbierky, dlhodobé a krátkodobé cenné papiere)
+    - Z hľadiska obratu majetku podniku a viazanosti kapitálu
+        - Investície do stálych aktív - na obstaranie DM (pozemky, budovy, stroje)
+        - Investície do obezných aktív - na obstaranie KM (zásob, pohľadávok a KFM)
+    - Z časového hľadiska 
+        - Dlhodobé - výnos sa očakáva za viac ako 1 rok. Investičné riziko je vyššie
+        - Krátkodobé - výnos sa očakáva spravidla do 1 roka. Nazývame ich bežné prevádzkové výdavky. Investičné riziko je nižšie
 ## Úloha finančnej analýzy + zdroje financovania
+Jej úlohou je určit potrebu kapitálovej štruktúry, t.j. aké množstvo finančných prostriedkov je má k dispozícií
+> Tento odsek sa už nachádza pri [úlohe finančného riadenia](#úloha-finančného-riadenia)
 ## Činitele, ktoré ovplyvňujú finančnú situáciu podniku
 ## Koho zaujíma finančná situácia, prečo
 
 &nbsp;
+
 # 8 - Činnosti personálneho útvaru (zdroje získavania, metódy výberu)
 ## Zamestnanec, zamestnávateľ + povinnosti
+**Zamestnanec** - FO, ktorá v pracovnoprávnych vzťahoch vykonáva pre namestnávateľa závislú prácu podľa jeho pokynov za mzdu alebo odmenu. Spôsobilosť mať práva a povinnosti ako zamestnanec vzniká dňom, keď dovŕši 15 rokov života  
+**Zamestnávateľ** - PO alebo FO, ktorá zamestnáva aspoň 1 FO v pracovnoprávnom vzťahu
 ## Druhy pracovného pomeru  
-*(na dobu určitú, neurčitú, dohoda)*
+- Na dobu určitú - stanoví sa časové obdobie, pošas ktorého bude trvať pracovnoprávny vzťah. Toto obdobie je 1 rok + možnosť predĺžiť na ďalší rok alebo 2 roky vkuse Uplynutím tejto doby sa pracovný pomer končí
+- Na dobu neurčitú - nie je stanovené obdobie, počas ktorého bude trvať pracovnoprávny vzťah
+- Dohodou
 ## Spôsob vzniku a ukončenia pracovného pomeru
+- **Vznik pracovného pomeru**
+    - Voľbou - používa sa vo verejnej správe (voľba prezidenta, poslancov, primátorov)
+    - Vymenovaním - vo verejnej správe (vymenovaním ústredných orgánovm vedúcich pracovníkov, rektorov vysokých škôl)
+    - Pracovnou zmluvou - zakladá sa ňou pracovný pomer v súkromnom aj verejnom sektore
+- **Ukončenie pracovného pomeru**
+    - Dohodou - musí sa vypracovať písomne, obe strany dostanú 1 kópiu. Pracovný pomer sa končí sa dohodnutým dňom
+    - Výpoveďou - zo strany zamestnanca alebo zamestnávateľa
+        - Zamestnávateľ môže dať výpoveď iba v prípadoch, ktoré uváza Zákonník práce
+        - Zamestnanec môže dať výpoveď kedykoľvek, aj bez udania dôvodu
+        - Výpoveď je platná, ak je písomne a doručená osobne alebo poštou. Pracovný pomer sa končí uplynutím výpovednej lehoty alebo vyplatením odstupného
 ## Náležitosti pracovnej zmluvy
+- **Podstatné náležitosti**
+    - Druh práce
+    - Miesto výkonu práce
+    - Deň nástupu do práce
+    - Mzdové podmienky (uvádza sa hrubý príjem)
+- **Vedľajšie náležitosti**
+    - Skúšobná doba
+    - Pracovné podmienky
+    - Výplatné termíny
+    - Výmera dovolenky
+    - Dĺžka výpovednej lehoty
 ## Postup účtovania pohľadávok a záväzkov voči zamestnancom  
-*(333, 335)*
+Použivajú sa 2 účty 
+- *333 - Ostatné záväzky voči zamestnancom*
+- *335 - Pohľadávky voči zamestnancom*
+> Účet *331 - Zamestnanci* sa používa iba pri prípadoch spojených so mzdou, napr. Priznané hrubé mzdy *512/331*
+
+|                         |           |
+|-------------------------|-----------|
+| Záväzky - pribúdanie    | *xxx/333* |
+| Záväzky - ubúdanie      | *333/xxx* |
+| Pohľadávky - pribúdanie | *335/xxx* |
+| Pohľadávky - ubúdanie   | *xxx/335* |
 ## Nezamestnanosť
 
 &nbsp;
