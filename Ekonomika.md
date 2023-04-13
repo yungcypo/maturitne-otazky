@@ -519,7 +519,6 @@ Podnik je samostatná hospodárska jednotka, ktorá využívaním výrobných č
                 - Lízing
                 - Faktoring
                 - Forfaiting
-
 ## Úloha finančného riadenia
 Stanovenie finančných cielov a spôsoby ich dosiahnutia. Uskutočňujú ho finanční manažéri s vhodnou klasifikáciou a skúsenosťou  
 
@@ -550,10 +549,28 @@ Finačný plán - nástroj finančného riadenia, <u>písomný dokument</u>, kto
     6. Implementácia (realizácia) finančného plánu
     7. Kontrola a korekcia finančného plánu - priebežne + úpravy
 - Členenie finančných plánov
-
-
+    - Krátkodobé - plánovanie na obdobie niekoľko mesiacov až 1 rok. Jeho úlohou je:
+        - Konkretizovať potrebu kapitálu v danom roku a zdroje jeho získania
+        - Zabezpečiť trvalú platobnú schopnosť podniku
+        - Odhaliť možnosť a príčiny vzniku platobnej neschopnosti
+        - Riadiť peňažný tok do a z podniku, aby bol podnik schopný v každom okamihu uhrádzať svoje záväzky
+    - Dlhodobé - plánovanie na viac ako 1 rok. Jeho úlohou je:
+        - Zabezpečenie vhodnej štruktúry finančných zdrojov
+        - Alokácia finančných zdrojov do jednotlivých zložiek majetku
 ## Cash-flow
+Cash-flow (alebo saldo) je výsledkom plánu peňažných príjmov a výdavkov (základná forma krátkodobého FP), ktorý vyjadruje sumu peňažných prostriedkov, ktoré podnik mesačne získa alebo zaplatí  
+Cash-flow môže byť:
+- vyrovnaný - príjmy = výdavky
+- kladný    - príjmy > výdavky
+- záporný   - príjmy < výdavky
+
 ## Investície + členenie
+<u>Investovanie</u> je činnosť, prostredníctvom ktorej podnik umistňuje finančné zdroje do rôznych zložiek majetku  
+<u>Investície</u> sú výdavky vynaložené na získanie konkrétnych aktív  
+<u>Deinvestovanie</u> je znižovanie objemu majetku podniku  
+
+Členenie investícií
+
 ## Úloha finančnej analýzy + zdroje financovania
 ## Činitele, ktoré ovplyvňujú finančnú situáciu podniku
 ## Koho zaujíma finančná situácia, prečo
