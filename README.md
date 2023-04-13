@@ -3,10 +3,10 @@ Tu sa nachádzajú maturitné otázky, ktoré som si vypracoval
 Ak je niečo zle, máš námietky, chcel by si niečo doplniť, niečo sa opýtať *(aka v prípade potreby)*, napíš mi na [cypooriginal@gmail.com](mailto:cypooriginal@gmail.com)
 
 ## Obsah
-[Ekonomika](Ekonomika.md)
-[Pozemkové právo, realitná prax](Pozemkové-právo-realitná-prax.md)
-[Účtovníctvo](Účtovníctvo.md)
-  
+[Ekonomika](Ekonomika.md)  
+[Pozemkové právo, realitná prax](PozemkovéPrávoRealitnáPrax.md)  
+[Účtovníctvo](Účtovníctvo.md)  
+
 &nbsp;  
 > **Disclaimer**  
 Otázky som vypracoval ja, ako už bolo povedané, t.j. je prudko možné že nemusia byť správne vypracované, môžu byť neúplné a podobne :) Čiže netreba sa úplne 100% spoliehať  
