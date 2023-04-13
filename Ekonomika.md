@@ -630,6 +630,21 @@ Použivajú sa 2 účty
 | Pohľadávky - pribúdanie | *335/xxx* |
 | Pohľadávky - ubúdanie   | *xxx/335* |
 ## Nezamestnanosť
+Nezamestnanosť je sociálno - ekonomický jav, ktorý vyjadruje neúplné využitie práceschopného oyvaťeľstva, ktoré má záujem pracovať
+- **Príčiny**
+    - Strata zamestnania
+    - Nemožnosť návratu do zamestnania (predĺžená materská dovolenka)
+    - Dobrovoľné zanechanie zamestnania (tzv. dobrovoľná nezamestnanosť)
+    - Nemožnosť nájsť si primeranú prácu
+    - Zmena bydliska
+    - Nezáujem nájsť si prácu a začať znova pracovať
+- **Formy**
+
+<u>Nezamestnaný</u> - človek schopný a ochotný pracovať, ktorý hľadá prácu z dôvodu jej straty. Je evidovaný na úrade práce (aktívne hľadanie práce)  
+<u>Zamestnaný</u> - človek, ktorý vykonáca akúkoľvek platenú prácu (sú v pracovnom pomere). Ten, kto momentnálne nepracuje pre chorobu, štrajk, dovolenku, zlé počasie a pod.  
+<u>Ostatný</u> - obyvateľstvo mimo pracovnej sily - študenti, dôchodcovia a pod.  
+
+<u>Miera nezamestnanosti</u> - ukazovateľ, ktorým možno vyčísliť nezamestnanosť: $miera\ nezamestnanosti = \frac{nezamestnaní}{pracovné\ sily}$
 
 &nbsp;
 # 9 - Odbytová logistika marketingu
