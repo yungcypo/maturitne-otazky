@@ -585,7 +585,6 @@ Jej úlohou je určit potrebu kapitálovej štruktúry, t.j. aké množstvo fina
 ## Koho zaujíma finančná situácia, prečo
 
 &nbsp;
-
 # 8 - Činnosti personálneho útvaru (zdroje získavania, metódy výberu)
 ## Zamestnanec, zamestnávateľ + povinnosti
 **Zamestnanec** - FO, ktorá v pracovnoprávnych vzťahoch vykonáva pre namestnávateľa závislú prácu podľa jeho pokynov za mzdu alebo odmenu. Spôsobilosť mať práva a povinnosti ako zamestnanec vzniká dňom, keď dovŕši 15 rokov života  
@@ -639,6 +638,15 @@ Nezamestnanosť je sociálno - ekonomický jav, ktorý vyjadruje neúplné využ
     - Zmena bydliska
     - Nezáujem nájsť si prácu a začať znova pracovať
 - **Formy**
+    - Dobrovoľná (prirodzená) - počet nezamestnaných $\le$ pracovné miesta
+    - Nedobrovoľná - počet pracovných síl je absolútne väčší ako počet voľných pracovných miest
+    - Frikčná spojená s určitými prirodzenými životnými cyklami, napr. po skončení štúdia, materskej dovolenky sa hľadá nové zamestnanie
+    - Štruktúrna - vzniká vtedy, keď existuje nesúlad medzi ponukou pracovníkov a dopytom po nich. Nezamestnanosť určitej skupiny pracovných síl na jednu stranu sprevádza nedostatok pracovných síl v inej skupine, napr. profesiovej, kvalifinačnej a pod.
+    - Cyklická - celkový dopyt po zamestnancoch je nízky
+    - Sezónna - súvisí s výkonom sezónnych prác, keď sa nezamestnanosť v určitom období zvyšuje alebo znižuje (práce v poľnohospodárstve, stavebníctve a pod.)
+    - Regionálna - je to obdoba štruktúrnej nezamestnanosti s tým, že protipól voľných pracovných síl sa nachádza v inom regióne (oblasti)
+    - Krátkodobá - súvisí s posudzovaním miery nezamestnanosti, jej trvanie je do 1 roka
+    - Dlhodobá - podobne ako krátkodobá, trvý viac ako 1 rok, považuje sa za sociálny problém krajiny
 
 <u>Nezamestnaný</u> - človek schopný a ochotný pracovať, ktorý hľadá prácu z dôvodu jej straty. Je evidovaný na úrade práce (aktívne hľadanie práce)  
 <u>Zamestnaný</u> - človek, ktorý vykonáca akúkoľvek platenú prácu (sú v pracovnom pomere). Ten, kto momentnálne nepracuje pre chorobu, štrajk, dovolenku, zlé počasie a pod.  
@@ -650,22 +658,137 @@ Nezamestnanosť je sociálno - ekonomický jav, ktorý vyjadruje neúplné využ
 # 9 - Odbytová logistika marketingu
 ## Formy a metódy prieskumu trhu
 ## Kontraktačná politika, metódy tvorby cien
+**Kontraktačná politika** je činnosť, ktorá sa zaoberá obchodnými podmienkami pri predaji výrobkov  
+- **Metódy tvorby ceny**
+    - Podľa nákladov - cena výrobku sa odvíja od výšky nákladov na jeho výrobu a činností spojených s výrobou. Náklady určujú <u>dolnú hranicu</u> ceny. Podnik má 3 možnosti:
+        - Cena < náklady - ak chce prežiť na trhu, pritiahnuť zákazníkov a odlákať ich od konkurencie
+        - Cena = náklady - podnik nedosahuje ani zisk, ani stratu (dôvody ako pri prvom bode) 
+        - Cena > náklady - podnik dosahuje zisk. Označuje sa ako tzv. prirážková metóda - náklady + prirážka na zisk (ako % nákladov)
+    - Podľa dopytu - podnik určuje cenu podľa správania spotrebiteľov na trhu. Musíme poznať veľkosť dopytu a elasticitu dopytu (citlivosť dopytu na zmenu ceny)
+        - E = 1 - jednotková elasticita dopytu - dopyt sa zvýši o rovnaké % ako sa zníži cena a naopak
+        - E > 1 - elastický dopyt - dopyt citlivo reaguje na zmenu ceny
+        - E < 1 - neelastický dopyt - dopyt reaguje na zmeny nižšou mierou
+    - Podľa konkurencie - podnik stanovuje cenu podľa podobných výrobkov. Predstavujú <u>hornú hranicu</u> ceny
+        - Ak podnik ponúka menej kvalitné výrobky, mal by stanoviť nižšiu cenu ako konkurencia
+        - Ak podnik ponúka rovnako kvalitné výrobky, mal by stanoviť približne rovnakú cenu ako konkurencia
+        - Ak podnik ponúka viac kvalitné výrobky, mal by stanoviť vyššiu cenu ako konkurencia
+        
 ## Podstata elasticity dopytu, jej využitie v cenovej politike
+Elasticita dopytu je citlivosť dopytu na zmenu ceny
+> Podrobnejšie v predchádzajúcej odrážke
 ## Ďalšie obchodné podmienky  
-*(rabat, platobné, dodacie)*
+- Rabat - zľava poskytnutá z ceny výrobku
+    - Množstvový - pri nákupe pri stanovenom množstve
+    - Vernostný - stálym zákazníkom
+    - Časový - trvá iba určitý čas
+        - Uvádzací
+        - Sezónny
+        - Veľtrhový
+    - Funkčný - pre sprostredkovateľov, predajcov
+    - Naturálny - pri kúpe väčšieho množstva určitité množstvo zadarmo
+- Dodacie podmienky - využívajú sa ako výhoda proti konkurencií
+    - Spôsob doručenia
+    - Právo na výmenu tovaru
+    - Prispôsobovanie množstva podľa požiadaviek zákazníka
+- Platobné podmienky - väčšinou sa spájajú s dodacími
+    - Skonto - dohodnuté zľavy za rýchlu platbu
+    - Zľavy za oneskorenie dodávky
+    - Možnosť platby elektronickou formou
+    - Možnosť platiť v splátkach
+- Financovanie odbytu - tzv. úverová politika
+    - Dodávateľský úver - napr. odloženie platby o 14 dní (faktúra)
+    - Faktoring - predaj krátkodobej pohľadávky faktoringovej spoločnosti pred lehotou jej splatnosti
+    - Leasing - prenájom veci s možnosťou jej odkúpenia, po určitom čase na splátky za výššiu sumu
 ## Postup účtovania kúpy a predaja tovaru
+|     |                            |                                         |
+|-----|----------------------------|-----------------------------------------|
+| PFA | Nákup tovaru               | *<sup>131 + 343</sup>/<sub>321</sub>*   |
+| PFA | Preprava tovaru            | *<sup>131 + 343</sup>/<sub>321</sub>*   |
+| ID  | Zaradenie do užívania v OC | *132/131*                               |
+| VFA | Predaj tovaru              | *<sub>311</sub>*/*<sup>343 + 604</sup>* |
+| ID  | Úbytok predaného tovaru    | *504/132*                               |
+
 
 &nbsp;
 # 10 - Marketing
 ## Výrobková politika - stránky  
-*(kvalitatívna, kvantitatívna)*
+Pod pojmom výrobková politika rozumieme činnosti spojené s právou s výrobkom
+- **Kvalitatívna stránka** - sleduje užitočnosť výrobku
+    - Základný úžitok - uspokojenie potreby, pre ktorú sa výrobok vyrobil
+    - Vedľajšie úžitky
+        - Kvalita - schopnosť produktu plniť svoje funkcie
+        - Vyhotovenie - odlišnosť produktov ich vybavením alebo inými vlastnosťami (vlastný produkt od konkurenčného). Predstavuje zákazníkmi požadované varianty produktu
+        - Dizajn - stvárnenie estetických vlastností produktu s dodržaním jeho funkčnosti
+            - Štýl - charakterizuje výzor (vzhľad) výrobku
+            - Imidž - nehmotný parameter tovaru, ktorého prostredníctvom vyvoláva v spoločnosti určitý obdiv a uznanie. Vytvára ho značna, resp. ochranná známka, ktorá odlišuje várobky od rôznych výrobcov
+        - Značka - spôsob identifikácie výrobku výrobcu a odlíšenie od konkurencie. Značkou môže byť meno, názov, znak, symbol, tvar alebo ich kombinácia. Obchodná značka chráni práva predávajúceho. Po zápise do OR je chránená pred kopírovaním ochrannou známkou
+        - Balenie
+            - Spotrebiteľské obaly - vnútorný obal, napr. fľaša
+            - Obchodné obaly - napr. kartóny
+            - Prepravné obaly - napr. palety, kontajnery
+        - Služby - rozšírenie produktu o služby, servis, záruky a pod.
+- **Kvantitatívna stránka**
+    - Frekvencia potrieb po určitom produkte
+    - Intenzita potrieb - ako často človek uspokojuje istú potrebu
+        - Periodické - bežné potreby - je potreba ich uspokojovať pravidelne (viackrát ročne), napr. hlad, smäd, únava
+        - Aperiodické - vyskytujú sa s veľkým časovým odstupom (ani nie každý rok), napr. kúpa auta, chladničky, TV
+        - Jednorarové / singulárne potreby - vyskytujú sa iba výnimočne, bez akejkoľvek pravidelnosti, napr. potreba životného partnera, svadba
+- **Práca s výrobkom**
+    - Inovácia výrobku - vývoj nových výrobkov s novými úžitkovými vlastnosťami a dizajnom
+    - Tvorba sortimentu
+        - Diferenciácia výrobkov - prehlbovanie sortimentu, 1 druh sa vyrába v niekoľkých variáciách
+        - Diverzifikácia výrobkov - rozširovanie sortimentu, podnik ponúka viac druhov výrobkov
+        - Obmena výrobkov - podnik neponúka celý svoj sortiment naraz, ale v rôznych časových intervaloch ich obmieňa - sezónny tovar
+        - Vyraďovanie výrobkov - výrobok je starý, neujal sa, poruchovosť celej série, zámerné zúženie sortimentu
+    - Služby zákazníkom
+        - Technické služby - montáž, inštalácia, servis, opravárenské služby
+        - Obchodné služby - dodávka domov, poradenstvo, platba na splátky
+
 ## Životný cyklus výrobkov
+1. Uvedenie na trh
+    - Dopyt je nízky, obrat malý, 
+    - Podnik má stratu
+    - Vysoké náklady (distribúcia, propagácia)
+    - Končí sa dosiahnutím prahu zisku
+2. Fáza rastu
+    - Rastie dopyt a tržby
+    - Zvyšuje sa zisk
+    - Klesajú náklady
+3. Fáza zrelosti
+    - Dopyt je najvyšší
+    - Zisk je najvyšší
+    - Tempo rastu sa postupne spomaľuje
+    - Zhoršuje sa efektívnosť predaja
+4. Fáza nasýtenosti
+    - Cenová konkurencia spôsobuje výrazné znižovanie ziskov
+    - Dopyt klesá
+    - Obrat kelsá
+5. Fáza útlmu
+    - Predaj a výroba sa stáva stratovou
+    - Poskytovanie akcie, zľavy
 ## Činnosti spojené s prácou s výrobkom
 ## Nástroje komunikačnej politiky
+- Reklama - Cieľavedomé komunikačné pôsobenie na potenciálnych zákazníkov so zameraním na sprostredkovanie informácie, vyvolanie predstavy, dojmu
+- Podpora predaja - súbor krátkodobých stimulov, ktoré stimulujú k rýchlejšej alebo silnejšej odozve trhu. Zameriava sa na produkt
+- Public relations - vytvorenie pozitívneho imidžu firmy. Zameriava sa na podnik ako celok
+- Osobný predaj - personálna komunikácia s trhom, pri ktorej vzniká interkcia medzi predávajúcim a kupujúcim
 ## Znaky a funkcie reklamy
+- **Znaky reklamy**
+    - Kreativita - reklama má skrývať určitú myšlienku, používajú sa symboly, grafika
+    - Účinnosť - dobrá reklama dokáže spotrebiteľa zaujať
+    - Pravdivosť - má vyzdvihovať výhody produktu, nemala vy zveličovať a zámerne klamať
+    - Etika - nemá porušovať základné ľudské práva, diskriminovať
+- **Funkcie reklamy**
+    - Komunikačná - sprostredkovanie informácie
+    - Ekonomická - podporovať predaj, aktivizovať dopyt
 ## Druhy reklamných prostriedkov
+- Tlačové - inzeráty, články v časopisoch a novinách
+- Tlačené - letáky, plagáty, pospekty, vývesky, nálepky, obaly, katalógy
+- Zvukové - vysielanie v rozhlase
+- Audiovizuálne - TV, kinofilmy, internet
+- Svetelné - neóny, svetelné nápisy
 ## Účtovanie vlastných výrobkov  
-*(612, 613, prírastky, úbytky, predaj)*
+*612, 613, prírastky, úbytky, predaj*
 
 
 ---
