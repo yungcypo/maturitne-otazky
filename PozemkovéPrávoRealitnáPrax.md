@@ -9,8 +9,7 @@
 - [Geometrický plán](#geometrický-plán)
     - [Časti](#časti-geometrického-plánu)
 - [Kataster nehnuteľností](#kataster-nehnuteľností)
-- [Katastrálna inšpekcia]()
-    - [Časti]()
+- [Katastrálna inšpekcia](#katastrálna-inšpekcia)
 - [Katastrálne konanie]()
     - [Vklad]()
     - [Záznam]()
@@ -218,6 +217,156 @@ Kataster obsahuje tieto údaje:
     - Ak ide o PO - názov, sídlo a identifikačné číslo, údaje o skutočnostiach súvisiacich s právami k nehnuteľnosti
 - Údaje o základných a podrobných polohových bodových poliach 
 - Sídelné a nesídelné geografické názvy
+
+&nbsp;
+# Katastrálna inšpekcia
+Katastrálnou inšpekciou vykonáva úrad dozor nad:
+- Úrovňou spravovania
+- Aktuálnosti a obnovy katastra
+- Úrovňou zabezpečovania úloh súvisiacich s katastrom  
+
+Katastrálnej inšpekcií **podliehajú** FO a PO vykonávajúce geodetické a kartografické činnosti ktorých výsledky sa preberajú do katastra, alebo pri ktorých výkone sa využívajú údaje z kazastra (najmä geometrické plány, vytyčovanie hraníc pozemkov, zriaďovanie a aktualizácia geodetických bodov, meranie a zobrazovanie pozemkov, ktoré sa preberajú do základných štátnych mapových diel)  
+Katastrálnu inšpekciu **vykonávajú** poverení katastrálni inšpektori  
+
+Katastrálny inšpektor:
+- Kontroluje úroveň spravovania katastra a súvisiacich činností
+- Kontroluje dodržiavanie všeobecne záväzných právnych predpisov, administratívnych opatrení a technických noriem v oblasti geodézie, kartografie a katastra
+- Výsledky meračškých prác a ich premietnutie v súbore geodetických informácií
+- Schvaľuje projekty úloh vecného plánu a vyjadruje sa k objektívnosti správ týkajúcich sa hodnotenia činností, ktoré patria do jeho vecnej pôsobnosti
+- Ukladá kontrolovaným subjektom prijať opatrenia na odstránenie zistených nedostatkov a kontroluje ich splnenie v určenej lehote
+- Ukladá kontrolovaným subjektom odstrániť zistené nedostatky v priebehu kontroly alebov určenej lehote, ak ide o drobné a formálne nedostatky, ktoré nevyžadujú prijatie osobitných opatrení
+- Je oprávnený pri výkone katastrálnej inšpekcie požadovať potrebné údaje vysvetlenia a nazerať do príslušnej dokumentácie
+- Je povinný pri výkone inšpekcie preukázať sa preukazom vydaným úradom, ktorý ho oprávňuje vykonávať katastrálnu inšpekciu
+
+&nbsp;
+# Katastrálne konanie
+V katastrálnom konaní sa:
+- Zapisujú práva k nehnuteľnostiam
+- Rozhoduje o zmenách hraníc katastrálnych území
+- Prešetrujú zmeny údajov katastra
+- Opravujú chyby v katastrálnom operáte
+- Obnovuje katastrálny operát
+
+Katastrálne konanie je na príslušnom okresnom úrade, v ktorého územnom obvode sa nechádza nehnuteľnosť  
+Ak sa nehnuteľnosť nachádza na územnom obvode viacerých okresných úradov, príslušný úrad koná o celom návrhu. Následne upovedomí dotknuté úrady o začatí konania a zašle im rozhodnutie o povolení vkladu  
+Katastrálne konanie možno vykonať aj elektronicky. Náležitosti sú rovnaké ako pri písomnom podaní, musia byť podpísané elektronickým podpisom
+## Vklad
+Spôsobuje vznik, zmenu alebo zánik vlastníckeho práva  
+Má právotvorné účninky  
+Je možno ho vykonať len na základe právoplatného rozhodnutia okresného úradu, ktoré je výsledkom osobitného konania o povolení vkladu  
+Konanie o povolení vkladu sa zacína vždy na návrh účastníka zmluvy (konania), pričom na konanie je príslušný ten okresný úrad, v ktorom územnom obvode sa nehnuteľnosť nachádza. Oznámenie sa zašle elektronicky na príslušný okresný úrad. Ak do 90 dní od doručenia oznámenia účastník konania napodá návrh na vklad, oznámenie okresný úrad vymaže z evidencie
+
+Návrh na vklad sa podáva písomne a obsahuje:
+- FO - Meno, priezvisko a miesto trvalého pobytu
+- PO - Obchodné meno, názov a sídlo
+- Označenie správy katastra, ktorej je návrh adresovaný
+- Označenie právneho úkonu, na ktorom základe má vzniknúť, zmeniť sa alebo zaniknúť právo k nehnuteľnosti
+
+Prílohy:
+- Zmluva (kúpna, darovacia, zámenná), na ktorej základe má byť zapísané právo k nehnuteľnosti do katastra, v dvoch vyhotoveniach
+- Verejná alebo iná listina, ktorá potvrdzuje právo k nehnuteľnosti
+- Identifikácia parciel, ak vlastnícke právo k nehnuteľnosti nie je vpísané na liste vlastníctva
+- Geometrický plán, ak sa pozemok rozdeľuje alebo zlučuje, alebo pri zriadení vecného bremena
+- Dohoda o splnomocnení, ak je účastník konania zastúpený splnomocnencom
+
+K návrhu na vklad sa prikladajú kolky v hodnote 66€, za urýchlené konanie 265,50€ 
+## Záznam
+Nemá vplyv na vznik, zmenu alebo zánik práv k nehnuteľnosti. Má len evidenčný charakter (zmena poradia záložných práv)  
+
+Do katastra nehnuteľnosti sa zapisujú záznamom práva k nehnuteľnostiam *(vlastnícke právo, záložné právo a iné, ktoré sú predmetom katastrálneho konania)* ktoré vznikli, zmenili sa alebo zanikli:
+- Zo zákona
+- Príklepom licitátora na verejnej dražbe
+- Vydražením
+- Osvedčené notárom
+
+Záznam sa vykoná na základe verejných a iných listín  
+Kataster vykoná záznam bez návrhu, prípadne na návrh vlastníka alebo inej oprávnenej osoby  
+Návrh na vykonanie záznamu sa musí podať písomne a musí obsahovať:
+- Meno a miesto trvalého pobytu navrhovateľa
+- Názov okresného úradu, ktorému je návrh adresovaný
+- Verejnú alebo inú listinu, ktorá potvrdzuje právo k nehnuteľnosti
+- Označenie príloh
+## Poznámka
+Vyjadruje skutočnosti, ktoré obmedzujú oprávnenie vlasntíka nakladať s nehnuteľnosťou alebo informuje o nehnuteľnosti alebo o práve k nehnuteľnosti  
+Na základe oznámenia súdu zapíše okresný úrad do katastra poznámku o začatí vyvlastňovacieho konania a o predbežnom opatrení, ktorým sa zakazuje nakladať s nehnuteľnosťou  
+Okresný úrad zruší poznámku na návrh toho, kto podal návrh na jej zápis a preukáže sa, že pominuli dôvody zápisu
+
+&nbsp;
+# Katastrálny operát
+## Časti + charakteristika
+
+&nbsp;
+# List vlastníctva
+## Charakteristika + časti
+List vlastníctva je verejnou listinou, ktorá osvedčuje vlastnícke a iné vecné práva k nehnuteľnosti  
+Obsahuje základné údaje o nehnuteľnostiach, vlastníkoch, právach k nehnuteľnostiam  
+Základným dokladom pre preukázanie vlastníckych vzťahov k nehnuteľnosti je okolkovaný list vlastníctva určený pre právne úkonyy. Nesmie byť starší ako 3 mesiace  
+Informácie, ktoré sa týkajú konkrétnej nehnuteľnosti treba žiadať vždy len na tej správe katastra, v ktorej katastrálnom území sa nehnuteľnosť nachádza. Jedine tam po zaplatení správneho poplatku vydajú aktuálny výpis z listu vlastníctva  
+
+Skladá sa z:
+- A - majetková podstata
+    - Označenie všetkých nehnuteľností, ktoré sú predmetom práv k nehnuteľnosti (majetkové teleso)
+    - Parcelné čísla registra "C" alebo "E"
+    - Výmery
+    - Druh pozemkov
+    - Kódy spôsobu užívania pozemkov
+    - Príslušnosť pozemkov k zastavanému územiu obce
+    - Iné údaje doplňujúce bližšie vysvetlenia k časti "A"
+- B - vlastníci a iné oprávnené osoby
+    - Mená, priezviská, rodné priezviská alebo názvy vlastníkov nehnuteľnosti a iných oprávnených osôb
+    - Dátumy narodenia, rodné číslo alebo IČO
+    - Adresu trvalého pobytu alebo sídlo
+    - Spoluvlastnícke podiely
+    - Titul nadobudnutia
+    - Iné údaje obsahujúce vysvetlenie k časti "B"
+    - Byty a nebytové priestory
+    - Nájomné práva k pozemkom
+    - Poznámka o skutočnostich súvisiacich s právami k nehnuteľnosti
+- C - ťarchy
+    - Vecné bremená
+    - Záložné práva - vrátane označenia záložného veriteľa
+    - Predkupné práva, ak majú mať účinky vecných práv
+    - Iné práva, ak boli dohodnuté ako vecné práva
+    - Iné údaje obsahujúce bližsie vysvetlenie k časti "C"
+
+List vlastníctva využívajú:
+- Súdy pri rozhodovaní v prípade vlastníckych sporov
+- Notárske úrady pri dedičskom konaní
+- Advokátske kancelárie pri spisovaní zmlúv
+- Súdni znalci pri spracovaní znaleckých posudkov na ohodnocovanie nehnuteľností
+- Stavebné úrady pri svojom rozhodovaní
+- Matričné úrady
+- Daňové úrady (prenájom nehnuteľností)
+- Pozemkové úrady pri rozhodovaní o odňatí poľnohospodárskej pôdy
+- Lesné úrady pri rozhodovaní o odňatí lesnej pôdy
+- Peňažné ústavy pri rozhodovaní o pridelení hypotekárskych a iných finančných úverov
+- Nebankové subjekty pri poskytovaní úverov
+- Realitné kancelárie pri sprostredkovaní kúpy a predaja nehnuteľností
+- Obecné úrady pri vyrubovaní daní z nehnuteľností
+- Polícia
+- Orgány prokurátory
+- Cudzinecká polícia pri prihlasovaní cudzincov k prechodnému pobytu
+- Iné orgány štátu a verejnej správy pri vydávaní vyjadrení
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
