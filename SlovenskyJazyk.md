@@ -196,3 +196,191 @@ Môžeme najprv opísať park, potom budovy na námestí alebo presne naopak
 - ### Posudok
 - ### Návod 
 - ### Recept
+
+&nbsp;
+# Otázka 4
+## Informácia
+Informácia, informatika v komunikačnom procese, spôsoby záznamu textu (osnova, tézy, koncept, konspekt, citácia)  
+Informácia je taký údaj, ktorý obohacuje poznanie používateľa jazyka  
+Má 2 významy:
+- V širšom slova zmysle - akýkoľvek údaj, poznatok, správa, oznámenie, fakt
+- V užšom slova zmysle - údaj, ktorý je dôležitý na potreby používateľa, obohacuje jeho poznanie  
+
+Informatika je nový študijný, vedný odbor, ktorý sa zaobrá vznikom, získavaním, spracúvaním, ukladaním, sprístupňovaním, odovzdávaním a využívaním odborných informácií   
+Základné informačné inštitúcie sú knižnice, bibliografické inštitúcie, strediská vedeckých a technických informácií  
+
+Informačné pramene:
+- Primárne, nespracované - knihy, časopisy, vedecké spisy
+- Sekundárne, spracované - katalógy, zoznamy
+- Terciárne - údaje spracované z primárnych a sekundárnych prameňov - bibliografia, rešerš
+
+**Katalóg**
+- Menný (autorský) - uvádza strany, kde sa nachádza zmienka o danom autorovi
+- Vecný (predmetový) - prináša zoznam kľúčových termínov, pojmov a stranu, kde sa nachádza uvedený pojem
+
+**Bibliografia**
+Zápis použitej literatúry, dodržiavame abecedné poradie autorov, aj diel od toho istého autora
+
+**Rešerš**
+Vyhľadávanie, prehľad, súhrn poznatkov o danej téme, pracovníci veľkej knižnice na objednávku vyhľadajú všetky zmienky v odbornej literatúre o danej téme
+
+**Anotácia**
+Krátka charakteristika napr. literárneho, televízneho diela, jeho obsahu, spôsobu spracovania, často so základnou informáciou o autorovi, prípadne s poznámkou, pre aký okruh čitateľov, divákov či používateľov je určený, o počte strán a cene knihy  
+Tento útvar používjú vydavateľstvá na informovanie o knižných novinkách  
+Prináša len prvé a základné informácie
+
+**Resumé**
+Krátky obsah, zhrnutie  
+Stručne zachytáva základné myšlienky výkladu, komplexnej maturitnej práce, diplomovej práce, dizertácie  
+Je zvyčajn zhrnutím obsahu odbornej práce  
+Zaraďuje sa na koniec práce
+
+**Marginálie**
+Krátke poznámky o obsahu knihy, odborného článku, časopisu na vonkajšom okraji strany, aby sa čitateľ vedel zorientovať, čo sa v knihe nachádza  
+Sú to často nesystematicky usporiadané poznámky čítajúceho
+
+**Citácia**
+- Doslovná citácia - Doslovne uvedený cudzí výrok s meno autora, názvom diela, vydavateľstva, roku vydania a číslom strany. Graficky sa odlišuje od ostatného textu (napr. použitím úvodzoviek)
+    > *"Nechoď vždy len po vychodených cestách, lebo vedú len tam, kde už boli iní."* (Alexander Graham Bell)  
+    > Chylová, E.: Slovensko a svet v rokoch 1849-1939 (Dejepis pre stredné odborné školy a stredné odborné učilištia). Bratislava: OrbitPictusIstropolitana, 1998, s. 26.   
+    > ISBN 80-7158-467-3
+- Voľná citácia - Neuvádzame dielo, z ktorého citovaný text pochádza. Uplatňuje sa v rečníckych a publicistických textoch
+    > Britsko-americký fyzik a vynálezca Alexander Graham Bell raz povedal:
+    > *"Nechoď vždy len po vychodených cestách, lebo vedú len tam, kde už boli iní"*
+- Parafráza - Voľné spracovanie cudzej myšlienky. Nevyskytuje sa v odbornom štýle  
+    > *"Nechoď vždy len po vychodených cestách, lebo natrafíš na turistov v kríkoch"*
+
+**Konspekt**
+Krátky, obsažný záznam základných údajov textu  
+Sleduje štruktúru textu v celej jeho podobe (nemôžeme vynechať napr. záverečné údaje)  
+Je heslovitý, ľahko čitateľný, používajú sa v ňom skratky, značky, odkazy, rôzne farby, podčiarkovania, číslovania bodov a pod.
+
+**Osnova**
+Obsahuje kľúčové slová textu v bodoch, heslách, menných vetách  
+Najstručnejší záznam obsahu textu  
+Stručnejší než konspekt  
+
+**Koncept**
+Prvé spracovanie, prvopis, nečistopis prednášky, knihy, slohovej práce
+
+Rámcové časti knihy - každá kniha má tieto rámcové časti
+- Obsah - zoznam názvov jednotlivých kapitol
+- Predhovor (úvod) - autorov komentár k obsahu knihy, jeho zámer, plán, metódy práce, upozornenie o tom, čo čitateľ v knihe nenájde a prečo
+- Index (register) - menný a vecný - abecedný zoznam dôležitých mien a odborných termínov s uvedením strán, na ktorých sa v knihe nachádzajú
+- Zoznam použitých skratiek - hlavne slovníky
+- Bibliografia - abecedný zoznam použitej literatúry (autor, názov diela, miesto vydania, vydavateľstvo, rok vydania, rozsah)
+- Resumé - zhrnutie, stručný obsah (často aj cudzojazyčné)
+- Tiráž - informácie o vydavateľstve, autorových prácach, počet výtlačkov = technické infomácie - na začiatku, na konci
+
+
+&nbsp;
+# Otázka 5 
+## Fonetika, fonológia
+**Fonetika** - jazykovedná disciplína, ktorá skúma a opisuje tvorenie zvukov reči rečovými orgánmi a ich zvukové znenie  
+**Fonológia** - jazykovedná disciplína, ktorá skúma vzájomné vzťahy medzi fonémami a ich zvukovými vlastnosťami z hľadiska ich významovo rozlišovacej funkcie  
+**Fonéma** - najmenšia zvuková jenotka, ktorá rozlišuje význam slova v jazyku  
+**Hláska** - konkrétna podoba fonémy v reči, najmenšia zvuková jednotka reči. Každá hláska je označená osobitným písmenom a každé písmeno zvyčajne označuje jednu hlásku (okrem dz, dž, ch, ktoré pozostávajú z 2 písmen)  
+**Graféma** - písmeno, jednej fonéme zodpovedá jedna graféma  
+
+V slovenčine sú pre spisovnú výslovnosť osobitne dôležité najmä tieto javy
+- Znelostná asimilácia (spodobovanie) - prosba-prozba
+- Výslovnosť spoluhlásky V
+    - v-f - vták, včela
+    - v-v - voda, výslovnosť
+    - v-u - plavba, stavba
+- Výslovnosť mäkkých a tvrdých spoluhlások (deti, ale diktát)
+- Výslovnosť spoluhláskových skupín a zdvojených spoluhlások (Čadca, motto)
+- Výslovnosť dvojhlások vyslovujeme 2-krát tak dlho, ako krátke samohlásky (dieťa)
+- Rytmické krátenie (páví, miekár)
+
+## Spodobovanie
+Spodobovanie alebo znelostná asimilácia je prispôsobovanie výslovnosti 2 susedných alebo blízkych spoluhlások
+
+K spodobovaniu dochádza:
+- Vo vnútri slova - ro**z**plakala sa [ro**s**plakala sa]
+- Na hraniciach slov pri splývavej výslovnosti - du**b** padol [du**p** padol]
+- Na konci slova pred prestávkou - príď! [prí**ť**!]
+
+Rozdelenie spoluhlások podľa znelosti
+- Znelé spoluhlásky - pri ich tvorbe hlasivky knitajú. Rozdeľujú sa na znelé a neznelé
+- Neznelé spoluhlásky - vyslovujú sa vez účasti hlasiviek
+
+| Znelé párové | Neznelé párové | Znelé nepárove (zvučné) |
+|:------------:|:--------------:|:-----------------------:|
+|      b       |        p       |            m            |
+|      d       |        t       |            n            |
+|      ď       |        ť       |            ň            |
+|      dz      |        c       |            l            |
+|      dž      |        č       |            ĺ            |
+|      g       |        k       |            ľ            |
+|      h       |        ch      |            r            |
+|      v       |        f       |            ŕ            |
+|      z       |        s       |            j            |
+|      ž       |        š       |                         |
+
+**Vokalizácia predložiek**
+Kvôli plynulej výslovnosti sa k predložkám, ktoré končia spoluhláskou (s, z, k, v, od, pod, nad) pridáva samohláska -o alebo -u (vokál)  
+Napr. zo záhrady, ku kinu, vo vode, podo dvermi, odo mňa, nado mňa, so mnou
+
+**Ortoepia**
+Náuka o správnej výslovnosti  
+Je osobitná jazyková disciplína, ktorá sa zaoberá zvukovými normami, podľa ktorých sa tvoria hovorené spisovné jazykové prejavy (komunikáty)  
+Kodifikačnou príručkou pre zvukovú rovinu spisovnej slovenčiny sú Pravidlá slovenskej výslovnosti od Á. Kráľa  
+Správnu výslovnosť určuje ortoepická norma  
+
+V rámci výslovnosti rozoznávame 3 výslovnostné štýly:
+- Vysoký štýl
+    - Využíva sa vo verejnom oficiálnom prostredí, pri recitácií umeleckých textov, v slávnostných prejavoch
+    - Komunikanti využívajú spisovnú slovenčinu
+- Neutrálny štýl
+    - Najčastejšia podoba hovorenej spisovnej slovnečiny
+    - Využíva sa v súkromnom aj pracovnom styku
+    - Ak je medzi komunikantmi spoločensky odstup, využíva sa spisovný jazyk (starší/mladší, nadriadený/podriadený, prostredie školy, úradu a pod.)
+- Nižší štýl
+    - Využíva sa v súkromnom aj verejnom prostredí tam, kde je medzi komunikantmi neoficiálny alebo priateľský vzťah
+    - Vyskytujú sa v ňom odchýlky od spisovnej normy
+    - Prejavuje sa napr. Vplyv miestneho dialektu
+
+Najčastejšie poruchy výslovnosti spoluhlások
+- Rotacizmus
+    - Ľudovo ráčkovanie
+    - Vzniká nesprávnou výslovnosťou spoluhlásky R
+    - Hrot jazyka nekmitá
+- Sigmatizmu
+    - Ľudovo šušlanie
+    - Vzniká nesprávnou výslovnosťou sykaviek - spoluhlások S, Š, Z, Ž
+    - Najčastejšie ho spôsobuje nesprávna poloha jazyka
+
+&nbsp;
+# Otázka 6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
