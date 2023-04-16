@@ -20,6 +20,14 @@
         - [Posudok](#posudok)
         - [Návod](#návod)
         - [Recept](#recept)
+4. [Otázka](#otázka-4)
+    - [Informácia](#informácia)
+5. [Otázka](#otázka-5)
+    - [Fonetika, fonológia](#fonetika-fonológia)
+    - [Spodobovanie](#spodobovanie)
+6. [Otázka](#otázka-6)
+    - [Administratívny štýl](#administratívny-štýl)
+    - [Lexikológia, syntax](#lexikológia-syntax)
 
 
 &nbsp;
@@ -353,34 +361,127 @@ Najčastejšie poruchy výslovnosti spoluhlások
 
 &nbsp;
 # Otázka 6
+## Administratívny štýl
+Je to objektívny štýl verejnej úradnej komunikácie (používa sa v úradoch, inštitúciách, pošte)  
+Jeho funkciou je sprostredkovať príjemcovi presné údaje, fakty  
+Niektoré útvary podlihajú požiadavkám štátnej normy  
+Najviac využíva informačný a opisný slohový postup  
 
+Znaky:
+- Objektívnosť (fakty, neosobnosť)
+- Verejnosť
+- Oficiálnosť
+- Formálnosť
+- Písomnosť
+- Monologickosť
+- Presnosť (čísla, údaje)
+- Stručnosť
+- Schematizmus (predtlačené formuláre, vzory)
 
+## Lexikológia, syntax
+Neutrálne, spisovné a odborné slová  
+Skratky, značky, vysvetlivky, čísla  
+Jenoduché vety a súvetia  
+Menné vyjadrovanie  
+Písanie zámen v 2. osobe s veľkýn písmenom - znak úcty
 
+Útvary:
+- Dokumentárne
+    - Zápisnica
+    - Protokol
+    - Rezolúcia
+    - Zmluva
+    - Potvrdenka
+    - Maturtitný protokol
+    - Triedny katalóg
+- Oznamovacie
+    - Hlásenie
+    - Správa
+    - Telegram
+    - Životopis
+    - Vyhláška
+    - Objednávka
+    - Źiadosť
+    - Prihláška
+- Heslové
+    - Zoznamy
+    - Prehľady
+    - Zoznam inventáru
+    - Rozvrh hodín
+    - Dotazník
+    - Školské vysvedčenie
 
+**Žiadosť**
+1. Záhlavie
+    - Meno, priezvisko, adresa žiadateľa
+    - Oddeľuje sa čiarkou
+2. Adresa príjemcu
+    - Na ľavej strane
+    - Ak posielame úradný list v obálke s priesvitnou časťou pre adresu, píše sa vpravo
+3. Miesto a dátum
+    - Vždy vpravo
+    - V poradí deň, mesiac, rok
+    - Do dvoch alebo do jeného riadku
+    - Bez bodky a čiarky
+4. Vec
+    - Nepíše sa bodka na konci, podčiarkne sa
+5. Text žiadosti
+    - Presná formulácia našej požiadavky, odvoláme sa na vlastný záujem, vzdelanie a prax, prečo nám záleží na organizácií, v ktorej sa uchádzame o miesto
+6. Záver
+    - Zdvorilostné formulky, oddelené jedným riadkom
+    - Ak je súčasťou záverečnej formulky pozdrav, nedáva sa bodka
+7. Prílohy
+    - 4 riadky pod posledným riadkom textu žiadosti vľavo dolu
 
+**Potvrdenie**
+- O prijatí predmetu, peňazí, veci a pod. - písomnosť právneho charakteru
+    - Adresy oboch zúčastnených strán
+    - Vyhlásenie o prijatí predmetu
+    - Dátum a miesto vystavenia písomnosti
+    - Podpis - potvrdenie dohodnutých podmienok
+    > Podpísaná Jana Malá, bytom Príkopová 6, 969 89 Lom nad Rimavicou, potvrdzujem, že som dňa 2. 3. 2023 prijala od svojho dlžníka Jozefa Malého, bytom Jelenia 6, 811 01 Bratislava, sumu 5 000 €, slovom pättisíc eur, na vyrovnanie pôžičky zo dňa 11. 2. 2023  
+    > &nbsp;  
+    > Lom nad Rimavicou &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *Jana Malá*
 
+**Splnomocnenie**
+- Meno a priezvisko splnomocnenca a splnomocniteľa
+- Rodné číslo splnomocnenca
+- Číslo občianskeho preukazu splnomocnenca
+- Trvalé bydlisko splnomocniteľa
+- Presné určenie, na ktorý úkon je splnomocnenie vydané
+- Miesto a dátum
+- Vlastnoručný podpis splnomocniteľa
+> Podpísaný Michal Bezák, bytom Nová Baňa, Žilinská 2, splnomocňujem brata Viliama Bezáka (číslo OP, RČ), aby ma zastupoval vo všetkých úkonoch na schôdzi Domového spoločenstva na Žilinskej 2, Nová banňa, dňa 23.11.2022  
+> &nbsp;  
+> Nová Baňa 20.10.2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *Michal Bezák*
 
+**Objednávka**
+- Formát A4 alebo forma listu s predtlačou, kupón, karta
+- Kontextová
+- Nekontextová
 
+**Poštový a peňažný poukaz**
+- Určený na poukázanie peňažnej sumy súkromným osobám alebo inštitúciám
+- Predtlačené údaje - čiastočne, úplne
+- Adresa adresáta, odosielateľa
+- Suma čislicou i slovom
+- Variabilný symbol
+- Poukaz - U, H, E *(???)*
 
+**Informačný leták**
+- Najbežnejšia forma tlačovej reklamy
+- Letáky sú v rôznych formátoch, rôzneho grafického spracovania, farebnosti a obsahu
+- Často sú distribuované vo veľkom náklade do poštových schránok potenciálnych zákazníkov
 
+**Podací lístok**
+- Meno odosielateľa
+- Meno adresáta
+- Udaná cena
+- Druh zásielky
+- Hmotnosť a cena služby
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Niektoré údaje vypisuje pošta, niektoré odosielateľ
+- Používa sa pri odosielaní doporučeného listu a balíka
+- Poštou výpočtami vyplnený lístok sa stáva potvrdenkou, dokladom
+- Sú vytlačené ako predpísné tlačivo, formulár
 
