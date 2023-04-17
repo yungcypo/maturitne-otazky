@@ -485,3 +485,314 @@ Písanie zámen v 2. osobe s veľkýn písmenom - znak úcty
 - Poštou výpočtami vyplnený lístok sa stáva potvrdenkou, dokladom
 - Sú vytlačené ako predpísné tlačivo, formulár
 
+&nbsp;
+# Otázka 7
+Kodifikácia = úradný akt, súbor pravidiel a predpisov na používanie spisovného jazyka v istom období, závažný pre všetkých používateľov jazyka  
+
+Kodifikačné zbierky:
+- Pravidlá slovenského pravopisu
+- Krátky slovník slovenského jazyka
+- Synonymický slovník
+- Pravidlá slovenskej výslovnosti
+
+## Ortografia/pravopis
+Náuka o právnom písaní, pravopisne  
+Pravopis slovenčiny sa formoval celé stáročia a tento proces sa nikdy neskončí  
+Pravopisné pravidlá, podľa ktorých píšeme, nazývame pravopisná norma (norma = predpis)  
+
+Pravopisné princípy:
+- Fonematický princíp
+    - Jedna fonéma, schopná rozlišovať význam slov a tvarov sa píše jedným písmenom
+    - V slovenčine sa nedodržiava dôsledne, napr.:
+        - Jedna fonéma sa nepíše jedným a tým istým písmenom  
+        Ľ - leto-ľahko
+        - Jedna fonéma (jeden zvuk) sa označuje dvoma písmenami
+        Ch - chlap
+- Morfematický princíp
+    - Zabezpečuje, že sa zachováva jednotná podoba nepísaných slov, aj keď sa pri výslovnosti niektoré hlásky menia zo znelých na neznelé alebo naopak, napr.:
+        - S hadom, Had syčí  
+        *D* na konci slova pred neznelým S vyslovíme *T*
+        - Pod plotom  
+        *D* pred neznelým P vyslovíme *T*
+- Etymologický (vývinový) princíp
+    - Prihliada na to, akú podobu mali slová v staršej podobe jazyka
+    - Prejavuje sa pri písaní *I, Í, Y, Ý*, napr. biť (palicou) a byť (existovať)
+    - Uplatňuje sa pri písaní I/Y v cudzích slovách, preto rešpektujeme pôvodnú pravopisnú podobu slova, napr.:
+        - Sympatia - z gr.
+        - Rizoto - z tal.
+- Gramatický princíp
+    - Určuje, že sa napr. píše rovnako nominatív prídavných mien vzoru *pekný* a iných slovných druhov, ktoré sa skloňujú podľa toho vzoru, napr. *pekní* chlapci, *akísi* lovci, *prví* bežci
+
+**Pravidlá slovenského pravopisu**
+- Z roku 1991 prinášajú napr. tieto zmeny:
+    - Písanie veľkých a malých písmen - názvy ulíc, námestí, sadov, mostov, pomenovaní oddelení, komisií, odborov, organizácií, inštitúcií, napr.:  
+        Ulica osloboditeľov *(nie ulica Osloboditeľov)*  
+    - Príslovky typu dobiela/do biela je možné písať obidvoma spôsobmi
+    - Slovo zmena sa píše vo všetkých tvaroch s predponou z:   
+    zmenový, zmennosť  
+    - Bodka sa nepíše za názvom písmnej práce, dátumom
+- 1998
+    - Zjednocuje písanie slovotvornej prípony *-ár*, *-áreň*, prípona sa skracuje:  
+    mliekareň
+    - V názve katedry vysokej školy sa píše veľké písmeno, ostatné menšie oddelenia sa píšu s malým písmenom:  
+    Pracuje na Katedre romanistiky Filozofickej fakulty UK  
+    Je členom predmetovej komisie slovenského jazyka
+- 2000
+    - Zásadná zmena v písaní najvyšších orgánov a inštitúcií, názov preídií, predstavenstiev, dozorných rád a pod.
+    - Ak sa uvádza plný názov inštitúcie alebo podniku, píšeme názvy najvyšších orgánov s veľkým začiatočným písmenom, napr.:  
+    Krajské riaditeľstvo Policajného zboru Slovenskej republiky v Trencíne  
+    Prezídium Fondu národného majetku Slovenskej republiky  
+    Predstavenstvo Železiarní Podbrezová a.s.  
+    Dozorná rada Všeobecnej úverovej banky
+- ### Bernolákovské obdobie
+    - **J. I. Bajza** - osvietenstvo 18. stor.
+        - Vo svojich dielach, najmä v románe *"René mláďenca Príhodi a Skúsenosti"* uplatňoval tzv. slowackí jazyk
+        - Nevydal žiadnu gramatickú príručku, hoci zrejme mal v úmysle kodifikovať všeobecne rozšírené formy jazyka
+    - **Anton Bernolák**
+        - Kodifikuje v **r. 1787**
+        - Úzus trnavských vzdelancov
+        - Na rozdiel od Bajzu svoju predstavu slovenského spisovného jazyka vyložil aj vo svojich kodifikačných dielach:
+            - Grammatica slavica
+            - Slowár Slowenskí, Česko-Laťinsko-Ňemecko-Uherskí
+            - Jazykovednokritická rozpráva o slovenských písmenách - *(pravopis)*
+        - Pravidlá
+            - Odstraňuje sa Y/Ý, ponecháva sa len I/Í
+            - Mäkkosť Ď, Ť, Ň, Ľ sa vždy označuje
+            - Veľké písmená pri všetkých podstatných menách a pri výrazoch, ktoré sa vzťahujú na osoby
+            - Predložky S a Z sa píšu podľ výslovnosti
+            - Hlásku J píše ako G
+            - Zavádza skupinu ŠČ
+            - Hlásku V píše vždy ako W
+- ### Štúrovské obdobie
+    - **Ľudovít Štúr**
+        - Kodifikuje v **r. 1843**
+        - Stredoslovenský úzus - Martin
+        - Kodifikoval spisovnú slovenčinu vo svojom diele *"Nárečja slovenskuo alebo potreba písaňja v tomto nárečí"*
+        - Jeho pravopis je v zásade fonologický "píš, ako počuješ"
+        - Pravidlá
+            - Namiesto Y/Ý sa píše všade I/Í
+            - Rozdiel medzi zvukmi D, T, N - Ď, Ť, Ň sa vždy všade graficky vyznačuje
+            - Dvojhláska Ô sa rozpisuje ako UO
+            - Dvojhlásky ia, ia sa píšu ako ja, je
+            - V genitíve plurálu muž. rodu sa hláska V píše ako u, napr.:  
+            kráľou, sluhou
+            - Nemá Ľ, len L, napr.:  
+            Něděla, laví
+            - Nemá Ä, namiesto toho používa A alebo E, napr.:  
+            svatí, najme
+            - Nemá iu, namiesto toho používa ú, napr.:  
+            božú, znameňú
+            - Nemá É, namiesto toho používa JE, napr.:  
+            dobrjeho, dobrjemu
+            - Dôsledné dodržiavanie rytmického času má podobu mau, volau namiesto mal, volal
+            - Neurčitok na -uvať namiesto dnešného -ovať, napr.:  
+            obetuvať, ukazuvať
+            - Nominatív a akuzatív singuláru stred. rodu dobruo namiesto dnešného dobré
+            - Inštrumentál plurálu typu susedmí, medveďmí, pánmi, prjateľamí
+            - Nominatív a akuzatív singuláru zdravja namiesto zdravie, stavneňja, štesťja
+
+&nbsp;
+# Otázka 8
+## Veta
+Je to základná syntaktická jednotka s uceleným významom, gramaticka usporiadaná, intonačne uzavretá
+
+## Klasifikácia viet podľa zloženia
+- Jednoduchá veta - jeden prisudzovací sklad
+    - Holá - podmet a prísudok
+    - Rozvitá + ostatné vetné členy
+- Súvetie
+    - Jednoduché - 2 prisudzovacie sklady
+        - Priraďovacie - rovnocenné vety spojené priraďovacími spojkami alebo bezspojkovo
+            - Zlučovacie - a, i, aj, ani
+            - Stupňovacie - ba, ba aj, nielen, ale aj
+            - Odporovacie - ale, no, lež, avšak
+            - Vylučovacie - alebo, buď, či
+            - Dôvodné - veď, však, totiž, ináč
+            - Dôsledkové - preto, teda, a tak, a preto
+        - Podraďovacie - jedna veta je nadradená (hlavná), druhá veta je podradená (vedľajšia). Vedľajšia veta: 
+            - Podmetová - Zdá sa, že už nepríde
+            - Prísudková - Nie som ten, za koho ma pokladáš
+            - Predmetová - Vymýšľa, čím by ho nahnevala
+            - Prívlastková - Myslel na domov, ktorý bol teraz ďaleko
+            - Príslovková
+                - Miestna - Tam je dobre, kde sa majú radi
+                - Časová - Keď neprišiel, plakala
+                - Príčinná - Pracoval, aby mohol cestovať
+            - Spôsobová - Urobili to tak, ako im prikázali
+
+## Klasifikácia viet podľa členitosti
+- Jednočlenná veta
+    - Slovesná - Prší
+    - Neslovesná - Atlas sveta
+- Dvojčlenná
+    - Úplná - má vyjadrený podmet - Dievča číta
+    - Neúplná - nemá vyjadrený podmet - Číta
+
+## Klasifikácia viet podľa obsahu
+- Oznamovacia - Zajtra prídem
+- Opytovacia
+    - Zisťovacia - očakávam odpoveď áno alebo nie - Prídeš?
+    - Dopĺňacia - očakávam doplnenie údaja - Kedy prídeš?
+- Rozkazovacia (žiadacia) - využíva rozkazovací spôsob slovesa alebo neurčitok - Stojte!
+- Želacia - využíva oznamovací alebo podmieňovací spôsob slovesa a častice
+- Zvolacia - je variantom predchádzajúcich typov viet
+
+&nbsp;
+# Otázka 9
+## Obohacovanie slovnej zásoby
+- Tvorenie slov
+    - Odvodzovaním
+        - Predponou - vy-letieť
+        - Príponou - vrah-yňa
+        - Predponou aj príponou súčasne - ná-hrob-ok
+        - Prechodom do iného ohýbania - vyletieť (sloveso) - výlet(podstatné meno)
+    - Skladaním
+        - Pravé zložené slová - zložili sa 2 slovotvorné základy - autoškola, celoživotný
+        - Nepravé zložené slová - zložili sa 2 členy syntagmy - vrti-chvost, vedy-chtivý, kníh-kupectvo
+- Tvorenie viacslovných pomenovaní
+    - Združené pomenovania
+        - Viacslovné pomenovania, ktoré pomenúvajú skutočnosť priamo a označujú jeden pojmový obsah  
+        Triedna kniha, ľahká atletika, zoologická záhrada, hnedé uhlie, diplomová práca
+    - Frazeologizmy
+        - Ustálené slovné spojenia, ktoré majú prenesený alebo obrazný význam  
+        Mať rovakú krvnú skupinu, ukázať (niekomu) päty, mať horšiu kožu, byť do vetra
+- Tvorenie obrazných pomenovaní
+    - Pomocou metafory
+        - Prenesenie významu na základe vonkajšej podobnosti s iným predmetom  
+        Hviezda - celebrita, žeriav - stroj
+    - Pomocou metonymie
+        - Prenesenie významu slova na základe vnútroných súvislostí medzi dvoma predmetmi, javmi  
+        Číta Hviezdoslava, chodí v hodvábe, živí sa perom
+- Pretváranie slov - vyjadrenie toho istého lexikálneho významu slova iným spôsobom
+    - Univerbizácia
+        - Zmena viacslovného pomenovania na jednoslovné  
+        Panelový dom - panelák, diplomová práca - diplomovka
+    - Multiverbizácia
+        - Zmena jednoslovného pomenovania na viacslovné  
+        Navštíviť - vykonať návštevu, spotrebitelia - spotrebiteľská verejnosť
+    - Skracovanie (abreviácia)
+        - Skratky, značny, značkové slová  
+        MUDr., Ing., doc., CSc., NR SR, DÚ, SOŠ, Cu, H<sub>2</sub>O, EUR, kW, kg, SĽUK, SLOVNAFT
+- Preberanie slov z cudzích jazykov. V slovenčine hlavne z týchto dôvodov:
+    - Chýba domáci výraz - snowboard, klonovať
+    - Domáci výraz je dlhší - programové vybavenie PC-softvér, podporovateľ-sponzor
+    - Potreba internacionálneho odborného názvu v odbornom prostredí - aorta-srdcovnica
+    - Prestížnosť cudzieho výrazu - párty, šou, imidž
+
+&nbsp;
+# Otázka 10
+## Komunikácia
+Je prenos obrazu informácie medzi účastníkmi komunikácie (komunikantmi) v istej komunikačnej situácií pomocou spoločného systému znakov
+
+## Druhy komunikácie
+- Verbálna (slovná) 
+    - Realizuje sa pomocou jazykových prostriedkov (morfologických, lexikálnych)
+    - Môže byť:
+        - Ústna
+        - Písomná
+- Neverbálna (neslovná)
+    - Realizuje sa pomocou nejazykových prostriedkov (mimika, gestikulácia) 
+    - Človeka častejšie presvedčia neverbálne než verbálne prostriedky, napr.:  
+    Sklopené oči môžu svedčiť o klamstve  
+    Červeň líc môže vyjadrovať neistotu či zahanbenie  
+    Priveľká vzdialenosť medzi hovoriacimi môže signalizovať podriadenosť, odmietanie, antipatiu a pod.  
+&nbsp;
+- Priama
+    - Účastníci sú v priamom kontakte, spätnou väzbou zisťujú, či informácií toho druhého porozumeli správne
+    - Je často spontánna, nepripravená
+    - Nevyžaduje sa prísne dodržiavanie spisovnej normy
+- Nepriama
+    - Účastníci nie sú v tej istej chvíli na tom istom mieste
+    - Dorozumievajú sa nepriamo, sprostredkovane, napr. list
+    - Chýba bezprostredná spätná väzba, a preto dochádza k nedorozumeniam
+    - Súčasný vývoj techniky, SMS, MMS, internet odstraňuje nevýhody nepriamej komunikácie  
+&nbsp;
+- Bežná
+    - Odohráva sa v súkromnej sfére
+    - Účastníci často využívajú nespisovné slová, slangové výrazy, rodinné slová, nedokončené vety, bohatú modalitu viet (opytovacie, rozkazovacie, nedokočené vety)
+    - Vzdialenosť medzi účastníkmi býva malá, getá a mimika sú výrazné
+- Oficiálna
+    - Realizuje sa vo verejnej sfére, napr. v štátnej správe, administratíve, armáde, v prostriedkoch masovej komunikácie
+    - Mala by prísne využívať spisovný jazyk, zdvorilostné formulky, spoločenský odstup, odborné názvy, kancelarizmy a pod
+    - Veľmi úsporne využíva mimiku a gestá
+    - Vzdialenosť medzi účastníkmi je často aj niekoľko metrov  
+&nbsp;
+- Monologická
+    - Komunikačná situácia je stála, hovorí iba jeden človek
+    - Chýba verbálna spätná väzba
+    - Komunikačné roly sa v priebehu komunikácie nestriedajú
+- Dialogická
+    - Komunikujú najmenej dvaja účastníci
+    - Komunikačné roly sa striedajú
+    - Funguje spätná väzba
+    - Reč jednej osoby môže ešte pred ukončením prerušiť druhý účastník komunikácie
+
+## Mimika
+Zrakový kontakt - napr. zdvihnuté obočie, privretie očí  
+Stisnuté čeľuste, zúženie očí, zamračené čelo - môže vyjadrovať hnev, odpor, nesúhlas
+
+## Gestikulácia
+Zosilnené gestá, zatínanie pästí, utieranie rúk, uhládzanie vlasov a šiat
+
+## Paralingvistika
+Spôsob, akým sa s nami niekto rozpráva  
+Pri konfliktoch - monotónny hlas alebo zvýšenie hlasitosti a dynamiky prejavu
+
+## Kinetika
+Zvýšenie pohybu  
+Trasenie rúk a tela, alebo naopak zastavenie pohybu
+
+## Produkcia
+Účes, upravenosť, oblečenie, šperky, parfém  
+Snaha obliekať sa zámerne provokatívne, napr. agresívny účes alebo doplnky
+
+## Haptika
+Dotyky, pri konfliktoch ide o agresívne dotyky tela
+
+## Proxemika
+Komunikácia prostredníctvom vzdialenosti hovoriacich (agresor porušuje teritoriálne hranice - priama fyzická agresia; slabší prejav - odstúpenie od partnera)  
+Zóny proxemiky:
+- Intímna - 0-35cm
+    - Partneri a rodinní príslušníci
+    - Napr. dotyk matky a dieťaťa, objatie milencov, najbližší priatelia
+- Osobná - 35-120cm
+    - Umožňuje ešte dotyk rukou, stretnutie a podanie ruky cudziemu človeku
+    - Pri spoločenských udalostiach, priatelia, známi
+- Sociálna - 120-360cm
+    - Neosobné rokovania, pracovné jednanie, tzv. kobercová vzdialenosť pri pokarhaní
+- Verejná - >360cm
+    - Vytvára sa okolo osôb, ktoré vzbudzujú rešpekt
+    - Udržujeme ju medzi cudzími ľuďmi
+    - Napr. herec na javisku, politik, prednášajúci  
+&nbsp;
+- Veľkosť jednotlivých vzdialenostných zón je individuálna, závisí od:
+        - Veku - deti môžu beztrestne porušovať osobnú zónu dospelých
+        - Osobnosti - introverti majú väčšiu osobnú zónu než extroverti
+        - Kultúry, etnika, náboženstva - južné národy majú osobnú zónu menšiu než severné národy
+        - Zaľudnenosti kraja, v ktorom žije - ľudia na dedine maju väčšiu osobnú zónu ako ľudia v meste
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
