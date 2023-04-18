@@ -4,7 +4,9 @@ Ak je niečo zle, máš námietky, chcel by si niečo doplniť, niečo sa opýta
 
 ## Obsah
 [Ekonomika](Ekonomika.md)  
+[Literatúra](Literatúra.md)  
 [Pozemkové právo, realitná prax](PozemkovéPrávoRealitnáPrax.md)  
+[Slovenský jazyk](SlovenskýJazyk.md)  
 [Účtovníctvo](Účtovníctvo.md)  
 
 &nbsp;  
