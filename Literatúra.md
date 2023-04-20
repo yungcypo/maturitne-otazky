@@ -1103,12 +1103,137 @@ Skladba je rámcovaná sonetmi o krvi, v úvode sú 2 sonety o preliatej krvi, n
 - V 2. časti ho trápi otázka, kto je za všetku túto hrôzu zodpovedný. Tuší, že je to egoizmus, sebectvo jednotlivcov, skupín, národov založený na hmotárstve a prospechárstve (Ech, sebectvo to ..., To ona panovačnosť nadutá). Vojnu odsudzuje ako ľudské zlo, ako strašnú krivdu páchanú na ľudstve. Jeho úvahy sú ostrou obžalobou i nemilosrdným súdom nad spoločnosťou, jej vzdelanosťou a kultúrou (Vzdelanstvo  cha-cha-cha- jak ľudožrút) i nad farizejstvom kresťanstva (Kresťanstvo tvoje – lož je, faloš, mam), ktoré nevedelo zabrániť krviprelievaniu.
 - V 3. časti – v záverečných sonetoch vyslovuje túžbu po mieri i vieru v ľudskejšie a spravodlivejšie usporiadanie spoločnosti ( Ó, vráť sa skoro mieru milený ....zavítaj k nám s ratolesťou olivovou), vyslovuje však aj obavy, že keď sa toto zlo vyvsteká, či víťazi nebudú túžiť po nových územiach a porazení po odvete.
 
+&nbsp;
+# Otázka 8
+*Rozobrať jeden román zo slovenskej alebo svetovej literatúry*
+## Román
+Je rozsiahle epické dielo  
+Dej je zložitý a má vedľajšie deje (epizódne)  
+Okrem hlavnej postavy, ktorá sa môže charakterovo vyvíjať, je v románe veľa vedľajších postáv
 
+Delia sa na:
+- Historické
+    - Spracúvajú dôležité udalosti z histórie
+- Vedecko-fantastické (Sci-fi, Science-fiction)
+    - Čerpajú z poznatkov vedy a techniky
+    - Stvárňujú udalosti z budúcnosti
+- Dobrodružné
+    - Majú pútavý dej, dramatické a nebezpečné situácie
+- Biografické
+    - Vychádzajú zo životopisných prameňov osobnosti z histórie
+- Autobiografické
+    - Autor píše o svojom živote
+- Detektívne
+    - Dejovosť ze založená na zločine a detektívnom pátraní po pýchateľovi
+- Dievčenské
+    - Obsahom určené dievčatám
 
+V čase klasicizmu nahradil **epos** ako najvýraznejšieho reprezantanta epiky  
+Vyznačuje sa pružnou kompozíciou, ktorá umožňuje zachytiť rozsiahlu oblasť javov a udalostí, spoločenských vzťahov a psychologických situácií  
+Od novely a poviedky sa odlišuje tým, že sa dej zložito rozvetvuje a popri hlavnom motíve rozvíja veľa vedľajších motívov  
+Obyčajne zobrazuje dlhšie časové rozpätie a široký okruh životných javov   
+Spojením viacerých románov vznikajú **dilógie, trilógie alebo románové cykly** (napríklad Balzacov cyklus Ľudská komédia)  
+Začiatky románu sú v antických prozaických zábavných rozprávaniach  
+Termín román pochádza zo stredoveku, kedy sa pojmom „conte roman“ (románske rozprávanie) začali v románsky hovoriacich krajinách označovať literárne diela písané v národnom jazyku (namiesto vtedy bežnej latinčiny). V neskorom stredoveku sa ako román označovali rytierske romány, prípadne aj dvorské romány  
+Pôvod skutočného románu je však v poviedkach a novelách vznikajúcich od 14. storočia v Itálii. Tieto sa neskôr začali spájať do jednotného celku - románu  
+Dôležitým druhom románu bol v 16. a 17. storočí tzv. pikareskný román  
+Veľmi významnými, „vzorovými“ románmi v dejinách boli ďalej **Don Quijote de la Mancha** (1605) a Robinson Crusoe.
+V 18. stor. vznikajú prvé psychologické romány  
+V druhej polovici 18. storočia vznikol vývojový román, sentimentálny román, gotický román,filozofický román  
+Prvý román v slovenčine - **René mládenca príhody a skúsenosti** vznikol koncom 18. storočia  
+V 19. storočí nastal rozvoj románovej tvorby. Počas romantizmu vznikol historický román a počnúc realizmom sa román stal dominantným žánrom (o. i. vznik žánrov dobrodružný román, fantastický román, vedeckofantastický román, humoristický román, satirický román, román v listoch, didaktický román, tendenčný román)  
+V 20. storočí, najmä k jeho koncu, sa román ako žáner dostal do krízy (nové typy románu, napr. nový román, ale aj odklon od románu). 
 
+## MARTIN KUKUČÍN - DOM V STRÁNI
+- Hlavná myšlienka - rozpor medzi težakmi (sedliakmi) a statkármi
+- Pre tvorbu Kukučína netypický záver - nie je harmonický
+- Román má dve dejové línie:
+    1. obraz života sedliakov a statkárov v Dalmácii
+    2. láska medzi Nikom Dubčicom a Katicou Beracovou
+- Statkárstvo 
+    - Je hospodársky a morálne na svojom vzostupe
+    - Nie je, ale zanikajúcou triedou, dokáže sa spojiť s nastupujúcou triedou buržoázie a vytvoriť si zázemie (obchodník Zandome sa spája s Nikom Dubčičom s cieľom 
+vybudovať si vinársky obchod)
+    - Predstaviteľkou statkárstva je **šora Anzula** - je hrdá, nekompromisná, vládne tvrdou rukou  
+    Veľmi si váži prácu sedliakov, nesúhlasí s láskou svojho syna Nika s Katicou Beracovou, ale rozhodne sa, že im v tejto láske brániť nebude
+- Sedliactvo 
+    - Predstavuje ho rodina Mate Beraca 
+    - Je tu ukázaný rozklad ich myslenia, mladšia generácia sedliakov je veľmi zhýčkaná a u. nechce tvrdo pracovať na poli
+- **Mate Berac** 
+    - Klasický sedliak, silno pripútaný k pôde, pretože v pôde vidí jedinú obživu
+    - Je to zidealizovaná postava, má všetky znaky kladného hrdinu
+    - Vyznačuje sa múdrosťou, je hlava rodiny, tvrdo dodržiava tradície a nevie pochopiť mladú generáciu, že odchádza za prácou do mesta
+    - Je presvedčený, že medzi ľuďmi sa nedajú zotrieť spoločenské rozdiely
+    - Tvrdí, že každý človek si má nájsť seberovného: *"Nie sme rovnakí, ani nebudeme. Boh dal, že sú mocní, ktorí rozkazujú a sú nízki, ktorí poslúchajú."*
+    - Nesúhlasí so vzťahom svojej dcéry s Nikom Dubčicom, celá rodina si ho váži pre múdrosť a otvorenosť.
+- **Niko Dubčic** 
+    - Mladý statkár, syn šory Anzuly, 
+    - Pokiaľ nepoznal Katicu Beracovú, zviedol nejedno dievča  
+    - Zaujíma sa o jednoduchý ľud, ale neskôr pochopí, že nie je možné zobrať si ženu z nižšej spoločenskej vrstvy a berie si za ženu statkárku **Doricu**
+- **Katica Beracová** 
+    - Najmladšia a najmilšia dcéra Mate Beraca
+    - Je roztopašná, samopašná, márnivá
+    - V láske k Nikovi vidí možnosť, ako preniknúť do sveta pánov
+    - S otcovými názormi nesúhlasí a vyslovuje ostrú kritiku.
 
+- **Obsah** je rozdelený do 4 častí:
+    - 1. vzplanutie lásky medzi Nikom a Katicou
+    - 2. Katicino úsilie vymaniť sa z vlastného sociálneho prostredia a Nikova snaha priblížiť sa sedliactvu
+    - 3. Nikov rozchod s Katicou
+    - 4. smrť Mateho Beraca, ktorá tvorí symbolický epilóg
 
+- Časové rozpätie deja sa zhoduje so striedaním ročných období
+- Jazyk diela - výskyt srbsko-chorvátskych výrazov, veľmi veľa talianskych a francúzskych slov, nárečová slová
 
+## Honoré de Balzac
+- Zakladateľ kritickorealistického románu vo francúzskej literatúre
+- Pochádzal z vidieckej rodiny, právo neštudoval v Paríži, pracoval v notárskej kancelárii
+- Neustále prenasledovaný veriteľmi a úžerníkmi sa sťahoval z miesta na miesto
+- V roku 1850 sa oženil s poľskou šľachtičnou Evelínou Hanskou
+- 18.augusta 1850 zomiera prepracovaný a uštvaný
+- Tvorba:
+    - Cyklus Ľudová komédia 
+        - Viac ako 90 románov a poviedok
+        - Obraz francúzskej spoločnosti 19.storočia
+1. Štúdie mravov
+    - Román Gobseck - vykreslil v ňom typ úžerníka
+    - Romány:
+        -Stratené ilúzie
+        - Lesk a bieda kurtizán  
+        - Otec Goriot
+2. Filozofické štúdie
+    - Šagrénova koža 
+        - Námet z orientálnych rozprávok
+        - Zhubnosť túžby po moci
+3. Analytické štúdie
+    - Fyziológia manželstva
+
+### Otec Goriot
+- Námet: chorobná otcovská láska (trpké rodičovské sklamanie), cynický nevďak dcér
+- Prostredie a doba: Paríž v dvadsiatych rokoch 19.storočia
+- Nadčasové dielo, ktoré poukazuje na narušené ľudské vzťahy, bezcitnosť, pokrytectvo, dvojtvárnosť - vplyv prostredia na morálku
+- Dôležitú úlohu hrajú opisy prostredia a vsuvky, ktoré uvádzajú postavy do deja
+- **Hlavné postavy** 
+    - Otec Goriot - majiteľ továrne na cestoviny, milujúci otec dcér, ktoré ho zničia
+    - Delphina - jeho dcéra, vydá sa za baróna de Nuncigen
+    - Anastasie - jeho dcéra, vydatá za grófa de Restaura
+        - obidve sa za svojho otca hanbia, je im ľahostajný, vyciciavajú od neho všetky peniaze
+    - Eugene de Rastignac - chudobný študent, ktorý prichádza študovať do Paríža právo, aby sa stal vtieravý a nahor sa derie prostredníctvom žien, dosiahne svoj cieľ
+    - Vautrin - bývalý trestanec, galejník, cítil nevraživosť voči sociálnemu útlaku
+    - Pani Vauqerová - majiteľka penziónu, malicherná, falošná, obmedzená
+
+- Penzión pani Vauquerovej v diele Otec Goriot je symbolom sociálneho rozvrstvenia spoločnosti (od šľachty cez buržoáziu až k zločincovi)  
+- Čím vyššie otec Goriot postupuje v budove penziónu, tým je chudobnejší, tým nižšie sa sociálne zaradil 
+- Autor využíva formu on-rozprávania so vševediacim rozprávačom 
+- Znakom realistických diel je predovšetkým opis
+
+- Otec Goriot: *"Človek musí umrieť, aby poznal, čo sú to deti."*
+- presvedčenie autora, že človek nie je ani dobrý, ani zlý, spoločnosť ho nekazí, ale podlieha v dobrom i zlom svojmu spoločenskému prostrediu
+- V penzióne pani Vaquerovej žilo viacero nájomníkov. Medzi nich patril aj otec Goriot, ktorého ostatní považovali za čudáka a posmievali sa mu. Bol to však veľmi dobrý človek, ktorý pre blaho svojich dcér obetoval všetko
+- Medzi ďalších nájomníkov patril Vautrin a Eugene de Rastignac. Vautrin utiekol z väzenia. Láka Eugena na zlé veci. Mladučký študent práv sa dostane za pomoci svojej sesternice pani de Beauséant do vyššej parížskej spoločnosti. Tu sa dozvie všetko o otcovi Goriotovi, ktorý svoju prvú dcéru Delphinu vydal za nemeckého bankára de Nucingen a druhá Anastasie si vzala za manžela grófa Restaud
+- Obidve dcéry ho takmer zapredali. Chodili za ním iba vtedy, keď potrebovali peniaze na splatenie dlhov. Aj to tak, aby ich nikto nevidel. Už od samého začiatku ho zaťovia nemali radi. Eugene zahorel láskou k Delphine, ktorá mu ju opätovala. Zároveň sa stáva i dobrým priateľom Goriota. Delphine sa im snaží zabezpečiť nový domov
+- Celá situácia sa však mení, keď Goriot začne vážne chorľavieť a jeho život je ohrozený. Pri smrteľnej posteli zomierajúceho Goriota bol iba jeho priateľ Eugene. Jeho dcéry sa s ním neprišli ani rozlúčiť. Neboli ani na pohrebe, lebo ich nechceli pustiť manželia. Zaťovia nezaplatili trovy. Všetko to zaplatil jeho dobrý, verný priateľ Eugene
+- Na náhrobok dal vyryť: „Tu odpočíva pán Goriot, otec grófky de Restaud a barónky de Nucingen, pochovaný na trovy dvoch študentov." 
 
 
 
