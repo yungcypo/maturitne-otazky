@@ -193,7 +193,7 @@ Autor našiel námet v Šafárikových Dejinách slovenskej reči a literatúry.
 Slovenská družina je chápaná ako **kolektívny hrdina**, všetci členovia naraz oslovujú cára:  
 *"Všetci sú ako jeden, rastom sú ako jedle, pevní – ani skala, zdalo by sa ti, že ich jedna mater mala"*  
 Slovenskí bojovníci prišli na hranice svojej zeme, aby sa rímskeho cára opýtali, s akým úmyslom k nim zavítal. Básnik ich nazýva orlami, čo je v slovenskej romantickej literatúra symbol slobody a boja za slobodu. (Zleteli orly z Tatry, tiahnu na podolia, ponad vysoké hory, ponad rovné polia) Sú vyslancami svojej zeme, správajú sa hrdo, ale úctivo a prinášajú posolstvo staršiny. Charakterizujú vlastnosti Slovákov a vyzdvihujú mierumilovnosť *(zvyk náš je nie napádať cudzie vlasti zbojom:, Sloven na svojom seje, i žne len na svojom)*, pohostinnosť a hlavne úctu k slobode a rovnosti medzi ľuďmi – je to podpora ideálov revolúcie 1848/1849 – rovnosti medzi ľuďmi (Pravda, bohy vydaná, káže nám Slovanom: pána mať je neprávosť a väčšia byť pánom. A človek nad človeka u nás nemá práva: sväté naše heslo je: Sloboda a sláva!)  
-Odpoveď cára je nadutá, cisár je pán sveta a podmienky bude diktovať Rím. Mladí bojovníci to pokladajú za urážku a hoci sú v menšine, nedovolia urážať svoju zem a začne sa nerovný boj. *(„Mor ho!“ kríkla družina slovenská odrazu, a meč zasvietil v pästi každému víťazu, Mor ho!, kríkla a razom na cára sa metá: To ti na rímsku pýchu slovenská odveta.)*  
+Odpoveď cára je nadutá, cisár je pán sveta a podmienky bude diktovať Rím. Mladí bojovníci to pokladajú za urážku a hoci sú v menšine, nedovolia urážať svoju zem a začne sa nerovný boj. *("Mor ho!" kríkla družina slovenská odrazu, a meč zasvietil v pästi každému víťazu, Mor ho!, kríkla a razom na cára sa metá: To ti na rímsku pýchu slovenská odveta.)*  
 Na záver znie posolstvo národu: Mor ty len, a voľ nebyť, ako byť otrokom  
 V básni sú využité **kontrasty** - rímsky cisár: zbabelý, pyšný; slovenskí junáci: odvážni, hrdí, smelí, obetaví, hoci zomierajú, stávajú sa morálnymi víťazmi (hynú sťa víťazi)
 
@@ -799,7 +799,7 @@ Na Pohľad je to hrdá žena so sebavedomým vystupovaním, svojho muža Paľa m
 - Jedna z najtragickejších próz slovenskej literatúry 
 - Kukučín tu s hlboko ľudským pochopením zobrazil myšlienky a city duševne zaostalého dedinského pastiera husí Ondráša Machuľu 
 - V Ondrášovi Machuľovi priniesol Kukučín do slovenskej literatúry celkom nový typ hrdinu z periférie dedinského života 
-- Ondráš, dedinský pastier husí, i keď mal už 20 rokov, má dušu naivného, bezbranného dieťaťa, nevie rozlíšiť sen od skutočnosti, chce sa iba hrať a snívať o princeznách a zámkoch. Ondráš je nielen duševne zaostalý, „neprebudený“, ale má i znetvorenú tvár a zmrzačené telo. Aj preto jeho otec odišiel z domu – nezniesol pohľad na svojho jediného syna-mrzáka. Ondrášova matka sa čoskoro utrápila na smrť. Po matkinej smrti býval Ondráš u svojej tety (volá ju „totka“). 
+- Ondráš, dedinský pastier husí, i keď mal už 20 rokov, má dušu naivného, bezbranného dieťaťa, nevie rozlíšiť sen od skutočnosti, chce sa iba hrať a snívať o princeznách a zámkoch. Ondráš je nielen duševne zaostalý, "neprebudený", ale má i znetvorenú tvár a zmrzačené telo. Aj preto jeho otec odišiel z domu – nezniesol pohľad na svojho jediného syna-mrzáka. Ondrášova matka sa čoskoro utrápila na smrť. Po matkinej smrti býval Ondráš u svojej tety (volá ju "totka"). 
 - Zuzka Bežanovie, najbohatšie dievča v dedine, sa má onedlho vydať za Jana Dúbravovie. Práve sa pre niečo pohnevala so svojím ženíchom a vtedy jej príde do cesty Ondráš. Ľahkovážna Zuzka sa chce na niekom vyvŕšiť a zvýšiť si trochu sebavedomie – zahrá Ondrášovi divadlo a sľúbi mu, že sa za neho vydá. Ondráš verí, že krásavica Zuzka sa chce stať jeho ženou, a začne sa vážne chystať na sobáš. Jeho komické prípravy sú spočiatku každému na smiech, situácia sa však stáva stále vážnejšou a tragickejšou. 
 - Zuzka sa rozhodne urýchliť svoj sobáš s Janom Dúbravovie. Ondrášovi už vtedy nikto nevládal povedať pravdu. Veril, že u Bežanov sa chystajú na Zuzkinu svadbu s ním. V deň svadby ho teta musí zatvoriť do komory, aby sa nedostal do kostola a do domu Bežanovcov. Ondrášovi sa však podarí sekerou rozbiť závoru, a tak sa predsa dostane na svadbu. Keď vojde do miestnosti, práve vrcholí svadobná zábava. Ondráš si najskôr myslí, že Zuzka sa preto vydala za iného, lebo on neprišiel. Keď však vidí, aká je šťastná, pochopí, že Zuzka miluje v skutočnosti Jana a s ním sa iba zahrávala. Ondráš nevydrží takú veľkú bolesť a zošalie. Vtedy sa roznesie po dome správa, že u Bežanov horí šopa. Svadobčania nájdu pri šope zmäteného Ondráša a v presvedčení, že to on podpálil z pomsty šopu, priviažu ho k plotu. Odviaže ho Zuzka, ktorá si až teraz uvedomí, čo spôsobila. Poviedka sa blíži k tragickému koncu. Ondráš si všimne, že horí aj maštaľ, kde boli husi. Vrhne sa do plameňov, aby ich zachránil. A práve vtedy spadne prepálená povala na maštali a pochová Ondráša aj jeho najmilšiu hus, ktorú držal v náručí. 
 
@@ -839,7 +839,7 @@ Ponoril sa do temnoty s rútiácim vlakom a zatvoril oči…
 Keď ich opäť otvoril – niekoľko krokov od neho, oddelené dvoma cudzími telami, stálo dievča, ktoré práve pristúpilo do podzemnej železnice. Sprvu videl jej jemný profil pod tieňom klobúka, plavú kučeru na trocha pochudnutom líci, svetlo vrhnuté na ľúbeznej lícnej kosti, jemnú líniu nosa a zošpúlenej pery a pootvorené ústa, ktoré sa ešte chveli od náhlivej chôdze.
 Nedívala sa na neho. Ba ešte ani nevedela, že je na svete. A jednako bola v ňom! Držal jej nemý a stúlený obraz v náručí a neodvažoval sa dýchať, aby ju dychom neodvanul…
 Na nasledujúcej stanici nastane panika, do metra sa hrnú ľudia z námestí a ulíc Paríža, počuť výbuchy bômb, zranený, krvácajúci muž sa skotúľa po schodoch metra.
-Vo vozni výkriky hrôzy: „Nemci bombardujú Paríž…!"
+Vo vozni výkriky hrôzy: "Nemci bombardujú Paríž…!"
 Vo všeobecnom vzrušení, ktoré zlialo tieto natlačené telá v jedinú masu, Petrova ruka chytila akúsi ruku, ktorá sa ho ľahko dotýkala. A keď zdvihol oči, videl, že je to Ona.
 Vôbec sa mu nevymanila. Na stisk jeho prstov odpovedali prsty vzrušene, trocha kŕčovite zovreté a potom zostali v jeho dlani, mäkké, horúce, nehybné.
 Nepovedia si ani slova a o dve stanice dievčina vystúpila, Petrovi neskoro napadlo, aby išiel za ňou.
@@ -847,12 +847,12 @@ V Petrovom živote bolo všetko také ako pred pár dňami, nič sa nezmenilo a 
 Jedného dňa, keď prechádzal Seinským nábrežím, ju stretol. Bol na toto stretnutie taký nepripravený, že nestihol zareagovať, obaja sa od prekvapenia začervenali a dievčina zmizla v dave. Stretne ju ešte raz v Luxembursky záhrade.
 Kráčal s pohľadom upretým na zem; a náhle sťaby oňho mäkko zavadil krídlami letiaci holub, mal pocit, že vôkol neho preletel úsmev. Obrátil sa a uzrel, že práve prešiel okolo nej. A priam v tej chvíli aj ona idúcky obrátila k nemu hlavu a s úsmevom na neho pozrela.
 Jedia spolu Petrov olovrant, hovoria o Luciiných kresbách a sú šťastní:
-Ked prišli domov, pozreli sa do zrkadla na neba, ako pozeráme na priateľa, s očami plnými lásky. A hovorili si: „Jeho pohľad, jej pohľad spočinul na tebe."
+Ked prišli domov, pozreli sa do zrkadla na neba, ako pozeráme na priateľa, s očami plnými lásky. A hovorili si: "Jeho pohľad, jej pohľad spočinul na tebe."
 Majú to, čo nemali pred pár dňami – zajtrajšok. Stretávajú sa častejšie. Peter je zhrozený, že Luciina matka ako žena musí pracovať v továrni na zbrane, ktorými sa zabíja. Hovorí o svojich plánoch, Lucia nečaká od života vela:
 – Chcela by som…(zaváhala). Chcela by som aspoň trochu šťastia…
 (Boli teraz celkom blízko seba.)
 Pokračovala:
-– Je to azda priveľa, čo žiadam…? Často mi hovorili, že je to sebecké; a ja sama si niekedy hovorím: „Na čo má vlastne človek právo…? Keď tak vôkol seba vidím toľko biedy, toľko útrap, človek sa naozaj neodvažuje dožadovať niečoho… No moje srdce jednak sa dožaduje a volá: „Áno, mám právo, mám právo na trochu, na byľku šťastia…"
+– Je to azda priveľa, čo žiadam…? Často mi hovorili, že je to sebecké; a ja sama si niekedy hovorím: "Na čo má vlastne človek právo…? Keď tak vôkol seba vidím toľko biedy, toľko útrap, človek sa naozaj neodvažuje dožadovať niečoho… No moje srdce jednak sa dožaduje a volá: "Áno, mám právo, mám právo na trochu, na byľku šťastia…"
 Ich vzťah sa prehlbuje a zalúbenosť je čoraz intenzívnejšia:
 – Ó, moje drahé telo! Ó, moje srdce! Chcel by som držať vaše nôžky v dlaniach, na pery by ich pritisol, od samej lásky chcel by som vás celú zjesť.
 Nepohla sa, no aj ona náhle hlasom priam takým vrúcnym a tichým ako Peter vzrušene riekla:
@@ -876,7 +876,7 @@ Peter si myslí, že matka a dcéra sa musia mať veľmi rady, bývajú na samot
 – Clicete povedať, že aj vaše matka alebo vy ste sa zmenili.
 – Všetci, – opakovala Lucia.
 – V čom?
-– Nemožno to povedať. No cítiť, že všade, medzi známymi i v rodinách, vzájomné vzťahy už nie sú také ako kedysi. Nie ste si už istý ničím, ráno si poviete: „Čoho sa len dožijem do večera? Poznám to ešte?"
+– Nemožno to povedať. No cítiť, že všade, medzi známymi i v rodinách, vzájomné vzťahy už nie sú také ako kedysi. Nie ste si už istý ničím, ráno si poviete: "Čoho sa len dožijem do večera? Poznám to ešte?"
 Žijete ako na plávajúcej doske, ktorá môže každú chvíľu stroskotať.
 Rozprávali sa, kým sa nezotmelo, Peter vyšiel z domu a v okne uvidel tvár Lucie:
 Vrátil sa k obloku a pritisol pery na sklo. Ich pery sa bozkali cez sklenú tabuľu. Potom Lucia cúvla do tmy izby a záclona spadla.
@@ -890,13 +890,13 @@ Luciina matka raz do týždňa spávala u svojej priateľky, Peter a Lucia mali 
 – Ty moja láska! – riekli si obaja.
 – Znovu sa zastavili.
 – Kedy budem tvojim? – spýtal sa Peter.
-(Nebol by sa opovážil spýtať: „Kedu budeš mojou?")
+(Nebol by sa opovážil spýtať: "Kedu budeš mojou?")
 Lucia si to všimla a dojalo ju to.
 – Drahý môj, – odvetila mu..:– Čoskoro! Nesúr! Netúžiš po tom väčšmi ako ja…! Zostaňme ešte nejaký čas takto… je to krásne…! Ešte tento mesiac, už do konca…!
 – Do Veľkej noci? – spýtal sa.
 (Veľká noc bola tohto roku posledného marca.)
 – Áno, do Vzkriesenia.
-Blížila sa Kvetná nedeľa, Nemci zosilňovali tlak na Paríž. Peter a Lucia si vyjdú do lesa. Lucia sa s plačom zdôverí, že jej matka čaká diéta. Myslia spoločne na niečo, čo nahlas nevyslovia: „Ešte šťastie, že čoskoro umrieme…! Najhroznejšie by bolo stať sa takými, ako sú tí ľudia, ktorí sú pyšní, že sú ľuďmi, že ničia, prznia…"
+Blížila sa Kvetná nedeľa, Nemci zosilňovali tlak na Paríž. Peter a Lucia si vyjdú do lesa. Lucia sa s plačom zdôverí, že jej matka čaká diéta. Myslia spoločne na niečo, čo nahlas nevyslovia: "Ešte šťastie, že čoskoro umrieme…! Najhroznejšie by bolo stať sa takými, ako sú tí ľudia, ktorí sú pyšní, že sú ľuďmi, že ničia, prznia…"
 Peter sa stretne so svojimi priateľmi. Jaeques, židovský chlapec náruživej povahy, bol najzanietenejší za vojnu; Antoine, pohodlný meštiansky chlapec, pôjde s prúdom, nechce sa mu byt iným; Bernard, z bohatej republikánskej rodiny, bol ultrarevolučný, nenávidel vojnu. Claude, štipendista, je zahľadený do seba a iní ho nezaujímajú.
 Na Zelený Štvrtok pršalo, boli každú chvíľu spolu. Ak nemali kam ísť, sedeli na múriku pri sebe i v daždi.
 Cítia k sebe lásku, ktorá ich svojou silou prekvapuje, nevedia vypovedať jeden druhému, prečo sa milujú. Ešte dva dni a je Veľkonočná nedeľa – deň, keď si budú patriť. Dohodnú sa, že na Veľký piatok zájdu do Chrámu sv. Gerváza, aby si vypočuli krásnu hudbu.
@@ -1032,12 +1032,12 @@ Aj tu zasahujú do boja bohovia – Poseidon a Aténa, o predchádzajúcich udal
 
 *Keď však už Kyklópovi do hlavy udrelo víno,*
 *vtedy som sa ujal slova a lichotnou rečou som riekol:*
-*„Kyklópos, pýtaš sa na moje meno. Nuž ja ti ho teda*
+*"Kyklópos, pýtaš sa na moje meno. Nuž ja ti ho teda*
 *poviem. A ty mi jak hosťovi daj ten dar, čo si sľúbil.*
 *Volám sa Nikto a týmto menom ma volajú stále*
-*rodičia, otec a matka, a všetci druhovia moji.“*
+*rodičia, otec a matka, a všetci druhovia moji."*
 *Takto som vravel a človek ten krutý mi zas na to riekol:*
-*„Vedz, teda, Nikto, že teba zjem napokon po tvojich druhoch,*
+*"Vedz, teda, Nikto, že teba zjem napokon po tvojich druhoch,*
 *ostatných skôr. To dostaneš odo mňa miesto daru.*
 
 
@@ -1058,7 +1058,7 @@ Jeho **tvorbu** delíme na lyriku, epiku – krátku, dlhú, drámu
     – Cyklus 21 básní
     - Autor sa zamýšľa nad záhadami vesmírneho sveta, od zloby a neprávosti pozemského života chce uniknúť do sveta poézie, ale spoznáva, že jeho miesto je na zemi, v strede spoločenských zápasov
 - Letorosty I. 
-    – V prvom cykle vyslovuje realistický  estetický program svojej vlastnej tvorby v básni Dávam z úprimnosti duše – naznačuje cieľ tvorby, nenávidí klamstvo, nepravdu, prázdne reči, rozhodne sa písať z úprimnosti duše („mne odporným, čo prírode sa prieči, len pravdy si ctím prostý obličaj“). Báseň Ó, mládež naša – vyjadruje posolstvo básnika mládeži, vyzdvihuje u mládeže zápal, prenikavosť pohľadu, jas duše a odvahu, to všetko treba využiť v usilovnej práci, v príprave pre život („Ó, mládež, drž sa verne ideálu!“)
+    – V prvom cykle vyslovuje realistický  estetický program svojej vlastnej tvorby v básni Dávam z úprimnosti duše – naznačuje cieľ tvorby, nenávidí klamstvo, nepravdu, prázdne reči, rozhodne sa písať z úprimnosti duše ("mne odporným, čo prírode sa prieči, len pravdy si ctím prostý obličaj"). Báseň Ó, mládež naša – vyjadruje posolstvo básnika mládeži, vyzdvihuje u mládeže zápal, prenikavosť pohľadu, jas duše a odvahu, to všetko treba využiť v usilovnej práci, v príprave pre život ("Ó, mládež, drž sa verne ideálu!")
 - Letorosty II. 
     – Básne druhého cyklu sú poznačené osobným smútkom za stratou blízkych príbuzných, zomrela mu matka, otec, neskôr i brat, zostali dve siroty o ktoré sa básnik staral– báseň Čierny rok. Práca je podľa neho trvalá hodnota v živote človeka a stavia ju do protikladu kolobehu života a smrti
 - Letorosty III. 
@@ -1084,9 +1084,9 @@ Jeho **tvorbu** delíme na lyriku, epiku – krátku, dlhú, drámu
     - Potom nasleduje 15 spevov 
     - Na konci je lyrická báseň **Zbohom**, v ktorej sa básnik lúči s lesmi: *"Pozdravujem vás, lesy, hory, pri odobierke nastokrát!"*
 - Strhujúci príbeh lásky a tragédie mladého **hájnika Miška a jeho ženy Hanky**, po smrti starého hájnika Čajku hájnické miesto po ňom dostane jeho syn, ktorý si do hájovne privedie aj švárnu ženu Hanku
-- Ich život plynie priam idylicky, Michal si vykonáva svoje hájnické povinnosti, Hanka sa vzorne stará o domácnosť, v nedeľu sa vedno vyberú do kostola, sú šťastní, no z panskej lavice sa na Hanku vytrvalo upierajú „čiesi oči vlčie“, nie je to nik iný ako mladý šľachtic, zhýralý sveták **Artuš Viláni**, syn Michalovho pána, majiteľa lesov
+- Ich život plynie priam idylicky, Michal si vykonáva svoje hájnické povinnosti, Hanka sa vzorne stará o domácnosť, v nedeľu sa vedno vyberú do kostola, sú šťastní, no z panskej lavice sa na Hanku vytrvalo upierajú "čiesi oči vlčie", nie je to nik iný ako mladý šľachtic, zhýralý sveták **Artuš Viláni**, syn Michalovho pána, majiteľa lesov
 - Hanka odmieta Artušovo dvorenie, vyhýba sa mu, no ten neustupuje, zosnuje ľstivý plán, v Michalovom revíre usporiada poľovačku a všetko pripraví tak, aby sa ho zbavil, najskôr Michala poníži, vysolí mu zaucho, potom ho aj s ostatnými honcami pošle naháňať jeleňa a sám sa zakráda k hájovni, kde sa chce násilím zmocniť Hanky
-- Mladá žena ostala ako skamenená, „zabudla uvítania vďak, keď zrak jej úšker diabla zočil, stál pred ňou vlkodlak a okáľama žhavo stočil“, nedokáže ho však zastaviť, „z klina schvatla záražec“ a v sebaobrane ho zabije, keď Michal hnaný zlým tušením príde do hájovne, Artuš je už mŕtvy, okamžite sa rozhodne zobrať vinu na seba a Hanku zväzuje prísahou, aby nikdy nevyjavila pravdu
+- Mladá žena ostala ako skamenená, "zabudla uvítania vďak, keď zrak jej úšker diabla zočil, stál pred ňou vlkodlak a okáľama žhavo stočil", nedokáže ho však zastaviť, "z klina schvatla záražec" a v sebaobrane ho zabije, keď Michal hnaný zlým tušením príde do hájovne, Artuš je už mŕtvy, okamžite sa rozhodne zobrať vinu na seba a Hanku zväzuje prísahou, aby nikdy nevyjavila pravdu
 - Michala uväznia, čaká ho súd, Hanka sa uchýli k rodičom, ale je nešťastná, otec jej neustále vyhadzuje na oči Michalovu vinu, nezvládne to, pomiatne sa, odchádza z domu a blúdi po okolí
 - V deň súdu sa jej podarí vniknúť do súdnej siene a prizná sa, že ona zabila Artuša, súd Michala oslobodzuje
 - Po nejakom čase Michal zachráni koč starého Vilániho pred zrútením sa do rozvodnenej rieky, vtedy im obom Viláni odpustí, Michal s Hankou sa vrátia do svojej hájovne a do ich života sa opäť vráti šťastie a pokoj, Hanke sa narodí dieťa a vyzdravie
@@ -1134,10 +1134,10 @@ Od novely a poviedky sa odlišuje tým, že sa dej zložito rozvetvuje a popri h
 Obyčajne zobrazuje dlhšie časové rozpätie a široký okruh životných javov   
 Spojením viacerých románov vznikajú **dilógie, trilógie alebo románové cykly** (napríklad Balzacov cyklus Ľudská komédia)  
 Začiatky románu sú v antických prozaických zábavných rozprávaniach  
-Termín román pochádza zo stredoveku, kedy sa pojmom „conte roman“ (románske rozprávanie) začali v románsky hovoriacich krajinách označovať literárne diela písané v národnom jazyku (namiesto vtedy bežnej latinčiny). V neskorom stredoveku sa ako román označovali rytierske romány, prípadne aj dvorské romány  
+Termín román pochádza zo stredoveku, kedy sa pojmom "conte roman" (románske rozprávanie) začali v románsky hovoriacich krajinách označovať literárne diela písané v národnom jazyku (namiesto vtedy bežnej latinčiny). V neskorom stredoveku sa ako román označovali rytierske romány, prípadne aj dvorské romány  
 Pôvod skutočného románu je však v poviedkach a novelách vznikajúcich od 14. storočia v Itálii. Tieto sa neskôr začali spájať do jednotného celku - románu  
 Dôležitým druhom románu bol v 16. a 17. storočí tzv. pikareskný román  
-Veľmi významnými, „vzorovými“ románmi v dejinách boli ďalej **Don Quijote de la Mancha** (1605) a Robinson Crusoe.
+Veľmi významnými, "vzorovými" románmi v dejinách boli ďalej **Don Quijote de la Mancha** (1605) a Robinson Crusoe.
 V 18. stor. vznikajú prvé psychologické romány  
 V druhej polovici 18. storočia vznikol vývojový román, sentimentálny román, gotický román,filozofický román  
 Prvý román v slovenčine - **René mládenca príhody a skúsenosti** vznikol koncom 18. storočia  
@@ -1233,16 +1233,119 @@ vybudovať si vinársky obchod)
 - Medzi ďalších nájomníkov patril Vautrin a Eugene de Rastignac. Vautrin utiekol z väzenia. Láka Eugena na zlé veci. Mladučký študent práv sa dostane za pomoci svojej sesternice pani de Beauséant do vyššej parížskej spoločnosti. Tu sa dozvie všetko o otcovi Goriotovi, ktorý svoju prvú dcéru Delphinu vydal za nemeckého bankára de Nucingen a druhá Anastasie si vzala za manžela grófa Restaud
 - Obidve dcéry ho takmer zapredali. Chodili za ním iba vtedy, keď potrebovali peniaze na splatenie dlhov. Aj to tak, aby ich nikto nevidel. Už od samého začiatku ho zaťovia nemali radi. Eugene zahorel láskou k Delphine, ktorá mu ju opätovala. Zároveň sa stáva i dobrým priateľom Goriota. Delphine sa im snaží zabezpečiť nový domov
 - Celá situácia sa však mení, keď Goriot začne vážne chorľavieť a jeho život je ohrozený. Pri smrteľnej posteli zomierajúceho Goriota bol iba jeho priateľ Eugene. Jeho dcéry sa s ním neprišli ani rozlúčiť. Neboli ani na pohrebe, lebo ich nechceli pustiť manželia. Zaťovia nezaplatili trovy. Všetko to zaplatil jeho dobrý, verný priateľ Eugene
-- Na náhrobok dal vyryť: „Tu odpočíva pán Goriot, otec grófky de Restaud a barónky de Nucingen, pochovaný na trovy dvoch študentov." 
+- Na náhrobok dal vyryť: "Tu odpočíva pán Goriot, otec grófky de Restaud a barónky de Nucingen, pochovaný na trovy dvoch študentov." 
+
+## Ladislav Ballek
+Predstaviteľ modernej slovenskej prózy  
+Po roku 1989 pôsobil niekoľko rokov ako poslanec Národnej rady SR  
+Novely Útek na zelenú lúku, Biely vrabec - oživil v nich tradíciu slovenskej lyrizovanej prózy  
+Južná pošta - zbierka krátkych próz, v ktorých dokumentuje postupné dozrievanie a intelektuálny rast mladého chlapca, jeho poznávanie sveta dospelých
+
+### Pomocník
+Román s podtitulom Kniha o Pálanku  
+Hlavnou hnacou silou konania postáv sú honba za majetkom, náruživosti a vášne  
+**Dej** románu sa odohráva na južnom Slovensku v mestečku Palánok, ktoré sa spamätáva z traumy 2. svetovej vojny  
+Obyvatelia mestečka nespomínajú na hrozivú minulosť, ale všetky svoje sily sústreďujú na budúcnosť  
+V Palánku prepuká život so všetkými náruživosťami, chuťami, farbami, vášňami  
+Najsilnejšou potrebou ľudí sa stáva potreba nahradiť to, čo im zobrala vojna. V prvom rade preto napĺňajú základné fyziologické a psychické potreby: jesť a milovať.Honba za jedlom, zábavou a bohatstvom sa stáva zmyslom každodennej existencie  
+"Byť" v povojnovom Palánku znamená "mať"
+
+Kompozícia - skladá sa z 12 kapitol  
+Jazyk: dolniacke a horniacke nárečie, maďarizmy  
+**Hlavná myšlienka** - devastácia spoločenských a medziľudských vzťahov a hodnôt, honba za majetkom  
+Sú tu podrobné opisy krajiny a jednotlivých postáv  
+Zrážka vedie ku katastrofe (rozpad manželstva, krach Riečanových aktivít, ale aj podnikateľskej aktivity Volenta)
+
+Konfrontácia 2 odlišných postojov k životu:
+- Riečan (asketizmus) ↔ Lančarič (podnikateľský duch) 
+- Minulosť (Riečan – Horniaky) ↔ prítomnosť (Volent – dravosť)
+
+**Hlavné postavy**: 
+**Štefan Riečan** - bývalý partizán, mäsiar, chorý na srdce, hĺbavý, čestný, moralista, tichý človek, nevie sa presadiť v novom prostredí, nespoločenský, čudák: *"...túžil po znášanlivosti. Odjakživa bol trochu čudák, na mäsiara vari až priveľmi citlivý človek, ktorého sa dotkla každá maličkosť,..."*  
+Pre svoju dcéru chcel len to najlepšie: *"...musí on svoj svet spravovať tak, aby mu obchod prosperoval, viesť ho nie až priveľmi okato, radšej tak stredne, aby jeho dom stál za pozornosť aj tej najlepšej spoločnosti. A do tej by svoju dcéru Evičku rád dostal. Toto bol jeho sen. Iný vlastne ani nemal. O seba nedbal, na ženu v týchto súvislostiach nemyslel."*  
+O sebe si myslí, že *"je nič, iba taký maličký mravec so slabým srdcom, malý lístoček, ktorý mocne a energicky ženú po bludných ľudských cestách cudzie sily."*  
+**Eva Riečanová (žena)**: *"...mala priam krásnu tvár, akoby starostilo pestovanú a nezvyčajne modré oči, ibaže akési prísne hnevlivé a chladné. ...platila za priveľmi praktickú, vážnu a odmeranú dievku a navyše pochádzala z najchudobnejšej rodiny v dedine."* 
+**Eva Riečanová (dcéra)**: *"...bola pekná, ale na matku sa neponášala, podala sa skôr na otca." K otcovi sa správala odmerane a vyhýbala sa mu, lebo jej odohnal frajera: "Riečan nechápal, prečo sa jeho dcéra ešte vždy voči nemu tak kruto spáva, veď svoje previnenie už toľkokrát odčinil, a predsa ním pohŕda, akoby jej ani otcom nebol."*
+**Volent Lančarič**: pomocník, sirota, mladý, priebojný, prefíkaný a vynaliezavý chlap, obchodník: *"Lančarič bol, ako sa onedlho ukázalo, nielen znamenitý mäsiar, ale aj široko-ďaleko preslávený obchodník. Keď sa s niekým začal jednať, zbehlo sa na diváky pol trhu alebo jarmoku, lebo to nebolo kupčenie, lež veľkolepé divadlo."*  
+Chce niečo dosiahnuť, nechce byť naveky len pomocníkom: *"Nikto nevie lepšie obchodovať ako on! Jemu sa každý sen splní, každé jedno predsavzatie dotiahne do konca. Musí byť rozumný, chladný, musí myslieť iba na obchod! Teraz je konečne na rade on, on, on, Volent Lančarič, doteraz každému len sluha!"*
+
+**Dej**:
+Potom ako Štefanovi vyhorel na Horniakoch dom, spolu so svojou rodinou prichádza na Dolniaky, do Palánku (Šahy) za lepším životom. V tomto novom prostredí, ďaleko od domova a najmä od ťaživých vojnových spomienok, chce Riečan nájsť stratenú dôstojnosť a sebaúctu. Palánok je však preňho príliš živočíšny. Poctivý, skromný prisťahovalec sa so svojimi pevnými mravnými zásadami nehodí do tejto spoločnosti. Vedome nechce zúžiť svoje obzory iba na "mať". Ako bývalému partizánovi a bezúhonnému občanovi mu bolo pridelené mäsiarstvo na Obchodnej ulici aj s pomocníkom. Pri preberaní mäsiarstva ho úradník navádza, aby odtiaľ vyhodil Volenta, pretože to nie je dobrý človek a mal opletačky s políciou.   
+Riečan si ho však nechá, lebo chce mať pokoj. Volent sa mu za to patrične odmenil. Po príchode s rodinou je jatka čistá a pripravená na otvorenie. Vďaka Volentovým kšeftom za pol roka veľmi zbohatli. Vtedy mäsiarstva patrili k najviac vyhľadávaným obchodom. Po nejakom období Volent vybavil majstrovi výhodnú kúpu jednej vily na Parkovej ulici. Matka a dcéra sa rýchlo v meste udomácnili: *"Prišli sem obidve v krojoch, ale ani týždeň ich tu nenosili, zaraz si aj vrkoče dali ostrihať, chodia ku kaderníkovi, na svoju reč dbajú...Mesto, obchod...Čo len nenarobia také peniaze!"* Volent majstrovi vždy predostrel už vopred dohodnuté "nie veľmi čisté" obchody: *"Lančarič šiel definitívne dohodnúť zajtrajšiu cestu na Horniaky. Spolčoval sa teraz s bratmi Šuškovcami, priekupníkmi, ktorí po okolí vykupovali dobytok, ošípané, ale aj hydinu a divinu. Na vlastnom nákladnom aute vozili svoj tovar na Horniaky, kde ho predávali tamojším mäsiarom. Volent tvrdil, že sa dobre zhodnú, nemusia sa teraz báť vzájomnej konkurencie."*   
+Zastával teóriu, že dariť sa im bude iba vtedy, keď budú pred všetkými obchodníkmi o krok vpred. Takto nadobudli nákladné auto, mohli si dovoliť slúžku a do jatky si zobrali aj učňa. Avšak aj keď mali veľa peňazí a Riečanky sa dostali medzi vyššiu palánsku spoločnosť, Riečan sa tomuto životnému štýlu nikdy nepodriadil. Po určitom čase sa Riečanovci odcudzili a stará Riečanka si viac začala všímať Volenta. Jednej noci, keď sa opitý Lančarič vracal domov, zaplietol sa do bitky so žandármi. Riečanovci sa zľakli vyšetrovačiek, ale potom začali konať. So šikovným advokátom a s Riečankinou pomocou (vyspala sa so sudcom) obišiel len s peňažnou pokutou a musel si odsedieť 3 týždne vo väzení. Na krátky čas sa Volent vzdal svojich špinavých obchodov a život sa na chvíľu vrátil do starých koľají. Po dlhom zvádzaní nakoniec Volent podľahol Riečanke a stal sa jej milencom: *"Darmo z jej osídiel uniká...Uniká, uniká... Ešte väčšmi sa do nich zamotáva! Keby len do vydatej, ale rovno do ženy svojho majstra!"* Dohodli sa, že mäsiarstvo budú viesť oni dvaja a muž zostane len pomocníkom. Keď Riečan zistil, že ho Eva podvádza, začal žiť utiahnutým životom a vyhýbal sa Volentovi. Riečan to riešil tichým zúfalstvom, pasívne sa poddával blížiacej sa katastrofe. Až potom, keď sa stal náhodným svedkom vrcholne nemravných scén vo vlastnom dome, v ktorých sa nepatrične správala jeho žena i dcéra, rozhodol sa odísť domov na Horniaky. Do Palánku chcel priviesť svoju matku, aby vychovávala dcéru a brata, ktorý mal nahradiť Volenta.  
+Po odchode na Horniaky mu príde list od Evy, v ktorom mu oznamuje, že sa na Dolniaky už nemá vracať a že je tam nežiadúci. Neskôr mu poslala balík s vecami a peniaze. O niekoľko dní odišiel do Hronca za kamarátom, kde znova nachádza stratený pokoj a dúfal, že sa mu časom ozve jeho dcéra Eva. Odvtedy o Palánku nič viac nepočul. Po pár mesiacoch ho vyhľadal Volent, ktorý mu ozrejmil situáciu, do ktorej sa dostal po jeho odchode. Riečanka si našla nového milenca a Volenta odsunula na druhú koľaj. Lančarič Riečana nahováral, aby sa vrátil do Palánku a narobil tam poriadky, ale on odmietol. Po roku sa Riečan dozvedá, že jeho dcéra sa z pomsty k matke vydala za Volenta a mali dve deti. Začalo znárodňovanie, prišli o vilu aj mäsiarstvo. Riečanka odišla s novým bohatým milencom do Čiech a nikto už o nej nepočul. Lančarič začal pracovať v štátnom mäsiarstve, v ktorom tiež robil špinavé obchody. 
+Avšak teraz toľko šťastia nemal, prišli mu na to a dostal osem rokov väzenia. Eva musela odísť pracovať do Čiech na majer. Tam ju našiel otec, ktorý po nej pátral. Bola zanedbaná, bez zubov, o ktoré prišla v tehotenstve. Vzal si ju k sebe spolu s deťmi sa o ne staral.
+
+**Záver**: pričinením svojich najbližších Riečan postupne prichádza o všetko: o rodinu, pomocníka, mäsiarstvo. Ostáva však mravným víťazom. Žiadna ľudská nespravodlivosť ho nedokáže odviesť od zásad, ktorými sa riadil celý život.  
 
 
+## Wiliam Styron 
+Americká literatúra - prozaik a esejista
 
+### Sophiina voľba 
+Román o osudoch **Sophie Zawitowskej** počas vojnových rokov v Poľsku (2. sv. vojna) a po vojne v Amerike, kam sa dostala ako bývalá väzenkyňa koncentračného tábora na doliečenie  
+Názov románu je symbolický a je zašifrovaný v podtexte otrasnej scény z koncentračného tábora, keď sa Sophia musí rozhodnúť, ktoré dieťa pošle do plynu, aby druhé mohlo žiť  
+Autor sa v diele zameriava na psychiku ľudí, ktorí prežili vojnu a koncentračné tábory 
 
+Sophia dostala v živote možnosť voliť trikrát
+- Prvýkrát sa mala rozhodnúť, či sa zapojí do poľského odboja proti fašizmu, ale kvôli deťom sa nezapojila
+- Druhýkrát sa rozhodovala, ktoré dieťa pošle do plynu 
+- Tretíkrát sa rozhodovala v momente, keď chcela spáchať samovraždu, lebo nedokázala žiť v tieni smrti svojich detí
 
+Medzi hlavné postavy románu patrí aj **Stingo** – rozprávač príbehu. V uvedenej postave vystupuje sám autor  
+Dielo je veľkou drámou ľudského utrpenia vo viacerých rovinách – Sophia sa musí vyrovnávať so smrťou svojich detí, so strašnou minulosťou, **Nathan** so svojou chorobou a Stingo s protirečením medzi svojimi umeleckými ambíciami a nenaplneným citovým vzťahom k Sophii
 
+Román, ktorého dej sa odohráva v dvoch časových líniách:
+- Minulosť – vojna, Osvienčim – koncentračný tábor, Poľsko
+- Prítomnosť – asi 2 roky po vojne v USA, NewYork	 
+  
+V prvej časti sa čitateľ zoznamuje so Stingom, ktorý má 22 rokov a je rok 1947. Pracuje vo vydavateľstve a robí posudky na diela, ktoré sa nedajú čítať. Keď vo vydavateľstve dostal výpoveď, presťahoval sa do lacnejšej štvrte do ružového domu 60-ročnej Yette Zimmermanovej. V dome býva i Nathan a Sophia, ktorí sa každý deň vášnivo milujú, ale na druhej strane je Nathan k Sofii veľmi krutý a Stingo to nechápe  
+Sophia sa narodila v Krakove, jej mama bola profesorkou hudby (klavír) a jej otec bol právnik a tiež profesor. Doma hovorili po nemecky. Sophia sa vydala za Kazimierza = **Kazik** a plánovali si, že spolu pôjdu študovať do Viedne, no v roku 1939 prišli Nemci a odvliekli otca i manžela. Sophia sa presťahovala do Varšavy. V marci roku 1943 sa dostala do väzenia, pretože ju gestapo prichytilo, ako pašuje mäso = šunku pre svoju mamu, ktorá mala tuberkulózu, no svoju mamu už nikdy nevidela. 1. apríla 1943 Sophia prichádza do koncentračného tábora spolu so **synom Janom** (10 rokov) a **dcérou Evou** (7 rokov), v tábore bola 20 mesiacov. V Osvienčime boli 2 oddelené tábory – miesto, ktoré sa volalo Auschwitz – tam prebiehala otrocká práca a Brzezinka – toto miesto slúžilo na vyhladzovanie  
+Po skončení vojny sa Sophia dostala až do USA, kde sa zoznámila s Nathanom, keď odpadla v knižnici a on sa o ňu postaral, odvtedy sú spolu. Stingo sa s nimi zbližuje, no ešte sa nedozvedá, čo Sophia prežila v koncentračnom tábore. Prvá časť končí odchodom Nathana a Sophie z ružového domu a Nathan kričí po Sophii, aby mu vysvetlila, prečo práve ona prežila Osvienčim.
+ 
+V druhej časti románu sa Stingo dozvedá celú pravdu o Sophii  
+Sophii popravili manžela i otca. Mohla sa zapojiť do poľského odboja, ale zo strachu o osud svojich dvoch detí, tak neurobí. Je to jej 1. voľba, kedy si zdanlivo volí bezpečnejší život. Osud si s ňou zahrá a ona sa dostáva do koncentračného tábora. Už po príchode do tábora má voliť druhý krát – z rozmaru podnapitého esesáka – má sa rozhodnúť, ktoré dieťa pošle do plynu a ktoré zachráni. Rozhodne sa pre dcéru Evičku, lebo bola slabšia a chorľavejšia. V tábore pravdepodobne zahynul aj jej syn Ján  
+Sophia pracovala ako pisárka v koncentračnom tábore u **Hőssa**, lebo vedela po nemecky i po poľsky a prosila Hőssa, aby ešte raz mohla vidieť svojho syna Jana a aby ho zaradil do programu Lebensborn. Išlo o program, v ktorom sa poľské deti mali stať nemeckými a odísť z tábora s novým menom. Hőss sľúbil, že Sophia uvidí svojho syna, no nikdy sa tak nestalo. Sophia peklo koncentráku prežije, ale za cenu vedomia, že sa nevedela vzoprieť zlu, za cenu pocitu viny a výčitiek. V spomienkach sa jej zjavuje odbojárka Wanda, ktorú fašisti v tábore umučili  
+Odchádza do USA, kde sa jej ujme Nathan Landau, ktorý je duševne chorý (paranoidný schizofrenik) a je narkoman. Po tragickom vzťahu plnom šťastia i utrpenia a po krátkom intermezze so Stingom sa Sophia vracia k Nathanovi, aby spoločne odišli z tohto sveta, ktorý jej pripravil toľko utrpenia. Nájdu ich v objatí a otrávených kyanidom sodným  
 
+Stingove slová na záver:  
+*Osvienčim nám naďalej zostane nevysvetliteľný. Najvýstižnejšia definícia, akú som kedy o Osvienčime počul, vlastne nie je definícia, ale odpoveď.*
 
+Pochybovačná otázka:  
+*"Povedzte mi, kde bol v Osvienčime boh?"*  
+A odpoveď:  
+*"A kde bol človek?"*  
 
+## Joseph Heller
+Americký spisovateľ, priniesol prvky absurdnej literatúry do americkej prózy  
+Počas 2.sv. vojny slúžil ako pilot bombardéra u letectva  
+V knihe o osudoch Yossariana a jeho letky bombardérov útočiacich na Taliansko vychádza Heller z vlastných skúseností  
+Svojou knihou predznamenal to, čo v americkej kultúre naplno otvorila vietnamská vojna  
+
+### HLAVA XXII
+Román, satirické a protivojnové dielo  
+Uvádza ho motto: *"Hlave XXII neprešiel nikto cez rozum"*  
+Základným výstavbovým prvkom románu je humor, satira, irónia, nonsens, čierny humor a absurdita  
+Autor sa v ňom snažil čo najvernejšie zobraziť zážitky z 2. svetovej  vojny  
+Bol priamym účastníkom vojny a vychádzal z vlastných zážitkov  
+Zameral sa najmä na zobrazenie absurdity konania ľudí počas vojny  
+Dej diela sa odohráva tesne pred koncom 2. svetovej vojny  
+Dej diela sa odohráva na malom ostrove – Pianosa blízko Elby (13 km). Ostrov sa nachádza v Stredozemnom mori a na ňom bola americká základňa 256. leteckej eskadry americkej armády. Americké lietadlá, ktoré odtiaľto zlietali, bombardovali nemecké pozície v severnom Taliansku  
+Autor v románe zobrazil dva fronty: jeden je americko-taliansky (front, na ktorom prebiehajú boje) a druhý je americko-americký (boj medzi americkými vojakmi a veliteľmi)  
+Román má jednu ústrednú postavu – Yossariana, ktorý vojnu nenávidí a búri sa proti nezmyselnostiam vojenskej byrokracie.  
+**Yossarian** jasne chápe, že vo vojne sa nikdy neprihliada na človeka, ale iba na plnenie príkazov, že človek vo vojne neznamená vôbec nič  
+Román má 42 kapitol a v každej z nich sa postava Yossariana spája s nejakou ďalšou postavou, podľa ktorej je daná kapitola aj pomenovaná. Autor uvedené postavy predstavuje počas bojov, ale aj vo chvíľach oddychu, oboznamuje nás s ich minulosťou.  
+Postavy v uvedenom diele vôbec nie sú hrdinovia, ale neraz bezradné indivíduá, ktorých hlavným nepriateľom vôbec nie je skutočný nepriateľ, ale vlastná armáda, v ktorej jednotlivec neznamená nič, stráca všetky ideály a snaží sa zachrániť vlastnú kožu  
+Stelesnením vojenskej byrokracie je tzv. hlava XXII – súbor absurdných nariadení a predpisov, ktorý proti sebe stavia vojaka a armádu ako inštitúciu  
+Podľa tzv. hlavy XXII môže byť vojak prepustený z armády napr. vtedy, keď je blázon. Ak ale vie, že je blázon, tak je vlastne normálny, preto nemôže byť prepustený z armády.
+
+**Dejová línia**  
+Na ostrove Pianosa v americkej armáde bojuje aj Yossarian. Je bombometčíkom a absolvuje stále viac a viac náletov. Najprv má za úlohu nalietať 30 náletov, po nalietaní ktorých by mal možnosť odísť z ostrova, ale potom jeho veliteľ plukovník **Catcarth** zvýši počet náletov na 80. Počty náletov veliteľ zvyšuje neustále a z mnohých náletov sa posádky nevrátia, čím narastá počet zbytočných úmrtí vojakov. Yossarian sa veľmi bojí o svoj život, má až existenciálny strach zo smrti. Nezvláda pohľad na umieranie, utrpenie ľudí, smrť svojich priateľov a spolubojovníkov. Všetci vojaci sú ovládaní tzv. hlavou XXII, ktorá vlastne neumožňuje vojakovi odísť z aktívnej vojenskej služby   
+Autor vychádzal z vlastných skúseností a poukázal na mnohé chyby, s ktorými sa v armáde stretol. Napr. ukázal na mnohé administratívne chyby (jedného človeka vymenujú omylom za majora a potom ho vedú ako majora, aby sa na to neprišlo), na nedostatočnú kontrolu veliteľského štábu (letci sa obávali stále vyhlasovaného a odvolávaného náletu na Bolognu. Sám Yossarian zo strachu pred náletom preložil na veliteľskej mapke značku tak, akoby toto mesto už bolo bombardované – nikto na to neprišiel). Zobrazil kupčenie na čiernom trhu, napr. kupčenie medzi veliteľmi a dôstojníkmi, ktorí sa na čiernom trhu obohacovali, využívajúc americké bojové lietadlá (najznámejším dôstojníkom na čiernom trhu bol dôstojník Milo, ktorý každému zohnal, čo chcel, kupčil ako veľkoobchodník s drevom, kožou, plechmi,...). Autor neobišiel ani problém zločinov, ktorých sa dopúšťali vojaci (Arfy znásilnil talianske dievča a vyhodil ho von oknom, aby sa na to neprišlo. Zločin napokon ani nevyšetrili). Mnohí vojaci konali svojvoľne, mnohokrát riskovali (napr. pilot McWatt lietal tak nízko, že v jeden deň napoly presekol Kida Sampsona)  
+Yossarian mal jeden veľký sen – chcel dezertovať do Švédska, chcel odísť preč od vojnových udalostí. Lákala ho vidina kultúrneho sveta a bol pyšný sám na seba, že sa pre také rozhodnutie rozhodol. Velitelia mu odchod samozrejme nechceli dovoliť, preto im robil Yossarian veľké problémy (napr. vyliezol na strom, vyvolal hnačkovú epidémiu, priotrávil letku, na odovzdanie medaily za statočnosť prišiel nahý, začal kvíliť na predletovej príprave…)  
+Velitelia napokon sami chceli, aby odišiel. Major Danby mu sám dal ponaučenie, ako treba ujsť.
+
+# Otázka 9
 
 
 
