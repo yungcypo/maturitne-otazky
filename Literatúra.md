@@ -1345,7 +1345,248 @@ Autor vychádzal z vlastných skúseností a poukázal na mnohé chyby, s ktorý
 Yossarian mal jeden veľký sen – chcel dezertovať do Švédska, chcel odísť preč od vojnových udalostí. Lákala ho vidina kultúrneho sveta a bol pyšný sám na seba, že sa pre také rozhodnutie rozhodol. Velitelia mu odchod samozrejme nechceli dovoliť, preto im robil Yossarian veľké problémy (napr. vyliezol na strom, vyvolal hnačkovú epidémiu, priotrávil letku, na odovzdanie medaily za statočnosť prišiel nahý, začal kvíliť na predletovej príprave…)  
 Velitelia napokon sami chceli, aby odišiel. Major Danby mu sám dal ponaučenie, ako treba ujsť.
 
+&nbsp;
 # Otázka 9
+*Doložiť znaky naturimu v jednom diele podľa vlastného výberu*
+## Lyrizovaná próza
+Snaha o lyrizáciu prózy vyvrcholila v slovenskej literatúre koncom 30-tych rokov  
+Vytvoril sa nový smer, označovaný ako lyrizovaná próza alebo novšie aj ako naturizmus (z latinského natura = príroda, prirodzenosť)  
+Próza naturizmu sa rozvinula najmä v rokoch 2. svetovej vojny, vtedy vznikli vrcholné diela tohto smeru - novela Dobroslava Chrobáka **Drak sa vracia**, románová novela Margity Figuli **Tri gaštanové kone**, zbierka noviel Františka Švantnera **Malka** a román **Nevesta hôľ**  
+V tvorbe predstaviteľov naturizmu sa prejavuje príklon k prírode, čo opvplyvnila aj doba - silnejúca hrozba fašizmu a vojny v 30. rokoch. Nesústreďujú sa na spoločnosť a na jej problémy, ale na základné životné hodnoty, na medziľudské vzťahy a na vnútorný svet svojich postáv
+
+Prechádzala jej:
+- **Ornamentálna próza**
+    - Ozdobnosť jazyka a štýlu, nesúrodá prozaická výpoveď, pesimistické a tragické nálady a pocity, novátorstvo, experimentovanie s jazykom, kontrast medzi škaredým a krásnym, snový postup pri navrstvovaní motívov (bez časovej a logickej nálednosti)
+    - **Predstavitelia**
+        - Ján Hrušovský
+        - Gejza Vámoš
+        - Ivan Horváth
+- **Lyricky tvarovaná próza**
+    - 1. prúd - sociálne témy, najmä dedinské s rozpornými prvkami
+    - 2. prúd - psychologické námety
+    - Hrdinovia v oboch prúdoch pasívne podlihajú skutočnosti
+    - Autori vidia svet očami ženy alebo dieťaťa
+    - **Predstavitelia**
+        - Jozef Horák
+        - Ján Bodenek
+- **Próza naturizmu**
+    - Krátke epické útvary - poviedky, novely
+    - Ťažiskom nie je udalosť, ale jej prežívanie
+    - Témy
+        - Priateľstvo
+        - Láska
+        - Detstvo
+        - Domov
+        - Česť
+    - Slabá dejová línia
+    - **Lyrizácia jazyka** - prirovnania, metafory, personifikácie, epitetá, zvolania
+    - Neprítomnosť historického času - čas v dielach sa meria len v biologickom čase - vek postavy, striedanie dňa a noci, ročných období
+    - Rozdelenie sveta
+        - Tam hore - príroda, hory, neskazení ľudia, láska, pokoj
+        - Tam dole - dediny, mestá, neprajnosť, závisť
+    - Rozprávkovosť - dobro víťazí nad zlom, občas naprirodzená sila (zvieratá, ktoré riešia situáciu), magické čísla (3, 7)
+    - Snaha sprírodniť človeka a poľudštiť prírodu
+    - Deje sa odohrávajú v prostredí prírody
+    - Dedinské prostredie ako protikad mestskému spôsobu života
+    - Odmietanie mesta a jeho morálky
+    - Zužovanie deja (sujetu), dôraz sa kladie na vnútro postáv, na to, ako prežívajú udalosti
+    - Stiera sa hranica medzi autorskou rečou a rečou postáv, rozprávačom príbehu je postava v diele
+    - Hlavné postavy sú obyčajne výnimoční, zvláštni ľudia. Žijú v dôvernom styku s prírodou, konajú pudovo, živelne, pod vplyvom silných emócií, sú hlboko citovo založení
+    - Postavy sa prísne rozdeľujú na kladné a záporné, záporná je v deji často aktívnejšia
+    - Využívanie prvkov ľudovej slovesnosti
+        - Baladickosť, snovosť, mýtickosť, rozprávkové motívy konečného víťazstva dobra nad zlom, jazyk, symbolika čísiel, zvieratá ako symbol dobra
+
+## Dobroslav Chrobák
+Napísal zbierku noviel **Kamarát Jašek**  
+Obsahuje 8 noviel, napr. Poviestka, Učenlivá Marta a Starostlivá Marta  
+
+**Návrat Ondreja Baláža**  
+Ondrej sa po 17-tich rokoch vracia domov z vojny, na náhrobnom kameni nájde napísané svoje meno, chýba dátum úmrtia  
+Prichádza k svojmu domu, otvorí jeho žena, tá ho však nespoznáva, pozve ho dovnútra, z ich spoločného rozhovoru sa dozvie, že je znovu vydatá, jej muž padol na fronte a ich spoločné dieťa počas vojny zomrelo  
+Ondrej sa nedá spoznať, uvedomil si, že jeho žena má už iný život a nechce jej do neho zasahovať  
+Odchádza nespoznaný ako žobrák a sám napíše na kameň dátum svojej smrti  
+Hlavná myšlienka - autor kritizuje vojnu, jej dopad naľudí nielen po stránke fyzickej ale i psychickej
+
+### Drak sa vracia
+Románová novela, dielo je uvedené mottom - *Hľadanie stratenej cit, lásky a dôvery ľudí, tvorí vhodnú látku pre hrdinskú rozprávku*  
+Hlavnými postavami sú, a jeho **Martin Lepiš** prezývaný Drak, **Šimon Jariabek** a **manželka Eva**  
+Rozprávkový príbeh Draka sa odohráva v prostredí tatranskej prírody (Kôprová, Tichá a Tomanova dolina pod Kriváňom, Západné Tatry)  
+Autor sa nezameriava na dej, ale na vnútro svojich postáv, na ich vzájomné vzťahy  
+
+**Dej**: Poloslepý hrnčiar našiel raz pri ceste opustené dieťa. Zobral si ho k sebe, vychoval a vyučil svojmu remeslu. Keď už celkom oslepol, chlapec ho všade musel sprevádzať. Nemal možnosť zblížiť sa so svojimi rovesníkmi, stal sa z neho samotár. Deti za ním hádzali kamene a neskôr ho začali prezývať Drakom. Keď mal 14 rokov, starý hrnčiar spadol do jamy na hlinu a zomrel. Spočiatku sa to nikomu nezdalo čudné, ale neskôr, keď sa neďaleko našla mŕtvola zahrdúseného dievčaťa, začali upodozrievať Draka, že to on zabil i starého hrnčiara. Dedinčania mu začali pripisovať všetko zlo, ktoré dedinu postihlo – ohne, povodne, hlad, choroby. Boli presvedčení, že má čarodejnú moc a všetci ho nenávideli, okrem Evy, ktorá sa do neho zamilovala, chodievala za ním, celé hodiny ho sledovala pri práci. Dedina usúdila, že sa ho musia zbaviť. Jedného dňa našli Draka s rozbitou hlavou v jame na hlinu. Eva ho obetavo opatrovala, i keď ju za to celá dedina odsudzovala. Keď vyzdravel, bez slova rozlúčky odišiel z dediny. Eve sa po jeho odchode narodil syn, ktorého vychovávala jej matka. Roky čakala na Draka, a keď sa nevracal, vydala sa za Šimona Jariabka. Ich manželstvo bolo nešťastné, boli si cudzí, Šimon mal Evu rád, ale nedokázal jej to povedať, pretože cítil, že Eva ešte stále myslí na Draka. Prešli roky a dedinu znova postihli nešťastia. Následkom veľkého sucha začali horieť okolité lesy a hrozilo, že statok celej dediny uhynie na pastvinách. Práve vtedy sa do dediny vrátil Drak. Cez jedno oko mal čiernu pásku, na líci hlbokú jazvu – stopy nenávisti dediny voči nemu. Chcel sa usadiť vo svojom dome a venovať sa svojmu remeslu, hrnčiarstvu. Potreboval si získať stratenú dôveru ľudí, a preto sa ponúkol, že privedie stádo späť do dediny. Drakovi nikto neveril, ale nemali inú možnosť – cestu poznal iba on. Pohrozili mu, že ak sa do týždňa nevráti, podpália mu dom. Rozhodli sa, že Draka pre istotu odprevadí i Šimon Jariabek. Šimon s Drakom sa vybrali do hôr za stádom. Drakovi sa podarilo zachrániť stádo, v horách sa však museli zdržať o niečo dlhšie, preto Drak poslal odkaz richtárovi dediny, že prídu neskôr. Šimon mu nedôveroval, omylom sa nazdával, že Drak ich všetkých oklamal a predal stádo Poliakom. V noci sa potajomky vrátil do dediny a sám podpálil Drakov dom. Drak sa však už vtedy blížil aj so stádom k dedine. Úlohu splnil, dodržal slovo. Priviedol si aj životnú družku, svoju lásku, mladú Poľku Zošku. Eva si až teraz uvedomila, že Drak ju nemiluje, a že ten, kto ju skutočne má rád, je Šimon. Eva a Šimon si konečne našli cestu k sebe. Šimon sa hanbil za to, čo urobil, Drak mu však odpustil  
+Z epilógu – tu už je Eva stará žena, rozprávajúca príbeh o Drakovi priadkam a svojmu vnukovi, sa dozvedáme, že odvtedy sa mali radi a žili spolu šťastne  
+
+Záporná postava - v očiach dedinčanov je to Martin Lepiš, neznámy pôvod, odlišný zjav, oblečenie, uhrančivý pohľad, počerný, vysokej, štíhlej postavy  
+V epilógu stará mama spomína na svoju mladosť, keď žili vedmy a čarodejnice, zmokovia a duchovia, príbeh rozpráva ako rozprávku svojmu vnukovi
+
+Rozprávkové prvky
+- Dedina považuje Draka za strigôňa (ľudia si myslia, že múku premenil na hlinu)
+- Dvaja muži bojujú o 1 ženu
+- Boj dobra a zla
+
+Kompozícia
+- veľkú úlohu zohráva príroda, ktorá odráža psychiku človeka = prírodno-psychologický paralelizmus
+- veľa biblických motívov
+- autor vstupuje priamo do diela - *"Drak je človek, ktorý nepatril nikomu, bol vždy sám proti všetkým a sám proti sebe samému..."*
+
+## Margita Figuli
+Jej tvorba sa vyznačuje bohatými lyrizačnými postupmi a metaforickým štýlom  
+
+Tvorba
+- Pokušenie
+    - Zbierka noviel, sústreďuje sa v nej na ženské postavy a na priblíženie ich vnútorného sveta
+    - Jej hrdinky sa pokúšajú nájsť šťastie, lásku a životnú rovnováhu a nestratiť pritom mravnú čistotu
+- Babylon
+    - Historický román, opisuje postupný rozklad a zánik Chaldejskej ríše
+- Mladosť
+    - Autobiografický román
+    - Zachytila v ňom svoje detstvo i život ľudí na chudobnej, ale krásnej Orave počas rokov 1. svetovej vojny
+
+### Tri gaštanové kone
+Románová novela, má krátku dejovú líniu  
+Pozornosť sa sústreďuje na psychológiu postáv  
+Dej sa odohráva na Orave  
+Rozprávačom je jedna z postáv – Peter, tzv. ja – rozprávanie  
+Všetky postavy sú zakotvené vo svojom sociálnom prostredí, nejde o prírodných ľudí, autorka ich dokonca rozlíšila i majetkovo: **Jano** – bohatý, **Peter** – chudobný, **Magdalénini** rodičia – krčmári  
+
+Príroda vstupuje do prostredia novely – dielo sa začína pašovaním koní uprostred oravských hôr, Magdaléna a Peter si dajú sľub počas pálenia svätojánskych ohňov vysoko na holiach  
+Postavy sú striktne rozdelené na **dobré** – Magdaléna, Peter, Magdalénin otec a **zlé** – Jano a zištná Magdalénina matka  
+
+Magdaléna – mení sa z láskavého a pokojného dievčaťa až na ženu – trpiteľku, nemôže porušiť sviatosť manželstva, a preto s božou trpezlivosťou znáša trápenie. Je obeťou – v sexuálnom zmysle – Jano ju znásilnil, je obeťou ako trápená manželka a je obetovanou dcérou, lebo matka túžila po bohatom ženíchovi Jánovi Zápotočnom  
+Peter – kladná postava, vytrvá vo svojej láske, hoci sa Magdaléna vydala za iného, neodíde z dediny, pokiaľ sa nepresvedčí, že je mimo nebezpečenstva. Je rozhodnejší ako Magdaléna, ale rešpektuje jej prianie. Vyslúžil si meno **Tulák**, nazval ho tak na posmech Jano, pretože mu zhorel dom po rodičoch a neživil sa roľníckou prácou, ale skupoval po kraji drevo  
+Jano – záporná postava, zlý, krutý, jeho krutosť sa prejavuje voči ľuďom aj voči zvieratám. Riadi sa sám svojimi zákonmi, nie je verný žene, s ktorou sa chce zosobášiť, je násilnícky – keď sa dozvie o sľube Petra a Magdalény, znásilní ju, aby si ho musela zobrať za muža, bije do krvi koňa, zapriahne do pluhu takého koňa, ktorý nie je zvyknutý na takú prácu, a pritom Magdalénu núti, aby išla pred koňom a viedla ho v brázde, pokúsi sa zabiť Petra, jeho pričinením príde Magdaléna o dieťa, vypaľuje koňovi nápis Tulák, vypáli mu oko...
+
+Novela má kompozíciu rozprávky, napríklad hrdina, aby dosiahol svoj cieľ, musí splniť istú úlohu, motív koní  má v novele kľúčový význam, kone symbolizujú čistotu, dobro, silu  
+**Dej**: Peter sa po mnohých rokoch rozlúčenia ide za svojou láskou z Turca na Oravu. Magdaléna sa s rodičmi presťahovala do Leštín. V oravských lesoch sa Petrov kôň splašil a pridal sa k stádu pašerákov koní, ktorých naháňali žandári. Medzi nimi spoznal Magdaléninho bratranca, ktorý mu prezradil, že najdrsnejší pašerák koní Jano Zápotočný sa chystá na pytačky k Magdaléniným rodičom. Podarí sa im ujsť a až potom si všimnú, že všetci traja majú rovnaké, gaštanové kone. Petrovi sa podarí porozprávať sa s Magdalénou večer, v horách, kde sa mládež z dediny vybrala zapaľovať svätojánske ohne. Prizná sa mu, že i ona na neho veľa myslievala. Povie mu, že ak ju skutočne má rád, vzdá sa tuláckeho spôsobu života, usadí sa na otcovskej pôde, postaví dom a začne gazdovať. Znakom toho, že úlohu splnil, mali byť tri gaštanové kone, s ktorými sa mal vrátiť po Magdalénu. Dohodli sa, že sa stretnú tam, kde ich Peter uviaže. Magdaléna mu sľúbi, že bude na neho čakať a pokúsi sa oddialiť svadbu so Zápotočným. Trvalo takmer dva roky, kým sa mohol vydať na cestu s tromi gaštanovými koňmi. Čaká ho však kruté sklamanie. Cestou sa dozvie od ľudí, že Magdaléna sa vydala za Jana. Napriek tomu pokračuje v ceste a počas svojej púte sa postupne dozvedá celú pravdu. V ten večer, keď sa v horách rozlúčil s Magdalénou, si ich rozhovor vypočul Jano, ktorý Petra a Magdalénu v tajnosti sledoval. Keď Peter odišiel, prepadol ju a znásilnil. Magdaléna otehotnela a donútili ju vydať sa za Jana. Ich manželstvo bolo nešťastné. Jano začal piť, správal sa k Magdaléne surovo, týral ju i kone. Naschvál kupoval zlé, divé kone a nútil Magdalénu, aby ich opatrovala. Kone jej viackrát ublížili, takto prišla aj o dieťa v šiestom mesiaci tehotenstva. Jano najviac týral gaštanového koňa, ktorého prepašoval z Poľska vtedy, keď sa stretol s Petrom. Peter prichádza k domu Zápotočného, je však zatvorený. Jano a Magdaléna sú na poli, vyberie sa za nimi, stane sa svedkom toho, ako Jano týra a bije koňa, až kým mu nevytečie oko. Kôň, bezpríčetný od bolesti, privalí Magdalénu, ktorej Jano prikázal držať uzdu. Peter omráči Jana a zachráni Magdalénu. Keď sa Jano preberie, pokúsi sa ho zabiť veľkým kameňom  
+Magdaléna je chorá, keď sa z toho vystrábi, Jano ju vyvedie na dvor, do rúk jej dá uzdu koňa, ktorý mal iba jedno oko a na boku mal vypálenú Petrovu prezývku Tulák. Janova sestra zbuntošila ľudí na pomoc, ale ani Peter sa nemohol dostať cez vysoký plot. Nakoniec sa rozhodne vojsť cez okno do domu. Jano vypálil koňovi i druhé oko, od bolesti ho zdivené zviera kopytami zabije  
+Magdaléna ho pochová, postará sa o jeho hrob a až potom súhlasí, že s Petrom odídu do rodného kraja – do Turca  
+Dobro a láska zvíťazili
+
+**Prvky rozprávky**:
+- Magické číslo 3
+    - 3 kone
+    - 3 hlavné postavy
+- Peter je symbol dobra, Jano symbol zla
+- Záver je šťastný
+- Magdaléna dáva Petrovi 3 podmienky pred sľubom vernosti:
+    - Musí sa vzdať túlavého života
+    - Musí postaviť dom
+    - Musí prísť s 3 gaštanovými koňmi
+- Peter musí prekonať 3 prekážky:
+    - Magdalénine podmienky
+    - Maliarička
+    - Jano Zápotočný
+- Kone zasahujú do deja - Peter zachráni Magdalénu spod koní 3-krát, kôň zabíja Zápotočného 
+
+**Kompozícia**:
+1. Novela robená od napätia k harmonickému koncu
+2. Využitý prírodno-psychologický paralelizmus (keď Peter odchádza s Magdalénou z dediny, vonku je jar a svieti slnko)
+3. Veľmi veľa biblizmov, archaizmov a časté opakovacie výrazy
+
+# Otázka 10
+*Znaky doložte interpretáciou dila podľa vlastného výberu*
+## Romantizmus
+Romantizmus je literárny smer podmieneny zmmenami v spoločnosti a politickom živote po buržoáznych revolúciách v Európe (1789 - Veľká francúzska buržoázna revolúcia, niesla sa v znamení hesla *Sloboda - rovnosť - bratstvo*; 1848 - buržoázna revolúcia v Anglicku), dochádza k zániku feudalizmu a vzniká kapitalizmus, k moci sa dostáva nová spoločenská vrstva - boržoázia  
+Revolúcie proklamovali rovnosť všetkých ľudí, právo každého jednotlivca na slobodný, úspešný život – na rozdiel od klasicizmu, ktorý podriadil osobné šťastie človeka povinnosti rešpektovať nadosobné "vyššie" záujmy.
+
+**Znaky romantizmu**
+- Autoštylizácia
+    - Stotožňovanie autora so svojou postavou
+- Individualizmus
+    - Vzbura proti svetovému poriadku a spoločnosti prináša postavy osamotených ľudí, vyvrheľov spoločnosti - tulákov, zbojníkov, žobrákov, ľudí stojacich na pokraji ľudskej spoločnosti
+- Sentimentalizmus
+    - Prehnaná citlivosť, vyjadrenie silného a úprimného citu, ktorý stavia proti rozumu (iracionalizmus)
+- Titanizmus
+    - Hrdina je ochotný obetovať svoj život za slobodu či šťastie iného človeka alebo národa
+- Romantický hrdina
+    - Búrlivák, nespokojný človek, prejavuje sa u neho rozpor medzi snom a skutočnosťou
+- Využívanie kontrastov - protikladov
+    - Napr. krása-škaredosť, dobro-zlo, ale využíva sa aj tzv. vnútorná harmónia kontrastov
+- Historizmus
+    - Návrat do minulosti, slávne činy národa
+- Ľudová slovesnosť
+    - Autori vychádzajú z ľudovej slovesnosti, predovšetkým stredoeurópski spisovatelia pod vplyvom filozofie nemeckého filozofa Herdera, považujú ju za prameň svojej tvorby
+- Autori využívajú hovorový jazyk, prirodzenejšie vyjadrovanie, v romantizme sa píše poézia, próza, dráma, veľmi frekventovaná je balada pre svoju tragickosť, vypätosť deja, novým žánrom je básnická poviedka, nový žáner - román v listoch - denník
+
+
+## Francúzska romantická literatúra
+- Victor Hugo
+    - Robotníci mora
+        - Vznikol počas pobytu na ostrovoch v Lamanškom prielive
+    - Bedári
+        - Rozsiahla románová skladba, zobrazuje životné osudy trestanca Jeana Valjeana
+        - V základnej myšlienke ide ozápas s nespravodlivosťou spoločenských zákonov
+    - Deväťdesiattri
+        - Historický román odráža kruté politické pomery na francúzskom vidieku v dobe revolúcie
+    - Legenda vekov
+        - Básnická skladba
+        - Zobrazil v nej vývoj ľudstva na jeho ceste a pokrokom a humanizmom
+    - Chrám Matky Božej v Paríži
+        - Najvýznamnejší román
+
+### Chrám Matky Božej v Paríži
+Dej románu sa odohráva v 15. storočí, autor kritizuje spôsob života šľachty a cirkvi  
+Pôvod viacerých postáv je zahmlený, osudovo sa stretávajú alebo sú k sebe priťahovaní   
+**Esmeralda** – je krásna a hlboko mravná, ale žije uprostred najhoršej spoločnosti, kde sa na morálku nepotrpí. Kvôli láske k Phoebovi by zišla na scestie. Vychovali ju Cigáni, ale nie ja Cigánka, vymenili ju za znetvorené dieťa Chudôbke, rozmarnej parížskej dievčine, po strate dieťaťa sa z nej stane bláznivá žena, ktorá mnoho ráz pokrikovala z klietky hanby po nepravej Cigánke Esmeralde, v ktorej v závere svojho života spoznáva vlastnú ukradnutú dcéru  
+**Quasimodo** – je škaredý výzorom a znetvorený fyzicky, ale je schopný ušľachtilého citu, obety a má cit pre spravodlivosť. Pohodené dieťa, najdúch, našli ho v kostole a vychoval ho kňaz Frollo  
+**Frollo** – kňaz, ale nespráva sa tak. Je natoľko očarovaný krásou Esmeraldy, že sa dopustí zločinu. Po nociach sa venuje alchymistickým pokusom, s čím by cirkev nesúhlasila. Má však aj dobré stránky – bol dobrým študentom, múdry, postaral sa o pohodené dieťa  
+**Phoebus** – kapitán - je urastený, krásny tvárou, ale prázdny duchom a slabošskej povahy. Je vypočítavý, nezastane sa Esmeraldy a nezachráni jej tým život len preto, že by pred vznešenejšou spoločnosťou musel priznať styky s Cigánkou  
+
+**Dejová línia**: Je Sviatok bláznov, súťaž o najstrašnejšiu grimasu vyhráva znetvorený Quasimodo, zvonár v Notre Dame v Paríži. Po uliciach sa potuluje veľa ľudí, kňaz Frollo pokrikuje po krásnej Cigánke Esmeralde, ktorá vystupuje s cvičenou kozičkou. Niekto sa ju pokúsi uniesť, zachráni ju krásny kapitán Phoebus. Únoscovia boli Frollo a Quasimodo, ale chytili len zvonára. Quasimodo je na pranieri, ľudia sa mu posmievajú, jediný človek, čo sa nad ním zľutuje, je Esmeralda, ktorá mu podá vodu. Znetvorený muž pocíti k nej vďačnosť a lásku, neskôr oddanosť. Esmeralda naďalej odmieta Frolla, ktorý jej ukradne dýku. Esmeralda má stretnutie v pochybnej krčme s kapitánom, žiarlivý Frollo tam nespozorovaný príde a pokúsi sa kapitána zabiť dýkou, ktorú zobral Esmeralde. Kapitán prežije, ale Esmeraldu obvinia z vraždy a uväznia. Quasimodo ju spod šibenice unesie a ukryje v Chráme, ktorý má právo poskytovať azyl. Frollo podvodom dosiahne, že Esmeralda opustí azyl. Uväznia ju opäť ako Phoebovu vrahyňu. Kapitán nejde svedčiť v jej prospech. Esmeralda je v cele spolu s bláznivou Chudôbkou, tá v nej spozná svoje stratené dieťa podľa talizmanu. Esmeraldu obesia, na popravu sa díva z veže Frollo a Quasimodo. Frollo sa diabolsky smeje, keď dievčina umiera. Quasimodo ho zhodí do priepasti. Ukradne Esmeraldino telo a zanesie ho do hrobky. Po dvoch rokoch nájdu v hrobke dve kostry  
+
+Znaky romantizmu, ktoré nachádzame v románe:
+- Kontrasty 
+    - Krásna Esmeralda–škaredý Quasimodo, Esmeralda dobrá–Frollo zlý  
+- Vnútorná harmónia kontrastov 
+    - Quasimodo je škaredý výzorom a znetvorený fyzicky, ale duševne ušľachtilý 
+- Založený je na harmónii kontrastov
+    - Krása Esmeraldy - ohyzdnosť Quasimoda
+    - Quasimodova duša - Quasimodov výzor
+    - Phoeubusova duša - Phoebusov výzor
+    - Quasimodova láska - Esmeraldina ľútosť
+    - Frollova láska - Esmeraldin strach
+    - Esmeraldina láska - Phoebova zábavka
+    - Kňaz Frollo - netvor Frollo
+    - Frollova láska - Quasimodova láska
+    - Parížska chudoba - veľkoleposť Paríža
+    - Frollova viera - Frollov záujem o vedu
+- Historizmus – príbeh sa odohráva v 15. storočí
+
+## Ruská romantická literatúra
+### Kapitánová dcéra
+Alexander Sergejevič Puškin  
+Historická novela  
+Odohráva sa v čase pugačovského povstania  
+
+**Obsah diela**
+Do Belogorskej pevnosti na juhovýchode vtedajšieho Ruska prichádza ako vojak mladý vidiecky šľachtic **Peter Andrejič Griňov**. Zoznamuje sa s novým prostredím a s novými ľuďmi - veliteľom pevnosti kapitánom **Mironovom**, jeho dcérou **Máriou Ivanovnou**, do ktorej sa zamiluje, **Švabrinom**, náhodne sa zblíži aj s **Pugačovom**, budúcim vodcom povstalcov, ktorý ho v prestrojení za tuláka vyvedie zo snehovej búrky v stepi  
+Milostný príbeh Petra Griňova a Máše vytvára rámec pugačovského povstania, najväčšej sedliackej vojny v ruských dejinách. Belogorskú pevnosť povstalci obsadia, kapitán Mironov padne. Griňova vďaka vzájomným sympatiám s Pugačovom prepustia. Znova sa vracia medzi povstalcov, dozvie sa, že Máši hrozí nebezpečenstvo zo strany Švabrina, Mášinho neúspešného ctiteľa a surovca, ktorý ju väzní v Belogorskej pevnosti. Griňov využije známosť s Pugačovom a oslobodí ju. Po Švabinovom falošnom udaní ho obvinia zo zrady a spolupráce s Pugačovom, odsúdia na doživotné vyhnanstvo na Sibíri. Máši sa podarí dostať k cárovnej Kataríne II. a prosiť o pomoc – Griňova oslobodia. 
+
+**Štruktúra diela**
+Je písaná formou Griňových zápiskov, historické udalosti sú podávané z jeho pohľadu  
+Dej sa rozvíja v dvoch líniách: základom prvej je milostný príbeh skĺbený s druhou dejovou líniou – pugačovským povstaním  
+
+Puškinovi sa podarilo vykresliť charaktery postáv: 
+- Griňov je mladý, neskúsený, ľahkomyseľný, ale v zložitých situáciách sa správa odvážne a čestne, pugačovské povstanie nazýva hnusnou vzburou, ktorá chce vyhubiť šľachtický rod 
+- Saveľjič - Griňov starosvetský sluha je stelesnením oddanosti a ľudovej múdrosti. Napriek tomu, že bol celý život nevoľníkom, zachoval si dôstojnosť a ušľachtilosť. 
+- Pugačov, doposiaľ vykresľovaný ako zlosyn a vyvrheľ, je predstavený jednak ako vodca povstalcov, bystrý a dobrý organizátor, jednak z hľadiska vzťahu ku Griňovovi, keď odhalí svoj vnútorný svet 
+- dôstojník Švabrin - v hodnotovom rebríčku stojí najnižšie, človek síce vzdelaný, ale bezcharakterný, zradca a udavač 
+- rodina Mironovových – prostá a skromná, je protikladom Švabrina – najmä dobrácky a statočný kapitán Mironov, či charakterná Máša 
+- Katarína II. – opísaná značne zidealizovane ako štedrá a veľkorysá žena
+
+&nbsp;
+# Otázka 11
+
+
+
+
+
+
+
+
+
+
+
 
 
 
