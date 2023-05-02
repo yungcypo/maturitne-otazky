@@ -311,6 +311,7 @@ Hlavným zdrojom jeho básnickej tvorby bola ľudová slovesnosť
             - Slabičný verš, združený rým, prirovnania, zdrobneniny
 
 
+&nbsp;
 # Otázka 3
 *Rozobrať ľubovoľné dielo: Keď báčik z Chochoľova umrie, Rysavá jalovica (alt. Neprebudený), resp. Maco Mlieč (alt. Mamka Pôstková)*
 ## Epika
@@ -708,6 +709,7 @@ b) obsahuje jeho osobné bôle z vojny
 c) preklady z diela Victora Huga a Goetheho
 ```
 
+&nbsp;
 # Otázka 5
 *Rozobrať ľubovoľnú novelu - Ťapákovci, Dekameron, Peter a Lucia, Starec a more, Guľôčka*
 ## Epika
@@ -1040,7 +1042,7 @@ Aj tu zasahujú do boja bohovia - Poseidon a Aténa, o predchádzajúcich udalos
 *"Vedz, teda, Nikto, že teba zjem napokon po tvojich druhoch,*
 *ostatných skôr. To dostaneš odo mňa miesto daru.*
 
-
+&nbsp;
 # Otázka 7 
 ## Pavol Orzságh - Hviezdoslav  
 Narodil sa vo Vyšnom Kubíne v zemianskej rodine  
@@ -1483,6 +1485,7 @@ Dobro a láska zvíťazili
 2. Využitý prírodno-psychologický paralelizmus (keď Peter odchádza s Magdalénou z dediny, vonku je jar a svieti slnko)
 3. Veľmi veľa biblizmov, archaizmov a časté opakovacie výrazy
 
+&nbsp;
 # Otázka 10
 *Znaky doložte interpretáciou dila podľa vlastného výberu*
 ## Romantizmus
@@ -2227,7 +2230,7 @@ Svojimi eposmi, ale aj idylami, presvedčil nastupujúcu generáciu o tom, že s
 
 ## Slovenská klasicistická dráma
 ### Ján Chalupka
-významný dramatik národného obrodenia  
+Významný dramatik národného obrodenia  
 Starší brat Sama Chalupku  
 Narodil sa v Hornej Mičinej  
 Teológiu vyštudoval v Jene, vyštudoval aj filozofiu a jazykovedu  
@@ -2236,20 +2239,750 @@ Do literatúry uviedol pojem **"Kocúrkovo"**, ktorým dodnes označujeme hlúpo
 
 &nbsp;
 # Otázka 14
+Vnútorný monológ - myslený, ale nahlas nevyslovený prehovor osoby, spontánny tok myšlienok
+
+## Svetová medzivojnová literatúra  
+20. stor., narastanie rozporov medzi najväčšími, mocensky a hospodársky najsilnejšími štátmi Európy  
+Atentát na Rakúsko-uhorského následníka trónu Františka Ferdinanda v Sarajeve  
+28. júl 1914 – vyhlásenie vojny Srbsku (1. svetová vojna), koniec v roku 1918  
+Víťazstvo štátov dohody (Veľká Británia, Francúzsko, Rusko)  
+Trojspolok (Nemecko, Rakúsko - Uhorsko, Taliansko) + Osmanská ríša a Bulharsko – výsledky Versailleského mierového systému (1919,1920)  
+Zmena politickej mapy Európy  
+Paríž 1919 založenie organizácie: Spoločnosť národov (americký prezident WILSON)  
+7.11. 1917 – vznik Sovietskeho zväzu  
+Rozpad Rakúsko- Uhorskej monarchie, vznik Československa (28.10. 1918)  
+Zakladanie agresívnych fašistických skupín v Taliansku (Mussolini)  
+1933 – nástup fašizmu v Nemecku, ríšskym kancelárom sa stal A. Hitler  
+1.9. 1939 – napadnutie Poľska (začiatok 2. svetovej vojny)  
+Mníchovská dohoda (vytvorenie protektorátu Čechy a Morava, vznik Slovenského štátu)  
+3.9. 1939 – Veľká Británia a Francúzsko vyhlásili vojnu Nemecku  
+Koniec 2. sv. vojny v roku 1945  
+Vznik 1. svetovej vojny, neschopnosť vlád odstrániť príčiny vzniku novej vojny, názorový, sociálny rozklad povojnových spoločností vyvolali v skupine mladých literátov odmietavý postoj k tejto spoločnosti
 
 
+**Umelecké (avantgardné) smery**
+- Expresionizmus 
+    – Z lat. slova expressus – výrazný
+    - Vzniká v Nemecku
+    - Autori sa snažili vyjadriť a zobraziť skutočnosť najmä pomocou silných emócií, citov, nič nezastierali, skutočnosť a človeka sa snažili zobraziť v obnaženej podobe
+    - Sústreďovali sa na zobrazenie situácií, keď ich hrdinovia prežívali vyhranené konflikty, životné krízy, nezvyčajné situácie, riešili ich pudovo, emotívne
+    - Všímali si tmavé, pochmúrne stránky života, ťaživú, smutnú, nepokojnú  atmosféru, pesimistické, skeptické chápanie života, pocity dezilúzie, bezvýchodiskovosti
+- Surrealizmus 
+    – Z fr. Slova la surréalitée – nadreálno
+    – Vznikol v Paríži, prejavil sa vo výtvarnom umení (Salvador Dali) a v poézii, zdôrazňoval fantáziu, predstavivosť, dôležitosť podvedomia a snov
+    - Poéziu chápali ako spontánny prúd obrazov, asociácií, ktoré vychádzajú z podvedomia a voľne sa k sebe priraďujú
+    - Využívajú zvláštnu metaforu, voľný verš, vynechali interpunkciu, prirodzený slovosled
+- Dadaizmus
+    – Vznikol v Zurichu vo Švajčiarsku v roku 1916, jej predstaviteľom bol Tristan Tzara (skupina Dada)
+    - Cieľom bolo nezmyslom reagovať na nezmyselný svet
+    - Slovo dada má význam len v detskom jazyku, môže znamenať dreveného koníka, detské hatlanie, ruské zdvojené pritakávanie, vraj aj chvost posvätnej kravy
+    - Chce sa vysmiať vládam, vyjadriť opovrhnutie spoločnosti, jej vládcom, kktorí vytvorili strach, utrpenie, hlad, smrť – vojnu (v roku 1922 rozpad, splynutie so surrealizmom)
+- Poetizmus
+    – Vznikol v r. 1924 v Prahe, zakladateľom je V. Nezval, príbuznosť so surrealizmom
+    - Zdôrazňovali sen, fantáziu predstavivosť, zmyslové vnemy
+    - Všímali si radostné, veselé stránky života, snažili sa nachádzať krásu vo všednom živote, prácu považovali za hru
+    - Svet vnímali ako hru farieb, svetiel, zvukov, vôní a pohybu
+    - Využívali vtipné metafory, prekvapujúci rým, ľúbozvučnosť verša (v roku 1934 splynutie s českým surrealizmom)
+
+### Erich Maria Remarque  
+Nemecký spisovateľ, v 18 rokoch odvedený na front ako dobrovoľník  
+Učiteľ, obchodník s náhrobnými kameňmi, automobilový závodník, novinár, spisovateľ  
+Rieši existenčné a psychologické otázky mladých ľudí, ktorí museli priamo zo školských lavíc odísť na front  
+Svojich hrdinov stavia do opozície proti násiliu  
+Majú zmysel pre humanizmus, lásku, priateľstvo, úctu človeka k človeku  
+Žijú však bez nádeje a zo svojho postavenia nenachádzajú východisko  
+
+**Romány**
+- Z 1. sv. vojny
+    - Na západe nič nového
+    - Traja kamaráti
+    - Cesta späť
+- Z 2. sv. vojny
+    - Čas žitia, Čas umierania
+    - Víťazný oblúk
+    - Noc v Lisabone
+
+## Na západe nič nového  
+Román  
+Vlastné zážitky autora z 1. svetovej vojny  
+V úvode je motto: *"Správa o generácii, ktorú poznačila vojna, aj keď unikla jej granátom..."*  
+Hlavná myšlienka: osudy a pocity mladej generácie, ktorá sa ešte nenaučila žiť a už sa musela naučiť zomierať  
+
+Hlavná postava: **Paul Bäumer** - autobiografická postava  
+Je rozprávačom celého príbehu, ale posledných 8 riadkov knihy sa zrazu zmení postava rozprávača, ktorým sa stane niekto iný, autor  
+Román nemá hlavnú dejovú líniu  
+Paul je spojovacím článkom života a smrti jednotlivých vojakov  
+Paula a týchto vojakov sleduje priamo v boji, na dovolenke - doma, v nemocniciach, ale aj pri okamihoch ich smrti  
+Román je prerušený retrospektívou, v ktorej sa dozvieme, ako sa Paul a jeho šiesti spolužiaci z chlapčenského gymnázia dostali na bojisko 1. svetovej vojny  
+Donútil ich triedny profesor **Kantorek**  
+Dej románu je prerušovaný rozhovormi Paula s ostatnými vojakmi o vojne a o mieri, kamarátstve, zbytočnosti vzdelania vo vojnovom svete  
+Z chlapčenskej triedy sa v 1. jednotke zišli 7 chlapci  
+
+**Paul Bäumer**  
+Román je jeho výpoveďou  
+Posledná veta románu: *"Zomrel v októbri 1918, keď na západnom fronte bol pokoj..."*  
+Veľmi citlivý chlapec, počas štúdia písal básne, doma mal rozpísanú drámu  
+Pochádzal z chudobnejších pomerov, ale ako rodina sa majú radi  
+Keď po 2 rokoch na fronte príde domov na dovolenku, matka má rakovinu, otec musí ťažko pracovať, aby získal peniaze na liečenie  
+Paulovi sa na dovolenke zdajú všetky veci cudzie, knihy, ktoré mal rád, považuje za hlúposti, pretože tie knihy klamú  
+Najsilnejšia scéna z románu: Paul sa pri útoku dostane do krátera, na neho sa zvalí postrelený francúzsky vojak. Paul nemá inú možnosť, vytiahne bodák a zabije ho. Po prvýkrát vidí toho, koho zabil. Najprv sa mu snaží pomôcť, na chvíľu ho drží myšlienka, že po skončení vojny pomôže jeho rodine. Zapísal si jeho adresu. *"Odpusť mi, kamarát, ako si mohol byť mojím nepriateľom? Keby sme odhodili zbrane a uniformy, mohol si byť mojím bratom..."*  
+Najsilnejší cit, ktorý Paul vo vojne pociťuje, je kamarátstvo  
+Na vojne pochopí, že ľudia sa nedelia na nepriateľov, ale že je to vec náhody a politických dohovorov a stačí jeden rozkaz, aby sa z nepriateľov stali priatelia
+
+**Kammerich**  
+Prvý ranený Paulov spolužiak  
+Je veľmi slabý chlapec, amputujú mu nohu, na následky toho zomiera  
+Paul v poslednej chvíli jeho života hľadá ošetrovateľov, aby mu pomohol  
+Má matku, ktorá ho veľmi miluje a ťažko niesla, že odišiel na vojnu
+
+**Műller**  
+Všade so sebou nosí učebnice, pri paľbe sa učil fyzikálne poučky a zákony, pretože si chcel urobiť vojenskú maturitu  
+Zomrel preukrutne, do brucha ho trafila svetlica, všetci boli pri ňom, zomieral pol hodinu a ako jediného ho spolužiaci pochovali
 
 
+**Katzinsky**  
+Štyridsiatnik  
+Dostal sa do oddielu k Paulovi a jeho spolužiakom	  
+Správal sa k nim kamarátsky a otcovsky  
+Naučil všetkých mladých vojakov prežiť na vojne  
+Nevzdelanec, vzdelaním pohŕdal a tvrdil, že vzdelanie ohlupuje ľudí  
+Naučil ich praktické veci, zohnať jedlo, ako sa odvšiviť  
+Zomiera, najprv má poranené nohy, Paul sa ho snaží na pleciach doniesť do lazaretu, ale on zomiera náhodnou guľkou (Paul ho niesol na chrbte 15 km mŕtveho)
+
+**Albert Kropp**  
+Najinteligentnejší  
+Tvrdí, že vojna by sa mala vyhlasovať na ľudových slávnostiach a všetci generáli, ktorí sa chcú zúčastniť vo vojne, sa majú postaviť do veľkého kruhu, vyzliecť sa donaha a do rúk zobrať palicu, majú sa medzi sebou pobiť a ten, ktorý zvíťazí, jeho mocnosť vyhrá vojnu (myšlienka humanizmu)
+
+**Tjadem**  
+Mladý zámočník, stále hladný, vždy pred útokom sa naje, lebo nevie, či prežije  
+Nikdy sa nedá ponižovať, je nevzdelaný a veľmi sa čuduje nad vojnou  
+Vôbec nemá pocit, že bojuje za svoj štát, pre neho štát znamená všetko nepríjemné: *"Poľní žandári, polícia, dane - to je váš štát.."*  
+
+**Himmelštos**  
+Desiatnik  
+Postrach pre nováčikov  
+Nováčikovia museli plniť jeho príkazy ako stroje  
+Paul musel umývať dlážku zubnou kefkou a malou lopatkou odhrabávať kasárenský dvor  
+Dostáva sa do prvej línie, keď zažije prvý útok, schoval sa do zákopu, lenže Paul ho odtiaľ vyhnal bodákom za ostatnými vojakmi
+
+**Kantorek**  
+Triedny učiteľ, telocvikár  
+Plné ústa fráz, dostal sa na vojnu, kde sa dostal do jednotky svojho žiaka, ktorého predtým nechal prepadnúť  
+Žiak Kantorka poriadne preháňa a všetko mu vracia
+
+**Myšlienky z románu**:
+*"Rozhodujúca je kefa a nie duch, systém a nie myšlienka, dril a nie sloboda..."*  
+*"Keď ostanem živý, budem bojovať proti vojne..."*  
+*"Museli sme spoznať, že naša generácia je čestnejšia ako tá ich, prevyšovali nás iba frázami..."*  
+*"Mám dvadsať rokov a poznám iba zúfalstvo, smrť, strach a najnezmyselnejšie povrchnosti s priepasťou utrpenia..."*  
+*"Nie sme viac mládež, nechceme už dobiť svet. Sme utečenci. Utekáme pred sebou, pred vlastným životom. Mali sme 18 rokov a začali sme milovať svet a bytie, museli sme však na to strieľať. Prvý granát čo vybuchol, trafil naše srdce. Sme odrezaný od aktivity, od snaženia, od pokroku. Už v to neveríme. Veríme vo vojnu."*
+
+**Kompozícia**:
+1. Využíva kontrasty
+    - Motýľ na prilbe mŕtveho vojaka
+    - Škovránčí spev a dunenie kanónov
+    - Rozkvitnutá haluz čerešne a mŕtvi vojaci
+2. Krátke vety, sloveso vysunie na začiatok vety
+3. Využíva úvahy
+    - Voľným pokračovaním je dielo Cesta späť
+
+## ROMAIN Rolland
+Francúzsky spisovateľ, študoval históriu, učil na fr. Sorbone, profesor dejín, hudby
+Diela:
+- Peter a Lucia
+- Beethovenov život - monografia
+- Život Tolstého - monografia
+- Ján Krištof
+    - Román
+    - Komponovaný ako symfónia do 4 častí
+    - Vykresľuje detstvom mladosť a umelecký úspech mladého nemeckého hudobného skladateľa v Paríži v dobe medzi Parížskou komúnou a 1. svetovou vojnou
+- Očarená duša
+    - Román
+    - Dramatický obraz ženy, ktorá sa snaží vyslobodniť z pút meštiackej spoločnosti
+
+### Peter a Lucia  
+Psychologická novela, postavil v nej do protikladu úpadok morálnych a spoločenských hodnôt, ktoré zapríčinila vojna a humanistický ideál lásky  
+Spracúva v nej Rómeo – Júliovský (Schakespeare) motív nenaplnenej tragickej lásky dvoch mladých ľudí  
+Dej je časovo ohraničený, odohráva sa od 30.1. 1918 do Veľkého piatku 29.3. 1918  
+Hlavné postavy sú Peter a Lucia, dvaja mladí ľudia, spoznali sa počas náletu na Paríž, utekali sa skryť do metra  
+Peter našiel v láske k Lucii zmysel svojho života, žili jeden pre druhého, oddelení od okolitého sveta, snažili sa nemyslieť na vojnu a na to, že ich životy sú vlastne na konci  
+Vojna si však vyberie krutú daň, počas náletu padne na nich jeden zo stĺpov rúcajúceho sa chrámu  
+Autor stavia do ostrého kontrastu atmosféru 1. svetovej vojny a lásku dvoch mladých ľudí  
+Dej je prerušovaný úvahami rozprávača, dvakrát sa objavuje tvár rusovlasého dievčatka, ktoré vidí iba Lucia – ohlasovanie skorej smrti: ohraničenie vzťahu – krvou na začiatku a smrťou na konci  
+Vojna sa pripomína vojenskou výrobou vo fabrike, kde pracuje Luciina matka, zranenými ľuďmi po bombardovaní, výbuchom v tesnej blízkosti Petra a Lucie – tento výbuch spôsobil, že Peter chce zmeniť doteraz platonický vzťah, lebo si nevie ani predstaviť odchod na front bez toho, aby mu Lucia patrila ako žena, dohodnú sa, že si budú patriť na Vzkriesenie
+
+**Peter**
+Pochádzal z majetnej meštiackej rodiny, obaja rodičia boli ochotní obetovať svoje deti vo vojne, ktorú pokladali za veľkú a svätú  
+Aj jeho starší brat Filip odchádza na vojnu s nadšením, keď však spoznal jej prvú tvár, hanbil sa za svoje ilúzie
+
+**Lucia** 
+Pochádzala z chudobných pomerov, poznala zápas o každodenný chlieb, matka pracovala v muničnej továrni  
+Lucia maľovala obrazy a predávala ich, aby zarobila peniaze na živobytie
+
+&nbsp;
+# Otázka 15
+*Priblížiť tvorbu dramatikov, jednu divadelnú hru rozobrať podrobnejšie*  
+## Dráma
+Po skončení prvej svetovej vojny v roku 1918 vznikla po rozpade Rakúsko – Uhorska Československá republika  
+V tomto období sa začína aj proces formovania slovenského profesionálneho divadelníctva, ktorý sa stretával s mnohými ťažkosťami – bolo málo slovenských hercov, režisérov, dramaturgov i slovenských divadelných hier  
+Všetky tieto okolnosti zapríčinili, že rozvoj drámy zaostával za poéziou a prózou  
+ 
+V medzivojnovom období vznikli na Slovensku tri profesionálne divadlá 
+    – Slovenské národné divadlo v Bratislave
+    - Východoslovenské národné divadlo v Košiciach 
+    - Slovenské ľudové divadlo v Nitre
+
+Ich vznik umožnil vytvoriť prvú profesionálnu scénu, ktorú reprezentovali herci Andrej Bagar, Oľga Borodáčová, Ján Borodáč a Hana Meličková  
+O rozvoj profesionálneho divadelníctva sa zaslúžil aj režisér Ján Jamnický
+
+**Dramatická tvorba** sa vyvíjala v troch etapách
+1. etapa (20. roky) 
+    - Dominuje klasický repertoár
+    - V prvých povojnových rokoch sa na scénach divadiel hrali hry starších autorov – Ján Chalupka, Ján Palárik, Jozef Hollý
+    - Autormi prvých povojnových divadelných prác boli spisovatelia staršej generácie – Kukučín, Timrava, Tajovský 
+    - Hrali sa aj hry českých a ruských autorov, často Hviezdoslavov Herodes a Herodias
+2. etapa (30. roky) 
+    - Nastupuje nová generácia
+    - Začína sa tvorba I. Stodolu a J. Barča – Ivana. 
+3. etapa (40. roky) 
+    - Začína sa experimentovať
+    - Vzniká psychologická dráma – I. Stodola, Július Barč-Ivan a Peter Zvon
+    - V období 2. svetovej vojny mnohí autori alegoricky vyjadrovali odpor k fašizmu zobrazením Jánošíka ako bojovníka proti panskej nevôli
+
+Divadelná hra sa realizuje na špeciálne upravenom priestore – **javisku**  
+Neoficiálne uvedenie divadelnej hry pre novinárov a pozvaných hostí – **predpremiéra**  
+Prvé uvedenie divadelnej hry – **premiéra**  
+Druhé uvedenie divadelnej hry – **repríza**  
+Posledné uvedenie divadelnej hry – **derniéra**  
+  
+**Kompozícia drámy**  
+- Vonkajšia stavba (súvis s javiskovou realizáciou)
+    - Dejstvá 
+        - Časti hry oddelené spúšťaním opony, zväčša medzi dejstvami býva prestávka
+    - Scény 
+        - Zmena dekorácií, osvetlenia i hercov na javisku
+    - Výstupy 
+        - Zmena postáv
+- Vnútorná stavba  (dramatický dej)
+    1. Expozícia
+        - Úvodná časť
+    2. Kolízia
+        - Zauzľovanie deja, zápletka
+    3. Kríza
+        - Vyvrcholenie deja
+    4. Peripetia
+        - Dejový zvrat
+    5. Katastrofa
+        - Riešenie konfliktu
+
+**Dramatické literárne žánre**
+- Tragédia
+    - Vznikla v antike
+    - Má vážny def a končí sa tragicky, zväčša smrťou hlavného hrdinu
+    - Dej tvorí konflikt medzi výnimočným hrdinom a silami, ktoré sú mocnejšie ako on
+    - **Tragický hrdina**
+        - Nadpriemerný, vznešený človek, ktorý za svoje skutky musí zomrieť
+    - Najznámejší autor tragédií **Sofokles**
+- Komédia
+    - Obraz komického vzťahu k svetu s cieľom vyvolať smiech
+    - Smiech vyvolávajú nedostatky a slabosti človeka
+    - **Komický hrdina**
+        - Podpriemerný, má mnoho nedostatkov a preto pôsobí smiešne
+        - Najznámejší autor komédií **Aristofanes**
+- Činohra
+    - Vznikla v 19. storočí
+    - Má závažný dej, ale konší sa zmierlivo
+    - Často zobrazuje spoločenské konflikty a problémy
+    - Zaoberá sa i psychikou postáv
+    - Najznámejší autor **Čechov**
+
+**Literárne pojmy**  
+**Replika** - prehovor jednej postavy v dialógu  
+**Autorská poznámka** - text v zátvorke pri menách konajúcich postáv, tvorí autorizovanú súčasť literárneho textu  
+**Dramatická postava** - hercom stelesnená dramatická osoba, ktorá tým nadobúda vyšší stupeň objektívneho ľudkého bytia
 
 
+## Ján Chalupka 
+1791 – 1871  
+1. najvýznamnejší slovenský dramatik  
+Tvorca slovenskej veselohry, evanjelický kňaz  
+
+### Kocúrkovo
+Kocourkovo, aneb jen abychom v hanbě nezústali  
+Najvýznamnejšie dielo  
+Kocúrkovo – mesto, kde žili nevzdelaní, odnárodnení  
+Zobrazuje život slovenskej spoločnosti v 30. rokoch 19. storočia  
+Typ malého mesta, ktorého predstavitelia si o svojom spoločenskom postavení myslia viac ako v skutočnosti znamenajú  
+
+**Obsah**  
+Voľby nového učiteľa a jeho príchod do Kocúrkova  
+Učiteľa Slobodu chce získať Pán z Chudobíc pre maďarizáciu a Tesnošil za muža svojej dcéry  
+Sloboda sa nakoniec ožení s dcérou starého učiteľa Procházku a tým potvrdí svoj nesúhlas s maďarizáciou  
+Vysmieva sa z nastupujúceho meštiactva, dôležitú úlohu kladie na pokrokovú inteligenciu  
+
+**Hlavné postavy**  
+Pán z Chudobíc – reprezentuje skrachovanú, schudobnenú šľachtu  
+Obuvnícky majster Jánoš Tesnošil – predstavuje novú nastupujúcu spoločenskú vrstvu  
+Učiteľ Sloboda – predstaviteľ slovenskej národne uvedomelej inteligencie – protiklad prvých dvoch postáv
+
+Vo svojich hrách sa Chalupkovi podarilo vykresliť typy predstavujúce nevyhnutný zánik feudalizmu  
+Postavy charakterizuje aj pomenovaním – Tesnošil-obuvník, pán z Chudobíc  
+Jeho hry sú humorné i satirické obrazy zo života slovenských mestečiek  
+Vystupujú v nich predstavitelia drobnej buržoázie (remeselníci, krčmári) a postavy malomestskej byrokracie (richtári, notári)  
+Obraz tejto triedy dokresľuje postavami zemanov  
+Proti nim uvádza uvedomelú slovenskú inteligenciu, ktorá sa hlási k ľudu  
+Kritizuje chyby jednotlivcov, rodín i celých tried  
+Ich nedostatky pramenili zo spiatočníctva a brzdili vývin spoločnosti  
+Chyby slovenských ľudí: konzervatívnosť, v osobnom i rodinkárskom sebectve, triedna neuvedomelosť, otrocká poníženosť voči šľachte, malomeštiacke prospechárstvo, neúprimnosť, odnárodňovanie, opičenie sa po cudzích vzoroch, po panskom živote  
+V dielach je kritika, satira, irónia i humor  
+
+Chalúpka je zakladateľom dramatickej tradície, z ktorej vyrastali ďalší úspešní zakladatelia pokrokových diel ako Palárik a Záborský
+
+## Ján Palárik 
+Predstaviteľ matičného obdobia  
+
+- Veselohry
+    - Drotár
+    - Inkognito
+    - Zmierenie alebo dobrodružstvo pri obžinkoch
+    - Dimitrij Samozvanec (smutnohra)
+
+## Zmierenie alebo dobrodružstvo pri obžinkoch
+**Útvar** - veselohra, oživená  rýmovaným veršom  
+**Miesto a čas deja** - grófkin kaštieľ, 1860   
+**Kompozícia** - 3 dejstvá  
+**Hlavná téma** - odnárodňovanie Slovákov a prinavrátenie k slovenskému národu, rieši to v polohe zemianstva a slovenskej inteligencie  
+Využil tu situačnú komiku – dvojzámenu hlavných postáv  
+Postavy sú rozdelené na vlastencov a odrodilcov  
+- Vlastenci: 
+    - Elisa Harabovská  
+        - Grófka, sirota 
+        - Od detstva zasnúbená s barónom Kostrovickým 
+        - Krásna, milá k ľudu a služobníctvu
+        - Hlási sa k slovenskému národu, hovorí po slovensky
+    - Miluša Oriešková 
+        - Dcéra vlasteneckého učiteľa
+        - Vychovávaná v národnom duchu a tolerancii k Uhorsku
+        - Vzdelaná, bystrá 
+        - Ovláda cudzie jazyky
+        - Hrá na klavíri 
+        - K vlastenectvu vedie aj grófku
+    - Zememerač Rohon 
+        – Priateľ baróna, pôvodom Slovák, ale štúdiom a prostredím sa pomaďarčil
+        - Pod vplyvom Miluše sa vracia k svojím koreňom 
+- Odrodilci:
+    - Ľudovít Kostrovický 
+        – Barón, snúbenec grófky, zhýčkaný budapeštianskym prostredím, ušľachtilý, priateľský k Rohonovi
+        - Dáva prednosť láske pred majetkom
+        - Hlási sa k maďarskému národu, hoci má slovenský pôvod
+        - Pod vplyvom lásky ku grófke Hrabovskej zmení svoj postoj k slovenskému ľudu
+        - Autor v ňom nachádza dobré jadro a uvedomuje si, že šľachta zavinila ťažké postavenie ľudu
+        - Dá peniaze na výstavbu školy, aby sa mohla rozširovať vzdelanosť slovenského ľudu
+
+**Obsah**
+Grófka Elvíra Hrabovská a jej spoločníčka Miluša Oriešková si vymenili úlohy, aby podrobili skúške ženícha, baróna Lajoša Kostrovického  
+Ten si po príchode do kaštieľa vymení úlohu so svojím priateľom, zememeračom Rohonom  
+Na základe výmeny vzniknú rôzne komické situácie  
+Napokon veselohra končí šťastne  
+Grófka Hrabovská za zaľúbi do baróna Kostrovického a Miluša Oriešková sa zaľúbi do zememerača Rohona  
+
+Celá veselohra je veľmi vtipná  
+Autor tu využil veľa zo slovenskej folkloristiky, najmä ľudové tradície okolo zberu obilia a krásne slovenské ľudové piesne  
+
+Jazyk a štylistické prostriedky: pekná slovenčina, veľa maďarských výrazov, hovorový jazyk, aforizmy, príslovia a porekadlá
+
+### Statky - zmätky
+J. G. Tajovský  
+Druhá fáza realizmu  
+Realistická dráma zo slovenskej dediny o sile majetku a manželských vzťahoch   
+V dráme využíva dedinské prostredie, nadväzuje na tradíciu ľudovej veselohry, chalupkovskej komédie a badateľný je vplyv čechovovskej drámy  
+Konflikty medzi postavami sú realistickým obrazom slovenskej dediny  
+
+**Ďurko Ľavko** a **Zuzka Kamenská** súhlasia s uzavretím manželstva bez lásky za prísľub majetku od Palčíkovcov  
+Obaja majú zatiaľ u nich bývať a pracovať na majetku  
+Mladí si nerozumejú  
+Ďurko chodí za svojou láskou Betou, Palčíkovci nie sú spokojní s prácou mladých, ktorí musia pracovať skoro ako sluhovia  
+Zuzka opúšťa Ďurka, ktorý si privedie do domu Betu  
+Vzájomné spolužitie sa však končí hádkou  
+Palčík strieľa na Ďurka, Ďurko vyženie Betu, Palčíkovci Ďurka  
+Ten prichádza odprosiť Zuzku, ale ona sa odmieta k nemu vrátiť, radšej volí osud osamelej ženy s dieťaťom  
+
+Hlavnými motívmi v hre sú vlastníctvo, jeho vplyv na rodinné vzťahy a životné hodnoty  
+Kompozične sa rozdeľujú na štyri dejstvá  
+Dej je rámcovaný vianočným obdobím, epický čas hry je jeden rok  
+Výstavbovým prvkom sú konfrontačné dialógy, autor použil minimum scénických a režijných poznámok, významovo je všetko obsiahnuté v slovnej rovine, používajú sa expresívne, nárečové slová, hovorový štýl  
+Časté sú frazeologizmy  
+Emocionálnu stránku textu podčiarkuje aj použitá syntax – jednočlenné vety s citovou angažovanosťou až vypätosťou, zmena modality viet, elipsy 
+
+&nbsp;
+# Otázka 16
+*Vybrať si jedného predstaviteľa*
+## Milo Urban
+Slovenská medzivojnová próza  
+Do slovenskej literatúry priniesol nové, moderné formy a postupy  
+Avantgardné prvky: expresionizmus, naturizmus
+
+Novely: Jašek Kutliak spod bučinky, Za vyšným mlynom
+
+### Živý bič
+Protivojnový, sociálny, unanimistický román (kolektívny hrdina, dedinský ľud reaguje ako jedna bytosť)  
+Zobrazuje ako vojna zmenila spôsob života ľudí  
+Román Živý bič tvorí ďalší vrchol slovenskej literatúry obdobia medzi svetovými vojnami a je jednou z najväčších výstrah proti vojne a jej odsúdením  
+To odsúdenie je tiché, nemé - vyjadruje a symbolizuje ho postava Ondreja Koreňa, ktorému vojna - bič zanechala ťažkú stopu na ústach, a preto nemôže prehovoriť  
+Ale aj keď sa stal nemým, jeho svedectvo je viac ako veľavravné  
+Román Živý bič je prvé dielo slovenskej literatúry, kde sa o slobode nerojčí, ale kde sa tento najvyšší pojem chápe ako skutočnosť  
+Román prinášajúci do slovenskej literatúry postavu vytvorenú pod vplyvom expresionizmu  
+Ľudia dediny Ráztoky sa ocitajú v ťažkých podmienkach vojny a rozpadu Rakúsko-Uhorska, pokúšajú sa riešiť svoju situáciu živelne, bojujú so zlým osudom, búria sa proti porobe, cenia si slobodu a prvýkrát si slobodu vlastnoručne vybojujú  
+Postava - burič je individuálna (napr. **Ilčíčka**, **Štefan Ilčík**, **Adam Hlavaj**), ale aj kolektívna (**ľud Ráztok** koná ako jeden, hovorí ako jedna postava)   Nakoniec sa mení na živel a robí účtovanie s vojakmi, obchodníkom a krčmárom, s notárom - je to otvorená, dopredu neorganizovaná, živelná vzbura  
+Expresionistické postavy konajú pudovo, málo rozmýšľajú o svojej situácii a viacej konajú  
+Pociťujú silný cit, všetko sa koná vo vybičovanej atmosfére (napr. **Eva** sa hádže do vody, **notár** dostane porážku od silného strachu, Ilčíčka nevie premôcť smútok, že jej syn nepríde a šľahá každého okolo seba, gazdiná Matajka sa bez miery opíja po smrti dieťaťa, Krista a iné dievky i ženy vyhľadávajú náručia vojakov a žandárov)  
+Veľké miesto má v správaní človeka temperament (ľudská krv) - búri sa pri láske alebo zlosti, pri nenávisti, ruky človeka sú plné krvi  
+
+Román sa zapája do skupiny literárnych diel s témou 1.svetovej vojny  
+Autor zachytáva dopad vojny na civilné obyvateľstvo, ďaleko za frontovou líniou  
+Z nič nehovoriacej vojny, ktorá sa ich netýkala, zjavia sa prví zranení (**Ondrej Koreň**), zabití (Komárovi synovia), znásobí sa bieda a hlad (Eva Hlavajová so synkom), pribudne dezercia (Adam Hlavaj), choroby (červienka, pri ktorej umrie veľa detí z dediny), rekvirácie, bohatnutie obchodníkov, nekontrolovaná moc štátnej správy (notár a žandárstvo), skazené mravy (Krista Dominová), alkoholizmus (Matajka, Kúrňava), vraždy (Štefan Ilčík zabije ukrutného veliteľa Rónu, dedina utopí notára), samovraždy (vojačik "pánča", Eva Hlavajová).
+
+Má 2 časti: 
+- Stratené ruky
+    - Adam Hlavaj
+    - Postavy
+        - Ľud 
+            – Ondrej Koreň – mrzák z vojny
+            - Eva Hlavajová – obeť nízkej panskej morálky
+            - Ilčíčka, syn Štefan a ďalší
+        - Panstvo – vrchnosť 
+            – notár Okolický
+            - veliteľ žandárov
+            - veliteľ vojakov, richtár
+
+**1. časť** 
+Dej románu sa odohráva v hornooravskej dedine Ráztoky, "ležiacej pánu Bohu za chrbtom" – to znamená, že ľudia o vojne ešte nevedeli  
+Na vojnu odchádza aj Adam Hlavaj, necháva doma svoju ženu Evu a syna, ktorá sa ťažko prebíja životom  
+Prichádza za notárom Okolickým prosiť, aby jej muža vyreklamoval z vojny  
+Vtedy Okolický zneužil svoju úradnú moc aj bezradnú Evu  
+Ostane tehotná, celá dedina ju za tento čin odsúdi  
+Farár nechce pokrstiť jej nemanželské dieťa  
+Eva sa v zúfalstve nad svojím nešťastím a biedou nakoniec utopí  
+Medzitým sa dedina prispôsobuje vojnovému životu  
+Postupne začínajú prichádzať prvé správy o mŕtvych a ranených, ľudia prestávajú byť ako jedna duša a vzťahy medzi nimi sa začínajú rozpadávať, dochádza ku konfiškácií majetku  
+Názov románu je pomenovaný podľa jazvy Ondreja Koreňa, ktorý svojím mrzáctvom je priamym dôkazom vojny – prišiel nemý, bezruký  
+*"Bol nahnutý k zemi, a ako šiel, vietor, čo dobehol časom od hôr, svieži, ihravý, nadnášal mu pravý rukáv, v ktorom nebolo ruky. Tvárou od pravého oka, trošku prižmúreného, tiahla sa mu dlhá jazva, silne nasiaknutá farbou nedávno zahojenej rany. Tak ako sa tiahla naprieč tvárou, robila dojem rany, čo vznikla pod úderom biča."*  
+
+**2.časť**
+Je ucelenejšia  
+V centre príbehu stojí Adam Hlavaj, ktorý pochopil nezmyselnosť vojny, zbehol z frontu, ukrýva sa v Ráztokoch  
+Postupne sa dozvedá čo sa stalo s jeho ženou a kto je za jej smrť zodpovedný  
+Stretne sa s notárom v hore, povznesie sa a nezabije ho  
+Do dediny prichádzajú vojaci a konfiškujú majetok  
+Nakoniec sa ľud pod vedením Hlavaja vzbúri proti pánom v dedine, chytia Okolického, zviažu o drevá a posadia do vody  
+Drevá sa uvoľnia a notár sa utopí  
+Zomiera aj Ilčíčka, žandár ju prebodne bodákom  
+
+Autor stavia do protikladu svet pánov a svet ľudu prostredníctvom Okolického a Hlavaja  
+Hlavaj je symbolom ľudu, silný, odvážny, odhodlaný bojovať za slobodu, prchký, niekedy koná pudovo, v závere podpaľuje krčmárov dom – rabovačka krčmy  
+Okolický je symbolom pánov – pokrytecký, sebecký a zbabelý  
+Román je dielom silného sociálneho protestu a ako ho nazval sám autor – bolestným výkrikom urazenej ľudskej dôstojnosti  
+
+**Symbolika stratených rúk** – pustnúce polia – ruky chýbajúce v práci na poli po odchode chlapov na front, ruky stratené na vojne – tým je spojený osud Ondreja Koreňa, ruky potrestané, zviazané – príbeh Štefana Ilčíka, ktorý sa vzbúril na vojne proti krutosti čatára Róna a zabil ho rýľom, sú to jeho ruky zviazané pred popravou, Hlavajove ruky na hrdle notára Okolického – chcel ho zabiť za to čo spôsobil Eve, nezabije ho, ale notár dostane porážku, ochrnie na jednu stranu, ruky bezmocné, prosiace o milosť – ľudia prosia Boha, aby sa už vojna skončila, Ilčíčkine ruky – ruky veštiace smrť, v zúfalstve narazia na bodáky, ruky ľudu – strašné nástroje spravodlivej pomsty
+
+## Jozef Cíger Hronský
+Počas 1. svetovej vojny bojoval na talianskom fronte  
+Stal sa tajomníkom a správcom Matice slovenskej  
+Redigoval časopis Slniečko  
+V roku 1945 emigroval so Rakúska  
+Žil v Bavorsku, Taliansku a Argentíne, kde aj zomrel
+
+**Znaky** jeho tvorby 
+Orientácia na dedinu a sociálne témy  
+Hlavný hrdina stojí na okraji spoločnosti, ale morálne veľmi vysoko  
+Ponor do vnútorného sveta postáv  
+Postavy charakterizuje fatalistický princíp nazerania na svet (nebúria sa proti osudu, podliehajú mu)  
+Lyrizácia  
+
+**Zbierka poviedok**: Podpolianske rozprávky, Medové srdce
+**Pre deti**: Smelý Zajko, Smelý Zajko v Afrike, Budkáčik a Dubkáčik, Sokoliar Tomáš  
+**Chlieb** – román, zobrazuje slovenskú dedinu v čase svetovej hospodárskej krízy, poukazuje na nezamestnanosť, vysťahovalectvo, vplyv expresionizmu
+
+### Jozef Mak 
+Sociálno – psychologický, expresionistický, fatalistický román  
+Fatalita (osudovosť) románu, spočíva v tom, že hlavná postava Jozef Mak bude mať dopredu určený ťažký osud  
+Narodil sa ako nemanželský syn matke – **vdove Makovej**  
+Krstná matka **Meľošová Hana** – nedodržala všetky zvyky, ktoré boli pri krste v tejto dedine   
+Nedala peceň chleba pod stôl, aby dieťa malo v živote šťastie, a pôrodná baba dieťa nemohla na chlieb položiť, a tak mu zabezpečiť šťastie v živote  
+Nič čo začne v živote robiť alebo urobí, sa neskončí šťastne  
+Jeho **brat Jano** ho nenávidí, musí sa o neho starať, kým matka ťažko pracuje  
+Vyčítal mu, že býva v dome svojho otca a *"veľa žere"*, a preto ho matka dala do služby k **bačovi Kubandovi**  
+Bolo mu tam dobre, ale bača mu neplatil toľko, čo mal, išiel k drevorubačom  
+Keď im zhorel dom, postavil Jozef druhý, ale na Janovom pozemku, preto považuje polovicu domu za svoju  
+Jeho **otec Gregor Biaľoš** sa nemohol verejne priznať k otcovstvu, nepomohol mu pri stavbe domu, v lese ho privalí strom  
+Jozef zažíva prvé šťastie, lásku k **Maruši**  
+Musí však narukovať na vojnu  
+Keď sa vráti, matka je mŕtva, Maruša spustnutá na tele i na duši, je vydatá za jeho brata Jana, najväčšieho opilca a bitkára v dedine  
+Jozef si po čase vezme telesne postihnutú dievčinu Julu za ženu zo súcitu (chodí k Maruši opatrovať dieťa)  
+Trpí, keď zistí, že vzťah medzi Jožom a Marušou sa obnovuje  
+Jula trpí, šťastie jej prináša narodený syn Jozef  
+Opitá Maruša tragicky zomiera pri vyváraní bielizne  
+Jula čaká druhé dieťa, zmieri sa s Jozefom, začne sa rodiť láska Jozefa k láskavej a čestnej Jule  
+Jej srdce však nevydržalo a po pôrode zomiera  
+
+**Hlavná myšlienka** – humanizmus ľudského utrpenia, zamyslenie sa nad životom, nad základnými hodnotami, ktoré ho tvoria  
+**Expresionistické prvky**: *"Keď sa chodník zúžil, šla za Makom ako psík."* – oddanosť k Jozefovi  
+Expresionistický opis dotvára náladu a vzťah dvoch ľudí: *"Na strniskách sedela únava a nekonečná triezvota. Unavilo ma leto. Zošediveli jedle na úbočiach."*  
+
+Nachádzame tu fatalizmus – podriaďovanie: *"Trp Jozef Mak. Človek – milión si, nuž vydržíš všetko, keďže nie je pravda, že najtvrdší je kameň, najmocnejšia je oceľ. Ale pravda je, že najviac vydrží na svete obyčajný Jozef Mak."*  
+
+Postavy sa málo rozprávajú, silný cit ich "zadúša" natoľko, že nemôžu vysloviť, čo chcú  
+
+&nbsp;
+# Otázka 17
+*Vybrať si jedno dielo na rozbor*
+**Retrospektívny postup** znamená, že dej sa odvíja spätne, najprv sa približuje výsledok deja a až potom udalosti, ktoré mu predchádzali
+
+## Alfonz Bednár  
+Tradicionalista, k tradičným témam pridáva kritiku malomeštiactva  
+Ukončil FF UK – slovenčinu a anglický jazyk, robil prekladateľa anglicko americkej literatúry  
+Diela stoja na kontraste prítomnosť a minulosť  
+Prínos: ženské postavy a pohľad žien na spoločenské a politické pomery
+
+**Sklený vrch**   
+Román z obdobia SNP (minulosť) a stavby hydrocentrály (prítomnosť)  
+Je napísaný denníkovou formou (retrospektíva), román s tajomstvom, nejasnosti okolo smrti jej prvej lásky  
+Príbeh z minulosti sa odohráva v Tichej doline, nad ňou sa vypína Sklený vrch – symbol čistoty a morálneho charakteru ľudí počas SNP, je tu využitý rozprávkový motív – jedna princezná, 3 muži, sklený vrch
+
+Hlavná hrdinka - Ema Klasová rieši vzťah k 3 mužom  
+1. Milan Kališ 
+    – Partizán umučený fašistami
+    - Pochovaný v Tichej doline
+    - Ema sa do neho zaľúbi, čaká dieťa, nechce ho priviesť do vojnových čias, dá si urobiť interrupciu, už nikdy nemôže mať deti, to sa stáva tajomstvom jej života
+2. Zolo Bala 
+    – Ema sa s ním zoznamuje po vojne v tábore
+    - Hľadal slúžku pre svojho brata
+    - Začala pracovať v jeho firme, neskôr sa zasnúbili
+    - Ich vzťah nebol dobrý – Zolo je vypočítavý, sebecký, nespoľahlivý. Nahováral ju, aby spolu odišli do Ameriky
+    - V roku 1947 sa vrátila do Tichej doliny – mala ísť aj zo snúbencom, v Bratislave však zmeškali vlak, Zolo vinil Emu, nechal ju na stanici a odišiel domov. Išla sama. Tu ju zastihlo aj oznámenie o svadbe Zola 
+3. Ing. Jozef Solan 
+    – Emin manžel, pracuje na stavbe hydrocentrály, zoznámili sa v Tichej doline, kde bol Jožo spolu s priateľmi lyžovať, práve keď dostala oznámenie o svadbe Zola, naschvál stratila snubný prsteň
+    - Túžia po deťoch, Ema sa rozhodne prezradiť mu tajomstvo v Tichej doline. Nestane sa tak. Utrpí nehodu na stavbe hydrocentrály, kde obidvaja pracujú. Stúpila na stavenisku na drôty s vysokým napätím a o dva dni zomrela v nemocnici. Manžel nájde denník, ktorý si písala a začne čítať. Dočíta ho práve vtedy, keď dostáva správu, že Ema zomrela.
+
+**Ema**  
+Pochádzala z Bratislavy, jej matka bola Slovenka, otec Nemec, oddaný obdivovateľ Hitlera  
+Bol to pravdepodobne on, kto udal svoju ženu a dcéru gestapu za to, že ukrývali ľudí, ktorí utekali pred Nemcami  
+Matka zahynula, Eme sa podarilo ujsť do Tichej doliny, kde žila až do konca vojny  
+Tu sa v roku 1943, v Chate pod Veľkým vrchom stretla s Milanom Kališom  
+Chodili spolu po lesoch, značkovali chodníky, obdivovali prírodu Učil ju vážiť si hodnoty ľudí a života  
+Podľa rozprávky nazval Veľký vrch – Skleným vrchom – človek môže prekonať zlo  
+Milan vedel, že vojnu čoskoro pocítia aj ľudia v horách  
+Často odchádzal na niekoľko dní, Ema tušila, že spolupracuje s partizánmi  
+Na dohovorený úkryt, pod skalami Milan neprišiel, Ema ho čakala márne  
+Po skončení vojny začala Milana hľadať, dozvedela sa, že je nezvestný  
+Čo sa s ním naozaj stalo sa dozvedela až v Tichej doline – keď sa zoznámila so Solanom, porozprával jej to Tretina – bývalý partizán Nemci ho chytili a umučili k smrti. Pochovali ho tam, kde zomrel – pri potoku  
+
+**Hodiny a minúty**   
+Zbierka noviel  
+Názov je symbolický, aby hodiny odbíjali rýchlejšie čas vojny  
+Témy: vojna, povojnové roky, kult osobnosti  
+Najlepšia novela: Kolíska – odohráva sa v 50. rokoch  
+Hlavná postava Zita Černoková
+
+### Kolíska  
+Žáner - novela (psychologická)  
+Druh - epika  
+Forma - próza  
+Prostredie - dedinské  
+Téma - odhalenie psychiky hlavných postáv postavených do hraničnej situácie a na pozadí partizánskeho boja  
+Obdobie - obdobie klérofašistickej Slovenskej republiky (nemecká okupácia)
+
+Súčasť zbierky noviel Hodiny a minúty
+Súbor 4 noviel – vojnové obdobie, SNP ako hraničná existenčná situácia, vojna a jej tragický dosah na osudy postáv
+Pásmová kompozícia (konfrontácia minulosti a prítomnosti)
+Autor tu odkrýva psychológiu, pocity, výčitky svedomia, spomienky
+
+**Kompozícia**  
+Striedanie niekoľkých časových rovín, retrospektívne rozprávanie  
+Bednár bol prvým autorom, ktorý ruší čiernobiely obraz povstaleckých hrdinov, zachytil aj priebeh súdnych procesov na začiatku 50-tych rokov a obdobie združstevňovania
+
+Dve línie: 
+1. línia prítomnosti 
+    – Po vojne, Zita počúva v rádiu priamy prenos zo súdu, na ktorom svedčí aj jej manžel Mišo Černek
+2. línia minulosti 
+    – Pbdobie prvej republiky, mladosť Zity, obdobie SNP (ukrývanie Majerského)
+
+**Dej** novely sa začína v roku 1952  
+Zita Černeková počúva v rádiu priamy prenos zo súdneho procesu s tzv. triednymi nepriateľmi  
+Jedným z obvinených je aj **Jozef Majerský** – súdený ako kulak, sabotér a zradca  
+Bráni sa obvineniam, že je nevinný  
+Jedným zo svedkov je aj Zitin manžel **Mišo Černek**, bývalý veliteľ partizánskej skupiny  
+Má dosvedčiť, že Majerský ušiel od svojej jednotky s úmyslom zradiť partizánov Nemcom  
+Zita ľutuje Miša, lebo vie, že obvinenia sú nepravdivé a pri počúvaní rádia si spomína...
+
+*...bolo to v roku 1945. Zita bola sama doma s dieťaťom. Jej manžel Mišo bol veliteľom partizánov, nemala o ňom žiadne správy. Dedinu pred časom obsadili Nemci a tých, čo pomáhali partizánom, zabili. V tú noc bola dlho hore, kolísala choré dieťa v kolíske. Do domu zrazu vošiel Majerský, videl, že sa tam svieti, chcel požiadať o pomoc a úkryt. Napriek tomu, že sa Zita veľmi bála, ukryla ho v izbe pod perinami...*
+
+Majerský bol členom partizánskej skupiny, ktorej veliteľom bol Černek  
+Ochorel, zapálili sa mu oči, mal veľké bolesti  
+Rozhodol sa, že opustí skupinu  
+V noci zišiel z hôr a vošiel do prvého domu na okraji dediny  
+Nevedel, že tam býva Zita a že je ženou Černeka  
+Až teraz v tmavej izbe si začal uvedomovať, čo spravil  
+Napadlo mu, že svojím činom ohrozil i ostatných, lebo podľa jeho stôp v snehu môžu nájsť ich úkryt a že ohrozuje i Zitu a dieťa a spomína, ako jej ublížil pred niekoľkými rokmi  
+Zita začala v kuchyni pripravovať jedlo a tiež si spomenula na minulosť...
+
+*... ona i jej matka pracovali v Čechách na veľkostatku, kde bol vedúcim Majerský. Prišli na to, že robí podvody. Zita sa s ním stýkala, lebo jej sľúbil, že si ju zoberie. Matka sa však dozvedela, že je ženatý a má deti. Keď mu povedala, že čaká od neho dieťa, odvrhol ju...*
+
+Zita ponorená do spomienok ďalej kolísala dieťa  
+Zvuk kolísky upútal nemeckého dôstojníka  
+Pripomínal mu zvuk mlyna, kde vyrastal  
+Nemci sa vhrnuli do Zitinej chalupy a usadili sa okolo stola  
+Musela stále kolísať, pričom tŕpla strachom o dieťa i Majerského vo vedľajšej izbe  
+Vojaci si z nej robili posmech, trápili ju a nedovolili sa jej ani obliecť  
+Majerský počul rehot vojakov a dunenie kolísky  
+Trpel stále viac a uvažoval nad tým, že sa pokúsi dostať von  
+Nemci pýtali od Zity hrniec, chceli sa doň vymočiť a dať jej napiť, že je to varené víno  
+Chceli tým i pokrstiť Zitino dieťa  
+Keď sa Zite zdalo, že to viac nevydrží, v obave o dieťa vzala syna do náručia a vbehla do izby volajúc Majerského o pomoc  
+Ten však medzitým ušiel cez okno a na ulici zastrelil nemeckú hliadku  
+
+Záver sa odohráva opäť v prítomnosti  
+Majerského odsúdili a Zita vyčíta mužovi, že svedčil proti Mišovi  
+Ten sa však bráni, že na súde povedal pravdu, ale jeho výpoveď nevzali do úvahy
+
+## Ladislav Mňačko - Ako chutí moc
+**Téma** - Vplyv moci a peňazí na charakter človeka  
+**Idea** - Moc a sláva nevytvárajú osobnosť, práve naopak, deformujú ju. Priatelia sú dôležitejší ako bohatstvo   
+**Vonkajšia kompozícia** - 18 kapitol označené arabskými číslami  
+**Vnútorná kompozícia** - dej tvorí 1 hlavná dejová línia pozostávajúca z rozprávaní o živote hlavného hrdinu (je vyrozprávaný retrospektívne)  
+**Prostredie** - Príbeh sa odohráva počas 3 dní na pohrebe predsedu vlády  
+**Doba** - socializmus, doba, keď bol nastolený totalitný režim  
+**Rozprávač** - personálny – 3. osoba singuláru minulého času  
+
+Použité postupy
+    - Rozprávací 
+        - Fotoreportér rozpráva o živote mŕtveho
+    - Úvahový 
+        - Uvažuje o svete, živote, mravných hodnotách, moci a peniazoch
+ 
+Dielo je písané formou pre čitateľov všeobecného typu  
+Autor nevyužíva umelecké literárne prostriedky, ale miestami sa stretávame s odbornými slovami, ktoré sa spájajú s politikou, priemyslom a obchodom  
+
+**Postavy**: 
+Pri opise postáv sa autor nesústreďuje na ich fyzickú charakteristiku  
+Opisuje skôr duševné stránky človeka a jeho morálne hodnoty  
+- Hl. postava - mŕtvy
+    - V diele nebolo spomenuté jeho meno, vyskytuje sa často ako Veľký muž
+    - Je to fotoreportérov bývalý priateľ
+    - Svet bohatstva a politického vplyvu ho zmenil, zabudol na priateľov, pohltili ho povinnosti a zodpovednosť
+- Frank
+    - Jeho prostredníctvom je celý príbeh vyrozprávaný
+    - Fotoreportér pre miestne noviny
+    - Dávny priateľ mŕtveho, kamaráti už zo školy, no časom naňho mŕtvy zabudol
+- Margita
+    - V detstve to bola Frankova priateľka, neskôr sa vydala za funkcionára
+    - Na manželovi jej záležalo, mala ho rada
+- Martin
+    - Syn z prvého manželstva
+    - Mal s otcom veľmi zlý vzťah, prišiel mu na pohreb v monterkách, pracoval ako robotník, asfaltovali cestu
+
+**Dej** začína na pohrebe Veľkého muža  
+Fotoreportér Frank fotí pre noviny fotky z tejto udalosti, pretože mŕtvy bol mužom s vysokou funkciou  
+Na pohreb prišli tisíce ľudí, no väčšina len z povinnosti  
+A to bol podnet, ktorý pripomenul Frankovi minulosť, týkajúcu sa života štátnika a samotného fotografa   
+Tí dvaja sa poznali už od detstva, chodili spolu do školy, boli výborní priatelia  
+No neskôr sa všetko zmenilo  
+Život funkcionára sa zmenil a ovplyvnil všetko naokolo  
+Prvým problémom medzi dvoma kamarátmi bolo dievča Margita, ktorá bola v tom čase Frankovou priateľkou  
+No jeho rovesníkovi sa páčila tiež, a dali sa za Frankovým chrbtom dohromady  
+Keď sa to Frank dozvedel, zbil svojho priateľa do bezvedomia  
+Mocenský charakter mŕtveho sa prejavil neskôr, keď obaja slúžili v povstaní  
+Frank pod jeho velením  
+Keď napadli Nemci ich tábor, spolu utiekli cez hory k inej skupine  
+Tejto skupine velil Rus, ktorý ich s nevôľou prijal  
+Správal sa povýšenecky a zneužíval svoju moc  
+Raz prikázal Frankovi zabiť nevinného roľníka  
+Keď Frank odmietol, ruský veliteľ ho obvinil, že je zradca  
+Jeho priateľ sa Franka zastal  
+Zatkol Rusa a sám prebral vedenie nad oddielom  
+Po povstaní mŕtvy postupoval v kariére rýchlo  
+Stal sa šéfom kraja, v ktorom nič nefungovalo  
+Vtedy priateľstvo s Frankom prekvitalo  
+Všade chodili spolu  
+Štátnik bol tvrdý a nekompromisný, ale spravodlivý  
+Jeho prejavy mali energiu a dokázal ovládať masy ľudí  
+Problémové situácie v kraji riešil s prehľadom  
+Raz sa stalo, že mu horská dedina poslala list, v ktorom tvrdila, že nepotrebuje štát, a že nebude plniť päťročnice  
+Štátnik prikázal vypnúť dodávky elektriny, zrušiť poštu a autobusy do dediny  
+Za týždeň bol problém vyriešený  
+Dedina prišla s plánom na splnenie päťročnice a všetko fungovalo po starom   
+Neľudský zvrat v živote tohto muža prišiel, keď si vymenil sekretárku a aj keď bol ženatý, vzal si ju neskôr, po rozvode - peknú príťažlivú sekretárku za ženu   Rozviedol sa s Margitou, ktorú považoval za nereprezentatívnu  
+Týmto rozhodnutím si ohrozil kariéru a dal dôvod Galovičovi, ktorý bol jeho mravnostným dozorom, na jeho odvolanie  
+Galovič ale mlčal  
+Neskôr sa stal šéfom kabinetu a jeho charakter sa definitívne zmenil  
+Začal byť podozrievavý a krutý viac než musel  
+Začal si zhromažďovať všetku moc do rúk a na Franka úplne zabudol  
+V jednu noc bol ešte s Frankom na večeri u ich starých priateľov a tam sa opil  
+Správal sa neprístojne  
+Ich priatelia by to neboli prezradili, ale o týždeň ich dal zavrieť  
+Jeho miesto v srdciach priateľov sa vytrácalo  
+Nedal na žiadne rady, no za svoje chyby trestal iných  
+Stalo sa tak aj pri budovaní cementárne, ktorú napriek dokonalým projektom postavil na opačnom konci mesta, na nevyhovujúcom mieste  
+Cementáreň vydržala 2 roky, pretože okolie fabriky nebolo dostatočne zásobované vápencom  
+To však nebolo všetko  
+Bola vybudovaná *"po vetre"* a bielym prachom znehodnocovala kultúrnu zložku mesta a zdravotnú stránku obyvateľstva  
+Jemu to však bolo jedno, žil si predsa na kopci vo vile, so všetkými možnými vymoženosťami, ktoré bežný človek nikdy mať nebude  
+Peniaze a moc ho znetvorili  
+Stal sa z neho človek, ktorý nikomu neveril, všetko chcel riadiť sám, mať každého pod kontrolou  
+Rozhodoval o veciach, ktorými kľudne mohol poveriť iných mestských zamestnancov  
+Mal toľko práce, že ani pri jednom probléme nevydržal dlho a ani ho nevyriešil a časom naň úplne zabudol  
+Ucho mu zrástlo s telefónom a svet okolo si prestal všímať  
+Keď naňho prišla smrteľná choroba, nikto mu neprišiel podať pomocnú ruku  
+Stratil to najcennejšie čo mal – priateľov  
+Príčina smrti sa zdala Galovičovi málo dôstojná (urémia) a lekári ju museli zmeniť na leukémiu  
+Napokon zomrel celkom opustený, stratil nielen česť a tých, ktorí ho skutočne mali radi, ale aj postavenie – nemal už skutočnú moc, pred definitívnym pádom ho "zachránila" iba choroba a smrť:
+
+*"Načo ti bola všetka tá moc, ktorú si získal? Ako ti chutila? V čom ti pomohla, čo ti vyriešila, kam ťa doviedla? O desať rokov ťa už nespomenú ani v historickom kalendári. Stálo to všetko za to, takto potlačiť, zničiť, zradiť sám seba? Bývali časy, keď zástupy šli za tebou do ohňa. A predvčerom ti nemal ani kto oči zatlačiť. Nie smútok, nie nenávisť. Ale neúčasť, ľahostajnosť, ty mŕtvy, ľahostajnosť ťa bude sprevádzať na tvojej zajtrajšej poslednej ceste do zabudnutia."*
+
+### Smrť sa volá Engelchen  
+Námet - 2. svetová vojna  
+Dej sa odohráva v dedine Ploštiná (na slovensko-moravskom pomedzí)  
+Autobiografický román z obdobia SNP  
+Nejde o obraz hrdinstva ľudí, toto dielo je skôr výpoveďou o obetiach, ľuďoch, ktorí boli vykresľovaní ako hrdinovia  
+Partizáni boli obyčajní ľudia, podliehajúci depresiám a rúcajúci sa pod tlakom vojnovej atmosféry  
+
+Ústredný motív – **motív viny** 
+Hlavného hrdinu prenasledujú vidiny horiacej moravskej obce Ploštiny a spálených ľudských tiel  
+Postava je vykreslená v psychologických detailoch  
+Autobiografia - je to skutočná udalosť  
+
+**Hlavné postavy**
+- Voloďa 
+    - Autor  
+- Nikolaj 
+    - Partizánsky veliteľ   
+- Židovka Marta 
+    - Miluje Voloďu, ale na prejavy lásky nie je počas vojny čas
+    - Jej pravé meno Goldová, teraz Rašková, aby ju neodhalili
+    - Vydáva sa za dcéru starej Raškovej, ktorej upálili syna – príde do nemocnice za Voloďom, aby mu povedala18#, že za nič nemôže
+    - Robila špiónku – spala s nemeckými dôstojníkmi, získavala z nich informácie
+    - Na konci vojny sa otrávi morfiom
+    - Nebola schopná žiť so špinou, čo má na sebe, stratila rodičov i úctu sama k sebe
+- Engelchen
+    - Nemecký dôstojník, ktorý dal príkaz k zabitiu mužov Ploštiny (27 chlapov upália v jednom dome)
+    - Voloďa ho chce nájsť a pomstiť ich smrť
+- Eliška
+    - Sestrička v nemocnici, Voloďa je jej prvý pacient
+    - Navzájom si dávajú odvahu žiť
+    - Rozpráva Voloďovi celý svoj život
+    - Nakoniec, keď Voloďa odchádza, dáva jej sľub, že keď nájde Engelchena a pomstí sa, tak sa po ňu vráti
 
 
+Prebieha retrospektíva - Voloďa po vojne leží v nemocnici, má ochrnuté nohy a spomína si na dni, ktoré prežil v Nikolajovej skupine  
+Guľka mu prešla tesne vedľa miechy  
+Je pesimistický, nevidí zmysel života  
+Lekár verí, že ho uzdraví, vpichuje mu do nôh veľké injekcie, nakoniec Voloďu vylieči  
 
+**Ploština** – dedina, nemci upálili všetkých mužov z dediny, ukrývali partizánov, pomáhali im  
+Prišli práve vtedy, keď partizáni odišli, dedina nebola chránená - Voloďa sa cíti zodpovedný  
 
-
-
-
-
+&nbsp;
+# Otázka 18
 
 
 
