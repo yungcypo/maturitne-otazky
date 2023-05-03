@@ -1,5 +1,6 @@
 # Maturitné otázky
 Tu sa nachádzajú maturitné otázky, ktoré som si vypracoval  
+SOŠ T. Vansovej 32, Prievidza, odbor TIS, 2022/2023  
 Ak je niečo zle, máš námietky, chcel by si niečo doplniť, niečo sa opýtať *(aka v prípade potreby)*, napíš mi na [cypooriginal@gmail.com](mailto:cypooriginal@gmail.com)
 
 ## Obsah
