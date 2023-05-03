@@ -1,5 +1,6 @@
 # Pozemkové právo, realitná prax - maturitné otázky
 
+<!--
 ### Obsah
 - [Znalecký posudok](#znalecký-posudok)
     - [Časti znaleckého posudku](#časti-znaleckého-posudku)
@@ -27,6 +28,7 @@
     - [Časti]()
 - [Vznik pozemkových kníh]()
 - [Znaky gotickej a románskej architektúry]()
+-->
 
 &nbsp;  
 # Znalecký posudok
@@ -250,6 +252,7 @@ V katastrálnom konaní sa:
 Katastrálne konanie je na príslušnom okresnom úrade, v ktorého územnom obvode sa nechádza nehnuteľnosť  
 Ak sa nehnuteľnosť nachádza na územnom obvode viacerých okresných úradov, príslušný úrad koná o celom návrhu. Následne upovedomí dotknuté úrady o začatí konania a zašle im rozhodnutie o povolení vkladu  
 Katastrálne konanie možno vykonať aj elektronicky. Náležitosti sú rovnaké ako pri písomnom podaní, musia byť podpísané elektronickým podpisom
+
 ## Vklad
 Spôsobuje vznik, zmenu alebo zánik vlastníckeho práva  
 Má právotvorné účninky  
@@ -270,38 +273,61 @@ Prílohy:
 - Dohoda o splnomocnení, ak je účastník konania zastúpený splnomocnencom
 
 K návrhu na vklad sa prikladajú kolky v hodnote 66€, za urýchlené konanie 265,50€ 
+
 ## Záznam
 Nemá vplyv na vznik, zmenu alebo zánik práv k nehnuteľnosti. Má len evidenčný charakter (zmena poradia záložných práv)  
 
-Do katastra nehnuteľnosti sa zapisujú záznamom práva k nehnuteľnostiam *(vlastnícke právo, záložné právo a iné, ktoré sú predmetom katastrálneho konania)* ktoré vznikli, zmenili sa alebo zanikli:
+Do katastra nehnuteľností sa zapisujú záznamom práva k nehnuteľnostiam *(vlastnícke právo, záložné právo a iné, ktoré sú predmetom katastra nehnuteľností)* ktoré vznikli, zmenili sa alebo zanikli:
 - Zo zákona
+- Rozhodnutím štátneho orgánu
 - Príklepom licitátora na verejnej dražbe
-- Vydražením
+- Vydržením
 - Osvedčené notárom
 
 Záznam sa vykoná na základe verejných a iných listín  
 Kataster vykoná záznam bez návrhu, prípadne na návrh vlastníka alebo inej oprávnenej osoby  
+
 Návrh na vykonanie záznamu sa musí podať písomne a musí obsahovať:
 - Meno a miesto trvalého pobytu navrhovateľa
 - Názov okresného úradu, ktorému je návrh adresovaný
 - Verejnú alebo inú listinu, ktorá potvrdzuje právo k nehnuteľnosti
 - Označenie príloh
+
 ## Poznámka
 Vyjadruje skutočnosti, ktoré obmedzujú oprávnenie vlasntíka nakladať s nehnuteľnosťou alebo informuje o nehnuteľnosti alebo o práve k nehnuteľnosti  
-Na základe oznámenia súdu zapíše okresný úrad do katastra poznámku o začatí vyvlastňovacieho konania a o predbežnom opatrení, ktorým sa zakazuje nakladať s nehnuteľnosťou  
+Na základe oznámenia súdu zapíše okresný úrad do katastra poznámku o začatí konania o súdnom výkone, o začatí exekúcie, o vyhlásení konkurzu proti vlastníkovi nehnuteľnosti, o začatí vyvlastňovacieho konania a o predbežnom opatrení, ktorým sa zakazuje nakladať s nehnuteľnosťou  
 Okresný úrad zruší poznámku na návrh toho, kto podal návrh na jej zápis a preukáže sa, že pominuli dôvody zápisu
 
 &nbsp;
 # Katastrálny operát
-## Časti + charakteristika
+Katastrálny operát tvoria dokumentačné materiály potrebné na spravovanie katastra a obnovu katastrálneho operátu  
+Katastrálny operát sa vedie v papierovej podobe alebo v elektronickej podobe  
+
+Katastrálny operát obsahuje tieto časti
+- **Súbor geodetických informácií**, ktoré tvoria
+    - Katastrálne mapy
+    - Mapy určeného operátu
+    - Geometrické plány
+    - Záznamy podrobného merania zmien
+    - Zoznamy súradníc
+    - Údaje o spojení lomových bodov a ďalšia geodetická dokumentácia
+- **Súbor popisných informácií**, ktorý tvoria
+    - *Údaje o katastrálnych územiach*, parcelách, právach k nehnuteľnostiam a iných oprávnených osobách (meno, priezvisko, rodné priezvisko, dátum narodenia, rodné číslo a miesto trvalého pobytu/názov sídlo, IČO), prípadne iné identifikačné údaje o skutočnostiach súvisiacich s právami k nehnuteľnostiam, o ohlásených zmenách, ako aj o zmenách zistených pri prešetrovaní zmien, pri revízií údajov katastra a pri obnove katastrálneho operátu
+    - *Údaje o nehnuteľnostiach*, údaje o vlastníkoch alebo iných oprávnených osobách a iné údaje, ktoré sa zapisujú do [listu vlasníctva](#list-vlastníctva)  
+    - *Údaje o sídelných a nesídelných názvoch*
+- **Zbierku listín**, ktorá obsahuje najmä písomné vyhotovenia zmlúv, dohôd a písomných vyhlásení vkladateľov o vložení nehnuteľnosti do majetku právnických osôb, písomné vyhotovenia rozhodnutí štátnych orgánov a notárskych osvedčení a iných listín, ktoré podľa zákona potvrdzujú práva k nehnuteľnostiam, a dokumentáciu sídelných a nesídelných geografických názvov
+- **Sumárne údaje katastra o pôdnom fonde**
+- **Pozemkové knihy**, železničnú knihu a ich operát; pozemkové knihy a železničná kniha slúžia ako zdroj údajov o katastrálnych územiach, parcelách, vlastníkoch a o právach k nehnuteľnostiam
+
 
 &nbsp;
 # List vlastníctva
 ## Charakteristika + časti
 List vlastníctva je verejnou listinou, ktorá osvedčuje vlastnícke a iné vecné práva k nehnuteľnosti  
 Obsahuje základné údaje o nehnuteľnostiach, vlastníkoch, právach k nehnuteľnostiam  
-Základným dokladom pre preukázanie vlastníckych vzťahov k nehnuteľnosti je okolkovaný list vlastníctva určený pre právne úkonyy. Nesmie byť starší ako 3 mesiace  
+Základným dokladom pre preukázanie vlastníckych vzťahov k nehnuteľnosti je okolkovaný list vlastníctva určený pre právne úkony. Nesmie byť starší ako 3 mesiace  
 Informácie, ktoré sa týkajú konkrétnej nehnuteľnosti treba žiadať vždy len na tej správe katastra, v ktorej katastrálnom území sa nehnuteľnosť nachádza. Jedine tam po zaplatení správneho poplatku vydajú aktuálny výpis z listu vlastníctva  
+List vlastníctva obsahuje číslo listu vlastníctva, názov okresu, názov obce a názov katastrálneho územia
 
 Skladá sa z:
 - A - majetková podstata
@@ -348,6 +374,12 @@ List vlastníctva využívajú:
 - Cudzinecká polícia pri prihlasovaní cudzincov k prechodnému pobytu
 - Iné orgány štátu a verejnej správy pri vydávaní vyjadrení
 
+V prípade, že k danej nehnuteľnosti nie je založený list vlastníctva, vlastníctvo je možné preukázať výpisom z pozemkovej knihy a identifikáciou, prípadne inou verejnou listinou  
+Ak je v rámci katastrálneho konania na správny orgán doručená listina týkajúca sa zmeny vlastníckych alebo iných práv, list vlastníctva sa plombuje  
+Z vlastníctva nehnuteľnosti tiež vyplýva povinnosť ohlasovať zmeny správe katastra do 30 dní od zmeny, aby mohli byť v katastri riadne evidované a zaznačené do listu vlastníctva  
+List vlastníctva potreba najmä pokiaľ potreba oficiálne preukázať vlastníctvo nehnuteľnosti  
+
+**Plomba** - signalizuje začaté konanie, že právo je dotknuté zmenou
 
 
 
