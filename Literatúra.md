@@ -2983,15 +2983,213 @@ Prišli práve vtedy, keď partizáni odišli, dedina nebola chránená - Voloď
 
 &nbsp;
 # Otázka 18
+*Vedieť celkový vývoj, inšpiračné zdroje básnikov, báseň alebo zbierku na rozbor si vybrať*
 
+## Slovenská poézia po roku 1945
+1945 - 1956 sa zdanlivo naďalej uplatňoval pluralitný demokratický model, v skutočnosti však boli obdobím rozpadu a zániku avantgardných a moderných smerov  
+Po tlakom spoločenskej situácie postupne nadobudla prevahu socialisticky orientovaná tvorba  
 
+Témy - spoločenské, povojnová situácia, básne o oslobodení, SNP, fašizmus  
+Socialistický realizmus - bol hlásaný za jediný prijateľný a správny smer  
+Schematizmus - všetky básne sa písali podľa rovnakej šablóny, budovateľská a občianska lyrika  
 
+Všetky ostatné smery, napr. poetizmus, nadrealizmus, vitalizmus, symbolizmus, katolícka moderna boli považované za úpadkové, menejcenné  
 
+**Predstavitelia** - Kostra, Horov, Plávka
 
+### Slovenská poézia na konci 50. a v 60. rokoch
+Prelomové obdobie vo vývoji slovenskej poézie, posun poézie dopredu, nadviazali kontakty so svetovou literatúrou a predvojnovými modernyňými smermi *(experimentálna poézia, postmoderna, beatnici, symbolizmus, nadrealizmus, poetizmus, katolícka moderna)*  
+Nová generácia básnikov do ktorej patril **Milan Rúfus**, **Miroslav Válek** a iní  
+Významnú úlohu zohral časopis Mladá tvorba, v ktorom publikovali najmä mladí autori  
+V roku 1958 sa tu objavila skupina mladých básnikov, do literatúry vošli ako tzv. trnavská skupina (konkretisti) - **Ľubomír Feldek**, **Ján Stacho**, **Ján Ondruš** - odmietali schematickú poéziu, hlásili sa k avantgardným európskym básnickým smerom  
+V roku 1964 sa predstavili svojimi básňami traja mladí autori známi pod menom *Osamelí bežci* - **Ivan Laučík**, **Ivan Štrpka**, **Peter Repka** - ich manifest: *"Prednosti trojnohých slávikov"* - predošlú slovenskú poéziu vyhlásili za bezcennú, ich manifest pôsobil kriticky, provokatívne, buričsky  
+Hlásali potrebu tzv. otvorenej básne, oslobodenej od akéhokoľvek ideologického diktátu  
+Ďalší básnici boli napr. **Kamil Peteraj**, **Ján Buzássy**
 
+### Nová vývinová etapa v súčasnej slovenskej poézií (od polovice 50. rokov)
+Schematizmus  
 
+Rúfus, Válek
+- Odmietajú schematizmus, odkláňajú sa od neho (spoločne)
+- Odmietajú to, aby všetci ľudia boli rovnakí - kolektivizmus
+- Odmietajú oslavy víťazstva socialistickej cesty
+- Do popredia sa dostáva jedinec, individualista, nenapodobiteľne prežíva vlastný osud, má vlastný problémový svet
+- Odmietali písať metódou socialistického realizmu, stvárňovanie kolektivizmu, oslava socialistickej cesty do popredia - človek ako jedinec, individualista, opisujú človeka aj s problémami
 
+| Milan Rúfus | Miroslav Válek |
+|---|---|
+| Cit | Tradičný svet slovenského človeka - vidiek, dedina, príroda, práca na poli | Motív mesta, neetickosť modernej doby, problémy dnešného človeka |
+| Ľudová slovesnosť | |
+| Jednoznačnosť, zrozumiteľné metafory | Viacvýznamovosť, moderné viacvýznamové metafory | 
+| **Až dozrieme** - motívy domova, vojny, otca, mamy, osudu ľudstva | **Dotyky** - intímna lyrika, melanchólia, sklamanie z nenaplneného ľúbostného citu, vzťah muža a ženy - napätie, smútok zo spoločenskej situácie |
+| **Chlapec maľuje dúhu** - zamýšľa sa nad bytím, biblický námet - kedy je na čo čas | **Prížažlivosť** - desivosť z civilizácie, strieda sa poézia s prózou, viacrozmerné a viac významové texty, opisuje psychické problémy, niekde strieda epiku s lyrikou (vsunie príbeh), slovná a zvuková hra, originálna metafora, kombinácia verša s prózou |
+| **Zvony** - oslavuje človeka z dediny - človek práce, spätý s prírodou, ospevuje krásu prírody | **Nepokoj** |
+| **Stôl chudobných** - básnik chudobných, hodnotenie človeka z morálneho hľadiska; prírody (Boh) tvorí etický princíp, píše o nej | **Milovanie v husej koži** - prelínanie osobných so spoločenskými problémami, znepokojenie nad budúcnosťou ľudstva, nastupuje irónia, sarkazmus, skepsa |
+| | **Z vody** - intímna lyrika, prírodné motívy |
+| | **Slovo** - metódou socialistického realizmu |
+| Pre deti: | Pre deti: |
+| **Modlitbičky** | **Do tramtárie** |
+| **Nové modlitbičky** | **Veľká cestovná horúčka** |
+| **Pamätníček** | |
+| **Lupienky z jabloní** - senzuálne vnemy - ako muž vníma ženu | |
+| | **Litertúra o kultúre** - kniha esejí |
 
+## Milan Rúfus
+Jeden z najvýznamnejších predstaviteľov modernej slovenskej poézie  
+Študoval na Filozofickej fakulte Univerzity Komenského slovenčinu a dejepis  
+Po skončení štúdií zostal pracovať na fakulte ako pedagóg
+
+**Básnické zbierky**
+- Až dozrieme
+    - Priniesla nové estetické a ideové hodnoty
+    - Okrem niekoľkých budovateľských básní obsahovala básne rôznej tematiky - domov, detstvo, vojna, poslanie poézie a pod.
+    - V básňach hovorí o otcovi, matke, o starých rodičoch a o rodnom kraji sa prihlási k svojmu plebejskému pôbodu a k etickému odkazu predkov - básne Vietname a v Kórei - Rakvy z Vietnamu, Kórejské koledy...
+    - Rakvy z Vietnamu: Hovorí o tom, že namiesto živých chlapcov sa z Vietnamu otcom vracajú len rakvy. 
+    - Monológ v lazarete: Generálovi sa v lazarete (nemocnici) prihovára slepý vojak a prosí ho, aby jeho milej (predavačke kvetov v Marseille) odovzdal odkaz, že má naňho zabudnúť. Zároveň mu vyčíta:  
+    *"Vy ste nás pane veľmi klamali, pre hriešnu vábnosť cudzích plodov, [lákal ich na cudzie kraje a dobyvateľské ciele] o vlasti piesňou odratou, miesili lúpež so slobodou, [na jednej strane chcú oslobodiť vlasť, ale zároveň akoby išli lúpiť] štít muža s nožom piráta."*
+Zvony
+    - V popredí je obyčajný človek
+    - Dominantné je detstvo, spojenie s prírodou, ľudská bolesť
+    - Konštatuje, že básnické slovo je stále bezmocnejšie
+Zvony detstva - báseň
+    - Vnímanie detstva ako určujúceho faktora v ľudskom živote
+    - Dieťa je čistým neskazeným človekom, ktoré má srdce i zvuk ako zvon a tým je nenahraditeľným a jedinečným objektom nášho potešenia
+    - Kľúč vlastného života nikto nepozná, každý túži spoznať to správne riešenie, deti všetko prijímajú s úplnou samozrejmosťou
+Stôl chudobných
+    - Vrátil sa v nej k tematike predkov
+    - Trvalé hodnoty nachádza v práci, v pôde, v prírode a v rodnom kraji, vyzdvihuje pracovitosť, húževnatosť a životnú múdrosť jednoduchého človeka
+Chlapec maľuje dúhu
+    - Témy
+        - Pominuteľnosť človeka                
+        - Smrť
+        - Zrodenie a potreba lásky
+        - Burcovanie ľudí
+Pre deti
+    - Modlitbičky I, II, Modlitbičky deťom, Nové modlitbičky
+    - Mechúrik Košťúrik, Medovníkový domček
+    - Lupienky, Zvieratníček 
+
+## Miroslav Válek  
+Predstaviteľ modernej slovenskej poézie  
+Nadviazal na surrealizmus, poetizmus, konštruktivizmus  
+Poézia moderná, originálna, vysoko umelecká, mnohovýznamová  
+Šéfredaktor časopisu Mladá tvorba, redaktor časopisu Romboid  
+1969-1989 minister kultúry   
+Čitateľ musí pri čítaní uvažovať, rozmýšľať  
+Témy: láska, človek, svet  
+
+**Zbierky**:
+- Dotyky
+    - Sústredil sa na vnútorný svet a pocity človeka
+    - Problémy, citové sklamania, drámy, smútok
+    - Podstata, poslanie a cieľ poézie
+    - Vzťah muža a ženy, napätie, ochladnutie vzťahu, odcudzenie, hroziaci rozchod
+    - Báseň Jablko (symbolika hriechu)
+- Príťažlivosť
+    - 6 básní lyrickoepického charakteru
+    - Lyrické, reflexívne, rozprávajúce krátky príbeh
+    - Slnko – báseň zo zbierky
+        - Trápenie chlapca, miluje dievča, ktoré nemá o neho záujem
+        - Lyrický opis leta *(Obilie žltne, slama na klobúky dozrieva, v belasom vzduchu utopil sa les...)* 
+        - Chlapec dievčaťu vypovie vyznanie *(A ja by som ti kúpil, letnú búrku s kvetinami.... )*
+        - Dievčina je krásna, každému sa páči, chlapec ostane sám *(Ale ja stále chodím s nepokrytou hlavou plnou trápenia...)*
+- Domov sú ruky, na ktorých smieš plakať (báseň)
+    - Spomienka na 2. sv. vojnu, prvá láska k spolužiačke, bola židovka (13 rokov, Helena Daňková)
+    - Neskôr vyhostená z krajiny, zahynula v koncentračnom tábore
+- Nepokoj
+    - Nemilosrdná analýza ľudského vnútra
+    - Ustavičný nepokoj: vojna, smrť, krutosť, cynizmus, rituály každodenné-ho života
+    - Zisťuje, že človek nie je len obeťou, nielen trpí, ale aj utrpenie spôsobuje, smrť nielen prijíma, ale aj rozdáva, vraždí, zabíja
+- Zabíjanie králikov (báseň) – stereotyp života, brutalita, ktorú si neuvedomujeme
+- Milovanie v husej koži
+    - Pocity zúfalstva, zániku, zdesenia, skľúčenosti
+    - Javy: smrť, vojny, mor, podlosť a zrada 
+    - Pohľad je krutý, nemilosrdný, prestáva veriť v možnosť záchrany  a obnovy človeka i sveta 
+- Skľúčenosť - báseň
+- Skaza Titanicu (báseň)
+    - Smrť Johna Fitzeralda Kennedyho 
+    - Básnikov pohľad na svet, jeho usporiadanie, je znepokojujúci
+    - Vyjadruje obavu z budúcnosti 
+    - Nevie, čo bude ďalej, stráca nádej a ideály
+    - Udalosti 20. storočia, každý deň sa udeje niečo zlé: "každý deň nejaká pevnina na dno niekoho padá" 
+Slovo
+    - Venoval ju komunistickej strane
+    - Oslava socialistickej spoločnosti
+    - Jej hodnôt
+    - Slovo je konkrétnou zbraňou proti vykorisťovaniu, neľudskosti, je básnikom aj politikom v jednej osobe 
+
+Niektoré básne boli zhudobnené
+- Jesenná láska - M. Źbirka
+- Po písmenku - P. Hammel
+
+## Vojtech Míhálik
+Básnik, filozof, redaktor
+
+**Zbierky**
+- Anjeli 
+    - Meditatívny charakter, zamýšľa sa nad problémami ľudského utrpenia, poznania a lásky.
+- Plebejská košeľa 
+    - Sociálna problematiku, plebejci (soc. vrstva v rímskej spol.) bojovali s vrstvou Patricijskou za svoje práva
+    - Autor definuje Plebejcov ako vrstvu, ku ktorej sa osud postavil nepriaznivo
+    - Neustále porážky ju však zoceľujú a vedú do ďalších bojov za jej práva
+    - Báseň je optimistická a vyjadruje vieru v jej víťazstvo
+    - Autor je človek jemným citom a sociálnym cítením  
+    *"Tak som tu ostal preštiepaný mrazmi, zhrdnutý kameň bezprávia, pod chalátik mi vietor duje, hlas mi/ preskakuje a zlyháva, jak flinta pľuhavá" (ťažký život človeka z nižšej spol. vrstvy)*
+- Vzbúrený Jób 
+    - Filozoficko - reflexívna zbierka 
+    - Problémom je orientácia básnika na ľudský život
+    - Skúma ho v polohe trpiaceho Jóba, ktorý pokorne prijíma trpký údel a v polohe Jóba, ktorý sa odmieta podriadiť osudu, bojuje
+    - Autor vychádza z filozofického princípu: boj protikladov, boj proti pokore 
+- Tŕpky 
+    - Lyricko-epické básne
+    - Je to cyklus malých ľudských drám, príbehy zo života (najmä žien)
+    - Myšlienku vychádzať z pamäte človeka využil v básni
+- Pamäť 
+    - Konfrontuje svet muža a ženy
+    - Smutné položenie žien je dôsledok bezohľadnosti, egoizmu a malomeštiackych prežitkov z minulosti 
+- Zaostalé ženy 
+    - Zamýšľa sa nad trpkým údelom vydatej ženy
+    - Manželstvom zakopáva svoje sny a túžby, podriaďuje sa osudu ženy slúžiacej mužovi, ktorý žije ďalej voľne, slobodne, neuvedomujúc si spolupatričnosť
+    - Ale bojom za zrovnoprávnenie preberajú na seba ešte ďalšie povinnosti (básnikova dilema)
+- Sadli si k stolu a rátajú 
+    - Všednosť manželstva, ktoré je potom postavené iba na materiálnych zväzkoch
+- Krájanie 
+    - Manželstvo nakoniec speje k rozchodu
+    - Manžel opustí manželku, ak je nespokojný
+- Siroty žijúcich rodičov 
+    - Naráža na problémy detí, ktoré jediné prežívajú citlivo rozchod rodičov
+    - Panny sa strácajú v bránach - tieto deti sú doživotne poznačené rozchodom rodičov, predčasne dospievajú a ničia si život ako vlastní rodičia 
+Starenky - učiteľky 
+    - Báseň o učiteľkách
+
+## Poppoézia  
+Názov je zložený zo slov poézia a pop  (z latinského "populus" – zrozumiteľný ľudu)  
+Pomohla poézii získať masovú popularitu tak, že populárni speváci začali zhudobňovať texty básnikov a básnici zasa začali tvoriť básne určené priamo na zhudobnenie  
+Najkvalitnejšie piesňové texty sa približujú umeleckej úrovni poézie – dá sa teda hovoriť o spievanej poézii – o poppoézii   
+
+Najvýraznejšími osobnosťami textárskej tvorby v uplynulých desaťročiach boli:  
+**Kamil Peteraj** - písal pre skupinu Prúdy, Paľa Hammela, Mira Žbirku, Mariku Gombitovú    
+**Boris Filan** - písal pre Prúdy a Elán  
+Zaslúžili sa o výrazné zlepšenie kvality slovenských textov a o vznik modernej poppoézie  
+Ich textárske začiatky sú spojené s prvými bigbeatovými skupinami v 60. rokoch 20. storočia  
+V 70. a 80. rokoch sa obaja podieľali na vydaní celého radu dlhotrvajúcich platní  
+
+Spomedzi mladších textárov náročnejšie estetické kritériá uplatňujú predovšetkým **Daniel Mikletič** (písal pre skupiny Banket, Vidiek, Ventil RG), **Martin Sarvaš** (spolupracoval so skupinou Tublatanka a Hex)
+
+Z básnikov sú v tejto oblasti úspešní najmä **Daniel Hevier** a **Jozef Urban** (všetky jeho piesňové texty sú v zbierke Voda, čo nás drží nad vodou, ktorá vyšla po jeho smrti – zomrel ako 35-ročný pri autonehode)  
+
+Mimo tzv. hlavného či stredného prúdu našej pop-scény stojí piesňová tvorba básnikov **Ivana Štrpku**, **Jána Štrassera** a herca, spisovateľa **Milana Lasicu**
+
+### Kamil Peteraj  
+Jeho najznámejšie piesňové texty sú: Medulienka (P. Hammel & Prúdy), Úsmev, Dievčatá (Modus), Atlantída, Balada o poľných vtákoch, Čo bolí, to prebolí (M. Žbirka & Martha), Koloseum, Malá smutná baletka, Vyznanie (M. Gombitová), V slepých uličkách (M. Žbirka & M. Gombitová), Pocta Majakovskému, Modlitba lásky (R. Grigorov)  
+Napísal aj texty piesní pre film Smoliari a spolu s J. Štrasserom pre muzikál Cyrano z predmestia.
+
+### Boris Filan 
+Jeho najznámejšie piesňové texty sú: Kráľovná bielych tenisiek, Smrtka na pražskom orloji, Neviem byť sám, Stužková, Nie sme zlí, Tanečnice z Lúčnice (Elán), Čas malín, ZRPŠ, Kamalásky (P. Hammel), Dvaja (R. Grigorov), Ružový vesmír (M. Noga & Š. Skrúcaný).
+
+# Otázka 19
+*Vedieť hlavne Nočné správy, aj vývin prózy*
+## Vývinové smerovanie slovenskej prózy od 70. rokov 20. storočia po súčasnosť
 
 
 
