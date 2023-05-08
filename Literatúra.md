@@ -3189,34 +3189,658 @@ Jeho najznámejšie piesňové texty sú: Kráľovná bielych tenisiek, Smrtka n
 
 # Otázka 19
 *Vedieť hlavne Nočné správy, aj vývin prózy*
-## Vývinové smerovanie slovenskej prózy od 70. rokov 20. storočia po súčasnosť
+## Vývinové smerovanie slovenskej prózy od 70. rokov 20. storočia po súčasnosť  
+Tematické východiská slovenskej prózy boli veľmi široké  
+Dominovalo v nich stvárnenie súčasnosti v rozličných žánrových rovinách  
+Do noviel, románov boli častejšie začleňované postmodernistické reflexívne, lyrizujúce či publicistické pasáže (D. Mitana, P. Vilikovský, R. Sloboda)  
+Výrazným trendom slovenskej prózy bolo aj sústredenie sa na určitý región a jeho špecifiká  
+Východné Slovensko stvárňovali M. Zimková, Záhorie Š. Moravčík, Oravu J. Johanides, O. Feldeková, Modru a Pezinok V. Šikula, južné Slovensko L. Ballek, podtatranskú obec Hybe P. Jaroš  
+Niektorí spisovatelia sa zaoberali aj dávnejšou minulosťou, najmä veľkomoravskou, M. Ferko, H. Zelinová, A. Hykisch, V. Šikula
+
+## Postmodernizmus  
+Post - po; modernizmus - novosť  
+Myšlienkový smer v 2. polovici 20. stor. (ozn.  aj stav svetovej kultúry v tomto obd.; odmietanie racionalizmu, totalitarizmu, politiky...)   
+Vznikol na americkom kontinente  
+Pluralizmus   
+Reakcia na krízu modernej kultúry (modernizmu)   
+Snaha pochopiť chaotický svet - labyrint   
+Dvojaká úroveň estetického vnímania diela – snaha osloviť aj masového príjemcu - využívanie postupov "nízkej" literatúry (komiks, western, kriminálny román ...)   
+Prelínanie žánrov, dejových a časových rovín...   
+Metaliteratúra – pastiš   
+Spochybňuje dokonalosť, univerzálnu pravdu, každá pravda je subjektívna, zaujatá   
+*"Čo je pravda pre iných, nemusí byť pravda pre mňa"*  
+Prijíma logiku a vedu, ale poskytuje veľa priestoru pre mystiku, nadprirodzenosť...   
+Texty sú zámerne vytvorené tak, aby sa mohli čítať na rozličných úrovniach  
+Súčasné literárne dielo obsahuje prvky populárnej literatúry, historickej prózy, dokumentaristiky a vecnosti, ale aj popretie, ironické spochybnenie istých literárnych vzorov.  
+Môže zároveň pozostávať z viacerých žánrov a viazať sa k iným, už jestvujúcim textom. 
+
+Znaky:
+- Dominuje krátka próza
+- Nepreferuje sa príbeh, dej ani postava
+- Rozprávač iba zaznamenáva, podáva správu, robí zápisky
+- Situáciu odhaľuje prostredníctvom komiky, vyjadrenej iróniou, groteskou
+- Dôraz sa kladie na výraz jazykových prostriedkov
+- Častým javom v dielach slovenských autorov je dehumanizácia intímneho života
+
+Využíva sa:
+- Satira
+    - Je ostrý, útočný, uštipačný, bezohľadný výsmech, posmech
+    - V literatúre: umelecké dielo kritizujúce nedostatky, útočiace na nedostatky, chyby niekoho alebo niečoho iróniou, výsmechom a sarkazmom
+- Irónia 
+    - Je posun významu, pri ktorom kladný výraz či súd má pejoratívny zmysel
+    - Je to výrazový prostriedok, v ktorom sa realizuje komické
+    - V širšom zmysle je irónia akýkoľvek jemný, zastretý výsmech či posmech
+- Čierny humor 
+    - Je humor, pri ktorom zdrojom komična sú nepredstierané nehody a ťažkosti.
+
+## Slovenský postmodernizmus
+## Dušan Mitana
+Vstúpil do literatúry v 2. polovici 60. rokov  
+Z umeleckých smerov ho ovplyvnila postmoderna a magický realizmus  
+
+Základné znaky:  
+- Spája všedný príbeh s absurdnosťou, 
+- V jeho poviedkach sú prvky napätia, desivá atmosféra, častá je kriminálna zápletka,
+využíva hyperbolu, 
+- Píše diela s tajomstvom, ktoré nie je odhalené ani na konci,
+- Pointa je často šokujúca, iracionálna
+- Často rieši metafyzické, náboženské problémy,  
+- Strieda sa uňho normálne s patologickým 
+
+Tvorba:
+- Psie dni: 
+    - Zbierka poviedok
+    - Hlavnými postavami sú ľudia, ktorí si nevedia nájsť miesto v živote, sú nespokojní, dostávajú sa do konfliktu s okolím
+    - Mitana vychádza z existencializmu, z pocitov úzkosti (vplyv Kafku)
+    - Autor vníma život ako sled náhod a tajomstva. 
+- Patagónia
+    - Novela
+    - Hlavnou postavou je nekonvenčne žijúci Ivan Mráz
+    - Chce sa stať spisovateľom, chce žiť inak ako ostatní
+    - Ivan odchádza na štúdiá, hľadá hodnoty, zmysel života
+    - Dielo má autobiografické prvky, odohráva sa v Bratislave
+    - Zobrazuje atmosféru konca 60. rokov., v ktorej sa mladí ľudia búrili proti konvenčnému socialistickému spôsobu života
+    - Patagónia sa chápe ako symbol ťažko dosiahnuteľnej krajiny
+- Nočné správy
+    - Zbierka poviedok
+    - V poviedkach vyhrocuje bežné situácie do absurdity
+    - Autor tajomstvo nevysvetľuje, preto sú poviedky otvorené
+    - Väčšinou píše v 1. osobe 
+    - Jednou z poviedok sú Nočné správy
+
+### Nočné správy
+1976  
+Opäť sa do popredia dostáva absurdita a ireálno   
+Najkonkrétnejšiu ukážku vplyvu totalitnej moci nachádzame v poviedke Nočné správy, v ktorej je vyznanie až paranoidného pocitu hlavného hrdinu zo strachu pred vonkajšou mocou  
+
+Hrdina je v kine na filme Anjel skazy  
+Zistil, že nemá kľúče od bytu  
+Začalo ho svrbieť telo: *"Vždy si z kina odnesiem blchu, chutí im moja sladká krv."*  
+Rozpamätal sa, že kľúče od bytu si nechal vo vrecku kabáta  
+Nevedel však nájsť lístok od šatne  
+Vrátil sa späť do kinosály  
+Upratovačka už miestnosť pozametala a smeti vysypala do odpadového koša, vynadala mu  
+Vrátil sa späť do šatne  
+Šatniarka sa ho opýtala: *"Dali ste mi lístok?"* Oklamal ju odpoveďou: *"Preboha, ešte pred tým pánom."*  
+Vyšiel z kina  
+Pred bytom zistil, že kľúče od bytu nemá vo vrecku kabáta  
+Zazvonil  
+Dvere mu otvorila manželka  
+Deti ešte nespali  
+Najmladšiu trápila horúčka, a tak ju uložil do postele  
+Žena ho požiadala o spoluprácu v domácnosti – rozvešaj plienky  
+Odmietol, lebo musí ešte napísať článok  
+Manželka mu vyčíta, že na kino čas mal  
+Aj ona by si rada oddýchla od rodinných povinností  
+Pripravila mu večeru, ale zároveň ho požiada, aby vypol rádio  
+Chce mať trochu pokoja  
+Pohádali sa  
+Rádio nevypol, počúval správy  
+Všetky boli negatívne  
+Žena prerušovala správy svojimi požiadavkami – mal by si variť sám, má vyniesť smeti, zavolať opravárov na WC, namontovať vešiak  
+Začali si navzájom vulgárne nadávať a vzápätí sa navzájom ospravedlňovali  
+Žena v závere hádky konštatovala: *"Prečo mi aspoň trochu nepomôžeš? Aspoň večer keby si sa so mnou porozprával."*  
+Sľúbil, že sa polepší  
+Manželka išla spať a on písal článok do tretej nad ránom  
+Potom hľadal blchu, ktorá mu pripomenula Anjela skazy  
+Nemohol zaspať  
+Keď konečne zaspal prebudilo ho zvonenie  
+Vonku stáli dvaja esenbáci  
+Opýtali sa ho, či sa volá Štefan Kráľ  
+Vzali ho v pyžame a župane  
+Po príchode do budovy si dal dolu župan a zostal len v pásikovom pyžame: *"...ktorá sa podobala na trestanecké oblečenie. Radšej nech ma považujú za trestanca, ako by som im mal byť na smiech."*  
+Nechali ho čakať na studenej chodbe  
+Z kancelárie vyšla šatniarka z kina  
+Ignorovala ho  
+Konečne ho zavolali do kancelárie  
+Podplukovník na stôl vyložil zväzok stratených kľúčov a obviní ho z ich straty  
+Odviedli ho domov bez akéhokoľvek vysvetlenia  
+Ľahol si vedľa ženy a zaspal  
+Prebudilo ho svrbenie po celom tele  
+Blchu chytil a utopil v umývadle  
+Opäť si ľahol spať  
+
+Absurdnou situáciou je skutočnosť, že hlavný hrdina je odvedený v pyžame a je obvinený zo straty kľúčov  
+Práve v súvislosti s touto scénou vyznievajú predošlé náznaky – konflikt s upratovačkou, strata kľúčov, klamstvo šatniarke, blcha – ako náznaky smerujúce k pocitom neustálej kontroly hlavného hrdinu: *"Svet sa javí ako jedno veľké sprisahanie..."*  
+Všemocný policajný režim o ňom vie všetko – že bol v kine, že podviedol šatniarku, že stratil kľúče  
+Šatniarka je spojená s policajnou mocou  
+Autor nám nepriamo ponúka obraz a fungovanie spoločenského systému, policajné praktiky, ukážku, čo sa stane, keď sa pokúsime nesúhlasiť s režimom
+
+## Peter Jaroš
+Popredný slovenský prozaik  
+Narodil sa v obci Hybe  
+Navýznamješie dila - generačný román *Tisícročná včela*, filmový scenár *Pacho, hybský zbojník*
+
+### Tisícročná včela
+Generačný román zachytáva príbehy viacerých, po sebe nasledujúcich generácií rodín, ich osudy, vzájomné vzťahy a spolunažívanie členov rodín  
+Väčšinou má bohatú dejovú líniu, pretože okrem hlavných postáv sleduje aj život menej dôležitých postavičiek  
+Generačný román, môže mať aj autobiografický charakter, keď spisovateľ čerpá z vlastnej minulosti (detstva) a prítomnosti  
+
+Znaky:
+- Vplyv magického realizmu
+- Rodinná sága – má bohatú dejovú líniu,
+- Román je oslavou ľudskej práce (roľníctvo, murárstvo)
+- Pracovitosť, vytrvalosť sú vlastnosti, ktoré majú aj včely
+- Dôležitá je tu aj láska 
+    - Krásna, úprimná
+    - Vypočítavá, tragická 
+- Dej sa odohráva v Hybe (rodisko autora) v rokoch 1891 – 1918
+- Včela – autor prirovnáva hybčanov, murárov k včele, ktorá usilovne znáša med, aby zachovala rod
+
+Postavy:
+- Starý Martin Pichanda 
+    – Roľník, murár
+    - Murárčil po celom Rakúsko - Uhorsku
+    - V dedine bol obľúbený - vedel rozprávať zaujímavé príbehy, rád sa zabavil pri víne
+    - V jeho rodine vládla dobrá nálada
+    - Bol iný ako ostatní dedinčania – nechodil do kostola
+    - Mal rád mapy, zemepis - sníval o ďalekých krajinách
+    - Včelárčil a zaoberal sa ovocinárstvom (skúšal novoty)
+    - Umiera náhodne, v typickej scéne obžerstva: zamrznutým vínom z rozbitej fľaše si napcháva plné ústa, sklo mu zostane zapichnuté v krku, zadusí sa
+    - Život ďalších generácií bol už menej harmonický
+- Syn Valent
+    - Vyštudoval právo, stal sa pánom.
+    - Oženil sa s vypočítavou, bohatou  Hermínou
+    - Jeho bývalá milá Hanka zomiera pri pôrode aj s Valentovým dieťaťom
+- Dcéra Kristína
+    - V prvom manželstve nemohla mať dieťa
+    - Ako vdova žila s Julom Mitronom a porodila 2 nemanželské deti
+    - Starala sa aj o slabomyseľnú Julovu ženu - Matildu.
+- Syn Samo 
+    – Oženil sa s Máriou a zostali u rodičov 
+    - Bol tiež murárom a roľníkom, no zárobky už boli malé a boli časté štrajky
+    - Prezývali ho včela (chodil do včelína) a tiež bol kritický k náboženstvu
+    - Mali 6 detí
+        - Janko
+            - Najstaršie dieťa
+            - Zastrelili ho pri jeden demonštrácii, ktorej boli len svedkami 
+        - Ema
+            - Usmrtili mlynské remene
+        - Samko
+            - Horár
+            - Odišiel so ženou do Ameriky
+        - Peter
+            - Hodinár
+            - Odiešiel na 1. svetovú vojnu a už sa nevrátil
+        - Karol
+            - Umelecký maliar
+            - Odiešiel na 1. svetovú vojnu a už sa nevrátil
+        - Marek
+            - Ani jemu sa nedarilo
+
+Dej prerušujú historické dokumenty o obci Hybe, novinové správy o bojoch  
+Kombinácia umeleckého štýlu s publicistickým alebo s odborným je typický znak postmoderny  
+Autor využil znaky magického realizmu - neskutočné javy, sny sú včlenené do realistického rozprávania  
+Nachádzame tu fantazijné, groteskné, zázračné a absurdné prvky - sen Martina Pichandu o tom, ako hrá v bruchu veľryby karty so svojou bývalou milou 
+
+Rodokmeň rodiny Pichandovcov:
+- Martin Pichanda + žena Ružena
+    - Samo + Mária
+        - Janko
+        - Samko
+        - Peter
+        - Karol
+        - Ema
+        - Marek
+    - Valent + Hermína
+    - Kristína + Matej (zomrel)
+        - Ivan - nemanželské dieťa, jeho otcom bol Julo Mitron
+        - Žofka - nemanželské dieťa, jej otcom bol Julo Mitron
+
+Román je sfilmovaný - režisér Juraj Jakubisko
+
+&nbsp;
+# Otázka 20
+*Vedieť charakterizovať literatúru, podsystémy, znaky detektívneho románu, potom si vybrať autora, je to obšírna otázka*
+## Literatúra
+Z latinského *litteratura* - písmo/jazykoveda  
+Tiež písomníctvo, slovesnosť alebo slovesná tvorba - je súhrn všetkých písmom zaznamenaných textov, vrátane technických textov, korešpondencie a podobne  
+V Užšom zmysle je to len umelecká literatúra  
+
+**Rozdelenie literatúry**
+- Vecná literatúra
+    - Odborná, publicistická, administratívna
+    - Má za cieľ čitateľa presne a jednoznačne informovať, poučiť, oboznámiť s novými poznatkami
+- Umelecká literatúra (krásna literatúra)
+    - Sú to písané texty zamerané na vyvolanie estetického účinku u čitateľa
+    - Zaraďuje sa sem aj ľudová slovesnosť - texty majúce pôvodne len ústnu podobu
+    - Beletria 
+        - Pojem pôvodne rovnoznačný s umeleckou literatúrou
+        - Dnes označuje len umeleckú prózu
+    - Tvorí podstatu literárneho systému ako najvyššia estetická a umelecká hodnota
+
+Jednotlivé literárne diela vytvárajú literárny systém  
+Jeho podstatu tvorí umelecká literatúra  
+Literárny systém jednak čerpá námety z iných druhov umenia a jednak aj sám ovplyvňuje iné umelecké systémy, napr. pre systém dramatických umení je východiskom a zdrojom mnohých inšpirácií  
+
+Literárny systém dopĺňajú literárne podsystémy  
+Len čiastočne sa prekrývajú s umeleckou literatúrou, lebo okrem estetickej funkcie plnia aj poznávaciu, zábavnú a výchovnú funkciu
+
+## Literárne podsystémy
+1. Populárna literatúra 
+    - Tvoria ju diela určené pre nenáročného čitateľa
+    - Populárnosť sa pritom viaže na kultúrnu hodnotu diela a na jeho schopnosť neustále komunikovať s čitateľom
+    - Je založená na pútavosti, emocionálnosti, senzačnosti, neobyčajné životné osudy a hrdinstvá
+    - Viaceré z týchto diel sa stávajú bestsellerom – najčítanejším dielom v istom období alebo v rámci určitej čitateľskej vrstvy , napr. Mary Shellyová: Frankenstein, Harry Poter, Daniel Steelová, Gulliverove cesty
+    - Prevažuje tu zábavná funkcia
+    - Patria sem aj kriminálne príbehy, detektívky, historické prózy: Jožo Nižňanský: Čachtická pani
+2. Dobrodružná literatúra
+    - Vyznačuje sa pútavým, dramatickým dejom, vystupňovaným do nečakaných situácií a kolízií so silne zdôraznenými motívmi nebezpečenstva
+    - Nezvyčajné prostredie
+    - Vlastnosti rozprávky - postavy majú čierno-biele charaktery
+    - Hrdina vyniká vlastnosťami, ktoré sú zveličené a zredukované na základné povahuvú vlastnosti
+    - Gradácia deja
+    - Dobrodružná literatúra ponúka dočasný únik od každodennej reality do sveta ilúzií a fantázie
+    - Prevažuje tu zábavná ale aj poznávacia funkcia
+    - Alexander Dumas - Traja mušketieri, Gróf Monte Christo
+    - Jack London - Biely tesák
+    - Daniel Defoe - Robinson Crusoe
+    - Neil Philip - Robin Hood
+    - Karl May - Winnetou
+    - Rudyard Kypling - Kniha džunglí
+3. Literatúra faktu
+    - Prevažuje tu poznávacia funkcia
+    - Ide tu o spracovanie vedeckých materiálov, faktov, historických a súčasných udalostí, skutkov, objavov tak, aby u čitateľa vyvolali zážitok
+    - Je tu dôraz na faktickosť a hodnovernosť údajov
+    - Literatúra faktu sa ocitá na rozhraní medzi umeleckou a vecnou literatúrou
+    - Niektoré diela môžu mať viac poučný ráz, iné dávajú dôraz na umelecké spracovanie témy, ale bez prítomnosti fantázie, fikcie
+    - Patrí sem hlavne životopisné rozprávanie, cestopisy, reportáže
+    - Ľudo Zúbek - Skrytý prameň, Doktor Jesenius, diela Vojtecha Zamarovského
+4. Literatúra pre deti a mládež
+    - Patria sem diela zámerne tvorené pre deti a mládež (do 14 - 15 rokov) a tiež diela, ktoré boli pôvodne určené pre dospelých čitateľov, ale postupom času sa stali čítaním pre deti a mládež
+    - Ľubomír Feldek - Modrá kniha rozprávok, Zlatúšik, Zelené jelene, Rozprávky na niti, Zelená kniha rozprávok
+    - Klára Jarunková - Jediná
+    - Mária Ďuríčková - Danka a Janka, Jasietka 
+    - Vincent Šikula - Prázdniny so strýcom Rafaelom
+    - Daniel Defoe - Robinson Crusoe
+    - Jonathan Swift - Gulliverove cesty
+5. Slovesný folklór
+    - Je tu anonymný autor
+    - Patrí sem ústna ľudová slovesnosť
+    - Kalendárny obradový folklór - pracovné piesne, obradové piesne
+    - Dramatické prejavy - betlehemské hry
+    - Rodinný obradový folklór - svadobné piesne, pohrebné vykladania
+    - Rozprávky, povesti, balady, báje, bájky, príslovia, porekadlá, pranostiky
+6. Fantastická literatúra
+    - V tejto literatúre sú nadprirodzené javy, racionálne nevysvetliteľné
+    - Mágia
+    - Mýtický svet s vlastnou geografiou, jazykom, národmi (napr. Pán prsteňov)
+    - Čarodejníci, mágovia, zaklínači, driudi, bojovníci, princezné, králi
+    - Rôzne nové rasy: 
+        - Hobiti (Hobiti sú rasa vymyslená J. R. R. Tolkienom vo svete Stredozem, prvýkrát spomenutá v knihe Hobit. Významnú úlohu hobiti hrajú aj v knihách Pán prsteňov)
+        - Elfovia (Pán prsteňov)
+        - Trpaslíci
+        - Upíri
+        - Nadprirodzené bytosti - draci, víly
+    - Magické predmety - meče, amulety (talizman)
+    - Fantastická literatúra čerpá z rozprávok, z ľudovej slovesnosti
+    - Tolkien - Pán prsteňov
+    - Rowlingová - Harry Potter
+7. Science – fiction, sci-fi, vedecko-fantastická literatúra
+    - Dej je zasadený do budúcnosti
+    - Stvárňuje udalosti, ktoré sa ešte neodohrali, no sú pravdepodobné na základe doterajšieho a perspektívneho vývoja vedy a techniky, napredovania ľudskej civilizácie
+    - Hlavné postavy sú obyčajne nositeľmi kladných vlastností - čestnosť, odvaha, statočnosť, bystrosť, šikovnosť
+    - V konkrétnych dielach sa hovorí o nových strojoch, vynálezoch (stroj času, antigravitácia, neviditeľnosť, robot, obyvatelia Marsu)
+    - Predchodcom sci-fi literatúry sú fantastické cestopisy
+    - Medzi zakladateľov sci-fi literatúry patrí:
+        - Jules Verne - Cesta na mesiac, Dvadsaťtisíc míľ pod morom
+        - Herbert George Wells - Vojna svetov, Stroj času, Neviditeľný
+    - Najväčší rozvoj nastáva v 20. stor. vychádzajú tisícky nových románov a poviedok vedeckej fantastiky, ojedinele divadelné hry (R. U. R)
+    - Karel Čapek - Krakatit, R. U. R, Továrna na absolutno (satirické dielo science-fiction)
+
+### Rozbor literárnych diel fantastickej literatúry a sci-fi literatúry
+- Fantastická literatúra
+    - Pod tento pojem zahrňujeme nielen fantasy literatúru, ale aj vedeckú fantastiku (sci-fi) a horor
+    - Je literatúra, v ktorej autori využívajú príbehy odohrávajúce sa v imaginárnych svetoch alebo v našej minulosti, podstatou je často nevysvetliteľný úkaz alebo prejav mágie
+    - Korene má v ľudovom horore, mytológii, rozprávkach, legendách, stredovekých hrdinských eposoch
+    Vo fantasy literatúre nájdeme určité stabilné *archetypy* (čiže odpradávna existujúce obrazy)
+        1. Boj dobra a zla - dobro je zväčša kolektívne, zlo je individuálne, vyžaruje z jednej osoby, ktorá ním infikuje ostatných
+        2. Kúzelný artefakt - predmet s magickou silou, ktorý sa strana dobra snaží získať, ukryť alebo zničiť, aby oslabila sily zla a strana zla ho chce mať, aby získala ešte väčšiu moc (napr. prsteň, svätý grál...)
+        3. Dieťa s predurčeným osudom
+        4. Múdry starec
+        5. Tajomná matka
+    - Fantastická literatúra sa člení na určité podskupiny, ale pretože je to pomerne mladá žánrová forma, objavuje sa viacero rôznych členení
+    - Tu sú tie najčastejšie:
+        1. Heroic fantasy 
+            - Založená na princípe putovania neohrozeného hrdinu
+            - Typickým príkladom je hrdina Conan od Roberta E. Howarda.
+        2. High fantasy 
+            - Odohráva sa vo výhradne fantastickom svete, kde je predstavený veľkolepý boj dobra a zla (Pán prsteňov)
+        3. *"Zavreté dvere"* 
+            - Je založený na existencii dvoch paralelných svetov
+            - Treba len prejsť nejakou bránou, napr. skriňou ako v Letopisoch Narnie a dostanete sa do sveta fantasy 
+        4. *"Meč a mágia"* 
+            - Odohráva v pseudohistorickom prostredí
+            - Je bohatý na akčné scény
+        5. *"Mestská fantasy"* 
+            - Využíva súčasný svet
+            - Hlavnú úlohu tu zohráva mesto a civilizácie, ktoré nie sú vedecky vysvetlené
+            - Využívajú sa tu moderné zbrane aj magické artefakty (V.Sorokin: Ľad)
+    - Znaky mýtu
+        - Hrdina - vychovaný v ústraní, netuší o svojom pôvode - je vyvolený k veľkému činu či poslaniu 
+        - Vo svojom poslaní je nezastupiteľný 
+        - Vie cieľ, ale nepozná cestu, tú musí nájsť sám
+        - Hrdinu sprevádza spoločenstvo - buď je určené dopredu, alebo sa vytvára okolo neho počas cesty
+        - Každý v spoločenstve má nezameniteľnú úlohu
+        - Hrdina sa dostáva počas cesty do nebezpečenstva - sám si s ním neporadí, musí mu pomáhať spoločenstvo
+        - Zlo a chaos bývajú nakoniec porazené - no nemusí to platiť vždy - a sú nahradené dobrom a poriadkom
+- Science - fiction 
+    - Je žáner, ktorý čerpá z poznatkov modernej vedy a techniky a predvída ich možný dopad na život človeka a ľudstva
+    - Existenciu človeka zasadzuje častokrát do umelo vytvoreného prostredia
+    - Dej býva zasadený do budúcnosti alebo mimo sféru nášho súčasného sveta, napr. na cudzie planéty alebo do hĺbky zeme
+    - Postavami sú okrem ľudí často roboti, androidi, mimozemšťania, mutanti...
+    - Za zakladateľa je považovaný Jules Verne
+    - Veľký vplyv na rozvoj českej, ale aj svetovej sci-fi mali diela Karla Čapka R.U.R., Krakatit a Válka s mloky
+- Horor
+    - Dielo, ktoré má za účel vyvolať najrôznejšie pocity strachu
+    - Termín horor je pomerne nový, ale žáner vznikol už v 18. storočí v Anglicku vo forme rozprávaní o stredovekej minulosti opradenej strašidlami, duchmi a pod. 
+    - Priamym predchodcom moderného hororu je Edgar Allan Poe
+    - John Ronald Reuel Tolkien - **Pán prsteňov**
+        - Všeobecne sa považuje za trilógiu, avšak skladá sa celkovo zo šiestich kníh
+        - Je to jeden príbeh, ktorý len rozhodnutím vydavateľa bol rozdelený do troch zväzkov
+            1.	Spoločenstvo prsteňa
+            2.	Dve veže
+            3.	Návrat kráľa
+        - Celý príbeh knihy sa odvíja od Prsteňov Moci, ktoré boli ukuté dávno pred časom, kedy sa odohráva dej Pána prsteňov, no ktoré stále ovplyvňovali život v Stredozemi   
+        - Elfovia, trpaslíci a ľudia získali prstene moci
+        - Tajne si však vytvoril Sauron vlastný prsteň, do ktorého ukryl väčšinu svojej moci
+        *Tri prstene elfským kráľom vonku pod nebom,*  
+        *Sedem pánom trpaslíkov v sieňach z kameňa,*  
+        *Deväť mužom z ľudí, ktorých osudom je skon,*  
+        *Veľprsteň pre Pána tmy na tróne z plameňa,*  
+        *V zemi Mordor, kde tieň vládne zlom.*  
+        *Veľprsten im všetkým velí, jeho ruka krutá*  
+        *Privolá ich do jedného a v čiernej tme spúta*  
+        *V zemi Mordor, kde tieň vládne zlom.*  
+        - Dej sa začína odvíjať niekoľko desaťročí po skončení deja v Hobitovi
+        - Hlavná postava, **Frodo**, dostáva úlohu zničiť Prsteň moci, kde je ukrytá moc temného **pána Saurona**
+        - Trilógia rozpráva o jeho ceste na Horu osudu s cieľom zničiť Prsteň.
+        - **Spoločenstvo prsteňa**
+            Idea a téma - súboj o veľprsteň medzi dobrom a zlom 
+            Miesto konania - Stredozem 
+            Hlavné postavy: 
+                - Frodo 
+                    - Hobit
+                    - Nositeľ prsteňa
+                    - Malý vzrastom, ale veľký srdcom
+                    - Je odhodlaný obetovať všetko za dobro iných 
+                - Gandalf
+                    - Človek
+                    - Silný čarodejník
+                    - Vodca spoločenstva 
+                - Aragorn (Chodec) 
+                    - Človek
+                    - Rozvážny
+                    - Vodca spoločenstva
+                - Sam
+                    - Hobit
+                    - Spoľahlivý, odvážny
+                    - Za Froda by aj život položil, nikdy sa od neho neodlúči 
+                - Chicho 
+                    - Hobit
+                    - Veľký Pipinov kamarát
+                    - Zmysel pre humor
+                - Pipin 
+                    - Hobit
+                    - Veľký Chichov kamarát
+                    - Zmysel pre humor
+                - Boromir 
+                    - Človek
+                    - Odvážny
+                    - Dá sa zlákať mocou prsteňa a pokúsi sa ho ukradnúť Frodovi 
+                - Legolas 
+                    - Elf
+                    - Skvelý zrak a sluch
+                    - Dokáže obratne narábať s lukom
+                    - Neodlučiteľný priateľ Gimliho 
+                - Gimli 
+                    - Trpaslík
+                    - Obratne narába so sekerou
+                    - Neodlučiteľný priateľ Legolasa 
+                - Gloch (Smeagol) 
+                    - Hobit
+                    - Našiel prsteň a ten mu dožičil dlhý život
+                    - Urobí čokoľvek aby získal svojho miluškého 
+                - Bilbo 
+                    - Hobit
+                    - Nálezca prsteňa
+                    - Píše knihu o svojom živote a vymýšľa básne 
+        - **Dve veže**
+            - Je fantastickou históriou vojny o prsteň, rozprávaním o boji slobodných národov Stredozeme proti Tieňu - Mordoru a o putovaní hobita Froda, ktorý sa vyberie zachrániť svet pred silami zla
+            - Potom, ako sa na začiatku knihy družina rozpadla, dejstvo sa rozdelilo do troch línií 
+                – Putovanie hobita Froda s jeho priateľom Samom, ktorých úlohou je nepozorovane sa dostať do Mordoru a hodiť prsteň do Hory Osudu tak, aby ho zničili
+                - Pipin s Chichom, ktorí boli unesení ohyzdami a ich záchrancov v podobe elfa Legolasa, trpaslíka Gimliho 
+                - Muž z ľudskej rasy menom Aragorn 
+            - Dej sa prenáša do časti, kedy sa schyľuje k veľkej obrannej vojne medzi vojskami Isengardu a poslednými z ľudí z krajiny Rohan
+                - Ľudia sa uchýlia do Helmovej rokliny, ktorá im už neraz zachránila životy
+                - Vojsko sa ponáhľalo do Helmovej rokliny najrýchlejšie ako sa len dalo
+                - Boli s nimi tiež Aragorn, Legolas a Gimli
+                - Gandalf nečakane odišiel ako to už býva jeho zvykom
+                - Družina rýchlo napredovala, ale nevedeli aká bude situácia, keď prídu k Helmovej bráne
+                - Nevedeli totiž, či je Erkenbrand nažive, alebo už nie
+                - Konečne dorazili
+                - Bola už tma a mesiac bol zastretý čiernotou z Mordoru 
+    - J. K. Rowlingová - **Harry Potter**
+        - Harry James Potter je fiktívna postava, pochádza z rodu troch bratov Peverellovcov, z rodiny Ignotusa, ktorý od Smrti dostal neviditeľný plášť
+        - Jeho rodičmi boli **James Potter a Lily Potterová**
+        - Boli však zavraždení čarodejníkom Lordom Voldemortom 
+        - Harry útok prežil a bol vychovávaný u svojej tety **Petunie** a strýka **Vernona**
+        - Do nástupu na Rokfort býval Harry v priestore pod schodiskom
+        - Medzi čarodejníkmi je Harry Potter známou celebritou
+        - Aj keď nikto nevie ako sa to stalo, bol jediným, kto prežil **Voldemortov** útok a kliatbu Avada Kedavra, a pričom Voldemorta ťažko zranil
+        - Navyše bolo predpovedané, že Harry a Voldemort sú spojení - ani jeden nemôže žiť, kým je ten druhý nažive (tento fakt však nie je všeobecne známy, avšak bol dôvodom Voldemortovho útoku na Harryho)
+        - Harry je chatrnej postavy (spôsobené slabou výživou u Dursleyovcov)
+        - Nad zelenými očami (ktoré zdedil po svojej mame) má jazvu v tvare blesku
+        - Nosí okuliare
+        - Vlasy má čierne a veľmi neposlušné. Všetky jeho pokusy učesať sa dopadajú vždy neúspešne
+        - Za svoj domov považuje Rokfort, kde našiel najlepších kamarátov **Rona a Hermionu**
+        - A taktiež 2 dievčatá, ktoré sa mu páčili - **Čcho Čchang a Ginny Weasleyová**, ktorá sa nakoniec stala jeho manželkou
+        - Jeho najobľúbenejší šport je metlobal, ktorý hral za Chrabromilské metlobalové družstvo na poste stíhača
+        - Harryho najobľúbenejší učiteľ je **Remus Lupin** a naopak **Severus Snape** je učiteľ, ktorého nenávidí  
+        &nbsp;
+        - Harry Potter a Kameň mudrcov 
+            - Harry zisťuje, že je čarodejník
+            - Vo vlaku sa stretáva s najlepším priateľom Ronom Weasleym
+            - Na Rokforte je slávnym, stáva sa najmladším stíhačom za chrabromilské metlobalové družstvo
+            - Počas Halloweenu zachránil Hermionu Grangerovú a stali sa neodlučiteľnými priateľmi
+            - V zrkadle z Erisedu prvýkrát uzrel svoju rodinu
+            - Spolu s priateľmi zachránili Kameň mudrcov pred Voldemortom.
+        - Harry Potter a tajomná komnata 
+            - Pokazil povýšenie svojho strýka vo firme Vrtamex, škriatok Dobby mu ukradol listy od priateľov
+            - Na škole sa študenti menili na kameň a všetci si mysleli, že je Slizolinov potomok
+            - Dokázal opak, zabil Baziliska a opäť zabránil Voldemortovi v návrate
+            - Zachránil Ginny a pochopil prečo je v Chrabromile
+        - Harry Potter a väzeň z Azkabanu 
+            - Harry nafúkne svoju tetu Marge a utečie z domu
+            - Zbadá besa (predzvesť smrti) a Rytierskym autobusom sa dostane do Deravého kotlíka
+            - Zisťuje, že po ňom ide jeho krstný otec **Sirius** alias masový vrah
+            - Stretáva sa s najobľúbenejším profesorom Remus Lupinom, ktorý bol priateľ jeho otca, a ktorý ho naučí vyčarovávať patronusa
+            - Pomáha Hagridovi s obhajobou Hrdozobca
+            - Zisťuje, že Sirius je nevinný a všetko to spáchal **Peter Pettigrew**
+            - Pomocou Hermioninho časovratu sa dostáva do blízkej minulosti, kde zachraňuje Hrdozobca a Siriusa
+        - Harry Potter a ohnivá čaša 
+            - Spolu s Weasleyovcami sa dostáva na Svetový pohár v metlobale
+            - Je svedkom nájazdu smrťožrútov a uvidí Temné znamenie
+            - Na rokforte sa stáva štvrtým šampiónom trojčarodejníckeho turnaja
+            - Pokúšajú sa ho zabiť
+            - Zisťuje pravdu o **Nevilových** rodičoch (postihnutí **Cruciatom**), **Ludovi Bagmanovi** a **Igorovi Karkarovi**
+            - Zamiluje sa do Čcho Čchangovej
+            - Je svedkom Cedricovej smrti a návratu Lorda Voldemorta
+            - Každý ho pokladá za blázna pre článok od **Rity Skeeterovej** Ministerstvo mágie návrat Lorda Voldemorta odmieta
+        - Harry Potter a Fénixov rád 
+            - **Dudleyho** a Harryho napadnú dementori
+            - Dostáva sa na súd a jeho priatelia mlčia
+            - Presúvajú ho do hlavného stanu Fénixovho rádu, kde sa všetko dozvedá
+            - Na škole ho učí ministerstvom dosadená prof. **Umbridgeová** a preto je nútený vytvoriť skupinu DA
+            - Dostáva doživotný zákaz hry metlobalu
+            - Uverejní rozhovor o návrate Voldemorta v Sršni (časopis **Luninho** otca)
+            - Učí sa Oklumenciu (aby mu Voldemort nemohol vniknúť do mysle) od prof. Snapea, robí skúšky VČU 
+            - Počas skúšky z Dejín mágie sa mu sníva, že Voldemort zajal Siriusa (mylne)
+            - Spolu s priateľmi Ronom, Hermionou, Lunou, Ginny a Nevillom ho idú zachrániť na Oddelenia záhad, no je to pasca na získanie proroctva
+            - Strhne sa boj medzi členmi Fénixovho rádu a smrťožrútmi a Sirius umiera
+            - Harry sa chce pomstiť vrahovi - **Bellatrix Lestrangovej**
+            - Príde však samotný Voldemort, ktorý bojuje s Dumbledorom
+            - Je ráno a zamestnanci ministerstva sa primiestňujú do práce
+            - Konečne sa svet dozvedá, že Voldemrt sa vrátil a Harry už nie je blázon.
+        - Harry Potter a polovičný princ  
+        - Harry Potter a dary smrti  
+- Detektívny román
+    - Detektívny = založený na napínavom príbehu postupne odhaľujúcom istý zločin, synonymum – kriminálny 
+    - Patrí k najstaršiemu epickému žánru "prózy s tajomstvom"
+    - Je druh literatúry, ktorý sa vyznačuje dejovosťou a jednoduchou kompozíciou založenou na zločine a pátraní po páchateľovi
+    - Základom je motív záhady a víťazstvadobra nad zlom
+    - Hlavnou postavou je detektív, ktorý sa snaží vyriešiť prípad, chytiť zločinca
+    - Za prvú detektívnu prózu je pokladaná poviedka Edgara Allana Poea - Vraždy v ulici Morgue z roku 1841.
+- Kriminálna literatúra (detektívna literatúra)
+    - Detektívny román (analýza)
+        - Klasický detektívny román
+            - Jeho podstatou je vyriešenie zločinu, najčastejšie vraždy a zistenie totožnosti páchateľa
+            - Kompozícia je založená na zločine a pátraní po páchateľovi
+            - Detektív rieši záhadu, tajomstvo s prekvapivým, nepravdepodobnným riešením
+            - Vyšetrovateľ sa snaží odovzdať vinníka spravodlivosti
+        - Knoxovo desatoro detektívky je súbor pravidiel, ktoré by nemali byť v žiadnej dobrej detektívke porušené. Spísal ich Ronald Knox v roku 1929
+            1. Páchateľ musí byť niekto, o ktorom je zmienka už na začiatku príbehu
+            2. Všetky nadprirodzené alebo neprirodzené faktory sú úplne vylúčené
+            3. Nie je prípustná viac než jedna tajná miestnosť alebo tajná chodba; aj tá je prípustná iba vtedy, ak sa dej odohráva v stavbe, kde možno takéto zariadenia predpokladať
+            4. Nesmie byť žiadne použitie "zatiaľ neobjaveného" jedu ani prístrojov a metód, ktoré vyžadujú dlhé vedecké vysvetľovanie na konci príbehu
+            5. V príbehu nesmie vystupovať žiadny Číňan (toto nie je prejav rasizmu dobrého kňaza, ale iba výraz dobovej averzie proti kedysi zneužívanej rekvizite lacných detektíviek)
+            6. K riešeniu nesmie detektívovi dopomôcť náhoda, ani nesmie byť vedený nevysvetliteľnú intuíciou
+            7. Páchateľom nesmie byť sám detektív
+            8. Detektív nesmie odhaliť žiadnu stopu bez toho, aby ju neodhalil aj čitateľom
+            9. Duchom chudobnejší detektívov priateľ, ako je napr. Dr. Watson, nesmie zatajiť žiadne myšlienky, ktoré sa mu preháňajú v hlave; musí mať inteligenciu mierne, ale len veľmi mierne pod priemerným čitateľom
+            10.	Nesmú sa vyskytovať dvojčatá alebo dvojníci, pokiaľ na to nie sú čitatelia pripravení
+        - Postava detektíva
+            - Kultová postava detektívneho románu
+            - Určuje rytmus diela
+            - Vo vyšetrovaní je v predstihu pred všetkými ostatnými zúčastnenými
+            - Vyšetrovanie dovedie do úspešného konca
+            - Má mnoho predurčených vlastností – hrozí jej ustrnutie
+            - Autori vymýšľajú pre ňu rôzne ornamentálne vlastnosti, aby ju urobili pre čitateľa zaujímavou
+            - Príklady: 
+                - Artur Conan Doyle  - autor Sherlocka Holmse a Dr. Watsona (Pes baskervillský / Údolie hrôzy / Štúdia v červenom,  Sherlock Holmes - Prázdny dom,  Sherlock Holmes  - Nebezpečné dedičstvo)  
+                - Agatha Christie - autorka Hercule Poirota, slečny  Marplovej (Vražda na golfovom ihrisku, Vražda v Orient-expresu , Vraždiť je hračka,  Vražda je zvyk ) 
+                - Raymond Chandler – autor detektíva Phila Marlowa (Zbohom, moja krásna, Vysoké okno, Sestrička, Hlboký spánok)   
+                &nbsp;
+        - Komisár Maigret 
+            - Nechodí autom, pretože nemá vodičský preukaz, na prepravu používa služobné vozidlo alebo taxík, v prípade potreby chodí aj parížskou MHD
+            - Nosí typický dlhý kabát a výrazný klobúk a fajčí vždy fajku
+        - Hercule Poirot
+            - Vystupuje ako komický starosvetský Valón (Belgičan) s navoskovanými fúzikmi
+            - Pôsobí v Anglicku, ale anglické slová vyslovuje s príšerným francúzskym prízvukom
+            - Je dokonalý gentleman, ktorého najsilnejšou zbraňou sú, ako sám často hovorí, sivé bunky mozgové
+            - Každý zločin a každú záhadu vyrieši svojimi deduktívnymi schopnosťami a pozorovacím talentom 
+        - Holmes
+            - Mal všestranné záujmy, napr. hru na husle, chemické pokusy, streľbu z revolvera a box
+            - Podľa Watsona bol 180 cm vysoký, chudý, mal prenikavé oči a tenký orlí nos
+            - Známy je tiež svojou fajkou a cestovnou čiapkou s dvomi šiltmi
+        - Columbo
+            - Je známy svojou dotieravosťou - neváha sa niekoľkokrát vrátiť s tým, že niečo zabudol
+            - Jeho typickou hláškou je: *"Ešte jedna vec..."*
+            - Poručík si v každej časti požičiava ceruzku alebo pero, niekedy aj viackrát
+            - Namiesto elegantného trenčkotu nosil Columbo beztvarý pokrčený plášť v štýle bezdomovca, rozopnutý, prípadne zapnutý nakrivo a namiesto švihácky nasadeného elegantného klobúka neučesané, strapaté vlasy
+            - Typickými Columbovými znakmi sú jeho večne dymiaca cigara a rozpadávajúci sa Peugeot 403 Cabrio
+        - Monk
+            - Jeho fóbie ho v práci obmedzujú
+            - Trpí okrem iného strachom z výšok, z lietania, zo psov, z malých uzavretých priestorov a rôznymi inými, napríklad strachom zo špiny, baktérií alebo aj strachom z mlieka
+            - Necíti sa dobre, keď obrazy visia na stene krivo, alebo symetria toho, na čo sa pozerá, je niečím narušená
+        - Autori drsnej školy
+            - Skupina amerických tvorcov, priniesli novú kvalitu do detektívneho žánru
+            - Nevyšetrujú náhodné zločiny v salónoch britskej aristokracie
+            - Prostredie – zločinecké, svoju vyšetrovaciu hru preniesli do ulíc veľkomiest, kde vládne zločin
+            - Postavy - brutálni zabijaci, skorumpovaní policajti, politici, gangstri, spoločenská smotánka, zlosyni, prevláda krutosť
+            - Konflikt – moci, bezohľadnosti, osobnej morálky, právo ustupuje do pozadia
+            - Mení sa aj postava detektíva – nie džentlmen, ale ostrý chlapík, ktorý neraz len o vlások unikol smrti, dobro tu vždy víťazí, aj keď cena je niekedy vysoká
+            - Sú to tvrdí, osamelí chlapíci, vykonávatelia neveľmi oceňovaného povolania
+            - hlavný hrdina je drsný a cynický, aby prežil v tej džungli, ale vnútorne je to človek vysokých morálnych kvalít 
+            - Hammett, Chandler a McDonald - mnohí ich  považujú za "Svätú trojicu" spisovateľov detektívok 
+- Triler (akcia)
+    - Z anglického *otriasť, vzrušiť*
+    - Žáner filmu, knihy alebo televízneho seriálu, ktorý má u čitateľa alebo diváka vyvolať silné napätie a emócie
+    - Na rozdiel od hororu je zdroj napätia reálny, nie je vyvolaný fiktívnymi, nadprirodzenými javmi
+    - Charakteristický chronologickým spôsobom rozprávania, ktorého ťažisko tvorí prenasledovanie odhaleného páchateľa 
+    - Sú charakterizované rýchlym sledom udalostí, častou akciou a nápaditými hrdinami, ktorí musia prekaziť plány silnejším a lepšie vybaveným podliakom
+    - Často sa používajú nástroje ako napätie, falošné stopy a koniec v najnapínavejšom momente
+    - Triler sa často koná v nezvyčajnom prostredí ako cudzie krajiny, púšte, polárne oblasti alebo šíre more
+    - V niektorých trileroch sú hrdinovia "tvrďáci", ktorí si navykli na nebezpečenstvo - strážcovia zákona, špióni, vojaci, námorníci alebo piloti. Môžu to byť ale aj obyčajní občania, ktorí do nebezpečenstva spadli náhodou
+    - Tradične boli hrdinovia muži, ale teraz začína pribúdať hrdiniek.
+    - V trileri musí hrdina radšej skrížiť plány nepriateľovi, ako odkrývať zločin, ktorý sa už stal
+- Horror
+    - Z anglického *hrôza, des*
+    - Literárny žáner, stvárňujúci námety, ktoré majú u čitateľa vyvolať napätie spojené s pocitom hrôzy a strachu
+    - Žáner vznikol už v Anglicku v 18. storočí vo forme rozprávaní o stredovekej minulosti opradenej strašidlami, duchmi a pod.
+    - Za predchodcu hororu sa považuje spisovateľ a kritik Edgar A. Poe 
 
 
+### Jules Verne
+1828 - 1905  
+Francúzsky spisovateľ  
+Zakladateľ sci-fi literatúry  
+Napísal 80 vedecko-fantastických románov 
 
+Romány: Dva roky prázdnin, Cesta do stredu zeme, Cesta okolo sveta za 80 dní
 
+**Cesta na Mesiac**
+Vedecko-fantastický román  
+Téma - strely na Mesiac roku 1866 s posádkou troch pozemšťanov
+Idea – autor vychádzajúc z dobových poznatkov vedy a techniky podáva v románe svoje vízie budúcnosti o možnosti letu do vesmíru, ktoré sa o 100 rokov skutočne aj naplnili. Okrem zobrazenia vnútorného prežívania postáv poukazuje aj na ničivé následky a nebezpečenstvá vedeckého pokroku 
 
+### Karel Čapek   
+Do literatúry vstúpil prácami s bratom Jozefom  
+Píše o technike – obavách z jej zneužitia (potvrdené v 1. svetovej vojne)  
+Upozorňoval na nebezpečenstvo zneužitia techniky človekom  
+Človek je človekom, má zodpovednosť za to, čo robí
 
+**R.U.R. (Rossumovi univerzální roboti)**  
+Rossum - anglický vynálezca, skonštruuje stroje, kt. majú nahradiť človeka v práci  
+Začína ich sériová výroba, ľudia sú nahradení (...bude sa nám dobre žiť)  
+Avšak roboty rastú (IQ), ľudia si to neuvedomujú  
+Ľudia sa prebudia, až keď sa roboti vzbúria a začnú premyslene vyvražďovať ľudí  
+Zabijú všetkých, potom sa začne boj medzi nimi o moc  
+Hrozí vyhubenie akéhokoľvek života na zemi (KČ si vtedy povie - dosť)  
+Ostanú len robot a robotka, dostanú zázračným spôsobom ľudský cit - novodobí Adam a Eva (nádej na záchranu života) 
 
+**Válka s mloky** (1936)   
+Satiricko-alegorický román (satira v 1. časti)   
+Námorný kapitán vycvičí mloky na lov perlorodiek  
+Mloky sa vyvíjajú, rýchlo rozmnožujú  
+Nastávajú záplavy, ľudia sa musia sťahovať na vyššie položené miesta (mloky podmývajú pevninu, aby získali životný priestor)  
+Mloky vyhlásia vojnu, hrozí vyhubenie ľudstva  
+Našťastie - nastáva zvrat (ľudia sa stiahnu na najvyššie miesta, mloky si začínajú zavadzať => začnú bojovať medzi sebou o moc)  
+Ľudia sú zachránení - optimizmus, viera v normálnych ľudí  
+Mloky (sú hnedé - ako nacistické uniformy; potrebujú "Lebensraum" - ako faš. Nemci)  
+Idea - Kritika nastupujúceho fašizmu.
 
+**Bíla nemoc**  
+Hlavnou postavou je lekár Galen  
+Diktátor Mašal sfanatizuje ľudí, má plnú moc  
+Ochorie, dostane bielu nemoc  
+Galeon lieči ľudí, našiel liek na túto chorobu  
+Maršal chce, aby mu pomohol  
+Galeon si dá podmienku – Maršal sa musí vzdať plánov vojny  
+Maršal neskôr súhlasí  
+Galen mu nesie protilátku – ušlape ho sfanatizovaný dav, ktorý oslavuje Maršala pred jeho domom
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Otázka 21
 
 
 
