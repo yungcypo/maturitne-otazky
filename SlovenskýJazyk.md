@@ -1,35 +1,5 @@
 # Slovenský jazyk - maturitné otázky
 
-### Obsah
-1. [Otázka](#otázka-1)
-    - [Jazyk](#jazyk)
-    - [Reč](#reč)
-    - [Lexikológia](#lexikológia)
-    - [Slovná zásoba](#slovná-zásoba)
-2. [Otázka](#otázka-2)
-    - [Jazyk](#jazyk-1)
-    - [Reč](#rec48d-1)
-    - [Lexikológia](#lexikolc3b3gia-1)
-    - [Slovná zásoba](#slovnc3a1-zc3a1soba-1)
-    - [Slová z hľadiska expresivity a emocionálnosti](#slová#-z-hľadiska-expresivity-a-emocinálnosti)
-    - [Slová podľa zaradenia do jazykových štýlov](#slová-podľa-zaradenia-do-jazykových-štýlov)
-3. [Otázka](#otázka-3)
-    - [Opisný slohový postup](#opisný-slohový-postup)
-        - [Opis](#opis)
-        - [Charakteristika](#charakteristika)
-        - [Posudok](#posudok)
-        - [Návod](#návod)
-        - [Recept](#recept)
-4. [Otázka](#otázka-4)
-    - [Informácia](#informácia)
-5. [Otázka](#otázka-5)
-    - [Fonetika, fonológia](#fonetika-fonológia)
-    - [Spodobovanie](#spodobovanie)
-6. [Otázka](#otázka-6)
-    - [Administratívny štýl](#administratívny-štýl)
-    - [Lexikológia, syntax](#lexikológia-syntax)
-
-
 &nbsp;
 # Otázka 1
 ## Jazyk

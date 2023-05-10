@@ -1,76 +1,5 @@
 # Ekonomika - maturitné otázky  
 
-### Obsah
-1. [Dlhodobý majetok](#1---dlhodobý-majetok)
-    - [Charakteristika, členenie + príklady](#charakteristika-členenie--príklady)
-    - [Spôsoby obstarania a oceňovanie + účtovanie](#spôsoby-obstarania-a-oceňovania--účtovanie)
-    - [Zdroje financovania](#zdroje-financovania)
-    - [Náležitosti účtovného dokladu](#náležitosti-účtovného-dokladu)
-    - [Cenkros](#cenkros)
-2. [Opotrebenie DM](#2---opotrebenie-dm)
-    - [Odpis](#odpis)
-    - [Fyzické a morálne opotrebenie](#fyzické-a-morálne-opotrebenie)
-    - [Účtovné a daňové odpisy](#účtovné-a-daňové-odpisy)
-    - [Postup účtovania odpisov](#postup-účtovania-odpisov)
-    - [Výpočet zostatkovej ceny](#výpočet-zostatkovej-ceny)
-    - [Metódy odpisovania DM](#metódy-odpisovania-dm)
-    - [Príčiny vyradenia + spôsob účtovania](#príčiny-vyradenia--spôsob-účtovania)
-3. [Mzda](#3---mzda)
-    - [Definícia + funkcie](#definícia--funkcie)
-    - [Základné a doplnkové formy](#základné-a-doplnkové-formy)
-    - [Spôsob výpočtu a účtovania mzdy](#spôsob-výpočtu-a-účtovania-mzdy)
-    - [Sociálne poistenie](#sociálne-poistenie)
-    - [Pracovný čas - formy, doba odpočinku, dovolenka](#pracovný-čas---formy-doba-odpočinku-dovolenka)
-    - [Účtovné doklady a knihy spojené so mzdovou evidenciou](#účtovné-doklady-a-knihy-spojené-so-mzdovou-evidenciou)
-4. [Náklady](#4---náklady)
-    - [Definícia + členenie + príklad](#definícia--členenie--príklad)
-    - [Položky kalkulačného vzorca + úloha vzorca](#položky-kalkulačného-vzorca--úloha-vzorca)
-    - [Výnosy + členenie z účtovného hľadiska](#výnosy--členenie-z-účtovného-hľadiska)
-    - [Zásady účtovania nákladov a výnosov](#zásady-účtovania-nákladov-a-výnosov)
-    - [Ako sa z účtovníctva zistí výsledok hospodárenia + spôsob rozdelenia](#ako-sa-z-účtovníctva-zistí-výsledok-hospodárenia--spôsob-rozdelenia)
-5. [Trh](#5---trh)
-    - [Charakteristika + subjekty trhu](#charakteristika--subjekty-trhu)
-    - [Čo vyjadruje dopyt, ponuka, rovnovážna cena](#čo-vyjadruje-dopyt-ponuka-rovnovážna-cena)
-    - [Význam konkurencie, typy konkurencie + príklady](#význam-konkurencie-typy-konkurencie--príklady)
-    - [Účtovanie zúčtovacích vzťahov z obchodného styku](#účtovanie-zúčtovacích-vzťahov-z-obchodného-styku)
-6. [Podnik](#6---podnik)
-    - [Charakteristika + zložky](#charakteristika--zložky-1)
-    - [Ekonomická samostatnosť, právna subjektivita](#ekonomická-samostatnosť-právna-subjektivita)
-    - [Práva a povinnosti podnikateľa](#práva-a-povinnosti-podnikateľa)
-    - [Hlavné ciele a činnosti podniku (charakteristika)](#hlavné-ciele-a-činnosti-podniku-charakteristika)
-    - [Členenie podnikov](#členenie-podnikov)
-    - [Cenkros](#cenkros-1)
-7. [Finančné riadenie](#7---finančné-riadenie)
-    - [Finančné zdroje - charakteristika](#finančné-zdroje---charakteristika)
-    - [Úloha finančného riadenia](#úloha-finančného-riadenia)
-    - [Cash-flow](#cash-flow)
-    - [Investície + členenie](#investície--členenie)
-    - [Úloha finančnej analýzy + zdroje financovania](#úloha-finančnej-analýzy--zdroje-financovania)
-    - [Činitele, ktoré ovplyvňujú finančnú situáciu podniku](#činitele-ktoré-ovplyvňujú-finančnú-situáciu-podniku)
-    - [Koho zaujíma finančná situácia, prečo](#koho-zaujíma-finančná-situácia-prečo)
-8. [Činnosti personálneho útvaru (zdroje získavania, metódy výberu)](#8---činnosti-personálneho-útvaru-zdroje-získavania-metódy-výberu)
-    - [Zamestnanec, zamestnávateľ + povinnosti](#zamestnanec-zamestnávateľ--povinnosti)
-    - [Druhy pracovného pomeru](#druhy-pracovného-pomeru)
-    - [Spôsob vzniku a ukončenia pracovného pomeru](#spôsob-vzniku-a-ukončenia-pracovného-pomeru)
-    - [Náležitosti poracovnej zmluvy](#náležitosti-pracovnej-zmluvy)
-    - [Postup účtovania pohadávok a záväzkov voči zamestnancom](#postup-účtovania-pohľadávok-a-záväzkov-voči-zamestnancom)
-    - [Nezamestnanosť](#nezamestnanosť)
-9. [Odbytová logistika marketingu](#9---odbytová-logistika-marketingu)
-    - [Formy a metódy prieskumu trhu](#formy-a-metódy-prieskumu-trhu)
-    - [Kontraktačná politika, metódy tvorby cien](#kontraktačná-politika-metódy-tvorby-cien)
-    - [Podstata elasticity dopytu, jej využitie v cenovej politike](#podstata-elasticity-dopytu-jej-využitie-v-cenovej-politike)
-    - [Ďalšie obchodné podmienky](#ďalšie-obchodné-podmienky)
-    - [Postup účtovania kúpy a predaja tovaru](#postup-účtovania-kúpy-a-predaja-tovaru)
-10. [Marketing](#10---marketing)
-    - [Výrobková politika - stránky](#výrobková-politika---stránky)
-    - [Životný cyklus výrobkov](#životný-cyklus-výrobkov)
-    - [Činnosti spojené s prácou s výrobkom](#činnosti-spojené-s-prácou-s-výrobkom)
-    - [Nástroje komunikačnej politiky](#nástroje-komunikačnej-politiky)
-    - [Znaky a funkcie reklamy](#znaky-a-funkcie-reklamy)
-    - [Druhy reklamných prostriedkov](#druhy-reklamných-prostriedkov)
-    - [Účtovanie vlastných výrobkov](#účtovanie-vlastných-výrobkov)
-
-
 &nbsp;  
 # 1 - Dlhodobý majetok
 ## Charakteristika, členenie + príklady
@@ -790,6 +719,165 @@ Pod pojmom výrobková politika rozumieme činnosti spojené s právou s výrobk
 ## Účtovanie vlastných výrobkov  
 *612, 613, prírastky, úbytky, predaj*
 
+&nbsp;
+# 11 - Krátkodobý majetok
+## Obežný majetok
+## Ceniny
+## Dodacie podmienky pre voľbu dodávateľa 
+## Druhy zásob + charakteristika
+## Význam normy spotreby materiálu
+## Spôsob obstarania a ocenenia zásob
+## Cenkros
+
+&nbsp;
+# 12 - Distribučná politka, skladovanie
+## Distribučná politika
+## Priame a nepriame odbytové cesty
+## Hlavné úlohy veľkoobchodu a maloobchodu
+## Faktory ovplyvňujúce spôsob prepravy tovaru
+## Doklady a činnosti spojené s príjmom a výdajom + postup účtovania
+## Úlohy zásobovacích skladov *(3)*
+## Druhy skladov a ich využitie
+## FIFO, VAP
+
+&nbsp;
+# 13 - Bankovníctvo
+## Založenie, právna forma
+## Základné činnosti
+## Aktívne operácie - postup pri získaní úveru
+## Pasívne operácie - vklady
+## Význam postavenia funkcie NBS
+## Postup účtovania o BÚ a KBÚ
+
+&nbsp;
+# 14 - Kúpna zmluva, platobný styk
+## Podstata zúčtovacích vzťahov
+## Kúpna zmluva - uzatvorenie a plnenie
+## Základné dodacie a platobné podmienky
+## Platobný styk
+- Hotovostný
+- Bezhotovostný
+- Kombinovaný
+## Postup účtovania 211, 213
+## Inventarizácia pokladnice
+## Funkcie peňazí *(3)*
+
+&nbsp;
+# 15 - Poiťovníctvo
+## Význam poistenia
+## Základné pojmy
+## Poistný vzťah
+## Životné a neživotné poistenie
+## Zložky sociálneho poistenia
+## Účtovanie mánk a škôd na majetku
+## Cenkros
+
+&nbsp;
+# 16 - Živnosť
+## Charakteristika, druhy + príklad
+## Založenie a vznik
+## Možnosti vedenia účtovníctva a zistenia výsledku hospodárenia
+## Postup výpočtu dane z príjmov FO
+## Účtovné knihy v jednoduchom účtovníctve *!*
+## Cenkros
+
+&nbsp;
+# 17 - Účtovníctvo - jednoduché *!*
+## Postup účtovania v jednoduchom účtovníctve
+## Účtovné knihy, druhy účtovných dokladov
+- PPD
+- VPD
+- VBÚ
+## Účtovná uzávierka (činnosti)
+## Podstata a obsah účtovnej uzávierky
+## Výpočet základu dane a dane z príjmov
+## Postup účtovania v peňažnom denníku
+
+&nbsp;
+# 18 - Manažment
+## Definícia
+## Plánovanie
+## Druhy rozhodovacích procesov a riziká
+## Organizačná štruktúra
+## Štýly vedenia ľudí + stupne manažérov
+## Funkcie konroly, druhy
+
+&nbsp;
+# 19 - Výroba
+## Definícia, stránky
+## Ciele výroby (princíp maxima, princíp minima)
+## Zákonitosti organizácie výrobného procesu
+## Členenie
+## Elementárne a dispozitívne výrobné faktory
+## Výrobný program, výrobný rad, výrobná kapacia - definícia
+## Druhy výrobného sortimentu
+- Úzky
+- Široký
+
+- Hlboký
+- Plytký
+
+&nbsp;
+# 20 - Ekonómia, ekonomika
+## Definícia
+## Služby, statok, potreby + členenie
+## 3 základné ekonomické otázky
+## Typy ekonomík
+## Výrobné vstupy a výstupy podniku
+
+&nbsp;
+# 21 - Účtovná dokumentácia
+## Význam 
+## Členenie účtovných dokladov + náležitosti
+## Priebeh spracovania účtovných dokladov
+## Hlavné zásady účtovnej dokumentácie
+## Účtovné zápisy, účtovné knihy 
+## Rozdiely medzi syntetickým a analytickým účtom
+## Vymenujte knihy sytetickej a analytickej evidencie
+## Kontrolná súpiska analytických účtov a jej úlohu
+
+&nbsp;
+# 22 - Priame dane
+## Pojem daň + význam
+## Priame a nepriame dane *ktoré musí firma odovzdávať*
+## Daň z príjmov FO a spôsob jej výpočtu
+## Postupy účtovania dane z príjmov PO *(kladná a záporná daňová povinnosť)*
+## Ostatné priame dane + spôsob účtovania
+
+&nbsp;
+# 23 - Akciová spoločnosť
+## Postup založenia a vzniku
+## Charakteristika + orgány
+## Akcia, typy akcií
+## Postup účtovania predaja a nákupu akcií
+## Rozdiel medzi akciou a dlhopisom
+## Cenkros
+
+&nbsp;
+# 24 - Nepriame dane
+## Druhy daní platných v SR
+## Daň - definícia + prečo ich delíme na priame a nepriame
+## Základné daňové pojmy
+- Subjekt dane
+- Objekt dane
+- Základ dane
+- Sadzba dane
+## Systém DPH
+## Spotrebné dane + ich význam
+## Postup účtovania nepriamych daní
+
+&nbsp;
+# 25 - Národné hospodárstvo
+## Definícia + jeho odvetia a štruktúra
+## Hrubý domáci produkt, hrubý národný produkt
+## Základné pojmy
+- Účtovníctvo
+- Sústavy účtovníctva
+- Účtovné obdobie
+- Účtovná jednotka
+- Účtovný prípad
+## Súvaha - položky, druhy súvah, účtová osnova, účtový rozvrh
+## Zásady účtovania na súvahových a výsledkových účtoch
 
 ---
 [↑ Späť na začiatok ↑](#ekonomika---maturitné-otázky)

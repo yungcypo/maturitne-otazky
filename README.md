@@ -8,6 +8,7 @@ Ak je niečo zle, máš námietky, chcel by si niečo doplniť, niečo sa opýta
 [Literatúra](Literatúra.md)  
 [Pozemkové právo, realitná prax](PozemkovéPrávoRealitnáPrax.md)  
 [Slovenský jazyk](SlovenskýJazyk.md)  
+[Staviteľstvo](Staviteľstvo.md)  
 [Účtovníctvo](Účtovníctvo.md)  
 
 &nbsp;  

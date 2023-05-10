@@ -402,3 +402,5 @@ List vlastníctva potreba najmä pokiaľ potreba oficiálne preukázať vlastní
 
 
 
+---
+[↑ Späť na začiatok ↑](#pozemkové-právo-realitná-prax---maturitné-otázky)

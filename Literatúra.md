@@ -7,8 +7,9 @@ Epická báseň má základné črty epického rozprávania:
 - Príbeh
 - Dej
 - Hrdinu
+
 Dá sa rozprávať jej obsah  
-Druhmi epickej básne sú napríklad epos a balada
+Druhmi epickej básne sú napríklad epos a balada  
 
 ## Rytmus
 Je založený na pravidelnom opakovaní rovnakých alebo podobných prvkov v určitej postupnosti, pravidelnosti  
@@ -3873,3 +3874,5 @@ Galen mu nesie protilátku – ušlape ho sfanatizovaný dav, ktorý oslavuje Ma
 
 
 
+---
+[↑ Späť na začiatok ↑](#literatúra---maturtiné-otázky)
