@@ -3,7 +3,7 @@
 &nbsp;  
 # 1 - Dlhodobý majetok
 ## Charakteristika, členenie + príklady
-Dlhodobý majetok slúži dlhodobo na uskutočnovanie podnikových činností. Má dobu použiteľnosti/splatnosti \> 1 rok. Nespotrebuje sa naraz, postupne sa opotrebúva jeho používaním 
+Dlhodobý majetok slúži dlhodobo na uskutočňovanie podnikových činností. Má dobu použiteľnosti/splatnosti \> 1 rok. Nespotrebuje sa naraz, postupne sa opotrebúva jeho používaním 
 
 Delenie:
 - hmotný - pozemky, byty, samostatné hnuteľné veci a súbory nehnuteľných vecí
@@ -20,7 +20,7 @@ Obstaranie:
 
 Oceňovanie:
 - obstarávacia cena (OC)- cena, za ktorú sa majetok obstaral + náklady súvisiace s jeho obstaraním
-- reprodukčná obstarávacia cena (ROC) - vyjadruje zemené reprodučné podmienky používania majetku. Je to cena, ktorú by mal majetok mať v čase, keď sa o ňom účtuje
+- reprodukčná obstarávacia cena (ROC) - vyjadruje zemené reprodukčné podmienky používania majetku. Je to cena, ktorú by mal majetok mať v čase, keď sa o ňom účtuje
 - vlastné náklady (VN) - súčet priamo a nepriamo vynaložených nákladov pri vlastnej výrobe majetku
 - zostatková cena (ZC) - cena, ktorá nám ostane po odpísaní istej sumy z majetku
 - oprávky - kumulované (sčítané) odpisy, t. j. súčet odpisov majetku za celú dobu životnosti
@@ -33,7 +33,7 @@ Oceňovanie:
     - výsledok hospodárenia minulých rokov
     - výsledok hospodárenia bežného účtovného obdobia
 - externé
-    - vklady vlastníkov - väčšinou slúžia ako štartovn kapitál pri založení podniku
+    - vklady vlastníkov - väčšinou slúžia ako štartovný kapitál pri založení podniku
     - dotácie - nenávratný finančný zdroj, ktorý podnik získa od štátu alebo samosprávy
     - granty
 
@@ -44,7 +44,7 @@ Oceňovanie:
 - označenie účastníkov účtovného prípadu
 - peňažná suma alebo údaj o cene za mernú jednotku a vyjadrenie množstva
 - dátum vyhotovenia dokladu
-- dätum uskutočnenia účtovného prípadu, ak nie je zhodný s dätumom vyhotovenia (vystavenia) dokladu
+- dátum uskutočnenia účtovného prípadu, ak nie je zhodný s dátumom vyhotovenia (vystavenia) dokladu
 - podpis osoby zodpovednej za účtovný prípad, ak overenie prípadu nie je možné zabezpečiť inak
 
 ## Cenkros  
@@ -60,7 +60,7 @@ Oceňovanie:
     - pasívne - fyzické starnutie v dobe nepoužívania
 - morálne
     - vplyvom technického pokroku - vyrábajú sa technicky dokonalejšie výrobky
-    - vplyvom restu poduktivity práce - znižujú sa náklady, cena DM klesá 
+    - vplyvom restu produktivity práce - znižujú sa náklady, cena DM klesá 
 
 ## Účtovné a daňové odpisy
 - účtovné odpisy - predstavujú reálne opotrebenie majetku
@@ -96,21 +96,21 @@ Príčiny:
 
 |      | Darovanie DHM                  |           |
 | :--- | :----------------------------- | :-------- |
-| ID   | Bezodplatené odovzdanie stavby | *543/081* |
-| ID   | Vyradnie DHM - stavby          | *081/021* |
+| ID   | Bezodplatné odovzdanie stavby  | *543/081* |
+| ID   | Vyradenie DHM - stavby         | *081/021* |
 
 |      | Likvidácia DHM             |           |
 | :--- | :------------------------- | :-------- |
 | ID   | Odpis zostatkovej ceny DHM | *551/082* |
-| ID   | Vyradnie DHM z majetku     | *082/022* |
+| ID   | Vyradenie DHM z majetku    | *082/022* |
 
 &nbsp;  
 # 3 - Mzda
 ## Definícia + funkcie
 Mzda = cena práce  
 Funkcie:
-- národnohospodárska - mzda je odmena za poskytnutie várobného faktora
-- podnikovohospodárska - významná nákladná položka
+- národno-hospodárska - mzda je odmena za poskytnutie výrobného faktora
+- podnikovo-hospodárska - významná nákladná položka
 - stimulačná - motivácia na zvýšenie výkonu
 - sociálna - zabezpečenie sociálnej istoty, ovplyvňuje životnú úroveň
 
@@ -138,7 +138,7 @@ Funkcie:
 | - | Preddavky na ZP                                                 |
 | = | Čiastkový základ dane                                           |
 | - | Nezdaniteľná časť základu dane na daňovníka                     |
-| = | Zadniteľná mzda/Základ dane                                     |
+| = | Zdaniteľná mzda/Základ dane                                     |
 | - | Preddavok na daň                                                |
 | + | Daňový bonus                                                    |
 | = | Čistá mzda                                                      |
@@ -166,28 +166,28 @@ Rozdelenie:
 - 2-zmenná prevádzka - 38 $\frac{3}{4}$ hodín týždenne  
 - 3-zmenná prevádzka - 37 $\frac{1}{2}$ hodín týždenne  
 
-Môže byť zorvhnutý:
-- rovnomerne - rovnaký pracovný čas počas všetkých pracovných týždňov, týžden je rozvrhnutý na 5 pracovných dní
-- nerovnomerne - pracovný čas v jednotlivých týždňoch je rozdelený, pracovný čas za 1 deň nesmie presianuť 12 hodín
+Môže byť rozvrhnutý:
+- rovnomerne - rovnaký pracovný čas počas všetkých pracovných týždňov, týždeň je rozvrhnutý na 5 pracovných dní
+- nerovnomerne - pracovný čas v jednotlivých týždňoch je rozdelený, pracovný čas za 1 deň nesmie presiahnuť 12 hodín
 
 Najvyšší rozsah týždenného pracovného času (neobsahuje prestávky v práci):
 - 40 hodín
 - 30 hodín - do 16 rokov
 - 37 $\frac{1}{2}$ hodín - nad 16 rokov
 
-Paracovný čas môže byť pružný - zamestnávateľ nestanoví presný začiatok a koniec pracovného času, ale určí mu čas, ktorý musí byť na pracovisku. Pružný môže byť deň, týždeň, mesiac
+Pracovný čas môže byť pružný - zamestnávateľ nestanoví presný začiatok a koniec pracovného času, ale určí mu čas, ktorý musí byť na pracovisku. Pružný môže byť deň, týždeň, mesiac
 
 **Doba odpočinku**  
 - prestávky v práci - ak zamestnanec pracuje <u>\> 6 hodín</u> (mladiství \> 4,5 hodiny) vzniká mu nárok na odpočinok a jedenie v trvaní <u>30 minút</u> po 4 odpracovaných hodinách
-- nepretržitý denný odpočinnok - zamestnanec musí mať medzi zmenami odpočinok <u>min. 12 hodín</u> (mladiství min. 14 hodín)
+- nepretržitý denný odpočinok - zamestnanec musí mať medzi zmenami odpočinok <u>min. 12 hodín</u> (mladiství min. 14 hodín)
 - nepretržitý odpočinok v týždni - zamestnanec musí mať 1 $1\times$ za týždeň <u>2 po sebe nasledujúce dni</u> nepretržitého odpočinku (sobota a nedeľa/nedeľa a pondelok) 
 - dni pracovného pokoja - štátne sviatky a ostatné sviatky
 
 **Dovolenka** na zotavenie
-- ak zamestnanec odpracoval nepretržite <u>60 dní</u>, má nárok na dovolenku v rozsahu <u>4 týždňov</u> za kalenárny rok, ak zamestnanec dovŕši 33 rokov je to 5 týždňov, majstri odborného výcviku, učitelia 8 týždňov
+- ak zamestnanec odpracoval nepretržite <u>60 dní</u>, má nárok na dovolenku v rozsahu <u>4 týždňov</u> za kalendárny rok, ak zamestnanec dovŕši 33 rokov je to 5 týždňov, majstri odborného výcviku, učitelia 8 týždňov
 - ak pracovný pomer netrval nepretržite počas celého kalendárneho roka, zamestnanec má právo nárok na pomernú časť dovolenky - <u>každý mesiac $\frac{1}{12}$ dovolenky</u>
 - dovolenka za odpracované dni - ak zamestnanec nemá právo na dovolenku podľa bodu 1, má právo na <u> $\frac{1}{12}$ dovolenky</u> za každých odpracovaných <u>21 dní</u>
-- ak zamestnanec pracoval v sťažených podmienkach, pripočíta sa mu <u>1 týžden</u> dovolenky
+- ak zamestnanec pracoval v sťažených podmienkach, pripočíta sa mu <u>1 týždeň</u> dovolenky
 
 ## Účtovné doklady a knihy spojené so mzdovou evidenciou
 |     | Účtovné doklady              |
@@ -207,13 +207,13 @@ Paracovný čas môže byť pružný - zamestnávateľ nestanoví presný začia
 ## Definícia + členenie + príklad
 Členenie podľa objemu výroby:
 - fixné (pevné)
-    - so zmenou výroby sa celkovo nemenia, ale mení sa ich podieľ pripadajúci na jednotku výkonu
+    - so zmenou výroby sa celkovo nemenia, ale mení sa ich podiel pripadajúci na jednotku výkonu
     - napr. elektrická energia, voda, kúrenie, nájomné, odpisy, úroky z úverov
 - variabilné (premenlivé, pružné) - menia sa so zmenou objemu výroby
     - proporcionálne - rastú v tom istom pomere ako objem výkonov, napr. spotreba priameho materiálu na výrobok
     - neproporcionálne
-        - progresívne - ich celková výška rastie rýchlejšie ako objem výkonov (ak objem výkonov rasie) a klesá pomalšie ako objem výkonov (v prípade ak objem výkonov klesá). Napr. príplatky za nadčas, príplatky v dňoch pracovného pokoja, náklady na nepodarky. *Priama mzda pracovníka je 5€/hod., ak pracuje nadčas je jeho mzda 5,50€/hod. Čím viac nadčasových hodín odpracuje, tým sú celkové náklady vyššie a rastú rýchlejšie*
-        - degresívne - ich celková výška rastie pomalšie ako objem výkonov (ak objem výkonov rasie) a klesá rýchlejšie ako objem výkonov (ak objem výkonov klesá). Napr. náklady na opravy DM, náklady na pomocný materiál, technologické palivo a pod. *Podnik vlastní stroje, na ktorých sa robia každoročne opravy 100€ na 10 000 ks výrobkov -> 0,01€/ks. Ak vyrobí 15 000 ks výrobkov, stroje treba opravovať častejšie a cena opravy je 130€ -> 0,0086€/ks. Pri 20 000 ks je cena 160€ -> 0,008€/ks.*
+        - progresívne - ich celková výška rastie rýchlejšie ako objem výkonov (ak objem výkonov rastie) a klesá pomalšie ako objem výkonov (v prípade ak objem výkonov klesá). Napr. príplatky za nadčas, príplatky v dňoch pracovného pokoja, náklady na nepodarky. *Priama mzda pracovníka je 5€/hod., ak pracuje nadčas je jeho mzda 5,50€/hod. Čím viac nadčasových hodín odpracuje, tým sú celkové náklady vyššie a rastú rýchlejšie*
+        - degresívne - ich celková výška rastie pomalšie ako objem výkonov (ak objem výkonov rastie) a klesá rýchlejšie ako objem výkonov (ak objem výkonov klesá). Napr. náklady na opravy DM, náklady na pomocný materiál, technologické palivo a pod. *Podnik vlastní stroje, na ktorých sa robia každoročne opravy 100€ na 10 000 ks výrobkov -> 0,01€/ks. Ak vyrobí 15 000 ks výrobkov, stroje treba opravovať častejšie a cena opravy je 130€ -> 0,0086€/ks. Pri 20 000 ks je cena 160€ -> 0,008€/ks.*
         - regresívne - vyvíjajú sa nepriamo úmerne s objemom výkonov. Napr. mzdy vyplatené za prestoje
 
 ## Položky kalkulačného vzorca + úloha vzorca
@@ -230,7 +230,7 @@ Paracovný čas môže byť pružný - zamestnávateľ nestanoví presný začia
 | =   | Úplné vlastné náklady výkonu |
 | 7.  | Zisk                         |
 | =   | Cena výrobku (služby)        |
-| 8.  | Daň z prídanej hodnoty       |
+| 8.  | Daň z pridanej hodnoty       |
 | =   | Predajná cena vrátane DPH    |
 
 ## Výnosy + členenie z účtovného hľadiska
@@ -299,7 +299,7 @@ Podnik je samostatná hospodárska jednotka, ktorá využívaním výrobných č
 ## Ekonomická samostatnosť, právna subjektivita
 - **Ekonomická samostatnosť**
     - Podnik o všetkých skutočnostiach týkajúcich sa podniku rozhoduje sám
-    - Štát nezasahuje priamo do činnosti podniku. Jeho úlohou je určiť pravidlá podnikania, vytvárať zákony a pravidlá v rámci ktorých sa môže uskutočnovať podnikanie
+    - Štát nezasahuje priamo do činnosti podniku. Jeho úlohou je určiť pravidlá podnikania, vytvárať zákony a pravidlá v rámci ktorých sa môže uskutočňovať podnikanie
 - **Právna subjektivita**
     - Právo podniku konať vo vlastnom mene, preberať na seba záväzky, niesť zodpovednosť za ich plnenie
     - Právo uzatvárať zmluvy s inými podnikmi
@@ -312,7 +312,7 @@ Podnik je samostatná hospodárska jednotka, ktorá využívaním výrobných č
 - **Základné povinnosti podniku**
     - Registrácia v OR - uvedený názov firmy, sídlo, predmet podnikania, identifikačné číslo
     - Odvádzanie daní štátu
-    - Vednie účtovníctva
+    - Vedenie účtovníctva
     - Chránenie životného prostredia
     - Dodržiavať zákony
 - **Základné práva podniku**
@@ -348,7 +348,7 @@ Podnik je samostatná hospodárska jednotka, ktorá využívaním výrobných č
     - Zásobovacie činnosť - proces zabezpečovania podnikového procesu potrebnými zásobami v potrebnom množstve, kvalite, čase a cene
         - Plánovanie zásob
             - Plánovanie objemu nákupu podľa druhu materiálu
-                - Nákup vo veľkom množstve v dlhších časových intervaloch - nie je ohrozená plynulosť vároby, nižšie náklady
+                - Nákup vo veľkom množstve v dlhších časových intervaloch - nie je ohrozená plynulosť výroby, nižšie náklady
                 - Nákup v malom množstve v kratších časových intervaloch - ohrozenie plynulosti, náročná organizácia zásobovania, vyššie náklady
             - Stanovenie noriem zásob podľa druhov materiálu
         - Nákup 
@@ -381,7 +381,7 @@ Podnik je samostatná hospodárska jednotka, ktorá využívaním výrobných č
             - Spracovateľské
                 - Prvotne - hutníctvo železa
                 - Druhotne - strojárske
-        - Stavebné podniky - sú osobnitným druhom spracovateľských podnikov
+        - Stavebné podniky - sú osobitným druhom spracovateľských podnikov
             - Podniky priemyselnej výroby
             - Podniky bytovej výstavby
             - Podniky pozemných stavieb
@@ -398,7 +398,7 @@ Podnik je samostatná hospodárska jednotka, ktorá využívaním výrobných č
         - Finančné podniky - služby súvisiace s finančnými operáciami (banky, poisťovne, sporiteľne, zmenárne)
         - Ostatné - napr. liečebne, podniky sociálnej starostlivosti
 - **Podľa sektorov**
-    - Podnik primárneho sektora - podniky surovninového sektoru - ťažobný priemysel (bane), energetika (elektrárne), poľnohospodárstvo, lesníctvo (pestovanie a ťažba dreva)
+    - Podnik primárneho sektora - podniky surovinového sektoru - ťažobný priemysel (bane), energetika (elektrárne), poľnohospodárstvo, lesníctvo (pestovanie a ťažba dreva)
     - Podnik sekundárneho sektora - podniky sektoru výroby, kam patria priemyselné podniky (strojárske, textilné, potravinárske), stavebné, remeselné (sklárstvo)
     - Podnik terciárneho sektora - podniky sektoru služieb, napr. podniky cestovného ruchu, obchodné, finančné, dopravné
     - Podnik kvarciárneho sektora - oblasť vedy, techniky, výskum, školstvo a zdravotníctvo  
@@ -409,11 +409,11 @@ Podnik je samostatná hospodárska jednotka, ktorá využívaním výrobných č
 - **Podľa vlastníctva**
     - Štátne - majetok podniku je vlastníctvom štátu 
     - Súkromné - majetok podniku je súkromným vlastníctvom
-    - Zmiešané - kombinácia oboch foriem vlastníctva, najčastejšie ide o spojenie štátneho a súkromného vlastníctva v tých oblastiach podnikania, ktoré potrebuje mať stát pod kontrolou (napr. výroba zbraní, preprava plynu)
+    - Zmiešané - kombinácia oboch foriem vlastníctva, najčastejšie ide o spojenie štátneho a súkromného vlastníctva v tých oblastiach podnikania, ktoré potrebuje mať štát pod kontrolou (napr. výroba zbraní, preprava plynu)
 - **Podľa právnej formy**
     - Podnik jednotlivca (živnosti) - vlastníkom podniku je jednotlivec, ktorý vkladá do podniku časť svojho majetku. Vlastník podniku sám rozhoduje o jeho činnosti a sám nesie aj celé riziko spojené s podnikaním. Ručí sa za záväzky svojej firmy neobmedzene, celým svojím majetkom (aj osobným majetkom)
     - Obchodné spoločnosti - združenie 2 alebo viacerých podnikateľov, ktoré vzniká na základe zmluvy. Spoločníci sa spoločne podieľajú na dosiahnutom zisku, ale aj prípadné straty uhrádzajú spoločne
-    - Družstvá - ako spoločenstvá neohraničeného počtu osôb, založené za účelom podnikania, alebo zabezpečovania hospodárskych, sociálych a iných potrieb svojich členov. Družstvo je PO, zapisuje sa do OR. Poznáme poľnohospodárske, spotrebné, výrobné a bytové družstvý
+    - Družstvá - ako spoločenstvá neohraničeného počtu osôb, založené za účelom podnikania, alebo zabezpečovania hospodárskych, sociálnych a iných potrieb svojich členov. Družstvo je PO, zapisuje sa do OR. Poznáme poľnohospodárske, spotrebné, výrobné a bytové družstvá
     - Zvláštne formy bez právnej subjektivity
         - Tiché spoločenstvo
         - Združenie osôb na spoločné podnikanie
@@ -443,12 +443,12 @@ Podnik je samostatná hospodárska jednotka, ktorá využívaním výrobných č
             - Vklady vlastníkov
             - Úvery
             - Dotácie, granty
-            - Osobnitné formy financovania
+            - Osobitné formy financovania
                 - Lízing
                 - Faktoring
-                - Forfaiting
+                - Forfeiting
 ## Úloha finančného riadenia
-Stanovenie finančných cielov a spôsoby ich dosiahnutia. Uskutočňujú ho finanční manažéri s vhodnou klasifikáciou a skúsenosťou  
+Stanovenie finančných cieľov a spôsoby ich dosiahnutia. Uskutočňujú ho finanční manažéri s vhodnou klasifikáciou a skúsenosťou  
 
 - Základný finančný cieľ - maximalizácie trhovej hodnoty podniku pre vlastníkov, t.j. reálnej hodnoty (suma, za ktorú sa podnik môže predať)
 - Čiastkové finančné ciele
@@ -456,17 +456,17 @@ Stanovenie finančných cielov a spôsoby ich dosiahnutia. Uskutočňujú ho fin
     - Rentabilita - schopnosť dosahovať zisk
     - Stabilita - schopnosť udržať a zvyšovať svoju trhovú hodnotu pri meniacich sa podmienkach trhu
 
-Finačný plán - nástroj finančného riadenia, <u>písomný dokument</u>, ktorý obsahuje plánované finančné ciele podniku, postupy a spôsoby ich dosahovania
+Finančný plán - nástroj finančného riadenia, <u>písomný dokument</u>, ktorý obsahuje plánované finančné ciele podniku, postupy a spôsoby ich dosahovania
 
 - Úlohy finančného plánu
     - Analýza finančných zdrojov - určiť potrebu kapitálovej štruktúry, t.j. aké množstvo finančných zdrojov má k dispozícií
     - Analýza investičných príležitostí - do akých aktív alokuje svoje finančné zdroje
     - Prognózovanie budúcich príležitostí - predvídanie budúcich výsledkov na základe súčasných rozhodnutí (vytvorenie FP v niekoľkých variantoch)
-    - Výber najvhodnejšieho variantu - vyhoduje šúčasnému stavu so zreteľom na prognózovanie budúceho obdobia
+    - Výber najvhodnejšieho variantu - vyhovuje súčasnému stavu so zreteľom na prognózovanie budúceho obdobia
 - Kritériá, ktoré by mal FP spĺňať
     - Ciele podniku - identifikácia strategických a čiastkových cieľov, ktoré vyplývajú z výsledkov finančnej analýzy podniku
     - Základné stratégie - spôsoby, akými sa uskutočňujú stanovené ciele podniku
-    - Krátkodobý finančný plá a rozpočty - zorpočty analyzujú finančné údaje o príjmoch výdavkoch podrobnejšie
+    - Krátkodobý finančný plá a rozpočty - rozpočty analyzujú finančné údaje o príjmoch výdavkoch podrobnejšie
     - Finančná bilancia - jej úlohou je poskytnúť prehľad o finančnej a majetkovej štruktúre podniku
 - Postup tvorby a realizácie finančného plánu
     1. Finančná analýza podniku
@@ -492,7 +492,7 @@ Cash-flow (alebo saldo) je výsledkom plánu peňažných príjmov a výdavkov (
     - kladný    - príjmy > výdavky
     - záporný   - príjmy < výdavky
 ## Investície + členenie
-<u>Investovanie</u> je činnosť, prostredníctvom ktorej podnik umistňuje finančné zdroje do rôznych zložiek majetku  
+<u>Investovanie</u> je činnosť, prostredníctvom ktorej podnik umiestňuje finančné zdroje do rôznych zložiek majetku  
 <u>Investície</u> sú výdavky vynaložené na získanie konkrétnych aktív  
 <u>Deinvestovanie</u> je znižovanie objemu majetku podniku  
 
@@ -503,12 +503,12 @@ Cash-flow (alebo saldo) je výsledkom plánu peňažných príjmov a výdavkov (
         - Finančné - investovanie do finančného majetku (umelecké zbierky, dlhodobé a krátkodobé cenné papiere)
     - Z hľadiska obratu majetku podniku a viazanosti kapitálu
         - Investície do stálych aktív - na obstaranie DM (pozemky, budovy, stroje)
-        - Investície do obezných aktív - na obstaranie KM (zásob, pohľadávok a KFM)
+        - Investície do obežných aktív - na obstaranie KM (zásob, pohľadávok a KFM)
     - Z časového hľadiska 
         - Dlhodobé - výnos sa očakáva za viac ako 1 rok. Investičné riziko je vyššie
         - Krátkodobé - výnos sa očakáva spravidla do 1 roka. Nazývame ich bežné prevádzkové výdavky. Investičné riziko je nižšie
 ## Úloha finančnej analýzy + zdroje financovania
-Jej úlohou je určit potrebu kapitálovej štruktúry, t.j. aké množstvo finančných prostriedkov je má k dispozícií
+Jej úlohou je určiť potrebu kapitálovej štruktúry, t.j. aké množstvo finančných prostriedkov je má k dispozícií
 > Tento odsek sa už nachádza pri [úlohe finančného riadenia](#úloha-finančného-riadenia)
 ## Činitele, ktoré ovplyvňujú finančnú situáciu podniku
 ## Koho zaujíma finančná situácia, prečo
@@ -516,21 +516,21 @@ Jej úlohou je určit potrebu kapitálovej štruktúry, t.j. aké množstvo fina
 &nbsp;
 # 8 - Činnosti personálneho útvaru (zdroje získavania, metódy výberu)
 ## Zamestnanec, zamestnávateľ + povinnosti
-**Zamestnanec** - FO, ktorá v pracovnoprávnych vzťahoch vykonáva pre namestnávateľa závislú prácu podľa jeho pokynov za mzdu alebo odmenu. Spôsobilosť mať práva a povinnosti ako zamestnanec vzniká dňom, keď dovŕši 15 rokov života  
+**Zamestnanec** - FO, ktorá v pracovnoprávnych vzťahoch vykonáva pre zamestnávateľa závislú prácu podľa jeho pokynov za mzdu alebo odmenu. Spôsobilosť mať práva a povinnosti ako zamestnanec vzniká dňom, keď dovŕši 15 rokov života  
 **Zamestnávateľ** - PO alebo FO, ktorá zamestnáva aspoň 1 FO v pracovnoprávnom vzťahu
 ## Druhy pracovného pomeru  
-- Na dobu určitú - stanoví sa časové obdobie, pošas ktorého bude trvať pracovnoprávny vzťah. Toto obdobie je 1 rok + možnosť predĺžiť na ďalší rok alebo 2 roky vkuse Uplynutím tejto doby sa pracovný pomer končí
+- Na dobu určitú - stanoví sa časové obdobie, počas ktorého bude trvať pracovnoprávny vzťah. Toto obdobie je 1 rok + možnosť predĺžiť na ďalší rok alebo 2 roky vkuse Uplynutím tejto doby sa pracovný pomer končí
 - Na dobu neurčitú - nie je stanovené obdobie, počas ktorého bude trvať pracovnoprávny vzťah
 - Dohodou
 ## Spôsob vzniku a ukončenia pracovného pomeru
 - **Vznik pracovného pomeru**
     - Voľbou - používa sa vo verejnej správe (voľba prezidenta, poslancov, primátorov)
-    - Vymenovaním - vo verejnej správe (vymenovaním ústredných orgánovm vedúcich pracovníkov, rektorov vysokých škôl)
+    - Vymenovaním - vo verejnej správe (vymenovaním ústredných orgánom vedúcich pracovníkov, rektorov vysokých škôl)
     - Pracovnou zmluvou - zakladá sa ňou pracovný pomer v súkromnom aj verejnom sektore
 - **Ukončenie pracovného pomeru**
     - Dohodou - musí sa vypracovať písomne, obe strany dostanú 1 kópiu. Pracovný pomer sa končí sa dohodnutým dňom
     - Výpoveďou - zo strany zamestnanca alebo zamestnávateľa
-        - Zamestnávateľ môže dať výpoveď iba v prípadoch, ktoré uváza Zákonník práce
+        - Zamestnávateľ môže dať výpoveď iba v prípadoch, ktoré uvádza Zákonník práce
         - Zamestnanec môže dať výpoveď kedykoľvek, aj bez udania dôvodu
         - Výpoveď je platná, ak je písomne a doručená osobne alebo poštou. Pracovný pomer sa končí uplynutím výpovednej lehoty alebo vyplatením odstupného
 ## Náležitosti pracovnej zmluvy
@@ -546,7 +546,7 @@ Jej úlohou je určit potrebu kapitálovej štruktúry, t.j. aké množstvo fina
     - Výmera dovolenky
     - Dĺžka výpovednej lehoty
 ## Postup účtovania pohľadávok a záväzkov voči zamestnancom  
-Použivajú sa 2 účty 
+Používajú sa 2 účty 
 - *333 - Ostatné záväzky voči zamestnancom*
 - *335 - Pohľadávky voči zamestnancom*
 > Účet *331 - Zamestnanci* sa používa iba pri prípadoch spojených so mzdou, napr. Priznané hrubé mzdy *512/331*
@@ -558,7 +558,7 @@ Použivajú sa 2 účty
 | Pohľadávky - pribúdanie | *335/xxx* |
 | Pohľadávky - ubúdanie   | *xxx/335* |
 ## Nezamestnanosť
-Nezamestnanosť je sociálno - ekonomický jav, ktorý vyjadruje neúplné využitie práceschopného oyvaťeľstva, ktoré má záujem pracovať
+Nezamestnanosť je sociálno - ekonomický jav, ktorý vyjadruje neúplné využitie práceschopného obyvateľstva, ktoré má záujem pracovať
 - **Príčiny**
     - Strata zamestnania
     - Nemožnosť návratu do zamestnania (predĺžená materská dovolenka)
@@ -570,15 +570,15 @@ Nezamestnanosť je sociálno - ekonomický jav, ktorý vyjadruje neúplné využ
     - Dobrovoľná (prirodzená) - počet nezamestnaných $\le$ pracovné miesta
     - Nedobrovoľná - počet pracovných síl je absolútne väčší ako počet voľných pracovných miest
     - Frikčná spojená s určitými prirodzenými životnými cyklami, napr. po skončení štúdia, materskej dovolenky sa hľadá nové zamestnanie
-    - Štruktúrna - vzniká vtedy, keď existuje nesúlad medzi ponukou pracovníkov a dopytom po nich. Nezamestnanosť určitej skupiny pracovných síl na jednu stranu sprevádza nedostatok pracovných síl v inej skupine, napr. profesiovej, kvalifinačnej a pod.
+    - Štruktúrna - vzniká vtedy, keď existuje nesúlad medzi ponukou pracovníkov a dopytom po nich. Nezamestnanosť určitej skupiny pracovných síl na jednu stranu sprevádza nedostatok pracovných síl v inej skupine, napr. profesiovej, kvalifikačnej a pod.
     - Cyklická - celkový dopyt po zamestnancoch je nízky
     - Sezónna - súvisí s výkonom sezónnych prác, keď sa nezamestnanosť v určitom období zvyšuje alebo znižuje (práce v poľnohospodárstve, stavebníctve a pod.)
     - Regionálna - je to obdoba štruktúrnej nezamestnanosti s tým, že protipól voľných pracovných síl sa nachádza v inom regióne (oblasti)
     - Krátkodobá - súvisí s posudzovaním miery nezamestnanosti, jej trvanie je do 1 roka
-    - Dlhodobá - podobne ako krátkodobá, trvý viac ako 1 rok, považuje sa za sociálny problém krajiny
+    - Dlhodobá - podobne ako krátkodobá, trvá viac ako 1 rok, považuje sa za sociálny problém krajiny
 
 <u>Nezamestnaný</u> - človek schopný a ochotný pracovať, ktorý hľadá prácu z dôvodu jej straty. Je evidovaný na úrade práce (aktívne hľadanie práce)  
-<u>Zamestnaný</u> - človek, ktorý vykonáca akúkoľvek platenú prácu (sú v pracovnom pomere). Ten, kto momentnálne nepracuje pre chorobu, štrajk, dovolenku, zlé počasie a pod.  
+<u>Zamestnaný</u> - človek, ktorý vykonáva akúkoľvek platenú prácu (sú v pracovnom pomere). Ten, kto momentálne nepracuje pre chorobu, štrajk, dovolenku, zlé počasie a pod.  
 <u>Ostatný</u> - obyvateľstvo mimo pracovnej sily - študenti, dôchodcovia a pod.  
 
 <u>Miera nezamestnanosti</u> - ukazovateľ, ktorým možno vyčísliť nezamestnanosť: $miera\ nezamestnanosti = \frac{nezamestnaní}{pracovné\ sily}$
@@ -614,7 +614,7 @@ Elasticita dopytu je citlivosť dopytu na zmenu ceny
         - Sezónny
         - Veľtrhový
     - Funkčný - pre sprostredkovateľov, predajcov
-    - Naturálny - pri kúpe väčšieho množstva určitité množstvo zadarmo
+    - Naturálny - pri kúpe väčšieho množstva určité množstvo zadarmo
 - Dodacie podmienky - využívajú sa ako výhoda proti konkurencií
     - Spôsob doručenia
     - Právo na výmenu tovaru
@@ -627,7 +627,7 @@ Elasticita dopytu je citlivosť dopytu na zmenu ceny
 - Financovanie odbytu - tzv. úverová politika
     - Dodávateľský úver - napr. odloženie platby o 14 dní (faktúra)
     - Faktoring - predaj krátkodobej pohľadávky faktoringovej spoločnosti pred lehotou jej splatnosti
-    - Leasing - prenájom veci s možnosťou jej odkúpenia, po určitom čase na splátky za výššiu sumu
+    - Leasing - prenájom veci s možnosťou jej odkúpenia, po určitom čase na splátky za vyššiu sumu
 ## Postup účtovania kúpy a predaja tovaru
 |     |                            |                                         |
 |-----|----------------------------|-----------------------------------------|
@@ -641,7 +641,7 @@ Elasticita dopytu je citlivosť dopytu na zmenu ceny
 &nbsp;
 # 10 - Marketing
 ## Výrobková politika - stránky  
-Pod pojmom výrobková politika rozumieme činnosti spojené s právou s výrobkom
+Pod pojmom výrobková politika rozumieme činnosti spojené s právom s výrobkom
 - **Kvalitatívna stránka** - sleduje užitočnosť výrobku
     - Základný úžitok - uspokojenie potreby, pre ktorú sa výrobok vyrobil
     - Vedľajšie úžitky
@@ -649,7 +649,7 @@ Pod pojmom výrobková politika rozumieme činnosti spojené s právou s výrobk
         - Vyhotovenie - odlišnosť produktov ich vybavením alebo inými vlastnosťami (vlastný produkt od konkurenčného). Predstavuje zákazníkmi požadované varianty produktu
         - Dizajn - stvárnenie estetických vlastností produktu s dodržaním jeho funkčnosti
             - Štýl - charakterizuje výzor (vzhľad) výrobku
-            - Imidž - nehmotný parameter tovaru, ktorého prostredníctvom vyvoláva v spoločnosti určitý obdiv a uznanie. Vytvára ho značna, resp. ochranná známka, ktorá odlišuje várobky od rôznych výrobcov
+            - Imidž - nehmotný parameter tovaru, ktorého prostredníctvom vyvoláva v spoločnosti určitý obdiv a uznanie. Vytvára ho značná, resp. ochranná známka, ktorá odlišuje výrobky od rôznych výrobcov
         - Značka - spôsob identifikácie výrobku výrobcu a odlíšenie od konkurencie. Značkou môže byť meno, názov, znak, symbol, tvar alebo ich kombinácia. Obchodná značka chráni práva predávajúceho. Po zápise do OR je chránená pred kopírovaním ochrannou známkou
         - Balenie
             - Spotrebiteľské obaly - vnútorný obal, napr. fľaša
@@ -661,7 +661,7 @@ Pod pojmom výrobková politika rozumieme činnosti spojené s právou s výrobk
     - Intenzita potrieb - ako často človek uspokojuje istú potrebu
         - Periodické - bežné potreby - je potreba ich uspokojovať pravidelne (viackrát ročne), napr. hlad, smäd, únava
         - Aperiodické - vyskytujú sa s veľkým časovým odstupom (ani nie každý rok), napr. kúpa auta, chladničky, TV
-        - Jednorarové / singulárne potreby - vyskytujú sa iba výnimočne, bez akejkoľvek pravidelnosti, napr. potreba životného partnera, svadba
+        - Jednorazové / singulárne potreby - vyskytujú sa iba výnimočne, bez akejkoľvek pravidelnosti, napr. potreba životného partnera, svadba
 - **Práca s výrobkom**
     - Inovácia výrobku - vývoj nových výrobkov s novými úžitkovými vlastnosťami a dizajnom
     - Tvorba sortimentu
@@ -691,7 +691,7 @@ Pod pojmom výrobková politika rozumieme činnosti spojené s právou s výrobk
 4. Fáza nasýtenosti
     - Cenová konkurencia spôsobuje výrazné znižovanie ziskov
     - Dopyt klesá
-    - Obrat kelsá
+    - Obrat klesá
 5. Fáza útlmu
     - Predaj a výroba sa stáva stratovou
     - Poskytovanie akcie, zľavy
@@ -700,7 +700,7 @@ Pod pojmom výrobková politika rozumieme činnosti spojené s právou s výrobk
 - Reklama - Cieľavedomé komunikačné pôsobenie na potenciálnych zákazníkov so zameraním na sprostredkovanie informácie, vyvolanie predstavy, dojmu
 - Podpora predaja - súbor krátkodobých stimulov, ktoré stimulujú k rýchlejšej alebo silnejšej odozve trhu. Zameriava sa na produkt
 - Public relations - vytvorenie pozitívneho imidžu firmy. Zameriava sa na podnik ako celok
-- Osobný predaj - personálna komunikácia s trhom, pri ktorej vzniká interkcia medzi predávajúcim a kupujúcim
+- Osobný predaj - personálna komunikácia s trhom, pri ktorej vzniká interakcia medzi predávajúcim a kupujúcim
 ## Znaky a funkcie reklamy
 - **Znaky reklamy**
     - Kreativita - reklama má skrývať určitú myšlienku, používajú sa symboly, grafika
@@ -712,7 +712,7 @@ Pod pojmom výrobková politika rozumieme činnosti spojené s právou s výrobk
     - Ekonomická - podporovať predaj, aktivizovať dopyt
 ## Druhy reklamných prostriedkov
 - Tlačové - inzeráty, články v časopisoch a novinách
-- Tlačené - letáky, plagáty, pospekty, vývesky, nálepky, obaly, katalógy
+- Tlačené - letáky, plagáty, prospekty, vývesky, nálepky, obaly, katalógy
 - Zvukové - vysielanie v rozhlase
 - Audiovizuálne - TV, kinofilmy, internet
 - Svetelné - neóny, svetelné nápisy
@@ -730,7 +730,7 @@ Pod pojmom výrobková politika rozumieme činnosti spojené s právou s výrobk
 ## Cenkros
 
 &nbsp;
-# 12 - Distribučná politka, skladovanie
+# 12 - Distribučná politika, skladovanie
 ## Distribučná politika
 ## Priame a nepriame odbytové cesty
 ## Hlavné úlohy veľkoobchodu a maloobchodu
@@ -763,7 +763,7 @@ Pod pojmom výrobková politika rozumieme činnosti spojené s právou s výrobk
 ## Funkcie peňazí *(3)*
 
 &nbsp;
-# 15 - Poiťovníctvo
+# 15 - Poisťovníctvo
 ## Význam poistenia
 ## Základné pojmy
 ## Poistný vzťah
@@ -800,7 +800,7 @@ Pod pojmom výrobková politika rozumieme činnosti spojené s právou s výrobk
 ## Druhy rozhodovacích procesov a riziká
 ## Organizačná štruktúra
 ## Štýly vedenia ľudí + stupne manažérov
-## Funkcie konroly, druhy
+## Funkcie kontroly, druhy
 
 &nbsp;
 # 19 - Výroba
@@ -809,7 +809,7 @@ Pod pojmom výrobková politika rozumieme činnosti spojené s právou s výrobk
 ## Zákonitosti organizácie výrobného procesu
 ## Členenie
 ## Elementárne a dispozitívne výrobné faktory
-## Výrobný program, výrobný rad, výrobná kapacia - definícia
+## Výrobný program, výrobný rad, výrobná kapacita - definícia
 ## Druhy výrobného sortimentu
 - Úzky
 - Široký
@@ -833,7 +833,7 @@ Pod pojmom výrobková politika rozumieme činnosti spojené s právou s výrobk
 ## Hlavné zásady účtovnej dokumentácie
 ## Účtovné zápisy, účtovné knihy 
 ## Rozdiely medzi syntetickým a analytickým účtom
-## Vymenujte knihy sytetickej a analytickej evidencie
+## Vymenujte knihy syntetickej a analytickej evidencie
 ## Kontrolná súpiska analytických účtov a jej úlohu
 
 &nbsp;
