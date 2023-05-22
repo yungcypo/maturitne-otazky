@@ -3844,34 +3844,526 @@ Maršal neskôr súhlasí
 Galen mu nesie protilátku – ušlape ho sfanatizovaný dav, ktorý oslavuje Maršala pred jeho domom
 
 &nbsp;
-## Otázka 21
+# Otázka 21
+## Staroveká literatúra
+**3. tisícročie p.n.l. - 5. storočie**
+Starovekú literatúru rozdeľujeme na:
+- Orientálnu
+    - Sumerská  
+        - Najstaršia dochovaná literatúra
+        - Epos o Gilgamešovi
+    - Hebrejská
+        - Starý zákon
+    - Akkandská
+    - Staroegyptská
+    - Indická
+- Antickú
+    - Grécka
+        - Ezop, Homér (Epika)
+        - Sapfo (Lyrika)
+        - Sofokles (Dráma) 
+        - Aristofanes (Komédia)
+    - Rímska
+        - Titus Maccius Plautus (Komédia)
+        - Horácius, Ceasar, Cicero, Publius Vergílius Maro, Ovídius
+
+### Epos o Gilgamešovi
+*Staroveká - Orientálna - Sumerská*  
+Zachoval sa na hlinených tabuľkách, napísaný klinovým písmom, dnes poznáme 4 verzie tohto eposu  
+Charakteristika žánru - monumentálny hrdinský epos, v ktorom vystupujú hrdinovia a bohovia, pričom tí žijú, konajú a cítia ako pozemskí ľudia  
+
+**Gilgameš** bol panovníkom sumerského mesta **Uruk**. Vládol v ňom 26 rokov. Bol z väčšej časti boh a z menšej človekom  
+V epose vystupuje najprv ako krutý panovník - nútil obyvateľov mesta pracovať na hradbách mesta bez ohľadu na ich pocity  
+Uruckí obyvatelia sa sťažujú bohom a prosia ich o pomoc  
+Bohovia ich prosby vyslyšia a vytvoria **Enkidua**, polodivého človeka, veľmi silného, ukrutného, vzbudzujúceho strach  
+Úlohou Enkidua je potrestať Gilgameša  
+Ich vzájomné stretnutie sa skončí nerozhodne, obaja sú rovnako silní  
+Nakoniec sa stanú priateľmi  
+Neskôr prežívajú spoločné dobrodružstvá   
+Keď Gilgameš urazí bohyňu **Ištar**, tá sa rozhodne, že sa mu pomstí  
+Zošle na Zem **nebeského býka**, ktorého Gilgameš s Enkiduom zabijú, ale Enkidu umiera  
+V momente jeho smrti si Gilgameš uvedomí svoju smrteľnosť  
+Od veštca, ktorý prežil potopu sveta, sa dozvie, že musí získať bylinku nesmrteľnosti, ale nesmie zaspať (spánok je sestra smrti)  
+Nakoniec zlyhá  
+Keď sa mu podarí bylinku nájsť, od únavy zaspí a odtrhnutú bylinku mu zožerie had  
+Vráti sa do Uruku a znovu vládne ako kráľ – je spravodlivý, láskavý, a takým zostane aj v pamäti ľudu  
+Nakoniec sa do dejín zapísal ako vládca, ktorý dal opevniť Uruk
+
+**Idea** - Nesmrteľnosť človeka spočíva v jeho činoch
+
+*"Kam bežíš, Gilgameš?*  
+*Život, ktorý hľadáš, nenájdeš!*  
+*Keď veľkí bohovia stvorili ľudstvo,*  
+*určili ľudstvu lós smrti,*  
+*život však do svojich rúk si vzali."*  
+
+### Hebrejská literatúra
+*Staroveká - Orientálna*  
+Literatúra židovského národa (Palestína), ktorý  mal búrlivý historický vývoj  
+Bol poznamenaný útlakom, prenasledovaním –  Židia ako 1. vytvorili monoteistické náboženstvo s jediným bohom: Jahve- Jehova  
+
+### Starý zákon
+Starý zákon (tóra)  
+Je súčasťou kresťanskej Biblie  
+Obsahuje dejiny a mýty židovského národa  
+Bol písaný v hebrejčine  
+ 
+Tvorí ho 46 kníh, ktoré sa tematicky delia na:
+- Historické knihy
+- Poučné a básnické
+- Prorocké
+
+### Nový zákon
+Hovorí o živote Ježiša Krista, preto je to pamiatka kresťanov
+Vznikla v 1. storočí  
+Pôvodne bol písaný v gréčtine
+
+Obsahuje 27 kníh, ktoré sa rozdeľujú na:
+- Historické (4 evanjeliá)
+    - Matúš
+    - Marek
+    - Lukáš
+    - Ján
+- Poučné
+- Prorocké
+    - Spis Zjavenie sv. Jána = Apokalypsa
+
+
+## Antická literatúra
+*Staroveká*  
+Je mladšia ako orientálna  
+Pre rozvoj svetovej literatúry sa stala základným zdrojom žánrov a inšpiráciou  
+Delí sa na grécku a rímsku  
+
+### Grécka literatúra
+Priniesla do literatúry žánre  
+V nej sa vyformovali epos, bájka, dramatické žánre ale aj lyrika
+
+### Ezop
+*Staroveká - Grécka - Epika*  
+Bol otrok  
+Mal dar fantázie a dar rozprávať  
+Napísal krátke príbehy zo života živočíchov a rastlín - **bájky**  
+Autor v nich kritizuje negatívne vlastnosti ľudí  
+Končia sa ponaučením  
+
+### Homér
+*Staroveká - Grécka - Epika*  
+Bol považovaný za najväčšieho gréckeho básnika, napriek tomu o jeho živote veľa nevieme  
+Bol asi slepý, putoval po Grécku bol rapsód (prednášač, rozprávač z povolania)  
+
+Je autorom 2 eposov: **Iliada a Odysea**, ale dodnes sa vedú spory, či je ich skutočným autorom, či tieto eposy nevytvorili viacerí autori  
+
+**Ilias** má cca 16 tisíc veršov  
+Hovorí o posledných dňoch trójskej vojny (51 dní)  
+O predchádzajúcich udalostiach sa dozvedáme z početných retrospektív  
+Trójsku vojnu vyvolal únos krásnej Heleny, ženy sparťanského kráľa Menelaa, ktorý uskutočnil Paris, syn trójskeho kráľa  
+Samotný dej začína tým, že **Achilleus**, najväčší hrdina gréckeho vojska, (poloboh, Diov syn, takmer nezraniteľný) odmietne bojovať, pretože ho urazil vrchný veliteľ gréckeho vojska **Agamemnon**  
+Grékom sa prestane dariť  
+Patrokles, Achileov priateľ, sa rozhodne, že si oblečie Achillesov pancier, čím chce Trójanov oklamať  
+V boji však zahynie  
+Nahnevaný Achilleus na druhý deň v súboji zabije **Hektora**, najstatočnejšieho obrancu Tróje  
+Odmietne vydať Trójanom jeho mŕtve telo a zohyzdí ho  
+Nakoniec však ustúpi prosbe jeho otca – kráľa Priama – a v závere eposu sa uskutoční Hektorov pohreb  
+O ďalších  udalostiach sa dozvedáme z gréckych mýtov – Achilles zomrie, šípom ho trafí Paris z trójskych hradieb (A. šľacha)  
+Neskôr Gréci mesto dobyjú pomocou lsti, ktorú vymyslel **Odyseus** – *"trójsky kôň" alebo "danajský dar"*  
+Do deja zasahujú grécki bohovia, ktorí podporujú jednu či druhú stranu  
+Majú ľudské vlastnosti a ich rozhodnutia bývajú aj kruté – napr. Gréci mesto úplne zničili a jeho obyvateľov vyvraždili
+
+*Podobne vyrazil Hektor a ostrým sa zaháňal mečom.*  
+*Ale aj Achilleus vyrazil vpred a srdce si divým*  
+*naplnil srdom, a štítom, tým prekrásne zdobeným dielom,*  
+*vpredu si zakryl prsia a na hlave neprestaj kýval*  
+*prilbicou s hrebeňmi štyrmi a na nej viali mu zlaté*  
+*srsti, čo Héfaistos posplietal v chochole vo veľkom počte.*  
+
+**Odysea** má cca 12 tisíc veršov, zobrazuje posledných 41 dní putovania hlavnej postavy  
+Rozpráva príbeh Odysea, itackého kráľa, ktorého potrestal boh mora **Poseidón**, za trójskeho koňa  
+Odyseus 10 rokov blúdi Stredomorím, prežíva neuveriteľné dobrodružstvá (Sirény, Kyklopovia, nymfa Kalypso)...  
+V Itake ho pritom verne čaká jeho žena **Penelopa** a syn Telemachos  
+Keď sa Odyseus konečne dostane do Itaky, spolu so synom premôžu dotieravých pytačov Penelopy  
+Aj tu zasahujú do boja bohovia – **Poseidon a Aténa**, o predchádzajúcich udalostiach sa dozvedáme z retrospektív
+
+*Keď však už Kyklópovi do hlavy udrelo víno,*  
+*vtedy som sa ujal slova a lichotnou rečou som riekol:*  
+*„Kyklópos, pýtaš sa na moje meno. Nuž ja ti ho teda*  
+*poviem. A ty mi jak hosťovi daj ten dar, čo si sľúbil.*  
+*Volám sa Nikto a týmto menom ma volajú stále*  
+*rodičia, otec a matka, a všetci druhovia moji.“*  
+*Takto som vravel a človek ten krutý mi zas na to riekol:*  
+*„Vedz, teda, Nikto, že teba zjem napokon po tvojich druhoch,*  
+*ostatných skôr. To dostaneš odo mňa miesto daru.*  
+
+### Sapfo
+*Staroveká - Antická - Grécka - Lyrika*  
+Jej diela boli venované dievčatám, im telesným a duševným pôvabom, zriadili na ostrove Lesbos dom múz  
+Bola tam vyhnaná, väčšina diel bola spálená, pretože boli nemravné, zachovala sa len **Modlitba k Afrodite**  
+**Anakreon** - pijanská poézia. Témy - ženy, priateľstvo, alkohol, spev
+
+### Sofokles
+*Staroveká - Antická - Grécka - Dráma*  
+Pokladá sa za najvýznamnejšieho predstaviteľa gréckej drámy  
+Vo svojej tvorbe vychádzal z mýtov o meste Téby  
+Napísal údajne 123 hier, zachovalo sa 7  
+Hrávajú sa 3 - **Kráľ Oidipus, Antigona, Elektra**  
+
+### Antigona
+Vrchol tvorby Sofoklesa  
+V Tébach vypukla vojna, do nej sa na opačných stranách zapojení aj O. synovia - **Eteokles a Polyneikos**  
+Obidvaja padnú  
+Kráľ **Kreón** vydá príkaz, aby telo Polyneika (bojoval proti nemu) nebolo pochované  
+S tým nesúhlasí Antigona, sestra bratov  
+V noci tajne pochová Polyneika, ale prichytia ju stráže  
+Predstúpi pred Kreóna a snaží sa vysvetliť svoj čin  
+Nežiada milosť, apeluje na Kreónovu ľudskosť  
+Nahnevaný vládca však nepremýšľa, ovláda ho pýcha a moc, preto neustúpi – prikáže, aby ju zamurovali do skalnej hrobky  
+O zmenu rozsudku ho prosí aj **Haimon** – syn, snúbenec Antigony  
+Snaží sa mu vysvetliť, že v očiach ľudu je Antigona hrdinka, že konala správne a že múdry vládca dokáže zmeniť rozhodnutie  
+Varuje ho, že môže prísť o podporu – alegória o vyvrátenom strome a prevrátenej loďke  
+Kreón ani tak nepovolí, je urazený, že mu radí mladík a že by mal ustúpiť žene  
+Nakoniec Kreón vydá príkaz na oslobodenie Antigony, no je neskoro - spáchala samovraždu, obesila sa  
+Samovraždu spáchal aj Haimon a jeho matka  
+Kreón až potom pochopil, že konal nerozvážne
+
+*Aký boží zákon som to porušila?*  
+*Oplatí sa ešte pozdvihnúť, mne*  
+*nešťastnej, tvár k bohom? Kde mám hľadať pomoc?*  
+*Zbožný čin mi vyčitujú ako bezbožnosť!*  
+*Ak sa aj bohom vidí správnym moje*  
+*potrestanie, možno v Háde prídem na to,*  
+*v čom som chybila! Ak ale urobili*  
+*chybu pozemšťania, nežičím im väčšie zlo,*  
+*než akého sa dopúšťajú voči mne!*  
+
+Antigona v hre obraňuje právo na vlastný názor, riadi sa božskými, morálnymi zákonmi  
+Je hrdá a ani pred smrťou nemení svoje postoje – vie, že konala správne, pretože právo na ľudskú dôstojnosť má každý, nie len ten kto je priateľ  
+Kreón predstavuje krutého vládcu, ktorý svoje zákony povýšil nad ľudskosť  
+Je pyšný, neústupčivý, nezmieriteľný  
+Ovláda ho hnev a jeho moc  
+V konflikte nakoniec prehráva, ale pochopí to neskoro – v závere hry zošalie  
+**Konflikt** - zápas medzi "božskými" – morálnymi zákonmi a svetskou mocou – zákonmi panovníka  
+Do konfliktu bohovia nezasahujú, čo je typickým znakom Sofoklesových hier  
+Dôležitú úlohu má chór – predstavuje verejné myslenie, prostredníctvom piesní rekapituluje a naznačuje dej  
+Tragédia má 5 dejstiev
+
+### Aristofanes
+*Staroveká - Antická - Grécka*  
+Písal komédie - **Oblaky**, **Jazdci**
+
+### Rímska literatúra
+*Staroveká - Antická*  
+Nadväzuje na grécku literatúru  
+Hovoríme, že je to *"mladšia sestra gréckej literatúry"*  
+Najprv ju len napodobňovala, neskôr v nej vznikli majstrovské diela  
+
+**Dráma**  
+Začala sa rozvíjať ako prvá - najmä komédia  
+Jej najvýznamnejším predstaviteľom bol **Titus Maccius  Plautus**,  autorom komédií, niektoré sa hrávajú dodnes - Komédia o hrnci (lakomosť, chamtivosť), Chvastavý vojak  
+
+**Lyrika**  
+K najobľúbenejším básnikom patril **Horácius**  
+Písal reflexívnu lyriku, v ktorej sa zamýšľal nad otázkami zmyslu ľudského života a zároveň velebil harmonický rodinný život  
+**Ódy** – Horácius vystupuje ako "kňaz Múz", ktorý chce zasvätiť mladú generáciu do tajov spoločenského poriadku, poúča mladých ľudí, ktoré mravné hodnoty sú základom rímskej sily a akými cestami sa má občan uberať, aby bol čo najviac prospešný celku i sebe  
+**Satiry** - usiluje sa ukázať správny spôsob života v protiklade s ľudskými chybami a omylmi  
+**Listy** - zobrazuje sám seba ako človeka dopúšťajúceho sa chýb, váhavého a hľadajúceho životné cesty  
+
+**Epika**  
+Písala sa veršovaná aj neveršovaná  
+V neveršovanej epike vynikajú diela, kde sa zaoberajú Rimania svojou históriou, napr. **Ceasar**, **Cicero**  
+
+**Publius Vergílius Maro** - inšpiroval sa Homérovými eposmi  
+Bol obdivovaným národným básnikom, pretože napísal epos **Aeneas** \[Eneas\], v ktorom oslávil počiatky rímskych dejín (nadväzuje na Iliadu)   Aeneas ako jediný unikol z horiacej Tróje  
+Po rokoch dobrodružstiev sa usadil na Apeninskom polostrove a tu založil rod, z ktorého pochádzali **Romulus a Rémus**, zakladatelia Ríma  
+Napísal ešte 2 zbierky idylických básní  
+Sú to **Bukolica** - venovaná pastierom  
+**Georgika** – oslava roľníkov  
+Svojou tvorbou ovplyvnil Jána Holého – epos Svatopluk, Selanky
+
+**Ovídius**  
+Pokladá sa za najväčšieho rímskeho básnika  
+Bol milovaný, ale i prenasledovaný 1. rímskym cisárom Augustom  
+Zomrel vo vyhnanstve  
+Hlavnou témou jeho diel bola láska  
+Napísal básnické skladba **Umenie milovať** a zbierka prebásnených bájí z gréckej a rímskej mytológie – **Metamorfózy** = premeny  
+Metamorfózy obsahujú prebásnené mýty, ktoré spája motív premeny človeka na zviera, kvet, kameň, vodu, hviezdu... a motív lásky – ušľachtilej či egoistickej samoľúbosti, ktorá privedie hrdinov k tragickému koncu  
+
+K najznámejším patria: **Daidalos a Ikaros** - príbeh otca a syna  
+Daidalos – architekt ukrýva sa pred spravodlivosťou na Kréte  
+Je v službách krétskeho panovníka, postaví labyrint  
+Keď sa chce vrátiť domov, zistí, že je väzňom  
+Zostrojí pre seba a syna Ikara krídla z peria a vosku  
+Potom sa pokúsia o útek  
+Daidalos syna varuje, aby neletel príliš vysoko  
+Ikaros nadšený letom, zabudne na otcove rady a zrúti sa do mora – Gréci mu dali meno Ikarovo more  
+Motív - Láska po slobode, otcovská láska, ale i trest za pýchu a nerozvážnosť
+
+**Orfeus a Eurydika** – príbeh lásky manželov  
+Eurydika predčasne umiera, Orfeus ju chce získať z ríše mŕtvych  
+Svojím spevom uprosí boha podsvetia  
+Nesmie sa však obzrieť, kým neopustia ríšu mŕtvych  
+Nevydrží a Eurydiku navždy stráca
+
 
 &nbsp;
-## Otázka 22
+# Otázka 22
+*Vybrať si po všeobecnej charakteristike dielo na rozbor*
+## Humanizmus a renesancia
+**14. - 17. storočie**  
+Toto obdobie sa spája s mnohými významnými objavmi v oblasti poznania - 
+obrovské geografické objavy, kníhtlač, objavenie Ameriky, heliocentrizmus (Mikuláš Koperník)  
+Rúcajú sa stredoveké náboženské predstavy o svete a do popredia sa dostáva odkaz antiky  
+Vznik - Taliansko, vo Florencií
+
+### Humanizmus
+Je to skôr myšlienkový smer (humanus - ľudský), zdôrazňuje lásku k človeku  
+Napodobňoval antiku  
+Ako literárny jazyk využíval latinčinu  
+V literatúre dominovala náučná funkcia  
+
+### Renesancia
+Obroda, antiku využívala ako zdroj  
+Začala používať národné jazyky (slovakizovaná čeština, bohemizovaná slovenčina)  
+V umeleckej literatúre dominuje zábavná a náučná funkcia  
+Vyvinula sa vo všetkých druhoch umenia  
+
+### Znaky humanizmu a renesancie
+Ľudia sa odvrátili od náboženského sveta a začali obdivovať pozemský svet, radosť zo života
+
+- Individualizmus - zdôrazňuje význam jednotlivca
+- Racionalizmus - obdiv a úcta rozumu
+- Senzualizmus - citové prežívanie skutočností, zmyslové poznanie
+
+## Európska literatúra humanizmu a renesancie
+## Talianska literatúra
+### Dante Alighieri
+Napísal veľkú básnickú skladbu - epos **Božská komédia**  
+Tvoria ju 3 časti - Peklo, Očistec, Ráj  
+V epose sa objavuje postava rímskeho básnika **Vergília**, ktorý sprevádza básnika po Pekle a Očistci  
+Keďže Dante bol veľký vlastenec, v Pekle a Očistci nájdeme skutočné historické postavy  
+Sú to nepriatelia Talianov, ktorý tu pykajú za svoje hriechy  
+Pred bránou Raja ho Vergílius opustí  
+V Raji ho sprevádza **Beatrice** – Danteho životná láska  
+Stelesňuje ideál dokonalej ženy, lásky, krásy  
+Božská komédia je prvé literárne dielo, ktoré bolo napísané v národnom jazyku – taliančine  
+Tým sa Božská komédia stala vzorom pre iných spisovateľov  
+Dielo ešte čiastočne odráža náboženský svetonázor (členenie podľa náboženskej predstavy, Beatrice ako ideál cnostnej ženy), ale zároveň je už aj dokladom znakov renesancie (postava Vergília – symbol poznania, zároveň úcta k antickému odkazu; oslava lásky ako pozemského citu, národné cítenie, národný jazyk)
+
+### Francesco Petrarca
+Lyrický básnik, napísal zbierku sonetov **Sonety pre Lauru**  
+Ako prvý použil sonet
+
+### Giovanni Boccaccio
+Zakladateľ renesančnej prózy  
+Zbierka noviel **Dekameron** - 100 noviel, ktoré si vyrozpráva 10 mladých ľudí počas 10 dní, keď unikajú z Florencie pred morovou epidémiou  
+Charakter príbehov je rôzny - komický, veselý, tragický či tragikomický  
+Vystupujú v nich hrdinovia z rôznych vrstiev  
+Príbehy sú zakončené ponaučením  
+Autor kritizuje pokrytectvo, hlúposť, tmárstvo, do popredia stavia lásku k žene a k životu  
+Revolučná premena – láska = vrúcna potreba človeka, hlavný zdroj ľudskej radosti i trápenia – hybná sila života (zobrazenie ženskej príťažlivosti)  
+Boh nenadelil ľuďom len bremeno, ale aj radosti života  
+Humorne ladené príbehy (často eroticky podfarbené o prefíkaných ženách, klamaných mužoch, ale aj o múdrosti, hlúposti, pokrytectve, chamtivosti či ľudskej prefíkanosti) budujúce na anekdotickom základe a prekvapujúcej pointe  
+Novely skrývajú aj morálne ponaučenie a kritický prvok – pranierovanie neduhov
+
+## Francúzska literatúra
+### Francois Villon *\[Fransoá Vijón\]*
+Autor básnických skladieb **Malý testament** a **Veľký testament**  
+
+### Francois Rebelais *\[Fransoá Rablé\]*
+Mimoriadne vzdelaný - botanik, lekár, profesor anatómie  
+Vydal román **Gargantua a Pentagruel**  
+Hlavné postavy obri putujú po svete a stretávajú ľudí, ktorí sú zobrazení groteskne  
+Román je paródiou na stredoveké rytierske romány a stredoveké eposy  
+
+## Španielska literatúra
+### Miguel Cervantes de Saavedra *\[Migvel Servantes Savedra\]*
+Predstavuje vrchol španielskej literatúry  
+Román **Dômyselný rytier Don Quijote de la Mancha** *\[Don Kichot de la Manča\]*  
+Jeho zámerom bolo zosmiešniť populárne rytierske romány  
+Hladný hrdina sa pomätie z čítania rytierskych románov  
+Rozhodne sa obnoviť rytiersku slávu  
+Putuje na nevládnom koni, kobyle **Rocinante** *\[Rosinanta\]* so zbrojnošom **Sanchom Panzom** *\[Sančo Panzo\]*  
+Hrdina chce pomáhať biednym a naprávať krivdy  
+Jeho dobrodružstvá však končia zosmiešnením  
+Nakoniec sa vráti domov  
+Ochorie, a pred smrťou sa zrieka svojho poblúznenia  
+Celý svoj majetok odkazuje neteri, ale pod podmienkou, že jej nastávajúci nebude čítať rytierske romány  
+K najslávnejším dobrodružstvám Dona Quijote-a patrí boj s drakmi - veterné mlyny a potýčka so zbojníkmi - vyberači daní, mnísi  
+
+Cervantes stavia do konfliktu svet ideálov a svet skutočnosti, kde Quijote je naivný, smiešny rojko, idealista a Panza - praktický sedliak predstavuje realitu  
+Cervantes využíval humor a satiru na kritiku stredovekého feudálneho sveta, sociálnej nespravodlivosti a bojoval za ideály humanizmu  
+
+## Anglická literatúra
+### William Shakespeare
+Dodnes je pokladaný za najvýznamnejšieho dramatika všetkých čias  
+Jeho rodiskom je mesto Stratford nad Avonom, odkiaľ ušiel k divadlu  
+Najprv bol hercom, neskôr autorom, potom slávneho divadla Globe, ktoré navštevovala aj Alžbeta I.  
+Dočkal sa verejného uznania
+
+Tvorba:
+- Tragédie
+    - Rómeo a Júlia
+    - Hamlet
+    - Othello
+    - Kráľ Lear
+    - Macbeth
+- Komédie
+    - Skrotenie zlej ženy
+    - Sen noci svätojánskej
+    - Veľa kriku pre nič
+    - Veselé panie Winsdorské
+- Historické hry
+    - Richard III.
+    - Henrich VI.
+
+### Hamlet 
+Dejisko - dánsky kráľ, hrad Elsinor, 12. storočie  
+Tragédia odráža krízové javy v Anglicku (16. - 17. stor.)  
+Zobrazuje idealistický boj osamoteného jednotlivca vo svete intríg a zločinu
+
+**Postavy**  
+Hamlet, Claudius (strýko), Gertrúda (matka), Polonius (komorník), Otec Ofélie a Laertesa, Horatio (priateľ H), Fortinbras (nórsky vojvodca)...
+
+**Dejové východisko**  
+Renesančná psychologická dráma mladého človeka, ktorej dej je založený na motíve vraždy a pomsty  
+Claudius zavraždí svojho brata (Hamletovho otca), aby získal ruku kráľovnej Gertrúdy a dánsky trón  
+Hamlet chce potrestať otcovu smrť  
+Na jednej strane trpí pocitom nespravodlivosti, na druhej strane váha, či je on ten pravý, kto môže napraviť krivdu a potrestať vraha  
+Neodváži sa zasiahnuť skôr, kým sa nepresvedčí, že jeho podozrenie je správne   
+
+Odohráva sa v Dánsku na hrade Elsinor  
+Hlavnou postavou je Hamlet – dánsky princ  
+Študuje a dozvie sa o úmrtí svojho otca, a preto sa vráti domov  
+Tu sa dozvie, že na hradbách sa zjavuje duch jeho otca  
+Rozhodne sa, že sa s ním stretne  
+Duch mŕtveho otca Hamleta odhalí zločin  
+*"Som tvojho otca duch, čo potĺkať sa musí každú noc a vo dne o hlade stáť v plameňoch, kým mrzké hriechy jeho života nezhoria..."*  
+Claudius, nalial spiacemu bratovi do uší strašný jed  
+Duch však chce, aby Hamlet proti matke nič nepodnikol, aby ju nechal nebu a vlastným výčitkám, že tak rýchlo zabudla a súhlasila so sobášom s mužovým vrahom - terajším kráľom  
+Hamlet predstiera šialenstvo, aby získal dôkaz  
+Zinscenuje so skupiny potulných hercov pred Claudiom hru o kráľovražde ("hra v hre")  
+Claudius je otrasený – Hamlet odmieta lásku Ofélie (Ofélia podstupuje vnútorný zápas medzi poslušnosťou k otcovi a láskou k Hamletovi)  
+Hamlet zabije intrigána Polonia skrytého za závesom v matkinej spálni  
+Kráľ sa rozhodné zbaviť Hamleta a posiela ho do Anglicka  
+Hamlet tuší zradu a vymení sprievodný list (popravení sú doručitelia listu)  
+Stretnutie Hamleta s Laertom, keď na cintoríne smúti za Oféliou, ktorá sa pomiatla a utopila  
+Laertes po návrate z Francúzska chce zvrhnúť Claudia, ale stane sa nástrojom jeho úkladov (súboj s otráveným mečom)  
+Laertes zahynie v súboji s Hamletom  
+Pred smrťou žiada Hamleta o odpustenie  
+Hamletova matka s napije z otráveného vína  
+Hamlet z posledných síl prebodne Claudiusa a zabráni priateľovi Horátiovi v samovražde (Horátio má vyrozprávať, čo sa stalo)  
+Nórsky vojvodca Fortinbras dá Hamleta pochovať s kráľovskými poctami...
+
+**Myšlienkový rozbor**
+Kľúčovou postavou je Hamlet  
+Je to typický renesančný hrdina  
+Má svoje predstavy o spravodlivosti, ale dostáva sa do konfliktu a realitou, so spoločnosťou  
+Najvýraznejším dokladom je tretie dejstvo, v ktorom sa nachádza Hamletov najznámejší monológ  
+Začína existenčnou otázkou: *"Byť, či nebyť?"*  
+Hamlet sa zamýšľa, či krivdu pomstiť a zahynúť alebo žiť ďalej, ale uvedomuje si, že potom by bol zbabelec a strpel by nespravodlivosť - bol by taký istý ako jeho pokrytecké okolie  
+Pri rozhodovaní ho tiež ovplyvní scéna na cintoríne – hrobári z odkrytého hrobu vyberú lebku významného muža a meditujú, že je taká istá ako lebka človeka neurodzeného pôvodu  
+Hamlet si uvedomí, že ľudia sú si rovní a majú právo na rovnakú spravodlivosť  
+
+Hlavný hrdina - vyspelý intelekt mu nedovolí konať impulzívne (zatiaľ protivníci získavajú  náskok)  
+Pocit zodpovednosti (zločin v kráľovskom rode vedie k rozvratu celého štátu) núti Hamleta prekonať pochybnosti (monológ – Byť či nebyť ...)  
+Hamlet podľahol v nerovnom zápase, ale pomenoval príčiny a nositeľov zla a bojoval proti nim
+
+### Rómeo a Júlia
+Dej sa realizuje  monológmi a dialógmi postáv  
+Okrem 2 hlavných postáv je tu veľké množstvo vedľajších postáv, čím   autor dokresľuje dej a zároveň podáva charakteristiku Romea a Júlie  
+O Júlii sa dozvedáme od dojky, o Romeovi sa dozvedáme od jeho priateľa  
+Hrdinovia tu nie sú dôležití ako individuálne postavy, ale ako pár  
+Sú to veľmi mladí ľudia, ktorí sa do seba zaľúbili a sú rozhodnutí  spečatiť svoj vzťah manželstvom  
+Musia však prekonávať veľa prekážok, v čom spočíva dynamika deja  
+Postavy sú ovplyvnené citmi, rozum tu nezohráva žiadnu úlohu  
+Tragédia sa naplní vtedy, keď si mladí hrdinovia siahnu na život  
+
+**Téma** - Príbeh dvoch milencov, ktorým stojí v láske dlhoročný spor medzi ich rodmi  
+**Idea** - Láska, ktorej nepraje história rodov ani súčasné zvyky  
+**Miesto deja** - Dej sa odohráva vo Verone, kde žili dva staré znepriatelené rody - **Montekovci a Kapuletovci**  
+Mesto Verona (námestie, cintorín-hrobka Kapuletovcov), Kapuletov dom (záhrada, dvorana, Júliina izba), cela brata Vavrinca, mesto Mantova (ulica s obchodmi)
+**Kompozícia** - 2 prológy (Chórus), 5 dejstiev, 24 obrazov
+
+**Dej**  
+Romeo, syn Monteka a Júlia, Kapuletova dcéra, sa do seba zaľúbia na večierku usporiadanom Kapuletovcami  
+Ich láske však bráni znepriatelenosť rodov  
+Sú nepriateľmi na život a na smrť, aj keď pôvodný spor je dávno zabudnutý spolu s predošlými generáciami  
+**1. prológ**, dejstvo (5obrazov)  
+U Montekovcov sa koná maškarný bál  
+Romeo sa ho s bratrancom Benvoliom a priateľom Merkuciom rozhodne zúčastniť  
+Dúfa, že tu stretne svoju milú, Rozalínu  
+Na plese ich spozná synovec pani Kapuletovej, Tybalt  
+Pán Kapulet mu, ale zakáže vyvolať hádku  
+Rómeo tu stretáva Júliu a zaľúbi sa do nej  
+Na konci plesu však zistí, že je dcéra Kapuleta a Júlia sa dozvie, že on je Montek 
+**2. prológ**, dejstvo (6 obrazov)  
+V noci prichádza Romeo pod Júliin balkón a ona mu vyznáva lásku:  
+*"Romeo, Romeo, prečo si ty Romeo? Zapri otca, odriekni sa mena! A či ak nechceš, prisahaj mi lásku - a prestanem byť Kapuletová."*  
+Dohodnú sa, že sa hneď na ďalší deň vezmú  
+Romeo ide ešte v noci za bratom Vavrincom a zjedná s ním hodinu sobášu  
+Po dojke pošle odkaz, aby Júlia prišla poobede do kláštora  
+Júlia pod zámienkou spovede príde a brat Vavrinec ich zosobáši  
+**3. dejstvo** (5 obrazov)  
+Merkucio s Benvoliom stretnú na námestí Tybalta, ten sa chce pomstiť a vyprovokuje súboj s Merkuciom  
+Prichádza Romeo a snaží sa ich oddeliť, no Tybald popod jeho ruku Merkucia smrteľne zraní  
+Romeo v hneve zabíja Tybalta  
+Prichádza knieža, ktorému Benvolio vysvetlí, čo sa stalo  
+Knieža vyhostí Romea z Verony  
+Romeo nájde útočisko u brata Vavrinca  
+Sem preňho príde Júliina dojka  
+Romeo sa ide rozlúčiť so svojou ženou  
+Tá sa hneď ráno dozvie správu, že v štvrtok sa má vydať za grófa Parisa  
+Rozhodne sa poprosiť o pomoc brata Vavrinca  
+**4. dejstvo** (5 obrazov)  
+Brat Vavrinec poradí Júlii, aby sa tvárila, že sa chce za Parisa vydať a dá jej fľaštičku s uspávacím nápojom  
+Keď ho vypije, bude vyzerať, ako by bola mŕtva  
+Dohodnú sa, že keď precitne, utečie s Romeom, ktorého Vavrinec o celom pláne informuje  
+Júlia poslúchne a večer pred svadbou nápoj požije  
+Ráno si všetci myslia, že je mŕtva  
+**5. dejstvo** (3 obrazy)  
+Brat Vavrinec pošle Romeovi list  
+Ten sa k nemu však nedostane  
+Romeo sa naopak dozvie, že Júlia je mŕtva  
+U lekárnika si kúpi jed a vyberie sa do Verony  
+K hrobke prichádza v noci Paris, aby oplakával svoju nevestu  
+V tom istom čase k hrobu prichádza aj Romeo, aby tu vypil jed  
+Dochádza k súboju a Paris zomiera  
+Romeo vypije jed a zomiera vedľa Júlie  
+To už prichádza brat Vavrinec, ktorý sa dozvedel, že Romeo list nedostal  
+Júlia začne precitať  
+Keď vidí mŕtveho Romea a Parisa, prepadá zúfalstvu a prebodne sa dýkou  
+Prichádzajú Montekovci a Kapuletovci  
+Brat Vavrinec im vysvetlí, čo sa stalo  
+Obaja otcovia pochopia, že kvôli ich sporu prišli o deti  
+Nad ich telami uzavrú mier a dajú im vystavať pomník zo zlata  
+Smrť milencov priniesla uzmierenie nenávisti rodov, uzatvárajú nad hrobom milencov "pochmúrny mier" 
+
+**Znaky**  
+Hrdý renesančný individualizmus (boj proti všetkým a všetkému)  
+Ostré kontrasty svetlo - tieň, deň - noc, vysokej poézie a drsnej hovorovej reči, zrelých myšlienok a citu…
 
 &nbsp;
-## Otázka 23
+# Otázka 23
 
 &nbsp;
-## Otázka 24
+# Otázka 24
 
 &nbsp;
-## Otázka 25
+# Otázka 25
 
 &nbsp;
-## Otázka 26
+# Otázka 26
 
 &nbsp;
-## Otázka 27
+# Otázka 27
 
 &nbsp;
-## Otázka 28
+# Otázka 28
 
 &nbsp;
-## Otázka 29
+# Otázka 29
 
 &nbsp;
-## Otázka 30
+# Otázka 30
 
 
 
