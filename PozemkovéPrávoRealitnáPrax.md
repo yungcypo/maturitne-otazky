@@ -7,8 +7,6 @@
     - [Platnosť znaleckého posudku](#platnosť-znaleckého-posudku)
     - [Účel posudku](#účel-posudku)
     - [Podklady k vyhotoveniu](#podklady-k-vyhotoveniu)
-- [Geometrický plán](#geometrický-plán)
-    - [Časti](#časti-geometrického-plánu)
 - [Kataster nehnuteľností](#kataster-nehnuteľností)
 - [Katastrálna inšpekcia](#katastrálna-inšpekcia)
 - [Katastrálne konanie]()
@@ -30,6 +28,88 @@
 - [Znaky gotickej a románskej architektúry]()
 -->
 
+
+&nbsp;
+# Geometrický plán
+Geometrický plán slúži ako technický podklad pre rozdelenie alebo zlúčenie pozemkov, na vyznačenie vecného bremena alebo stavby do katastrálnej mapy  
+Geometrické plány vyhotovujú geodeti  
+
+Podľa *vyhlášky č. 461/2009 Z.z.* sa geometrický plán vyhotovuje najmä na tieto účely:
+- Zmena hranice katastrálneho územia
+- Rozdelenie nehnuteľnosti
+- Zlúčenie nehnuteľnosti
+- Zameranie stavby
+- Určenie práv k nehnuteľnosti vlastníkov alebo iných oprávnených osôb
+- Vymedzenie rozsahu vecného bremena
+- Vymedzenie duplicitného vlastníctva
+- Spresnenie geometrického a polohového určenia nehnuteľnosti
+- Pozemkové úpravy
+
+
+
+Overením sa má zaručiť, že geometrický plán zodpovedá technickým normám, a že vychádza z údajov katastra
+
+## Časti geometrického plánu
+1. Popisové pole 
+    - tabuľka, v ktorej sú zhrnuté základné informácie o geometrickom pláne
+2. Grafické znázornenie doterajšieho stavu nehnuteľnosti a návrhu zmien
+    - Pôvodný stav (čiernou farbou) 
+    - Nový stav (červenou farbou)
+    - Hranice parciel registra EKN (zelenou farbou)
+3. Výkaz výmer parciel a dielov parciel
+    - Sú tu zapísané údaje pôvodného stavu (doterajší) a nového stavu a vzájomné zmeny výmer
+    - Obsahuje:
+        - Číslo parcely
+        - Výmeru
+        - Druh pozemku
+        - Doplňujúce údaje
+        - Vlastníka (stĺpec s vlastníkom a doplňujúcimi údajmi má len informatívny charakter)
+        - Zmena
+
+Aby mohli byť údaje z geometrického plánu zapísané do katastra, musí byť **overený** dvoma spôsobmi:
+1. Autorizovaným geodetom
+2. Správou katastra (úradné overenie)
+
+Správa katastra pred úradným overením geometrického plánu preskúma:
+- Či predložený operát geometrického plánu obsahuje súčasti podľa osobitného predpisu
+- Vzájomný súlad údajov jednotlivých súčastí operátu geometrického plánu
+- Súlad východiskových údajov s platnými údajmi katastra
+- Súlad označenia nových parciel s pridelenými parcelnými číslami
+- Súlad čísel novourčených podrobných geodetických bodov s pridelenými číslami
+- Či podklady na aktualizáciu údajov katastra nehnuteľností vo výmenných formátoch sú použiteľné na aktualizáciu údajov
+- Či meranie bolo pripojené na aktívne geodetické základy alebo spôsobom podľa osobitného predpisu
+
+&nbsp;
+# Katastrálna inšpekcia
+Katastrálnou inšpekciou vykonáva úrad štátny dozor nad:
+- Úrovňou spravovania
+- Aktuálnosti a obnovy katastra
+- Úrovňou zabezpečovania úloh súvisiacich s katastrom  
+
+Katastrálnej inšpekcií **podliehajú** FO a PO vykonávajúce geodetické a kartografické činnosti ktorých výsledky sa preberajú do katastra, alebo pri ktorých výkone sa využívajú údaje z katastra (najmä geometrické plány, vytyčovanie hraníc pozemkov, zriaďovanie a aktualizácia geodetických bodov, meranie a zobrazovanie pozemkov, ktoré sa preberajú do základných štátnych mapových diel)  
+
+Katastrálnu inšpekciu **vykonávajú** poverení katastrálni inšpektori  
+
+Katastrálny inšpektor pri zabezpečovaní úloh v oblasti katastra:
+- Kontroluje úroveň spravovania katastra a súvisiacich činností
+- Schvaľuje projekty úloh vecného plánu a vyjadruje sa k objektívnosti správ týkajúcich sa hodnotenia činností, ktoré patria do jeho vecnej pôsobnosti
+- Ukladá kontrolovaným subjektom prijať opatrenia na odstránenie zistených nedostatkov a kontroluje ich splnenie v určenej lehote
+- Ukladá kontrolovaným subjektom odstrániť zistené nedostatky v priebehu kontroly alebo v určenej lehote, ak ide o drobné a formálne nedostatky, ktoré nevyžadujú prijatie osobitných opatrení
+
+Katastrálny inšpektor pri kontrole FO a PO kontroluje
+- Dodržiavanie všeobecne záväzných právnych predpisov, administratívnych opatrení a technických noriem v oblasti geodézie, kartografie a katastra
+- Výsledky meračských prác a ich premietnutie v súbore geodetických informácií
+
+### Oprávnenie katastrálneho inšpektora
+Katastrálny inšpektor je oprávnený pri výkone katastrálnej inšpekcie požadovať od FO alebo PO potrebné údaje, vysvetlenia a nazerať do príslušnej dokumentácie  
+Katastrálny inšpektor je povinný pri výkone katastrálnej inšpekcie preukázať sa preukazom vydaným úradom, ktorý ho oprávňuje vykonávať katastrálnu inšpekciu  
+
+
+&nbsp;  
+
+---  
+---  
+
 &nbsp;  
 # Znalecký posudok
 ## Časti znaleckého posudku
@@ -48,25 +128,25 @@
     - Dátum, ku ktorému sa nehnuteľnosť ohodnocuje
     - Zoznam podkladov na vypracovanie posudku (dodané zadávateľom a získané znalcom)
     - Právny predpis, podľa ktorého sa vypracúva posudok 
-        > Aktuálne je to vyhláška Minsiterstva spravodlivosti SR č. 492/2004 Z.z. o stanovení všeobecnej hodnoty majetku
+        > Aktuálne je to vyhláška Ministerstva spravodlivosti SR č. 492/2004 Z.z. o stanovení všeobecnej hodnoty majetku
     - Ďalšie použité právne predpisy a literatúra
     - Vlastnícke a evidenčné údaje z listu vlastníctva
     - Majetková podstata - súpisné čísla domu a číslo parcely
     - Údaje o vlastníkoch
         - Osobné údaje o majiteľovi bytu
-        - Podieľ na spoločných priestoroch
+        - Podiel na spoločných priestoroch
         - Spôsob nadobudnutia nehnuteľnosti
     - Údaje o prípadných ťarchách na nehnuteľnosť
     - Údaje o obhliadke a zameraní ohodnocovaného bytu alebo domu
     - Osobitné požiadavky objednávateľa posudku
-    - Úkon, na ktorý je znalecký posukok potrebný, napr. zriadenie záložného práva
+    - Úkon, na ktorý je znalecký posudok potrebný, napr. zriadenie záložného práva
 3. Posudok
     - Všeobecné údaje
         - Označí sa použitá metóda na ohodnotenie nehnuteľnosti
         - Porovnanie právnej a technickej dokumentácie so skutočnosťou (ak nebola dokumentácia poskytnutá, skutkový stav bol zistený meraním a je v prílohe posudku)
-        - Vymenovanie jednotlivých stavieb a nehnuteľností v súlade s dokladmi o vlastíctve
-        - Vymenovanie jednotilých stavieb a nehnuteľností, ktoré nie sú vlastnícky podložené (napr. pozemok pod bytovým domom, ktorý doteraz neobl vysporiadaný)
-    - Výpočet technicej hodnoty
+        - Vymenovanie jednotlivých stavieb a nehnuteľností v súlade s dokladmi o vlastníctve
+        - Vymenovanie jednotlivých stavieb a nehnuteľností, ktoré nie sú vlastnícky podložené (napr. pozemok pod bytovým domom, ktorý doteraz nebol vysporiadaný)
+    - Výpočet technickej hodnoty
         - Byt
             - Poloha bytu v dome
             - Popis domu a pozemku
@@ -88,11 +168,11 @@
             - Nameraná podlahová plocha
             - Rozpočtový ukazovateľ
             - Koeficient konštrukcie
-        - Výpočet koeficientu vplyvu vybavenia objektu (výpočet technicej hodnoty bytu)
-        - Stanovenie všeobecnej honoty
+        - Výpočet koeficientu vplyvu vybavenia objektu (výpočet technickej hodnoty bytu)
+        - Stanovenie všeobecnej hodnoty
             - Analýza polohy
             - Analýza využitia
-            - Analýza prípadných rizík spojenách s využívaním
+            - Analýza prípadných rizík spojených s využívaním
         - Metóda polohovej diferenciácie
             - Všeobecná hodnota bytov
             - Výpočet koeficientu polohovej diferenciácie
@@ -122,36 +202,6 @@ Je užitočný nielen pre majiteľa ako informačný údaj, ale najmä potrebný
 - Doklad o veku stavby
 - Pôdorys bytu
 - Fotodokumentácia
-
-&nbsp;
-# Geometrický plán
-Geometrický plán slúži ako technický podklad pre rozdelenie alebo zlúčenie pozemov, na vyznačenie vecného bremena alebo stavby do katastrálnej mapy  
-
-Podľa *vyhlášky č. 461/2009 Z.z.* sa geometrický plán vyhotovuje najmä na tieto účely:
-- Zmena hranice katastrálneho územia
-- Rozdelenie nehnuteľnosti
-- Zlúčenie nehnuteľnosti
-- Zameranie stavby
-- Určnie práv k nehnuteľnosti vlastníkov alebo iných oprávnených osôb
-
-Aby mohli byť údaje z geometrického plánu zapísané do katastra, musí byť overený dvoma spôsobmi:
-- Autorizovaným geodetom
-- Spávou katastra (úradné overenie)
-Overením sa má zaručiť, že geometrický plán zodpovedá technickým normám, a že vychádza z údajov katastra
-## Časti geometrického plánu
-1. Popisové pole 
-    - tabuľka, v ktorej sú zhrnuté základné informácie o geometrickom pláne
-2. Grafické znézornenie doterajšieho stavu nehnuteľnosti a návrhu zmien
-    - Je tu zakreslený pôvodný stav (čiernou farbou) a nový stav (červenou farbou). Hranice parciel registra EKN sa zakresľujú zelenou farbou
-3. Výkaz výmer parciel a dielov parciel
-    - Sú tu zapísané údaje pôvodného stavu (doterajší) a nového stavu a vzájomné zmeny výmer
-    - Obsahuje:
-        - Číslo parcely
-        - Výmeru
-        - Druh pozemku
-        - Doplňujúce údaje
-        - Vlastníka (stĺpec s vlastníkom a doplňujúcimi údajmi má len informatívny charakter)
-        - Zmena
     
 &nbsp;
 # Kataster nehnuteľností
@@ -161,7 +211,7 @@ Súčasťou katastra sú údaje o právach k týmto nehnuteľnostiam. Sú tu úd
 - Vlastníckom práve
 - Vecnom bremene
 - Predkupnom práve, ak má mať účinky vecného práva
-- Právach vyplývajúcich zo právy majetku štátu, obcí a vyšších územných celkov
+- Právach vyplývajúcich zo správy majetku štátu, obcí a vyšších územných celkov
 - Nájomných právach k pozemkom, ak trvajú alebo majú trvať >5 rokov
 
 V katastri sa evidujú:
@@ -177,20 +227,20 @@ V katastri sa evidujú:
 - Stavby spojené so zemou pevným základom, ktoré sú
     - ...alebo nie sú označené súpisným číslom
     - Sú rozostavanými stavbami v súvislosti so vznikom, zmenou alebo zánikom práva k nim
-    - Nadzemnými stavbami, a to prienikom ich vonkajšieho obvodu so zemským povrchom alebo priemetom ich vonkajšiho obvodu na zemský povrch
+    - Nadzemnými stavbami, a to prienikom ich vonkajšieho obvodu so zemským povrchom alebo priemetom ich vonkajšieho obvodu na zemský povrch
     - Podzemnými stavbami, a to v miestach ich prienikov so zemským povrchom
 - Byty, rozostavané byty, nebytové priestory a rozostavané nebytové priestory v súvislosti so vznikom, zmenou alebo zánikom práva k nim. Tieto sa evidujú len v súbore popisných informácií katastra, a to údajmi o číslovaní vlastníkoch a vlastníckych vzťahoch
 - Chránené časti prírody a krajiny a kultúrne pamiatky
 - Práva k nehnuteľnostiam evidovaným v katastri
-    - Práva k stavbám, bytom a nebytovým priestorom na základe zmluvy o výstavbe, vstavbe a nadstavbe domu
-    - Iné skutočnosti sávisiace s právami k nehnuteľnostiam
+    - Práva k stavbám, bytom a nebytovým priestorom na základe zmluvy o výstavbe, výstavbe a nadstavbe domu
+    - Iné skutočnosti súvisiace s právami k nehnuteľnostiam
         - Vyhlásenie konkurzu voči vlastníkovi nehnuteľnosti
         - Začatie konania o výkon rozhodnutia predajom nehnuteľnosti
         - Začatie vyvlastňovacieho konania
         - Začatie exekúcie predajom nehnuteľnosti
     - Spravidla sa nezapisujú inžinierske stavby a drobné stavby. Tieto sú zobrazené na katastrálnej mape parcelným číslom pozemku, nad ktorým je stavba postavená, alebo mapovou značkou. Sú označené kódom spôsobu využívania pozemku
-    - V pochybnostiach, či ide o predmet evidovania v katastri uvedený v odsehu c), rozhoduje správa katastra
-    - Nehnuteľnosti významné z hľadiska obrany, vnútorného poriadku a bezpečnosti štátu, ako aj práva ktámto nehnuteľnostiam sa v katastri evidujú po dohode s 
+    - V pochybnostiach, či ide o predmet evidovania v katastri uvedený v odseku c), rozhoduje správa katastra
+    - Nehnuteľnosti významné z hľadiska obrany, vnútorného poriadku a bezpečnosti štátu, ako aj práva k týmto nehnuteľnostiam sa v katastri evidujú po dohode s 
         - Ministerstvom obrany SR
         - Ministerstvom vnútra SR
         - Ministerstvom spravodlivosti SR
@@ -221,26 +271,6 @@ Kataster obsahuje tieto údaje:
 - Sídelné a nesídelné geografické názvy
 
 &nbsp;
-# Katastrálna inšpekcia
-Katastrálnou inšpekciou vykonáva úrad dozor nad:
-- Úrovňou spravovania
-- Aktuálnosti a obnovy katastra
-- Úrovňou zabezpečovania úloh súvisiacich s katastrom  
-
-Katastrálnej inšpekcií **podliehajú** FO a PO vykonávajúce geodetické a kartografické činnosti ktorých výsledky sa preberajú do katastra, alebo pri ktorých výkone sa využívajú údaje z kazastra (najmä geometrické plány, vytyčovanie hraníc pozemkov, zriaďovanie a aktualizácia geodetických bodov, meranie a zobrazovanie pozemkov, ktoré sa preberajú do základných štátnych mapových diel)  
-Katastrálnu inšpekciu **vykonávajú** poverení katastrálni inšpektori  
-
-Katastrálny inšpektor:
-- Kontroluje úroveň spravovania katastra a súvisiacich činností
-- Kontroluje dodržiavanie všeobecne záväzných právnych predpisov, administratívnych opatrení a technických noriem v oblasti geodézie, kartografie a katastra
-- Výsledky meračškých prác a ich premietnutie v súbore geodetických informácií
-- Schvaľuje projekty úloh vecného plánu a vyjadruje sa k objektívnosti správ týkajúcich sa hodnotenia činností, ktoré patria do jeho vecnej pôsobnosti
-- Ukladá kontrolovaným subjektom prijať opatrenia na odstránenie zistených nedostatkov a kontroluje ich splnenie v určenej lehote
-- Ukladá kontrolovaným subjektom odstrániť zistené nedostatky v priebehu kontroly alebov určenej lehote, ak ide o drobné a formálne nedostatky, ktoré nevyžadujú prijatie osobitných opatrení
-- Je oprávnený pri výkone katastrálnej inšpekcie požadovať potrebné údaje vysvetlenia a nazerať do príslušnej dokumentácie
-- Je povinný pri výkone inšpekcie preukázať sa preukazom vydaným úradom, ktorý ho oprávňuje vykonávať katastrálnu inšpekciu
-
-&nbsp;
 # Katastrálne konanie
 V katastrálnom konaní sa:
 - Zapisujú práva k nehnuteľnostiam
@@ -249,15 +279,15 @@ V katastrálnom konaní sa:
 - Opravujú chyby v katastrálnom operáte
 - Obnovuje katastrálny operát
 
-Katastrálne konanie je na príslušnom okresnom úrade, v ktorého územnom obvode sa nechádza nehnuteľnosť  
+Katastrálne konanie je na príslušnom okresnom úrade, v ktorého územnom obvode sa nachádza nehnuteľnosť  
 Ak sa nehnuteľnosť nachádza na územnom obvode viacerých okresných úradov, príslušný úrad koná o celom návrhu. Následne upovedomí dotknuté úrady o začatí konania a zašle im rozhodnutie o povolení vkladu  
 Katastrálne konanie možno vykonať aj elektronicky. Náležitosti sú rovnaké ako pri písomnom podaní, musia byť podpísané elektronickým podpisom
 
 ## Vklad
 Spôsobuje vznik, zmenu alebo zánik vlastníckeho práva  
-Má právotvorné účninky  
+Má právotvorné účinky  
 Je možno ho vykonať len na základe právoplatného rozhodnutia okresného úradu, ktoré je výsledkom osobitného konania o povolení vkladu  
-Konanie o povolení vkladu sa zacína vždy na návrh účastníka zmluvy (konania), pričom na konanie je príslušný ten okresný úrad, v ktorom územnom obvode sa nehnuteľnosť nachádza. Oznámenie sa zašle elektronicky na príslušný okresný úrad. Ak do 90 dní od doručenia oznámenia účastník konania napodá návrh na vklad, oznámenie okresný úrad vymaže z evidencie
+Konanie o povolení vkladu sa začína vždy na návrh účastníka zmluvy (konania), pričom na konanie je príslušný ten okresný úrad, v ktorom územnom obvode sa nehnuteľnosť nachádza. Oznámenie sa zašle elektronicky na príslušný okresný úrad. Ak do 90 dní od doručenia oznámenia účastník konania nepodá návrh na vklad, oznámenie okresný úrad vymaže z evidencie
 
 Návrh na vklad sa podáva písomne a obsahuje:
 - FO - Meno, priezvisko a miesto trvalého pobytu
@@ -281,7 +311,7 @@ Do katastra nehnuteľností sa zapisujú záznamom práva k nehnuteľnostiam *(v
 - Zo zákona
 - Rozhodnutím štátneho orgánu
 - Príklepom licitátora na verejnej dražbe
-- Vydržením
+- Vydražením
 - Osvedčené notárom
 
 Záznam sa vykoná na základe verejných a iných listín  
@@ -294,7 +324,7 @@ Návrh na vykonanie záznamu sa musí podať písomne a musí obsahovať:
 - Označenie príloh
 
 ## Poznámka
-Vyjadruje skutočnosti, ktoré obmedzujú oprávnenie vlasntíka nakladať s nehnuteľnosťou alebo informuje o nehnuteľnosti alebo o práve k nehnuteľnosti  
+Vyjadruje skutočnosti, ktoré obmedzujú oprávnenie vlastníka nakladať s nehnuteľnosťou alebo informuje o nehnuteľnosti alebo o práve k nehnuteľnosti  
 Na základe oznámenia súdu zapíše okresný úrad do katastra poznámku o začatí konania o súdnom výkone, o začatí exekúcie, o vyhlásení konkurzu proti vlastníkovi nehnuteľnosti, o začatí vyvlastňovacieho konania a o predbežnom opatrení, ktorým sa zakazuje nakladať s nehnuteľnosťou  
 Okresný úrad zruší poznámku na návrh toho, kto podal návrh na jej zápis a preukáže sa, že pominuli dôvody zápisu
 
@@ -313,7 +343,7 @@ Katastrálny operát obsahuje tieto časti
     - Údaje o spojení lomových bodov a ďalšia geodetická dokumentácia
 - **Súbor popisných informácií**, ktorý tvoria
     - *Údaje o katastrálnych územiach*, parcelách, právach k nehnuteľnostiam a iných oprávnených osobách (meno, priezvisko, rodné priezvisko, dátum narodenia, rodné číslo a miesto trvalého pobytu/názov sídlo, IČO), prípadne iné identifikačné údaje o skutočnostiach súvisiacich s právami k nehnuteľnostiam, o ohlásených zmenách, ako aj o zmenách zistených pri prešetrovaní zmien, pri revízií údajov katastra a pri obnove katastrálneho operátu
-    - *Údaje o nehnuteľnostiach*, údaje o vlastníkoch alebo iných oprávnených osobách a iné údaje, ktoré sa zapisujú do [listu vlasníctva](#list-vlastníctva)  
+    - *Údaje o nehnuteľnostiach*, údaje o vlastníkoch alebo iných oprávnených osobách a iné údaje, ktoré sa zapisujú do [listu vlastníctva](#list-vlastníctva)  
     - *Údaje o sídelných a nesídelných názvoch*
 - **Zbierku listín**, ktorá obsahuje najmä písomné vyhotovenia zmlúv, dohôd a písomných vyhlásení vkladateľov o vložení nehnuteľnosti do majetku právnických osôb, písomné vyhotovenia rozhodnutí štátnych orgánov a notárskych osvedčení a iných listín, ktoré podľa zákona potvrdzujú práva k nehnuteľnostiam, a dokumentáciu sídelných a nesídelných geografických názvov
 - **Sumárne údaje katastra o pôdnom fonde**
@@ -347,13 +377,13 @@ Skladá sa z:
     - Iné údaje obsahujúce vysvetlenie k časti "B"
     - Byty a nebytové priestory
     - Nájomné práva k pozemkom
-    - Poznámka o skutočnostich súvisiacich s právami k nehnuteľnosti
+    - Poznámka o skutočnostiach súvisiacich s právami k nehnuteľnosti
 - C - ťarchy
     - Vecné bremená
     - Záložné práva - vrátane označenia záložného veriteľa
     - Predkupné práva, ak majú mať účinky vecných práv
     - Iné práva, ak boli dohodnuté ako vecné práva
-    - Iné údaje obsahujúce bližsie vysvetlenie k časti "C"
+    - Iné údaje obsahujúce bližšie vysvetlenie k časti "C"
 
 List vlastníctva využívajú:
 - Súdy pri rozhodovaní v prípade vlastníckych sporov
