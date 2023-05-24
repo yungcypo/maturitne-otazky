@@ -779,7 +779,7 @@ Dej má rýchly spád a nastáva v ňom obyčajne nejaký prekvapujúci obrat
 | Postavy | Má jednu / dve hlavné postavy. Obyčajní ľudia s už vytvoreným charakterom. Postava sa v priebehu deja zvyčajne nevyvíja | Viac postáv než v poviedke. Okrem hlavnej sú tam aj vedľajšie postavy (ich charaktery nie sú natoľko prepracované). Hlavná postava zobrazená v dramatickej konfliktnej situácii, v ktorej sa prejaví jej charakter (naznačenie vývinu charakteru) | Výskyt viacerých postáv - hlavné, vedľajšie, zložité vzťahy medzi nimi. Postavy prechádzajú vývojom |
 
 ## Božena Slančíkova - Timrava
-Druhá vlna slovenského realizmu
+Druhá vlna slovenského realizmu  
 **Ťapákovci** 
 - Najkritickejšia novela v slovenskej literatúre
 - Jej názov sa stal symbolom zatuchnutého dedinského konzervativizmu a lenivosti
@@ -1140,7 +1140,8 @@ Od novely a poviedky sa odlišuje tým, že sa dej zložito rozvetvuje a popri h
 Obyčajne zobrazuje dlhšie časové rozpätie a široký okruh životných javov   
 Spojením viacerých románov vznikajú **dilógie, trilógie alebo románové cykly** (napríklad Balzacov cyklus Ľudská komédia)  
 Začiatky románu sú v antických prozaických zábavných rozprávaniach  
-Termín román pochádza zo stredoveku, kedy sa pojmom "conte roman" (románske rozprávanie) začali v románsky hovoriacich krajinách označovať literárne diela písané v národnom jazyku (namiesto vtedy bežnej latinčiny). V neskorom stredoveku sa ako román označovali rytierske romány, prípadne aj dvorské romány  
+Termín román pochádza zo stredoveku, kedy sa pojmom "conte roman" (románske rozprávanie) začali v románsky hovoriacich krajinách označovať literárne diela písané v národnom jazyku (namiesto vtedy bežnej latinčiny)  
+V neskorom stredoveku sa ako román označovali rytierske romány, prípadne aj dvorské romány  
 Pôvod skutočného románu je však v poviedkach a novelách vznikajúcich od 14. storočia v Itálii. Tieto sa neskôr začali spájať do jednotného celku - románu  
 Dôležitým druhom románu bol v 16. a 17. storočí tzv. pikareskný román  
 Veľmi významnými, "vzorovými" románmi v dejinách boli ďalej **Don Quijote de la Mancha** (1605) a Robinson Crusoe.
@@ -1164,23 +1165,24 @@ vybudovať si vinársky obchod)
     Veľmi si váži prácu sedliakov, nesúhlasí s láskou svojho syna Nika s Katicou Beracovou, ale rozhodne sa, že im v tejto láske brániť nebude
 - Sedliactvo 
     - Predstavuje ho rodina Mate Beraca 
-    - Je tu ukázaný rozklad ich myslenia, mladšia generácia sedliakov je veľmi zhýčkaná a u. nechce tvrdo pracovať na poli
+    - Je tu ukázaný rozklad ich myslenia, mladšia generácia sedliakov je veľmi zhýčkaná a u. nechce tvrdo pracovať na poli  
+
 - **Mate Berac** 
     - Klasický sedliak, silno pripútaný k pôde, pretože v pôde vidí jedinú obživu
     - Je to zidealizovaná postava, má všetky znaky kladného hrdinu
     - Vyznačuje sa múdrosťou, je hlava rodiny, tvrdo dodržiava tradície a nevie pochopiť mladú generáciu, že odchádza za prácou do mesta
     - Je presvedčený, že medzi ľuďmi sa nedajú zotrieť spoločenské rozdiely
     - Tvrdí, že každý človek si má nájsť seberovného: *"Nie sme rovnakí, ani nebudeme. Boh dal, že sú mocní, ktorí rozkazujú a sú nízki, ktorí poslúchajú."*
-    - Nesúhlasí so vzťahom svojej dcéry s Nikom Dubčicom, celá rodina si ho váži pre múdrosť a otvorenosť.
+    - Nesúhlasí so vzťahom svojej dcéry s Nikom Dubčicom, celá rodina si ho váži pre múdrosť a otvorenosť 
 - **Niko Dubčic** 
     - Mladý statkár, syn šory Anzuly, 
     - Pokiaľ nepoznal Katicu Beracovú, zviedol nejedno dievča  
-    - Zaujíma sa o jednoduchý ľud, ale neskôr pochopí, že nie je možné zobrať si ženu z nižšej spoločenskej vrstvy a berie si za ženu statkárku **Doricu**
+    - Zaujíma sa o jednoduchý ľud, ale neskôr pochopí, že nie je možné zobrať si ženu z nižšej spoločenskej vrstvy a berie si za ženu statkárku **Doricu** 
 - **Katica Beracová** 
     - Najmladšia a najmilšia dcéra Mate Beraca
     - Je roztopašná, samopašná, márnivá
     - V láske k Nikovi vidí možnosť, ako preniknúť do sveta pánov
-    - S otcovými názormi nesúhlasí a vyslovuje ostrú kritiku.
+    - S otcovými názormi nesúhlasí a vyslovuje ostrú kritiku 
 
 - **Obsah** je rozdelený do 4 častí:
     - 1. vzplanutie lásky medzi Nikom a Katicou
@@ -1197,7 +1199,7 @@ vybudovať si vinársky obchod)
 - Neustále prenasledovaný veriteľmi a úžerníkmi sa sťahoval z miesta na miesto
 - V roku 1850 sa oženil s poľskou šľachtičnou Evelínou Hanskou
 - 18.augusta 1850 zomiera prepracovaný a uštvaný
-- Tvorba:
+- **Tvorba**:
     - Cyklus Ľudová komédia 
         - Viac ako 90 románov a poviedok
         - Obraz francúzskej spoločnosti 19.storočia
@@ -1543,7 +1545,8 @@ Pôvod viacerých postáv je zahmlený, osudovo sa stretávajú alebo sú k sebe
 
 Znaky romantizmu, ktoré nachádzame v románe:
 - Kontrasty 
-    - Krásna Esmeralda-škaredý Quasimodo, Esmeralda dobrá-Frollo zlý  
+    - Krásna Esmeralda - škaredý Quasimodo
+    - Esmeralda dobrá - Frollo zlý  
 - Vnútorná harmónia kontrastov 
     - Quasimodo je škaredý výzorom a znetvorený fyzicky, ale duševne ušľachtilý 
 - Založený je na harmónii kontrastov
