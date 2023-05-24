@@ -808,8 +808,9 @@ Na Pohľad je to hrdá žena so sebavedomým vystupovaním, svojho muža Paľa m
 - Zuzka Bežanovie, najbohatšie dievča v dedine, sa má onedlho vydať za Jana Dúbravovie. Práve sa pre niečo pohnevala so svojím ženíchom a vtedy jej príde do cesty Ondráš. Ľahkovážna Zuzka sa chce na niekom vyvŕšiť a zvýšiť si trochu sebavedomie - zahrá Ondrášovi divadlo a sľúbi mu, že sa za neho vydá. Ondráš verí, že krásavica Zuzka sa chce stať jeho ženou, a začne sa vážne chystať na sobáš. Jeho komické prípravy sú spočiatku každému na smiech, situácia sa však stáva stále vážnejšou a tragickejšou. 
 - Zuzka sa rozhodne urýchliť svoj sobáš s Janom Dúbravovie. Ondrášovi už vtedy nikto nevládal povedať pravdu. Veril, že u Bežanov sa chystajú na Zuzkinu svadbu s ním. V deň svadby ho teta musí zatvoriť do komory, aby sa nedostal do kostola a do domu Bežanovcov. Ondrášovi sa však podarí sekerou rozbiť závoru, a tak sa predsa dostane na svadbu. Keď vojde do miestnosti, práve vrcholí svadobná zábava. Ondráš si najskôr myslí, že Zuzka sa preto vydala za iného, lebo on neprišiel. Keď však vidí, aká je šťastná, pochopí, že Zuzka miluje v skutočnosti Jana a s ním sa iba zahrávala. Ondráš nevydrží takú veľkú bolesť a zošalie. Vtedy sa roznesie po dome správa, že u Bežanov horí šopa. Svadobčania nájdu pri šope zmäteného Ondráša a v presvedčení, že to on podpálil z pomsty šopu, priviažu ho k plotu. Odviaže ho Zuzka, ktorá si až teraz uvedomí, čo spôsobila. Poviedka sa blíži k tragickému koncu. Ondráš si všimne, že horí aj maštaľ, kde boli husi. Vrhne sa do plameňov, aby ich zachránil. A práve vtedy spadne prepálená povala na maštali a pochová Ondráša aj jeho najmilšiu hus, ktorú držal v náručí. 
 
+## Peter A Lucia
+Autor - Romain Rolland
 ```
-PETER A LUCIA (ROMAIN ROLLAND)
 Dielo o tragickej láske dvoch mladých ľudí na pozadí udalostí 1. svetovej vojny. Rozpad mravných ideálov a spoločenských princípov prináša vo vedomí mladých ľudí dezilúziu, pocit rozvratu a bezvýchodiskovosti, na ktorú by mohla byť liekom láska. Vojna prvýkrát zasahuje do života miliónov civilistov.
 Dielo po prvý raz vo svetovej literatúre prináša pacifistický názor na vojnu.
 AUTOR
@@ -1718,7 +1719,7 @@ Tragédia sa naplní vtedy, keď si mladí hrdinovia siahnu na život
 **Idea** - Láska, ktorej nepraje história rodov ani súčasné zvyky  
 **Miesto deja** - Dej sa odohráva vo Verone, kde žili dva staré znepriatelené rody - **Montekovci a Kapuletovci**  
 Mesto Verona (námestie, cintorín-hrobka Kapuletovcov), Kapuletov dom (záhrada, dvorana, Júliina izba), cela brata Vavrinca, mesto Mantova (ulica s obchodmi)  
-KOMPOZÍCIA: 2 prológy (Chórus), 5 dejstiev, 24 obrazov
+Kompozícia: 2 prológy (Chórus), 5 dejstiev, 24 obrazov
 
 **Dej**: Romeo, syn Monteka a Júlia, Kapuletova dcéra, sa do seba zaľúbia na večierku usporiadanom Kapuletovcami  
 Ich láske však bráni znepriatelenosť rodov  
@@ -5124,15 +5125,624 @@ Ich sen sa načisto rozplynul
 &nbsp;
 # Otázka 26
 ## Epos
+veľká epická forma  
+od čias vzniku najstarších poznaných eposov prekonala veľké zmeny  
+Ako žánrovú formu epiky ho ani nemožno charakterizovať vo všeobecnosti, pretože eposy jednotlivých vývinových etáp sa od seba podstatne odlišujú  
+
+**Hrdinský (bohatiersky) epos** 
+reprezentanti európskeho hrdinského eposu sú starogrécke Ilias a Odysea  
+Pripisujú sa slepému básnikovi Homérovi (homérské eposy)  
+9. stor. pred n.l.
+
+**Homérsky epos** vznikol z menších veršovaných povestí ľudového pôvodu  
+Starogrécky epos predpokladal poslucháča, nie čitateľa  
+Bol umením verejným  
+Prednášali ho osobitní prednášatelia (rapsódovia) pre veľké zhromaždenie ľudí. Kvitol v čase mytologického náhľadu na svet, v čase, keď verejné a súkromné záujmy človeka tvorili jednotu  
+Rozpráva o významných udalostiach, ktoré mali význam pre život celého národa  
+Hlavná dejová línia sa sústreďuje okolo hlavného hrdinu – vyznačuje sa mimoriadnymi vlastnosťami, koná mimoriadne činy  
+Na vývin udalostí v epose pôsobia bohovia – zasahujú do deja, majú zásluhu na jeho náhlych zvratoch  
+Vedľa hlavnej dejovej línie sa nachádza obšírne odbočenie od hlavného deja, dôkladných opisov prostredia, bitiek, súbojov, predmetov i postáv  
+Zdržuje sa nimi hlavný dej  
+Vzniká epická šírka.
+Epická šírka sa odráža i v štýle: podrobné opisy, rozsiahle epizódy, doširoka rozvinuté (homérske) prirovnania
+
+Znaky:
+- Propozícia - krátke naznačenie deja
+- Invokácia - vzývanie múz alebo bohov
+- In medias res – vstup priamo do deja
+- Enumerácia - predstavovanie bojovníkov, resp. postáv
+- Opis boja, predovšetkým opis hlavnej bitky
+- Zásah bohov do deja
+- Ovplyvnenie udalosti zázračnými prvkami bez zásahu bohov
+- Epizódy - opis vedľajších udalostí
+- Peronácia - záver, zakončenie príbehu s dôrazom na poučenie
+
+**Historický epos** 
+čerpá námety z histórie  
+Na rozdiel od bohatierskeho eposu, ktorý tematicky čerpal zo starých povestí a mytológie, historický epos vychádza zo skutočných dejinných udalostí  
+Umeleckou výstavbou sa môže odlišovať viac alebo menej podľa toho, v akej dobe, na akom stupni literárneho vývinu vznikol  
+Obdobie renesancie a klasicizmu sa snažilo zachovať čistotu antických epických postupov  
+U nás Ján Hollý v historických eposoch  
+
+**Idylický epos**  
+Sa tematicky viaže na udalosti z dedinského života, ktorý je blízky prírode  
+Pozadím deja sú často významné historické udalosti
+
+**Komický epos**  
+Vznikol parodovaním vážneho, napr. hrdinského eposu  
+Stavebné a štylistické prostriedky eposu sa využili na vyrozprávanie nízkeho, bezvýznamného deja  
+Vznikol v antickej gréckej literatúre (Batrachomyomachia – Žabomyšia vojna)  
+Je paródiou na homérske eposy
+
+**Zvierací epos**   
+Je meštianskou paralelou rytierskeho eposu  
+Jeho hrdinami sú zvieratá  
+Vznikal v stredoveku zo starších literárnych i ľudových rozprávaní o zvieratách
+
+**Duchovný epos**  
+Čerpal námety z Biblie a svojím obsahom slúžil potrebám náboženstva  
+Často sa však stával prostriedkom na vyslovenie aktuálnych dobových názorov  
+Najznámejší duchovný epos je Stratený raj od Johna Miltona  
+Zo slovenskej napr. Ján Hollý - Cyrillo-Metodiáda.
+
+**Moderný (reflexívny) epos**  
+Epické skladby od čias romantizmu  
+Nastal rozpad pôvodnej epickosti, pretože sa rozdvojuje aj ľudská osobnosť na človeka verejného a súkromného  
+Umelecká literatúra si začína všímať osobné práva človeka, ktoré sa často dostávajú do rozporu so záujmami všeobecnými (spoločenskými, národnými a pod.)  
+Zobrazovaniu osobných zážitkov zodpovedajú viac postupy lyrické ako epické  
+Epická tradícia však v literatúre žije aj naďalej, avšak preberá, vstrebáva do seba lyrické prvky  
+Vznikajú lyrickoepické básnické diela  
+Moderný epos obdobia romantizmu sa nazýva lyrickoepickou básnickou poviedkou  
+Prvým tvorcom v európskej literatúre je anglický básnik Byron – Childe Haroldova púť  
+Ovplyvnil celú európsku literatúru  
+Z ruskej literatúry je známy Puškinov Eugen Onegin  
+Z poľskej Miczkiewiczov Pán Tadeáš  
+Z českej Máchov Máj  
+Zo slovenskej Bottova Smrť Jánošíkova, Sládkovičov Detvan  
+Názvom moderný možno označiť i básnické diela nasledujúcich epôch, ktoré sa pôvodnému eposu podobajú už iba svojím veľkým rozsahom, napr.: Hviezdoslavove diela Hájnikova žena, Ežo Vlkolinský, Gábor Vlkolinský, Vajanského Herodes  
+Najcharakteristickejším znakom je, že čerpá námety zo života spoločnosti, umelecky stvárňuje najzákladnejšie problémy doby a epický dej je často prerušovaný opisom duševných stavov zobrazovaných hrdinov, opismi prírody a rozsiahlymi úvahami autora.
+
+## Ežo Vlkolinský
+Epos  
+Vlkolín - básnické pomenovanie rodnej dediny Hviezdoslava
+
+**Dej**  
+Po smrti starého **Beňa** Vlkolinského sa stáva paňou majetku jeho žena **Estera** a ich syn **Ežo**  
+Autor zobrazuje proces hynutia zemianstva  
+Mladý Ežo sa zaľúbi do **Žofky Bockovie**, krásne, mladé dievča, ale sedliačka  
+Estera si vyhliadla pre svojho syna inú nevestu, zemanku **Marku Tomášovie**  
+Estera je zarytá zemanka, panovačná žena  
+Dochádza k sporu medzi matkou a synom:  
+*"táto ledačina môj prach domu nikdy neprekročí"* - vyjadrí sa Estera o Žofke  
+Ežo odchádza z domu  
+Útočisko nachádza u svojho strýka **Eliáša** Vlkolinského  
+Ten mu vystrojí nádhernú, honosnú svadbu, ktorú vo Vlkolíne už dávno nevideli  
+Zo strany Eliáša to bola ale vypočítavosť, chce sa pomstiť Estere a aj Beňovi  
+Beňo dostal vzdelanie, zatiaľ čo on bol vždy odstrkovaný  
+Žofke a Ežovi sa narodí syn **Benko**, ktorý ich zmieri s Esterou  
+V epose je jablko symbolom zmierenia, Benko si pýta od Estery jabĺčko  
+Ežov citát na vlastnej svadbe:  
+*"Sme rovní! Áno – zeman, nezeman, v tom rozdielu viac niet. Kto inakšie dnes vraví, nezná časy, alebo je zatvrdilý, čo je nerozum."*  
+Záverečný citát: 
+*Rozumní čo pokazia, napravia často deti nevinné, hej, ony poslovia súz neba"*
+
+**Hlavná myšlienka**  
+Autor poukazuje na úpadok zemianstva, jeho záchranu vidí v spojení s ľudom, sedliactvom
+
+## Gábor Vlkolinský 
+Epos  
+Deje obidvoch eposov prebiehajú takmer súčasne, autor tu ešte výraznejšie zachytáva proces hynutia zemianstva  
+
+**Dej**  
+Gábor (Ežov bratranec) sa zaľúbi do **Marky Tomášovej**  
+Tá ho však odmieta, lebo ľúbi Eža  
+Ežo však ľúbi Žofku  
+Epos končí tragicky Markinou smrťou – vybehla spotená zo zábavy von, nachladla, chradne a umiera  
+Gábor sa potom zaujíma o iné ženy, ktoré ho ale odmietajú, lebo majú lepších ženíchov  
+Gábor sa odsudzuje svojej vlastnej zemianskej rodine  
+Je psychicky labilný, rastie v ňom odpor k zemianstvu  
+Jeho matka aj otec sú alkoholici, finančne ruinujú rodinu  
+Ežo a Gábor sa rozhodli ísť kosiť jačmeň, ale Gáborov otec ich predbehol, lebo potreboval peniaze na alkohol  
+Gábor chce spáchať samovraždu, ale Ežo ho od tohto činu odhovorí a ponúkne mu riešenie – poradí mu, aby sa aj on oženil so sedliačkou  
+Pohreb – symbol hynutia
+
+## Ján Hollý
+Bol básnik bernolákovcov  
+Bol katolík  
+Pochádzal zo západného Slovenska (Borský Mikuláš)  
+Vyštudoval teológiu v Trnave – katolícky kňaz  
+Najdlhšie pôsobil v Maduniciach pri Piešťanoch  
+Umiera v Dobrej Vode, kde žil na dôchodku  
+Veľmi blízky vzťah mali k Hollému štúrovci, vážili si ho, navštívili ho pred kodifikáciou slovenčiny  
+
+**Diela**
+- Preklady antických autorov
+    - Príprava na vlastnú tvorbu
+    - Vergílius, Homér
+- Poézia - lyrická, epická
+- Veľká epika
+    - Svatopluk
+    - Sláv
+    - Cyrilometodiáda
+- Lyrika
+    - Ódy a žalospevy
+        - Plač Matky Slávy
+        - Plač Matky Slávy nad odrodilými synmi
+        - V ódach oslávil slovenskú prírodu, významných slovenských autorov (A. Bernolák), ale aj záhradu, v ktorej tvoril svoju poéziu:  
+        Na krásnu záhradu 
+    - Zbierka idýl (21)
+        - Selanky
+        - Zo života slovenského ľudu  
+        Zobrazil v nich ľudové zvyky a krásu slovenskej prírody
+
+Na prekladoch Vergília a Homéra spoznal kompozíciu eposov a idýl  
+Toto ho neskôr priviedlo k napísaniu eposov a Selaniek
+
+## Svätopluk
+Hollého najvýznamnejší epos
+Vychádza z dejín Veľkej Moravy    
+Hlavnou postavou je postava Svätopluka, najvýznamnejšieho veľkomoravského vládcu  
+Svätopluk je v epose zobrazený ako klasicistický hrdina, ktorý rieši rozpor medzi povinnosťou a citom  
+Nakoniec u neho zvíťazí láska k vlasti – povinnosť  
+
+Dej eposu sa odohráva na nemeckom dvore kráľa **Karolmana** a pod Devínom  
+**Rastislav** je uväznený, Svätopluk sa po zrade takisto dostane väzenia  
+Vo väzení si predstavuje život na slobode  
+Spomína si na Tatry  
+Karolman ho nakoniec z väzenia prepustí, ale pod podmienkou, že Svätopluk bude s Nemcami spolupracovať  
+Svätopluk súhlasí a na čele nemeckého vojska prichádza k Devínu, aby porazil vojská Veľkej Moravy  
+Keď však Svätoplukovi ponúknu jeho rodáci korunu, zvíťazí láska k vlasti, prebehne k svojim a postaví sa na čelo veľkomoravského vojska  
+V osobnom súboji s **Britwaldom** (veliteľ nemeckých vojsk) Svätopluk zvíťazí a nakoniec sa stane "kráľom Slovákov"  
+V epose autor obhajuje právo na slobodu - prostredníctvom obrazu slovanského snemu, kde sa bojovníci rozhodnú, že radšej umrú, ako by mali žiť v otroctve  
+*Touto časťou sa inšpiroval Samo Chalupka pri písaní Mor ho!*  
+*"Zbroj teda, zbroj hroznú zapopadnime, naproti poďme. Jestli by však víťazstvom hoveť nám nechcelo ščastí, zemrime včil radšej, než by sme jak otroci Nemcom slúžiť a báborské na šijách ňésť mávali jármo."*
+V 6.speve Svätopluk rozpráva báj o príchode Slovanov do Európy  
+Prišli z Indie  
+Hovorí, že Slovania si boli rovní, nemávali kráľov, sú mierumilovní, pracovití, usilovní, priateľskí, pohostinní  
+12.spev. – vykresľuje súboj medzi Britwaldom a Svätoplukom  
+Je to jeden zo znakov eposu  
+
+Autor využil gradáciu deja - až na tretíkrát sa Svätoplukovi podarilo zabiť svojho protivníka  
+Epos má všetky znaky antického eposu: propozícia, invokácia, in medias res  
+Hlavnú dejovú líniu dopĺňajú opisy bojov, bitiek, výzbroje  
+Do deja zasahujú aj bohovia (aj pohanský boh Černobog)  
+V závere nachádzame zhrnutie deja - peronáciu  
+Propozícia: *"Spívám, jak hroznú Svatopluk na Karolmana védel vojnu, i jak víťaz, seba aj svoj od jeho vlády oslobodiv národ, nepodlehlý stal sa panovník a zmužilých veľké založil kráľovstvo Slovákov."*  
+Invokácia: *"Umko milá, jestliž mne si v mých kedy prispela pesňách, včil najvác prispej na pomoc; tebe všecky ti dobre známí sú bojové, ponevač sama buďto na Bílých nekde horách, buď nad Kobylú, v tvém bydle sedícá, aj na Devín, aj na hrozné mohla vojska si patriť."*  
+Význam Hollého poézie je v tom, že vo svojich dielach propagoval slovenskú históriu, ktorá bola slávna  
+Vyzdvihol myšlienku boja za národnú slobodu a zdôrazňoval národnú hrdosť Slovákov  
+Svojimi eposmi, ale aj idylami, presvedčil nastupujúcu generáciu o tom, že slovná zásoba slovenčiny je dostatočná, čo ju priviedlo ku kodifikácii Štúrovej slovenčiny
 
 &nbsp;
 # Otázka 27
+## 2. svetová vojna
+Koniec 2. sv. vojny - 8. 5. 1945 - Európa  
+Pokračovanie vojny, USA – Japonsko, Ďaleký východ  
+Atómová bomba – Hirošima, Nagasaki, koniec vojny 2. 9. 1945  
+
+Nové usporiadanie sveta po 2. svetovej vojne, rozdelenie na dve zóny:  
+Východnú – socialistickú  
+Západnú - kapitalistickú  
+
+Po skončení vojny sa rozpútali lokálne vojnové konflikty – vojna v Kórei, vo Vietname  
+Vznik NSR a NDR  
+1949 – vznik NATO, 1954 vstupuje do NATO NSR  
+1955 - vznik Varšavskej zmluvy  
+50. roky – studená vojna medzi východom a západom, kríza v Karibiku – Kuba sa stala súčasťou socialistického bloku  
+Pretrvávajú všeobecné problémy ľudstva, rozširuje sa užívanie drog, AIDS, ničenie životného prostredia, stúpa organizovaná zločinnosť, stúpa napätie medzi náboženstvami, stupňujú sa teroristické útoky  
+November 1989 rozpad socialistickej sústavy, pád Berlínskeho múru, železnej opony, vojnové konflikty zostávajú  
+V dielach autorov dominuje téma 2. svetovej vojny, vojna s prvkami absurdity, individuálne problémy, existencionalistické, narušenie medziľudských vzťahov
+
+Rozdelenie svetovej literatúry po roku 1945
+1. Západ
+    - Národné literatúry – mali svoje špecifiká
+    - Podľa literárnych druhov a smerov 
+    - Existencionalizmus, nový román, neorealizmus, Beat generation, postmoderna
+2. Východ
+    - Krajiny socialistického tábora
+    - Socialistický realizmus 
+        - Zobrazoval všedný život v krajine 
+        - Témy: budovanie socializmu, nenarušené medziľudské vzťahy, radosť ľudí zo života v novej spoločnosti
+
+**Existencionalizmus**  
+Myšlienkový a umelecký smer  
+Vznikol vo Francúzsku  
+Vyvrcholil po 2. sv. vojne
+
+Znaky literárneho existencionalizmu
+- Individualizmus, osamelosť, odcudzenie
+- Pocity úzkosti, absurdity
+- Človek v hraničných situáciách
+- Motív voľby
+- Keď človek túto situáciu vyrieši, nastane pocit uvoľnenia, pocit slobody
+- Zdôrazňovanie osobnej slobody, slobody jednotlivca                                                             
+
+Základné motto: *Človek žije preto, aby zomrel*  
+Z toho pramení pocit absurdity a nezmyselnosti života
+Predstavitelia: **Jean Paul Sartre, Albert Camus**
+
+**Neorealizmus**  
+Sformoval sa v literatúre a vo filme na začiatku 50. – tych rokov v Taliansku  
+Predstaviteľmi boli ľavicovo orientovaní scénaristi, režiséri, spisovatelia, kt. vyjadrovali protest proti fašizmu  
+Kládli dôraz na hodnovernosť, dokumentárnosť aktuálnosť  
+Hrdinami boli jednoduchí ľudia so svojimi bežnými starosťami a problémami – bieda talianskeho ľudu, periférie Ríma, sociálna nerovnosť medzi ľuďmi, prostitúcia  
+Autori využívali ľudový jazyk, slang
+Predstavitelia: **Alberto Moravia, Vasco Pratolini, Pier Pado Pasolini**
+
+**Postmoderna**  
+Vzniká v Amerike v 60. rokoch  
+V Európe v 70. rokoch  
+Vychádza zo surrealizmu  
+Základným motívom je útek do prírody, záchrana človeka pred civilizáciou  
+Je to spleť reálneho a imaginárneho sveta  
+Prelínajú sa tradície s experimentovaním, získavanie nových poznatkov pokusmi  
+Predstavitelia hľadajú pravdu, snažia sa pochopiť svet, využívajú prvky odbornej, historickej a publicistickej literatúry  
+Prelínanie žánrov, dejových a časových rovín  
+Predstavitelia: **Umberto Eco** - Meno ruže
+
+**Absurdná dráma**  
+Porušuje všetky základné požiadavky divadelnej hry, vychádza z existencionalizmu  
+Základným námetom je pocit úzkosti, ktorý vyplýva z postavenia človeka v spoločnosti  
+Nemá dej, chýba charakteristika postáv a motív ich konania, chýba rozuzlenie celej hry  
+Hra stojí na divákovi, ten sa má sám rozhodnúť ako dej skončil  
+Hry sú náročné, donútia človeka zamyslieť sa nad vlastnou existenciou  
+Predstavitelia: **Samuel Becket, Eugéne Ionesco**
+
+**Nový román – antiromán**  
+Vzniká vo Francúzsku ako protipól Balzacovho románu  
+Spisovatelia zdôrazňovali, že nie je možné v jednom diele zobraziť skutočnosť v celej šírke  
+Odmietali dejovosť románu, tradičnú kompozíciu a tradičného hrdinu  
+Tvrdia, že román má byť chaotický a len kde tu sa má vyskytnúť dej  
+Na konci románu nedochádza k rozuzleniu zápletky, ale naopak, k jeho spochybneniu, zahmleniu  
+Postava je anonymnou bytosťou bez minulosti, pamäti, často i bez mena  
+Vyzdvihoval sa iba dialóg, chýbal vnútorný monológ  
+Predstavitelia: **Alain Robbe** – Grillet (Gijé), **Nikola Serratová**
+
+## Wiliam Styron
+Americký prozaik a esejista
+
+## Sophiina voľba  
+Román o osudoch Sophie Zawitowskej počas vojnových rokov v Poľsku (2. sv. vojna) a po vojne v Amerike, kam sa dostala ako bývalá väzenkyňa koncentračného tábora na doliečenie  
+Názov románu je symbolický a je zašifrovaný v podtexte otrasnej scény z koncentračného tábora  
+Sophia sa musí rozhodnúť, ktoré dieťa pošle do plynu, aby druhé mohlo žiť  
+Autor sa v diele zameriava na psychiku ľudí, ktorí prežili vojnu a koncentračné tábory  
+Sophia dostala v živote možnosť voliť trikrát  
+Prvýkrát sa mala rozhodnúť, či sa zapojí do poľského odboja proti fašizmu, ale kvôli deťom sa nezapojila  
+Druhýkrát sa rozhodovala, ktoré dieťa pošle do plynu  
+Tretíkrát sa rozhodovala v momente, keď chcela spáchať samovraždu, lebo nedokázala žiť v tieni smrti svojich detí  
+Medzi hlavné postavy románu patrí aj **Stingo** – rozprávač príbehu  
+V uvedenej postave vystupuje sám autor  
+Dielo je veľkou drámou ľudského utrpenia vo viacerých rovinách  
+Sophia sa musí vyrovnávať so smrťou svojich detí, so strašnou minulosťou  
+**Nathan** so svojou chorobou   
+Stingo s protirečením medzi svojimi umeleckými ambíciami a nenaplneným citovým vzťahom k Sophii
+
+Román, ktorého dej sa odohráva v dvoch časových líniách
+1. Minulosť
+    - Vojna
+    - Osvienčim, koncentračný tábor, Poľsko
+2. Prítomnosť
+    - Asi 2 roky po vojne
+    - USA, New York
+
+Román tvoria **2 knihy**
+V prvej knihe sa čitateľ zoznamuje so Stingom, má 22 rokov, je rok 1947  
+Pracuje vo vydavateľstve a robí posudky na diela, ktoré sa nedajú čítať  
+Keď vo vydavateľstve dostal výpoveď, presťahoval sa do lacnejšej štvrte do ružového domu 60-ročnej **Yette Zimmermanovej**  
+V dome býva i Nathan a Sophia, ktorí sa každý deň vášnivo milujú, ale na druhej strane je Nathan k Sofii veľmi krutý a Stingo to nechápe  
+Sophia sa narodila v Krakove  
+Jej mama bola profesorkou hudby (klavír) a jej otec bol právnik a tiež profesor  
+Doma hovorili po nemecky  
+Sophia sa vydala za Kazimierza = **Kazik** a plánovali si, že spolu pôjdu študovať do Viedne, no v roku 1939 prišli Nemci a odvliekli otca i manžela  
+Sophia sa presťahovala do Varšavy  
+V marci roku 1943 sa dostala do väzenia, pretože ju gestapo prichytilo, ako pašuje mäso = šunku pre svoju mamu, ktorá mala tuberkulózu  
+Svoju mamu už nikdy nevidela  
+1. apríla 1943 Sophia prichádza do koncentračného tábora spolu so synom **Janom** (10 rokov) a dcérou **Evou** (7 rokov)  
+V tábore bola 20 mesiacov  
+V Osvienčime boli 2 oddelené tábory – miesto, ktoré sa volalo Auschwitz (otrocká práca) a Brzezinka (vyhladzovanie)  
+Po skončení vojny sa Sophia dostala až do USA, kde sa zoznámila s Nathanom  
+Odpadla v knižnici, Sophia sa o ňu postaral, odvtedy sú spolu  
+Stingo sa s nimi zbližuje, no ešte sa nedozvedá, čo Sophia prežila v koncentračnom tábore  
+Prvá časť končí odchodom Nathana a Sophie z ružového domu  
+Nathan kričí po Sophii, aby mu vysvetlila, prečo práve ona prežila Osvienčim  
+ 
+V druhej časti románu sa Stingo dozvedá celú pravdu o Sophii  
+Sophii popravili manžela i otca  
+Mohla sa zapojiť do poľského odboja, ale zo strachu o osud svojich dvoch detí, tak neurobí  
+Je to jej 1. voľba, kedy si zdanlivo volí bezpečnejší život  
+Osud si s ňou zahrá a ona sa dostáva do koncentračného tábora  
+Už po príchode do tábora má voliť 2. krát  
+Z rozmaru podnapitého esesáka sa má rozhodnúť, ktoré dieťa pošle do plynu a ktoré zachráni  
+Rozhodne sa pre dcéru Evičku, lebo bola slabšia a chorľavejšia  
+V tábore pravdepodobne zahynul aj jej syn Ján  
+Sophia pracovala ako pisárka v koncentračnom tábore u **Hőssa**, lebo vedela po nemecky i po poľsky  
+Prosila Hőssa, aby ešte raz mohla vidieť svojho syna Jana a aby ho zaradil do programu Lebensborn  
+Išlo o program, v ktorom sa poľské deti mali stať nemeckými a odísť z tábora s novým menom  
+Hőss sľúbil, že Sophia uvidí svojho syna, no nikdy sa tak nestalo  
+Sophia peklo koncentráku prežije, ale za cenu vedomia, že sa nevedela vzoprieť zlu, za cenu pocitu viny a výčitiek  
+V spomienkach sa jej zjavuje odbojárka Wanda, ktorú fašisti v tábore umučili  
+Odchádza do USA, kde sa jej ujme Nathan Landau, ktorý je duševne chorý (paranoidný schizofrenik) a je narkoman  
+Po tragickom vzťahu plnom šťastia i utrpenia a po krátkom intermezze so Stingom sa Sophia vracia k Nathanovi, aby spoločne odišli z tohto sveta, ktorý jej pripravil toľko utrpenia  
+Nájdu ich v objatí a otrávených kyanidom sodným
+
+Stingove slová na záver:
+*"Osvienčim nám naďalej zostane nevysvetliteľný. Najvýstižnejšia definícia, akú som kedy o Osvienčime počul, vlastne nie je definícia, ale odpoveď"*  
+
+Pochybovačná otázka:
+*"Povedzte mi, kde bol v Osvienčime boh?"*  
+*"A kde bol človek?"*  
+
+## Joseph Heller  
+Americký spisovateľ  
+Priniesol prvky absurdnej literatúry do americkej prózy  
+Počas 2. sv. vojny slúžil ako pilot bombardéra u letectva  
+V knihe o osudoch Yossariana a jeho letky bombardérov útočiacich na Taliansko vychádza Heller z vlastných skúseností  
+Svojou knihou predznamenal to, čo v americkej kultúre naplno otvorila vietnamská vojna
+
+## Hlava XXII
+Román  
+Satirické a protivojnové dielo  
+Uvádza ho motto: *"Hlave XXII neprešiel nikto cez rozum"*  
+Základným výstavbovým prvkom románu je humor, satira, irónia, nonsens, čierny humor a absurdita  
+Autor sa v ňom snažil čo najvernejšie zobraziť zážitky z 2. svetovej  vojny  
+Bol priamym účastníkom vojny a vychádzal z vlastných zážitkov  
+Zameral sa najmä na zobrazenie absurdity konania ľudí počas vojny  
+Dej diela sa odohráva tesne pred koncom 2. svetovej vojny  
+Dej diela sa odohráva na malom ostrove – Pianosa blízko Elby (13 km)  
+Ostrov sa nachádza v Stredozemnom mori a na ňom bola americká základňa 256. leteckej eskadry americkej armády  
+Americké lietadlá, ktoré odtiaľto zlietali, bombardovali nemecké pozície v severnom Taliansku  
+Autor v románe zobrazil dva fronty:  
+Jeden je americko-taliansky (front, na ktorom prebiehajú boje)  
+Druhý je americko-americký (boj medzi americkými vojakmi a veliteľmi)  
+Román má jednu ústrednú postavu – Yossariana, ktorý vojnu nenávidí a búri sa proti nezmyselnostiam vojenskej byrokracie  
+Yossarian jasne chápe, že vo vojne sa nikdy neprihliada na človeka, ale iba na plnenie príkazov, že človek vo vojne neznamená vôbec nič  
+
+Román má 42 kapitol a v každej z nich sa postava Yossariana spája s nejakou ďalšou postavou, podľa ktorej je daná kapitola aj pomenovaná  
+Autor uvedené postavy predstavuje počas bojov, ale aj vo chvíľach oddychu, oboznamuje nás s ich minulosťou  
+Postavy v uvedenom diele vôbec nie sú hrdinovia, ale neraz bezradné indivíduá, ktorých hlavným nepriateľom vôbec nie je skutočný nepriateľ, ale vlastná armáda, v ktorej jednotlivec neznamená nič, stráca všetky ideály a snaží sa zachrániť vlastnú kožu  
+Stelesnením vojenskej byrokracie je tzv. hlava XXII – súbor absurdných nariadení a predpisov, ktorý proti sebe stavia vojaka a armádu ako inštitúciu  
+Podľa tzv. hlavy XXII môže byť vojak prepustený z armády napr. vtedy, keď je blázon  
+Ak ale vie, že je blázon, tak je vlastne normálny, preto nemôže byť prepustený z armády
+
+**Dejová línia**  
+Na ostrove Pianosa v americkej armáde bojuje aj Yossarian  
+Je bombometčíkom a absolvuje stále viac a viac náletov  
+Najprv má za úlohu nalietať 30 náletov, po nalietaní ktorých by mal možnosť odísť z ostrova, ale potom jeho veliteľ plukovník **Catcarth** zvýši počet náletov na 80  
+Počty náletov veliteľ zvyšuje neustále a z mnohých náletov sa posádky nevrátia, čím narastá počet zbytočných úmrtí vojakov  
+Yossarian sa veľmi bojí o svoj život, má až existenciálny strach zo smrti  
+Nezvláda pohľad na umieranie, utrpenie ľudí, smrť svojich priateľov a spolubojovníkov  
+Všetci vojaci sú ovládaní tzv. hlavou XXII, ktorá vlastne neumožňuje vojakovi odísť z aktívnej vojenskej služby  
+Autor vychádzal z vlastných skúseností a poukázal na mnohé chyby, s ktorými sa v armáde stretol  
+Napr. ukázal na mnohé administratívne chyby (jedného človeka vymenujú omylom za majora a potom ho vedú ako majora, aby sa na to neprišlo)  
+Ďalej upozorňuje na nedostatočnú kontrolu veliteľského štábu  
+Letci sa obávali stále vyhlasovaného a odvolávaného náletu na Bolognu  
+Sám Yossarian zo strachu pred náletom preložil na veliteľskej mapke značku tak, akoby toto mesto už bolo bombardované – nikto na to neprišiel  
+Zobrazil kupčenie na čiernom trhu, napr. kupčenie medzi veliteľmi a dôstojníkmi, ktorí sa na čiernom trhu obohacovali, využívajúc americké bojové lietadlá  
+Najznámejším dôstojníkom na čiernom trhu bol dôstojník Milo, ktorý každému zohnal, čo chcel, kupčil ako veľkoobchodník s drevom, kožou, plechmi,...  
+Autor neobišiel ani problém zločinov, ktorých sa dopúšťali vojaci (Arfy znásilnil talianske dievča a vyhodil ho von oknom, aby sa na to neprišlo. Zločin napokon ani nevyšetrili)  
+Mnohí vojaci konali svojvoľne, mnohokrát riskovali (napr. pilot McWatt lietal tak nízko, že v jeden deň napoly presekol Kida Sampsona.)  
+Yossarian mal jeden veľký sen – chcel dezertovať do Švédska  
+Chcel odísť preč od vojnových udalostí  
+Lákala ho vidina kultúrneho sveta a bol pyšný sám na seba, že sa pre také rozhodnutie rozhodol  
+Velitelia mu odchod samozrejme nechceli dovoliť, preto im robil Yossarian veľké problémy  
+Napr. vyliezol na strom, vyvolal hnačkovú epidémiu, priotrávil letku, na odovzdanie medaily za statočnosť prišiel nahý, začal kvíliť na predletovej príprave…  
+Velitelia napokon sami chceli, aby odišiel  
+Major Danby mu sám dal ponaučenie, ako treba ujsť
 
 &nbsp;
 # Otázka 28
+## Legenda
+Je veršovaný alebo neveršovaný epický žáner  
+Rozpráva životné príbehy svätcov s dôrazom na mystický spôsob života, na zázraky, odriekanie a sebatrýzeň  
+Najväčší rozvoj: obdobie stredovekej literatúry  
+U nás Moravsko – panónske legendy, Legendy o sv. Svoradovi a Benediktovi
+
+## Stredoveká európska literatúra
+5. - 15. storočie  
+Stredoveká literatúra odrážala stredoveké myslenie tých čias  
+Odrážala feudálny a náboženská spôsob života  
+Bola poznamenaná základnou filozofiou stredoveku - kresťanská filozofia  
+Mottom tých čias bolo heslo: *"Modli sa a pracuj - Ora et labora"*  
+Zdrojom vzdelania kultúry sa stala Biblia
+
+**Základné znaky literatúry**  
+- Biblia bola vzorom
+- Latinčina bola liturgický, literárny, úradný a vedecký jazyk
+- Anonymia autorov - mená často nepoznáme
+- Literatúra sa imitovala - napodobňovala - autori často len zmenili dielo iného autora
+- Topika - autori používali rovnaké umelecké prostriedky
+- Štylistika - kvetnatá, obrazná (dekoratívna), vznešená, veľkolepá (pompézna), nadnesená (patetická), rétorická (prvky rečníckeho štýlu)
+- Obsah - v popredí náučná funkcia - cieľom bolo poučiť čitateľa
+
+Stredovekú literatúru **delíme na**:
+- Náboženskú - duchovnú
+    - Slúžila potrebám cirkvi
+- Svetskú
+    - Určená šľachte 
+        - Feudálna svetská
+    - Určená mešťanom
+        - Svetská mestská
+            - Zobrazovala každodenný život
+            - Nevyhýbala sa kritike spoločnosti
+            - Mala zábavnú funkciu
+
+### Náboženská literatúra
+Mala bohoslužobný, výchovný a vzdelávací obsah  
+Zdôrazňovala kresťanské cnosti, ktorými bol obdarený svätec  
+Najrozšírenejšími žánrami boli piesne  
+
+**František z Assisi**  
+Básnik, potulný kazateľ, hlásateľ chudoby a zakladateľ rehole františkánov  
+Napísal dielo Spievanka - prvá súvislá pamiatka talianskej literatúry  
+Rozvíjala žánre: náboženské piesne, legendy, kázne, mystéria (náboženská dráma s biblickými námetmi), ódy - hymnusy  
+Zo žánrov vynikali legendy – rozprávania o živote svätých s dôrazom na zázraky  
+Svätca zobrazovali ako postavu žijúcu podľa pravidiel Biblie prísnym asketickým spôsobom života, schopného sa obetovať pre kresťanské učenie a iných
+
+### Feudálna svetská literatúra
+Realizovala sa najčastejšie v podobe hrdinských – rytierskych eposov  
+Jej hrdinom býval rytier, ktorý mal všetky cnosti - "rytier bez bázne a hany"  
+Bol statočný, odvážny, bránil záujmy kráľa a kresťanstva  
+Bol ochotný položiť aj svoj život  
+K jeho prednostiam patrila ochrana žien, detí, galantnosť a oddanosť "panej svojho srdca" (platonický vzťah)
+
+### Najznámejšie pamiatky európskej literatúry  
+**Pieseň o Rolandovi**  
+Francúzsky epos  
+Pamiatka feudálna svetská   
+Rytiersky epos  
+Rytier na dvore Karola Veľkého, udatný, bojoval proti Arabom a nakoniec zahynul  
+Dej sa odohráva v 8. storočí za vlády Karola Veľkého, ktorý viedol križiacke výpravy proti pohanským Saracénom v Španielsku  
+Jeho verný rytier Roland s vojskom padol do ich pasce, no hrdinsky bojoval proti presile  
+Cisár Karol mu prišiel na pomoc neskoro, lebo Roland sa zdráhal zatrúbiť na roh, aby privolal pomoc  
+Cisár pobije nepriateľov  
+Kresťanstvo víťazí, ale domov si odnáša len mŕtve telá najudatnejších rytierov, medzi nimi i Rolanda  
+
+**Pieseň o Cidovi**  
+Španielsky, rytiersky epos  
+Hlavný hrdina je opäť rytier, ktorý zahynul v boji proti Arabom (Maurom)  
+
+**Slovo o pluku Igorovom**  
+Ruský epos  
+Čerpá z ruských dejín  
+Bohatiersky – rytiersky epos  
+
+**Pieseň o Nibelungoch**  
+Nemecký, hrdinský epos  
+Námet z germánskej mytológie  
+Kráľovič Siegfried sa ožení s Kriemhildou a získa obrovský poklad Nibelungov  
+Neskôr ho pomocou intríg a zrady zabijú  
+Kriemhilda chce pomstiť manželovu smrť, preto sa vydá za vodcu Hunov, kráľa Atillu, ktorého vojsko povraždí všetkých Burgundov  
+Sama pritom zomiera  
+Poklad Nibelungov ukrytý v rieke Rýn nikto viac nenájde  
+
+**Tristan a Izolda**  
+Francúzska povesť  
+Jediný príklad ľúbostného príbehu o veľkej láske, žiarlivosti ale i povinnosti voči panovníkovi s tragickým koncom – smrť milencov
+
+## Slovenská stredoveká literatúra
+Vznik  slovenskej literatúry je spojený so vznikom Veľkej Moravy, ktorá vzniká <u>okolo roku 833</u> – spojením Nitrianskeho a Moravského kniežatstva  
+Ešte pred vznikom Veľkej Moravy sa na našom území šíri kresťanstvo – z Východofranskej ríše  
+Šírili ho franskí kňazi a to po latinsky, čo sa nepáčilo panovníkom Veľkej Moravy  
+Videli v tom pokus o ohrozenie suverenity (samostatnosti) Veľkej Moravy  
+Knieža Rastislav preto požiadal o pápeža o slovanských vierozvestcov  
+Ten z obavy o svoje postavenie nevyhovel  
+Novú žiadosť Rastislav adresoval do Byzancie cisárovi Michalovi III., ten prosbe vyhovel  
+
+Na Veľkú Moravy **v roku 863** prichádzajú bratia **Konštantín a Metod** – Solúnski bratia, byzantská misia
+
+Význam ich príchodu pre rozvoj našej kultúry a písomníctva sa dá zhrnúť v nasledujúcich bodoch:
+1. 
+    - Konštantín vytvoril prvé písmo Slovanov - **Hlaholika**
+        - Vznikla z malej gréckej abecedy  
+    -Ešte pred príchodom vytvoril Konštantín 1. spisovný jazyk - **Staroslovienčinu**  
+        - Stala sa liturgickým, literárnym a úradným jazykom Slovanov  
+        - Keďže Konštantín do nej preložil časť Nového zákona, považujeme ju aj za 4. kultúrny jazyk sveta
+2. Prekladová literatúra
+    - Konštantín preložil do staroslovienčiny: 
+        - Nový zákon - evanjeliá
+        - Omšové knihy - misál
+        - Breviár - modlitebná kniha pre kňazov
+        - Žaltár - zbierka žalmov
+        - Spevník 
+        - Súdny zákonník pre svetských ľudí
+3. Pôvodná literatúra (nemá inú predlohu)
+    - Proglas
+        - 1. slovanská báseň
+        - Predslov k prekladom evanjelia
+    - Moravsko-Panónske legendy
+        - O živote sv. Konštantína a sv. Metoda
+
+Solúnski bratia na našom území šírili kresťanstvo, rozvíjali kultúru, literatúru, položili základy štátneho a súdneho aparátu, vytvorili prvú školu,...  
+Toto všetko sa zrealizovalo v staroslovienčine, čo bolo neprijateľné pre franských kňazov  
+Preto Konštantín a Metod museli odísť do Ríma obhajovať staroslovienčinu  
+Pochodili  vďaka Konštantínovej vzdelanosti  
+Konštantín sa však už späť nevrátil – chorý vstúpil do kláštora a tu pod menom Cyril umrel  
+Metod sa po strastiplnom návrate opäť zapojil do života na Veľkej Morave  
+Pre nezhody so Svätoplukom (vyčítal mu prehrešky voči morálke) boli nakoniec po jeho smrti ich žiaci z Veľkej Moravy vyhnaní  
+Na Veľkej Morave sa opäť začala používať latinčina  
+Metodovi žiaci odišli do Poľska, Čiech, Bulharska, dnešného Srbska a do Kyjevskej Rusi, kde položili základy vzdelanosti a kultúry aj iných slovanských národov  
+Zároveň upravovali hlaholiku na cyriliku a neskôr azbuku
+
+## Proglas
+Autor - Konštantín  
+Proglas = predslov k prekladu Nového zákona  
+Témou je vysvetlenie, prečo sa autor rozhodol pre preklad písma do staroslovienčiny  
+
+Óda, v ktorej autor vysvetľuje, obraňuje, ale aj ospevuje
+1. Chváli kresťanstvo, ktoré prinesie ľuďom morálku, vzdelanie
+2. Vyzdvihuje význam vzdelania a písma  
+Hovorí, že: "žiadna duša bez písmen vedomia nemá o tom božskom zákone"  
+Človeka, ktorý je nevzdelaný, "bez písmen", prirovnal k "mŕtvej duši"  
+*"A ešte väčšmi od človeka z kameňa*  
+*je mŕtva duša, každá duša bez písmen."*  
+3. Oslava staroslovienčiny (stala sa 4. spis. jazykom sveta)  
+Autor zdôrazňuje myšlienku vzdelávania v materinskom jazyku  
+Cudzí jazyk, ktorému nerozumieme, pripodobnil k "zvonu medenému"  
+Význam vzdelávania v materinskom jazyku podčiarkol záverom básne, keď hovorí:  
+*"Chcem radšej iba pätoro slov povedať,*  
+*rozumom prostým chcem tých päť slov povedať,*  
+*aby aj bratia všetko porozumeli,*  
+*než nezrozumiteľných slov riecť tisíce."*  
+
+Autor svoje argumenty podložil citáty z Biblie  
+Básnický jazyk Proglasu je vznešený, kvetnatý, s prvkami rétorického štýlu
+
+## Moravsko - Panónske legendy
+### Život svätého Konštantína
+Autor - Kliment  
+Život Konštantína obsahuje veľa životopisných faktov  
+Dozvedáme sa o Konštantínovom detstve, mladosti, o prorockom sne, v ktorom si ako družku života vybral Sophiu = múdrosť, a nie skutočnú ženu  
+V jeho živote sa udiali ešte iné zázraky – našiel ostatky sv. Klimenta, Boh mu vnukol myšlienku o hlaholike  
+Autor vyzdvihuje Konštantínovu vzdelanosť – dostal pomenovanie Filozof, múdrosť, idealizuje ho ako svätca  
+Veľký dôraz autor kladie na opis Konštantínovej obhajoby staroslovienčiny – odporcov Konštantína a Metoda (trojjazyčníci) vykreslil ako havrany - niečo zlé, nesprávne  
+Do úst Konštantína - sokol opäť vložil slová z Biblie, ktoré sú dôkazom nielen jeho vzdelanosti, ale aj demokratických názorov na práva ľudí  
+Keď bol v Benátkach, zhromaždili sa proti nemu latinskí biskupi a kňazi i mnísi ako havrany proti sokolovi, a vyzdvihli trojjazyčný blud, hovoriac:  
+*"Človeče, povedz nám, prečo si učinil teraz Slovienom knihy a učíš ich, ktoré nikto iný predtým nevynašiel, ani apoštolovia, ani rímsky pápež, ani Gregor Bohoslovec, ani Hieroným, ani Augustín? My len tri jazyky poznáme, ktorými sa sluší v knihách sláviť Boha: hebrejský, grécky a latinský."*  
+Odpovedal im Filozof: 
+*"Či neprichádza dážď od Boha na všetkých rovnako? Alebo či slnce tak isto nesvieti na všetkých? Či nedýchame na vzduchu rovnako všetci? A tak vy, nehanbíte sa, tri jazyky len uznávajúc a prikazujúc, aby všetky ostatné národy a plemená boli slepé a hluché?"*
+Dielo je typickou legendou  
+Je napísané prózou a vznešeným rétorickým štýlom  
+Obsahuje biblické citáty, číselnú symboliku, rečnícke otázky, prirovnania, kontrasty, podobenstvá, idealistickú charakteristiku postavy, dramatické dialógy
+
+### Život svätého Metoda 
+Autor - Gorazd  
+Legenda je stručnejšia ako Život svätého Konštantína  
+Je menej umelecká a opisuje hlavne pôsobenie Metoda na Veľkej Morave  
+Legenda končí obrazom Metodovej smrti a jeho pohrebu  
+Autor zdôrazňuje, že Metod bol na Veľkej Morave obľúbený, vážili si ho a pre mnohých sa stal vzorom  
+Aj tu sa cituje z Biblie  
+A ľudia, nesčíselný národ, zhromavždivší sa, odprevádzali so sviecami, plačúc, dobrého učiteľa a pastiera – mužské pohlavie i ženské, malí i veľkí, bohatí i chudobní, slobodní i rabi, vdovy i siroty, cudzinci i tuzemci, neduživí i zdraví, všetci, lebo pre všetkých stal sa všetkým, aby všetkých získal
+
+## Stredoveká literatúra
+Písaná po latinsky a slovakizovanou češtinou  
+Po páde Veľkej Moravy sa Slovensko postupne stalo súčasťou Uhorska  
+Jediným liturgickým a literárnym jazykom sa stala tak ako inde v Európe latinčina  
+Aj na našom území sa rozvíjala náboženská aj svetská literatúra - feudálna a svetská - mestská literatúra  
+
+**Najvýznamnejšie pamiatky**  
+- Náboženská literatúra
+    - Kronika sv. Štefana - dozvedáme sa o počiatkoch Uhorska
+    - Anonymova kronika - dejiny Uhorska
+    - Legenda o sv. Svoradovi a Benediktovi
+        - Žili v Nitre, v kláštore na Zobore  
+        Svorad sa stal neskôr pustovníkom  
+        Pôsobil na Skalke pri Trenčíne a tu nakoniec aj tragicky zahynul - zabili ho zbojníci a hodili do Váhu  
+        Pre veriacich sa stal vzorom a neskôr bol vyhlásený za svätého
+        - Autor - Maurus - nitriansky biskup
+    - Legenda o sv. Štefanovi
+        - 1. Uhorský kráľ  
+        Po smrti ho vyhlásili za svätého, lebo šíril v Uhorsku kresťanstvo a podporoval ho
+- Svetská - mestská literatúra
+    - Rôzne typy piesní
+    - Vznikli aj žartovné rozprávania
+    - Vznikli aj prvé zápisy v slovenčine - tzv. slovakizovanej češtine a v slovenských nárečiach
 
 &nbsp;
 # Otázka 29
+[**Peter a Lucia**](#peter-a-lucia)  
+[**Rómeo a Júlia**](#rómeo-a-júlia)
+
+## Námestie svätej Alžbety
 
 &nbsp;
 # Otázka 30
