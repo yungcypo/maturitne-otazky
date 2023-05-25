@@ -4,7 +4,7 @@
 # Otázka 1
 ## Jazyk
 Systém ustálených znakov a pravidiel, na základe ktorých vzniká konkrétna reč  
-Je to jav spoločnenský, nie prírodný - musíme sa ho naučiť, nemáme ho vrodený  
+Je to jav spoločenský, nie prírodný - musíme sa ho naučiť, nemáme ho vrodený  
 Chápeme ho ako dohodnutý kód, súbor znakov a pravidiel, ktoré sa používajú na vyjadrenie, prenos a výmenu informácií  
 ## Reč
 Konkrétne využitie jazyka na vyjadrenie určitých myšlienok  
@@ -56,7 +56,7 @@ Diferenciácia slovnej zásoby - delenie
         - Napr. smelosť a odvaha, ísť a kráčať
     - Antonymá
         - Protikladné slová, opozitá
-        - Napr. čieny a biely, dobrý a zlý
+        - Napr. čierny a biely, dobrý a zlý
 
 Slová podľa spisovnosti
 - Spisovné
@@ -110,7 +110,7 @@ Slová podľa spisovnosti
 &nbsp;
 # Otázka 3
 ## Opisný slohový postup
-Sustreďuje sa na zachytenie vlastnosí osôb, predmetov a javov, zachytáva aj následnosť činností  
+Sústreďuje sa na zachytenie vlastností osôb, predmetov a javov, zachytáva aj následnosť činností  
 Vlastnosti vymenúva, ale nevysvetľuje  
 Poradie komponentov v útvaroch opisného slohu sa môže meniť (okrem niektorých, napr. návod, opis pracovnej činnosti)  
 Môžeme najprv opísať park, potom budovy na námestí alebo presne naopak
@@ -119,9 +119,9 @@ Môžeme najprv opísať park, potom budovy na námestí alebo presne naopak
 - ### Opis
     - Základný slohový útvar opisného slohového postupu, často sa vyskytuje aj v ostatných slohových postupoch
     - Stretávame sa s ním vo väčšine funkčných jazykových štýlov
-    - Založený na cieľavedomom pozorovaní a následnom vymenúvaní (enumerácia) základných znakov poredmetu, osoby alebo javu
+    - Založený na cieľavedomom pozorovaní a následnom vymenúvaní (enumerácia) základných znakov predmetu, osoby alebo javu
     - Najvýstižnejšie a najpresnejšie vystihuje predmet alebo jav
-    - **Funkciou opisu** je vystihnút objekt ako celok a zároveň jeho jednotlivé častí, ich znaky, črty, vlastnosti a vzájomné vzťahy
+    - **Funkciou opisu** je vystihnúť objekt ako celok a zároveň jeho jednotlivé častí, ich znaky, črty, vlastnosti a vzájomné vzťahy
     - **Druhy opisu**
         - Podľa povahy opisného predmetu
             - Statický
@@ -184,7 +184,7 @@ Má 2 významy:
 - V širšom slova zmysle - akýkoľvek údaj, poznatok, správa, oznámenie, fakt
 - V užšom slova zmysle - údaj, ktorý je dôležitý na potreby používateľa, obohacuje jeho poznanie  
 
-Informatika je nový študijný, vedný odbor, ktorý sa zaobrá vznikom, získavaním, spracúvaním, ukladaním, sprístupňovaním, odovzdávaním a využívaním odborných informácií   
+Informatika je nový študijný, vedný odbor, ktorý sa zaoberá vznikom, získavaním, spracúvaním, ukladaním, sprístupňovaním, odovzdávaním a využívaním odborných informácií   
 Základné informačné inštitúcie sú knižnice, bibliografické inštitúcie, strediská vedeckých a technických informácií  
 
 Informačné pramene:
@@ -204,13 +204,13 @@ Vyhľadávanie, prehľad, súhrn poznatkov o danej téme, pracovníci veľkej kn
 
 **Anotácia**
 Krátka charakteristika napr. literárneho, televízneho diela, jeho obsahu, spôsobu spracovania, často so základnou informáciou o autorovi, prípadne s poznámkou, pre aký okruh čitateľov, divákov či používateľov je určený, o počte strán a cene knihy  
-Tento útvar používjú vydavateľstvá na informovanie o knižných novinkách  
+Tento útvar používajú vydavateľstvá na informovanie o knižných novinkách  
 Prináša len prvé a základné informácie
 
 **Resumé**
 Krátky obsah, zhrnutie  
 Stručne zachytáva základné myšlienky výkladu, komplexnej maturitnej práce, diplomovej práce, dizertácie  
-Je zvyčajn zhrnutím obsahu odbornej práce  
+Je zvyčajne zhrnutím obsahu odbornej práce  
 Zaraďuje sa na koniec práce
 
 **Marginálie**
@@ -256,7 +256,7 @@ Rámcové časti knihy - každá kniha má tieto rámcové časti
 ## Fonetika, fonológia
 **Fonetika** - jazykovedná disciplína, ktorá skúma a opisuje tvorenie zvukov reči rečovými orgánmi a ich zvukové znenie  
 **Fonológia** - jazykovedná disciplína, ktorá skúma vzájomné vzťahy medzi fonémami a ich zvukovými vlastnosťami z hľadiska ich významovo rozlišovacej funkcie  
-**Fonéma** - najmenšia zvuková jenotka, ktorá rozlišuje význam slova v jazyku  
+**Fonéma** - najmenšia zvuková jednotka, ktorá rozlišuje význam slova v jazyku  
 **Hláska** - konkrétna podoba fonémy v reči, najmenšia zvuková jednotka reči. Každá hláska je označená osobitným písmenom a každé písmeno zvyčajne označuje jednu hlásku (okrem dz, dž, ch, ktoré pozostávajú z 2 písmen)  
 **Graféma** - písmeno, jednej fonéme zodpovedá jedna graféma  
 
@@ -269,7 +269,7 @@ V slovenčine sú pre spisovnú výslovnosť osobitne dôležité najmä tieto j
 - Výslovnosť mäkkých a tvrdých spoluhlások (deti, ale diktát)
 - Výslovnosť spoluhláskových skupín a zdvojených spoluhlások (Čadca, motto)
 - Výslovnosť dvojhlások vyslovujeme 2-krát tak dlho, ako krátke samohlásky (dieťa)
-- Rytmické krátenie (páví, miekár)
+- Rytmické krátenie (páví, mliekár)
 
 ## Spodobovanie
 Spodobovanie alebo znelostná asimilácia je prispôsobovanie výslovnosti 2 susedných alebo blízkych spoluhlások
@@ -283,7 +283,7 @@ Rozdelenie spoluhlások podľa znelosti
 - Znelé spoluhlásky - pri ich tvorbe hlasivky knitajú. Rozdeľujú sa na znelé a neznelé
 - Neznelé spoluhlásky - vyslovujú sa vez účasti hlasiviek
 
-| Znelé párové | Neznelé párové | Znelé nepárove (zvučné) |
+| Znelé párové | Neznelé párové | Znelé nepárové (zvučné) |
 |:------------:|:--------------:|:-----------------------:|
 |      b       |        p       |            m            |
 |      d       |        t       |            n            |
@@ -300,7 +300,7 @@ Rozdelenie spoluhlások podľa znelosti
 Kvôli plynulej výslovnosti sa k predložkám, ktoré končia spoluhláskou (s, z, k, v, od, pod, nad) pridáva samohláska -o alebo -u (vokál)  
 Napr. zo záhrady, ku kinu, vo vode, podo dvermi, odo mňa, nado mňa, so mnou
 
-**Ortoepia**
+**Ortoepia**  
 Náuka o správnej výslovnosti  
 Je osobitná jazyková disciplína, ktorá sa zaoberá zvukovými normami, podľa ktorých sa tvoria hovorené spisovné jazykové prejavy (komunikáty)  
 Kodifikačnou príručkou pre zvukovú rovinu spisovnej slovenčiny sú Pravidlá slovenskej výslovnosti od Á. Kráľa  
@@ -311,7 +311,7 @@ V rámci výslovnosti rozoznávame 3 výslovnostné štýly:
     - Využíva sa vo verejnom oficiálnom prostredí, pri recitácií umeleckých textov, v slávnostných prejavoch
     - Komunikanti využívajú spisovnú slovenčinu
 - Neutrálny štýl
-    - Najčastejšia podoba hovorenej spisovnej slovnečiny
+    - Najčastejšia podoba hovorenej spisovnej slovenčiny
     - Využíva sa v súkromnom aj pracovnom styku
     - Ak je medzi komunikantmi spoločensky odstup, využíva sa spisovný jazyk (starší/mladší, nadriadený/podriadený, prostredie školy, úradu a pod.)
 - Nižší štýl
@@ -334,7 +334,7 @@ Najčastejšie poruchy výslovnosti spoluhlások
 ## Administratívny štýl
 Je to objektívny štýl verejnej úradnej komunikácie (používa sa v úradoch, inštitúciách, pošte)  
 Jeho funkciou je sprostredkovať príjemcovi presné údaje, fakty  
-Niektoré útvary podlihajú požiadavkám štátnej normy  
+Niektoré útvary podliehajú požiadavkám štátnej normy  
 Najviac využíva informačný a opisný slohový postup  
 
 Znaky:
@@ -351,9 +351,9 @@ Znaky:
 ## Lexikológia, syntax
 Neutrálne, spisovné a odborné slová  
 Skratky, značky, vysvetlivky, čísla  
-Jenoduché vety a súvetia  
+Jednoduché vety a súvetia  
 Menné vyjadrovanie  
-Písanie zámen v 2. osobe s veľkýn písmenom - znak úcty
+Písanie zámen v 2. osobe s veľkým písmenom - znak úcty
 
 Útvary:
 - Dokumentárne
@@ -362,7 +362,7 @@ Písanie zámen v 2. osobe s veľkýn písmenom - znak úcty
     - Rezolúcia
     - Zmluva
     - Potvrdenka
-    - Maturtitný protokol
+    - Maturitný protokol
     - Triedny katalóg
 - Oznamovacie
     - Hlásenie
@@ -371,7 +371,7 @@ Písanie zámen v 2. osobe s veľkýn písmenom - znak úcty
     - Životopis
     - Vyhláška
     - Objednávka
-    - Źiadosť
+    - Žiadosť
     - Prihláška
 - Heslové
     - Zoznamy
@@ -391,7 +391,7 @@ Písanie zámen v 2. osobe s veľkýn písmenom - znak úcty
 3. Miesto a dátum
     - Vždy vpravo
     - V poradí deň, mesiac, rok
-    - Do dvoch alebo do jeného riadku
+    - Do dvoch alebo do jedného riadku
     - Bez bodky a čiarky
 4. Vec
     - Nepíše sa bodka na konci, podčiarkne sa
@@ -409,7 +409,7 @@ Písanie zámen v 2. osobe s veľkýn písmenom - znak úcty
     - Vyhlásenie o prijatí predmetu
     - Dátum a miesto vystavenia písomnosti
     - Podpis - potvrdenie dohodnutých podmienok
-    > Podpísaná Jana Malá, bytom Príkopová 6, 969 89 Lom nad Rimavicou, potvrdzujem, že som dňa 2. 3. 2023 prijala od svojho dlžníka Jozefa Malého, bytom Jelenia 6, 811 01 Bratislava, sumu 5 000 €, slovom pättisíc eur, na vyrovnanie pôžičky zo dňa 11. 2. 2023  
+    > Podpísaná Jana Malá, bytom Príkopová 6, 969 89 Lom nad Rimavicou, potvrdzujem, že som dňa 2. 3. 2023 prijala od svojho dlžníka Jozefa Malého, bytom Jelenia 6, 811 01 Bratislava, sumu 5 000 €, slovom päťtisíc eur, na vyrovnanie pôžičky zo dňa 11. 2. 2023  
     > &nbsp;  
     > Lom nad Rimavicou &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *Jana Malá*
 
@@ -421,7 +421,7 @@ Písanie zámen v 2. osobe s veľkýn písmenom - znak úcty
 - Presné určenie, na ktorý úkon je splnomocnenie vydané
 - Miesto a dátum
 - Vlastnoručný podpis splnomocniteľa
-> Podpísaný Michal Bezák, bytom Nová Baňa, Žilinská 2, splnomocňujem brata Viliama Bezáka (číslo OP, RČ), aby ma zastupoval vo všetkých úkonoch na schôdzi Domového spoločenstva na Žilinskej 2, Nová banňa, dňa 23.11.2022  
+> Podpísaný Michal Bezák, bytom Nová Baňa, Žilinská 2, splnomocňujem brata Viliama Bezáka (číslo OP, RČ), aby ma zastupoval vo všetkých úkonoch na schôdzi Domového spoločenstva na Žilinskej 2, Nová baňa, dňa 23.11.2022  
 > &nbsp;  
 > Nová Baňa 20.10.2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *Michal Bezák*
 
@@ -434,7 +434,7 @@ Písanie zámen v 2. osobe s veľkýn písmenom - znak úcty
 - Určený na poukázanie peňažnej sumy súkromným osobám alebo inštitúciám
 - Predtlačené údaje - čiastočne, úplne
 - Adresa adresáta, odosielateľa
-- Suma čislicou i slovom
+- Suma číslicou i slovom
 - Variabilný symbol
 - Poukaz - U, H, E *(???)*
 
@@ -453,7 +453,7 @@ Písanie zámen v 2. osobe s veľkýn písmenom - znak úcty
 - Niektoré údaje vypisuje pošta, niektoré odosielateľ
 - Používa sa pri odosielaní doporučeného listu a balíka
 - Poštou výpočtami vyplnený lístok sa stáva potvrdenkou, dokladom
-- Sú vytlačené ako predpísné tlačivo, formulár
+- Sú vytlačené ako predpísané tlačivo, formulár
 
 &nbsp;
 # Otázka 7
@@ -500,7 +500,7 @@ Pravopisné princípy:
     - Príslovky typu dobiela/do biela je možné písať obidvoma spôsobmi
     - Slovo zmena sa píše vo všetkých tvaroch s predponou z:   
     zmenový, zmennosť  
-    - Bodka sa nepíše za názvom písmnej práce, dátumom
+    - Bodka sa nepíše za názvom písomnej práce, dátumom
 - 1998
     - Zjednocuje písanie slovotvornej prípony *-ár*, *-áreň*, prípona sa skracuje:  
     mliekareň
@@ -510,7 +510,7 @@ Pravopisné princípy:
 - 2000
     - Zásadná zmena v písaní najvyšších orgánov a inštitúcií, názov preídií, predstavenstiev, dozorných rád a pod.
     - Ak sa uvádza plný názov inštitúcie alebo podniku, píšeme názvy najvyšších orgánov s veľkým začiatočným písmenom, napr.:  
-    Krajské riaditeľstvo Policajného zboru Slovenskej republiky v Trencíne  
+    Krajské riaditeľstvo Policajného zboru Slovenskej republiky v Trenčíne  
     Prezídium Fondu národného majetku Slovenskej republiky  
     Predstavenstvo Železiarní Podbrezová a.s.  
     Dozorná rada Všeobecnej úverovej banky
@@ -529,7 +529,7 @@ Pravopisné princípy:
             - Odstraňuje sa Y/Ý, ponecháva sa len I/Í
             - Mäkkosť Ď, Ť, Ň, Ľ sa vždy označuje
             - Veľké písmená pri všetkých podstatných menách a pri výrazoch, ktoré sa vzťahujú na osoby
-            - Predložky S a Z sa píšu podľ výslovnosti
+            - Predložky S a Z sa píšu podľa výslovnosti
             - Hlásku J píše ako G
             - Zavádza skupinu ŠČ
             - Hlásku V píše vždy ako W
@@ -564,7 +564,7 @@ Pravopisné princípy:
 &nbsp;
 # Otázka 8
 ## Veta
-Je to základná syntaktická jednotka s uceleným významom, gramaticka usporiadaná, intonačne uzavretá
+Je to základná syntaktická jednotka s uceleným významom, gramatická usporiadaná, intonačne uzavretá
 
 ## Klasifikácia viet podľa zloženia
 - Jednoduchá veta - jeden prisudzovací sklad
@@ -625,13 +625,13 @@ Je to základná syntaktická jednotka s uceleným významom, gramaticka usporia
         Triedna kniha, ľahká atletika, zoologická záhrada, hnedé uhlie, diplomová práca
     - Frazeologizmy
         - Ustálené slovné spojenia, ktoré majú prenesený alebo obrazný význam  
-        Mať rovakú krvnú skupinu, ukázať (niekomu) päty, mať horšiu kožu, byť do vetra
+        Mať rovnakú krvnú skupinu, ukázať (niekomu) päty, mať horšiu kožu, byť do vetra
 - Tvorenie obrazných pomenovaní
     - Pomocou metafory
         - Prenesenie významu na základe vonkajšej podobnosti s iným predmetom  
         Hviezda - celebrita, žeriav - stroj
     - Pomocou metonymie
-        - Prenesenie významu slova na základe vnútroných súvislostí medzi dvoma predmetmi, javmi  
+        - Prenesenie významu slova na základe vnútorných súvislostí medzi dvoma predmetmi, javmi  
         Číta Hviezdoslava, chodí v hodvábe, živí sa perom
 - Pretváranie slov - vyjadrenie toho istého lexikálneho významu slova iným spôsobom
     - Univerbizácia
@@ -641,7 +641,7 @@ Je to základná syntaktická jednotka s uceleným významom, gramaticka usporia
         - Zmena jednoslovného pomenovania na viacslovné  
         Navštíviť - vykonať návštevu, spotrebitelia - spotrebiteľská verejnosť
     - Skracovanie (abreviácia)
-        - Skratky, značny, značkové slová  
+        - Skratky, značky, značkové slová  
         MUDr., Ing., doc., CSc., NR SR, DÚ, SOŠ, Cu, H<sub>2</sub>O, EUR, kW, kg, SĽUK, SLOVNAFT
 - Preberanie slov z cudzích jazykov. V slovenčine hlavne z týchto dôvodov:
     - Chýba domáci výraz - snowboard, klonovať
@@ -679,11 +679,11 @@ Je prenos obrazu informácie medzi účastníkmi komunikácie (komunikantmi) v i
 &nbsp;
 - Bežná
     - Odohráva sa v súkromnej sfére
-    - Účastníci často využívajú nespisovné slová, slangové výrazy, rodinné slová, nedokončené vety, bohatú modalitu viet (opytovacie, rozkazovacie, nedokočené vety)
+    - Účastníci často využívajú nespisovné slová, slangové výrazy, rodinné slová, nedokončené vety, bohatú modalitu viet (opytovacie, rozkazovacie, nedokončené vety)
     - Vzdialenosť medzi účastníkmi býva malá, getá a mimika sú výrazné
 - Oficiálna
     - Realizuje sa vo verejnej sfére, napr. v štátnej správe, administratíve, armáde, v prostriedkoch masovej komunikácie
-    - Mala by prísne využívať spisovný jazyk, zdvorilostné formulky, spoločenský odstup, odborné názvy, kancelarizmy a pod
+    - Mala by prísne využívať spisovný jazyk, zdvorilostné formulky, spoločenský odstup, odborné názvy, kancelarizmy a pod.
     - Veľmi úsporne využíva mimiku a gestá
     - Vzdialenosť medzi účastníkmi je často aj niekoľko metrov  
 &nbsp;
@@ -722,7 +722,7 @@ Dotyky, pri konfliktoch ide o agresívne dotyky tela
 ## Proxemika
 Komunikácia prostredníctvom vzdialenosti hovoriacich (agresor porušuje teritoriálne hranice - priama fyzická agresia; slabší prejav - odstúpenie od partnera)  
 Zóny proxemiky:
-- Intímna - 0-35cm
+- Intímna - do 35cm
     - Partneri a rodinní príslušníci
     - Napr. dotyk matky a dieťaťa, objatie milencov, najbližší priatelia
 - Osobná - 35-120cm
@@ -730,7 +730,7 @@ Zóny proxemiky:
     - Pri spoločenských udalostiach, priatelia, známi
 - Sociálna - 120-360cm
     - Neosobné rokovania, pracovné jednanie, tzv. kobercová vzdialenosť pri pokarhaní
-- Verejná - >360cm
+- Verejná - nad 360cm
     - Vytvára sa okolo osôb, ktoré vzbudzujú rešpekt
     - Udržujeme ju medzi cudzími ľuďmi
     - Napr. herec na javisku, politik, prednášajúci  
@@ -739,7 +739,188 @@ Zóny proxemiky:
         - Veku - deti môžu beztrestne porušovať osobnú zónu dospelých
         - Osobnosti - introverti majú väčšiu osobnú zónu než extroverti
         - Kultúry, etnika, náboženstva - južné národy majú osobnú zónu menšiu než severné národy
-        - Zaľudnenosti kraja, v ktorom žije - ľudia na dedine maju väčšiu osobnú zónu ako ľudia v meste
+        - Zaľudnenosti kraja, v ktorom žije - ľudia na dedine majú väčšiu osobnú zónu ako ľudia v meste
+
+&nbsp;
+# Otázka 11
+## Výkladový slohový postup
+Zachytáva vnútorné vzťahy, funkčné, príčinné, následné medzi jednotlivými faktami, javy vysvetľuje s ohľadom na ich vývin, porovnanie s inými  
+Objektívny slohový postup  
+Využíva odbornú terminológiu  
+Dlhšie vety  
+Podraďovacie súvetia  
+Má len oznamovacie vety  
+
+Využitie: 
+    - Štýly
+        - Náučný
+        - Publicistický
+        - Rečnícky
+    - Útvary
+        - Výklad
+        - Recenzia
+        - Komentár
+        - Úvodník
+        - Prednáška
+        - Prejav
+        - Kázeň
+
+### Výklad
+Jeho cieľom je vysvetliť nejaký technický alebo spoločenský problém poučiť o nejakej veci, rozšíriť a sprístupniť známe vedecké poznatky  
+Je určený všeobecnému adresátovi  
+Najčastejší druh výkladu je školský, didaktický, učebnicový výklad, prednáška
+
+Kompozícia výkladu
+    - Úvod
+        - Uvádzajú sa javy, ktoré sú všeobecne známe a sú potrebné pre pochopenie nových javov
+    - Jadro
+        - Obsahuje poučenie o veci, roztriedenie a pomenovanie jej zložiek, vysvetľujeme nový, neznámy jav na základe postupov logického myslenia
+            - Indukcia - z jednotlivých konkrétnych príkladov vyvodzujeme všeobecný záver  
+            - Dedukcia - zo zovšeobecnenia sa odvodzujú jednotlivé prípady, od neznámeho k známemu  
+            - Argumentácia - druh vysvetľovania, analýzy, pri ktorom objasňujeme a dokazujeme tvrdenia s úmyslom presvedčiť adresáta  
+            - Komparácia - porovnanie  
+            - Enumerácia - vymenúvanie faktov 
+            - Aplikácia - spojenie teórie s praxou  
+            - Analýza - rozklad  
+            - Syntéza - zhrnutie
+    - Záver
+        - V krátkosti zhrnieme hlavné poznatky a zhodnotíme ich
+
+Aby bol výklad jasný, využívajú sa schémy, grafy, obrazy, štatistiky, výpočty, zátvorky, pomlčky, tabuľky
+
+### Úvaha
+Subjektívny variant výkladového slohového postupu a útvaru  
+Autor zaujíma postoj k závažnejším spoločenským alebo filozofickým problémom  
+Východiskom sú známe poznatky, ktoré si autor osvojil štúdiom ale aj životné skúsenosti a bezprostredné zážitky  
+
+Vyskytuje sa v:
+- Náučnom štýle 
+    - Literárna kritika  
+    - Recenzia 
+    - Esej
+- Publicistickom štýle 
+    - Úvodník 
+    - Komentár
+- Umeleckom štýle 
+    - Reflexívna lyrika
+    - Reč rozprávača a postáv
+
+Kompozícia a štylizácia je voľnejšia, využíva sa obraznosť, expresívnosť vyjadrovania, rečnícke otázky, prirovnania
+
+**Porovnanie výkladu a úvahy**
+| Výklad | Úvaha |
+|---|---|
+| Prevažuje analýza, vyvodzovanie, objektívnosť | Prevažuje hodnotenie (aj kritika) a presviedčanie, subjektívnosť |
+| Vedecká argumentácia a citácia alebo parafráza, presné údaje | Všeobecná argumentácia a voľná citácia, parafráza, zaokrúhlené údaje |
+| Tesnejšia nadväznosť viet, presné terminologické vyjadrovanie | Voľnejšia kompozícia a štylizácia, obraznosť, expresívnosť vyjadrovania (rečnícke otázky, prirovnania) | 
+
+&nbsp;
+# Otázka 12
+## Životopis
+Útvar opisného slohového postupu, využíva sa v administratíve, zvyčajne ako príloha k žiadosti o zamestnanie  
+Pri písaní životopisu dodržiavame administratívne normy na tvorbu úradných listov a normy spisovnej slovenčiny
+
+Životopis má obsahovať tieto **údaje**:
+1. Osobné údaje
+    - Meno
+    - Presná adresa
+    - Národnosť
+    - Štátna príslušnosť
+2. Údaje o vzdelaní a praxi
+    - Od najvyššieho dosiahnutého vzdelania po základnú školu
+    - Prax v zamestnaní
+3. Záľuby, kurzy, špeciálne danosti
+4. Perspektívny cieľ
+5. Dátum a miesto napísania, podpis
+
+**Typy životopisov**
+- Klasický
+    - Píše sa ako bežný úradný list so súvislým textom
+- Štrukturovaný
+    - Píše sa vo forme hesiel, bodov
+    - Je prehľadnejší, dnes viac používaný
+- Beletrizovaný
+    - Vyberajú sa len niektoré, podľa autora zaujímavé a dôležité údaje  
+    - Autor ich nielen vymenúva, ale aj komentuje a hodnotí (teda vyjadruje svoj osobný postoj)  
+    - Kombinuje sa v ňom rozprávací, opisný aj výkladový slohový postup  
+    na zdôraznenie osobného postoja využíva všetky typy viet podľa komunikačného zámeru a slová s citovým zafarbením
+
+Kompozícia **úradného listu**:
+1. Úvodná rámcová časť
+    - Meno
+    - Adresa autora
+    - Adresa príjemcu
+    - Miesto
+    - Dátum
+    - Vec
+2. Vlastný text, odseky
+3. Záverečná časť
+    - Zdvorilostné formulky
+    - Poďakovanie
+    - Podpis
+    - Prílohy
+
+**Motivačný list**  
+Sprievodný list  
+Forma poloúradného listu (chýba heslo, Vec, prílohy, miesto, dátum – v životopise)  
+Pomáha uchádzačovi o zamestnanie dostať sa na pracovný pohovor – konkurz  
+Motivuje budúceho zamestnávateľ natoľko, aby si uchádzača pozval na osobné stretnutie  
+Odpovedáme na konkrétnu ponuku/inzerát, reagovanie na dôležité body z inzerátu, uvádzame dôvody, prečo práve my by sme mali uvedené miesto získať, uvádzame schopnosti a skúsenosti, ktoré nás predurčujú na vykonávanie danej pozície  
+Býva doplnený životopisom, neuvádzame tu fakty o vzdelaní, praxi a o pomeroch v rodine
+
+&nbsp;
+# Otázka 13
+
+&nbsp;
+# Otázka 14
+
+&nbsp;
+# Otázka 15
+
+&nbsp;
+# Otázka 16
+
+&nbsp;
+# Otázka 17
+
+&nbsp;
+# Otázka 18
+
+&nbsp;
+# Otázka 19
+
+&nbsp;
+# Otázka 20
+
+&nbsp;
+# Otázka 21
+
+&nbsp;
+# Otázka 22
+
+&nbsp;
+# Otázka 23
+
+&nbsp;
+# Otázka 24
+
+&nbsp;
+# Otázka 25
+
+&nbsp;
+# Otázka 26
+
+&nbsp;
+# Otázka 27
+
+&nbsp;
+# Otázka 28
+
+&nbsp;
+# Otázka 29
+
+&nbsp;
+# Otázka 30
 
 
 
@@ -763,6 +944,5 @@ Zóny proxemiky:
 
 
 
-
-
-
+---
+[↑ Späť na začiatok ↑](#slovenský-jazyk---maturitné-otázky)
