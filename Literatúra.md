@@ -1204,9 +1204,9 @@ vybudovať si vinársky obchod)
         - Viac ako 90 románov a poviedok
         - Obraz francúzskej spoločnosti 19.storočia
 1. Štúdie mravov
-    - Román Gobseck - vykreslil v ňom typ úžerníka
     - Romány:
-        -Stratené ilúzie
+        - Gobseck - vykreslil v ňom typ úžerníka
+        - Stratené ilúzie
         - Lesk a bieda kurtizán  
         - Otec Goriot
 2. Filozofické štúdie
@@ -1217,31 +1217,50 @@ vybudovať si vinársky obchod)
     - Fyziológia manželstva
 
 ### Otec Goriot
-- Námet: chorobná otcovská láska (trpké rodičovské sklamanie), cynický nevďak dcér
-- Prostredie a doba: Paríž v dvadsiatych rokoch 19.storočia
-- Nadčasové dielo, ktoré poukazuje na narušené ľudské vzťahy, bezcitnosť, pokrytectvo, dvojtvárnosť - vplyv prostredia na morálku
-- Dôležitú úlohu hrajú opisy prostredia a vsuvky, ktoré uvádzajú postavy do deja
-- **Hlavné postavy** 
-    - Otec Goriot - majiteľ továrne na cestoviny, milujúci otec dcér, ktoré ho zničia
-    - Delphina - jeho dcéra, vydá sa za baróna de Nuncigen
-    - Anastasie - jeho dcéra, vydatá za grófa de Restaura
-        - obidve sa za svojho otca hanbia, je im ľahostajný, vyciciavajú od neho všetky peniaze
-    - Eugene de Rastignac - chudobný študent, ktorý prichádza študovať do Paríža právo, aby sa stal vtieravý a nahor sa derie prostredníctvom žien, dosiahne svoj cieľ
-    - Vautrin - bývalý trestanec, galejník, cítil nevraživosť voči sociálnemu útlaku
-    - Pani Vauqerová - majiteľka penziónu, malicherná, falošná, obmedzená
+Námet - chorobná otcovská láska (trpké rodičovské sklamanie), cynický nevďak dcér  
+Prostredie a doba - Paríž v 20. rokoch 19. storočia  
+Nadčasové dielo, ktoré poukazuje na narušené ľudské vzťahy, bezcitnosť, pokrytectvo, dvojtvárnosť - vplyv prostredia na morálku  
+Dôležitú úlohu hrajú opisy prostredia a vsuvky, ktoré uvádzajú postavy do deja  
 
-- Penzión pani Vauquerovej v diele Otec Goriot je symbolom sociálneho rozvrstvenia spoločnosti (od šľachty cez buržoáziu až k zločincovi)  
-- Čím vyššie otec Goriot postupuje v budove penziónu, tým je chudobnejší, tým nižšie sa sociálne zaradil 
-- Autor využíva formu on-rozprávania so vševediacim rozprávačom 
-- Znakom realistických diel je predovšetkým opis
+**Hlavné postavy** 
+- Otec Goriot - majiteľ továrne na cestoviny, milujúci otec dcér, ktoré ho zničia
+- Delphina - jeho dcéra, vydá sa za baróna de Nuncigen
+- Anastasie - jeho dcéra, vydatá za grófa de Restaura
+    - obidve sa za svojho otca hanbia, je im ľahostajný, vyciciavajú od neho všetky peniaze
+- Eugene de Rastignac - chudobný študent, ktorý prichádza študovať do Paríža právo, aby sa stal vtieravý a nahor sa derie prostredníctvom žien, dosiahne svoj cieľ
+- Vautrin - bývalý trestanec, galejník, cítil nevraživosť voči sociálnemu útlaku
+- Pani Vauqerová - majiteľka penziónu, malicherná, falošná, obmedzená
 
-- Otec Goriot: *"Človek musí umrieť, aby poznal, čo sú to deti."*
-- presvedčenie autora, že človek nie je ani dobrý, ani zlý, spoločnosť ho nekazí, ale podlieha v dobrom i zlom svojmu spoločenskému prostrediu
-- V penzióne pani Vaquerovej žilo viacero nájomníkov. Medzi nich patril aj otec Goriot, ktorého ostatní považovali za čudáka a posmievali sa mu. Bol to však veľmi dobrý človek, ktorý pre blaho svojich dcér obetoval všetko
-- Medzi ďalších nájomníkov patril Vautrin a Eugene de Rastignac. Vautrin utiekol z väzenia. Láka Eugena na zlé veci. Mladučký študent práv sa dostane za pomoci svojej sesternice pani de Beauséant do vyššej parížskej spoločnosti. Tu sa dozvie všetko o otcovi Goriotovi, ktorý svoju prvú dcéru Delphinu vydal za nemeckého bankára de Nucingen a druhá Anastasie si vzala za manžela grófa Restaud
-- Obidve dcéry ho takmer zapredali. Chodili za ním iba vtedy, keď potrebovali peniaze na splatenie dlhov. Aj to tak, aby ich nikto nevidel. Už od samého začiatku ho zaťovia nemali radi. Eugene zahorel láskou k Delphine, ktorá mu ju opätovala. Zároveň sa stáva i dobrým priateľom Goriota. Delphine sa im snaží zabezpečiť nový domov
-- Celá situácia sa však mení, keď Goriot začne vážne chorľavieť a jeho život je ohrozený. Pri smrteľnej posteli zomierajúceho Goriota bol iba jeho priateľ Eugene. Jeho dcéry sa s ním neprišli ani rozlúčiť. Neboli ani na pohrebe, lebo ich nechceli pustiť manželia. Zaťovia nezaplatili trovy. Všetko to zaplatil jeho dobrý, verný priateľ Eugene
-- Na náhrobok dal vyryť: "Tu odpočíva pán Goriot, otec grófky de Restaud a barónky de Nucingen, pochovaný na trovy dvoch študentov." 
+Penzión pani Vauquerovej v diele Otec Goriot je symbolom sociálneho rozvrstvenia spoločnosti (od šľachty cez buržoáziu až k zločincovi)  
+Čím vyššie otec Goriot postupuje v budove penziónu, tým je chudobnejší, tým nižšie sa sociálne zaradil  
+Autor využíva formu on-rozprávania so vševediacim rozprávačom  
+Znakom realistických diel je predovšetkým opis  
+
+Otec Goriot: *"Človek musí umrieť, aby poznal, čo sú to deti."*  
+Presvedčenie autora, že človek nie je ani dobrý, ani zlý, spoločnosť ho nekazí, ale podlieha v dobrom i zlom svojmu spoločenskému prostrediu  
+
+V penzióne pani Vaquerovej žilo viacero nájomníkov  
+Medzi nich patril aj otec Goriot, ktorého ostatní považovali za čudáka a posmievali sa mu  
+Bol to však veľmi dobrý človek, ktorý pre blaho svojich dcér obetoval všetko  
+Medzi ďalších nájomníkov patril Vautrin a Eugene de Rastignac  
+Vautrin utiekol z väzenia  
+Láka Eugena na zlé veci  
+Mladučký študent práv sa dostane za pomoci svojej sesternice pani de Beauséant do vyššej parížskej spoločnosti  
+Tu sa dozvie všetko o otcovi Goriotovi, ktorý svoju prvú dcéru Delphinu vydal za nemeckého bankára de Nucingen a druhá Anastasie si vzala za manžela grófa Restaud  
+Obidve dcéry ho takmer zapredali  
+Chodili za ním iba vtedy, keď potrebovali peniaze na splatenie dlhov  
+Aj to tak, aby ich nikto nevidel  
+Už od samého začiatku ho zaťovia nemali radi  
+Eugene zahorel láskou k Delphine, ktorá mu ju opätovala  
+Zároveň sa stáva i dobrým priateľom Goriota  
+Delphine sa im snaží zabezpečiť nový domov  
+Celá situácia sa však mení, keď Goriot začne vážne chorľavieť a jeho život je ohrozený  
+Pri smrteľnej posteli zomierajúceho Goriota bol iba jeho priateľ Eugene  
+Jeho dcéry sa s ním neprišli ani rozlúčiť  
+Neboli ani na pohrebe, lebo ich nechceli pustiť manželia  
+Zaťovia nezaplatili trovy  
+Všetko to zaplatil jeho dobrý, verný priateľ Eugene  
+Na náhrobok dal vyryť: *"Tu odpočíva pán Goriot, otec grófky de Restaud a barónky de Nucingen, pochovaný na trovy dvoch študentov."*
 
 ## Ladislav Ballek
 Predstaviteľ modernej slovenskej prózy  
@@ -1259,16 +1278,16 @@ Najsilnejšou potrebou ľudí sa stáva potreba nahradiť to, čo im zobrala voj
 "Byť" v povojnovom Palánku znamená "mať"
 
 Kompozícia - skladá sa z 12 kapitol  
-Jazyk: dolniacke a horniacke nárečie, maďarizmy  
+Jazyk - dolniacke a horniacke nárečie, maďarizmy  
 **Hlavná myšlienka** - devastácia spoločenských a medziľudských vzťahov a hodnôt, honba za majetkom  
 Sú tu podrobné opisy krajiny a jednotlivých postáv  
-Zrážka vedie ku katastrofe (rozpad manželstva, krach Riečanových aktivít, ale aj podnikateľskej aktivity Volenta)
+Zrážka vedie ku katastrofe (rozpad manželstva, krach Riečanových aktivít, ale aj podnikateľskej aktivity Volenta)  
 
 Konfrontácia 2 odlišných postojov k životu:
-- Riečan (asketizmus) ↔ Lančarič (podnikateľský duch) 
-- Minulosť (Riečan - Horniaky) ↔ prítomnosť (Volent - dravosť)
+- Riečan - Lančarič (asketizmus - podnikateľský duch) 
+- Minulosť (Riečan - Horniaky) - prítomnosť (Volent - dravosť)
 
-**Hlavné postavy**: 
+**Hlavné postavy**:  
 **Štefan Riečan** - bývalý partizán, mäsiar, chorý na srdce, hĺbavý, čestný, moralista, tichý človek, nevie sa presadiť v novom prostredí, nespoločenský, čudák: *"...túžil po znášanlivosti. Odjakživa bol trochu čudák, na mäsiara vari až priveľmi citlivý človek, ktorého sa dotkla každá maličkosť,..."*  
 Pre svoju dcéru chcel len to najlepšie: *"...musí on svoj svet spravovať tak, aby mu obchod prosperoval, viesť ho nie až priveľmi okato, radšej tak stredne, aby jeho dom stál za pozornosť aj tej najlepšej spoločnosti. A do tej by svoju dcéru Evičku rád dostal. Toto bol jeho sen. Iný vlastne ani nemal. O seba nedbal, na ženu v týchto súvislostiach nemyslel."*  
 O sebe si myslí, že *"je nič, iba taký maličký mravec so slabým srdcom, malý lístoček, ktorý mocne a energicky ženú po bludných ľudských cestách cudzie sily."*  
@@ -1519,19 +1538,20 @@ Revolúcie proklamovali rovnosť všetkých ľudí, právo každého jednotlivca
 
 
 ## Francúzska romantická literatúra
-- Victor Hugo
-    - Robotníci mora
-        - Vznikol počas pobytu na ostrovoch v Lamanškom prielive
-    - Bedári
-        - Rozsiahla románová skladba, zobrazuje životné osudy trestanca Jeana Valjeana
-        - V základnej myšlienke ide o zápas s nespravodlivosťou spoločenských zákonov
-    - Deväťdesiattri
-        - Historický román odráža kruté politické pomery na francúzskom vidieku v dobe revolúcie
-    - Legenda vekov
-        - Básnická skladba
-        - Zobrazil v nej vývoj ľudstva na jeho ceste a pokrokom a humanizmom
-    - Chrám Matky Božej v Paríži
-        - Najvýznamnejší román
+## Victor Hugo
+Tvorba:  
+- Robotníci mora
+    - Vznikol počas pobytu na ostrovoch v Lamanškom prielive
+- Bedári
+    - Rozsiahla románová skladba, zobrazuje životné osudy trestanca Jeana Valjeana
+    - V základnej myšlienke ide o zápas s nespravodlivosťou spoločenských zákonov
+- Deväťdesiattri
+    - Historický román odráža kruté politické pomery na francúzskom vidieku v dobe revolúcie
+- Legenda vekov
+    - Básnická skladba
+    - Zobrazil v nej vývoj ľudstva na jeho ceste a pokrokom a humanizmom
+- Chrám Matky Božej v Paríži
+    - Najvýznamnejší román
 
 ### Chrám Matky Božej v Paríži
 Dej románu sa odohráva v 15. storočí, autor kritizuje spôsob života šľachty a cirkvi  
@@ -5746,11 +5766,472 @@ Aj na našom území sa rozvíjala náboženská aj svetská literatúra - feud�
 [**Rómeo a Júlia**](#rómeo-a-júlia)
 
 ## Námestie svätej Alžbety
+**Autor** - Rudolf Jašík  
+**Téma** - Tragická láska dvoch mladých ľudí - Igora a Evy; represálie voči židovskému obyvateľstvu  
+**Hlavná myšlienka** - Autor zachytáva arizáciu židovského obyvateľstva a jeho prideľovanie nežidovskému obyvateľstvu, vraždy zo zištných dôvodov, povzbudzovanie udavačstva za úplatu  
+
+Protivojnový, psychologický a spoločenský román  
+Obdobie 2. svetovej vojny  
+Obdobie trvania Slovenskej republiky, v krátkom časovom úseku od leta do jesene r. 1941  
+Dej sa odohráva v "meste pod viničným vrchom" (perifráza – nepriame pomenovanie) v Nitre  
+Autor si všíma medziľudské vzťahy ovplyvnené vojnou a fašizmom  
+Je to prvý román v slovenskej literatúru s témou tzv. židovskej otázky a jej tragického riešenia vo vojnovej Slovenskej republike
+
+**Téma** - tragická láska dvoch mladých ľudí  
+Jej nenaplnenie sa stáva obžalobou vojny a fašizmu, represálie voči židovskému obyvateľstvu  
+Podobne zobrazil tragickú lásku Romain Rolland v diele Peter a Lucia a Jan Otčenášek v diele Romeo, Julie a tma  
+Násilné opatrenia (represálie) voči židovskému obyvateľstvu  
+**Kompozícia** - 15 kapitol, každá so samostatným symbolickým názvom  
+
+Román je uvedený mottom:  
+*,,Láska je nesmrteľná. Neumiera. Len ide do hrobu.“*
+
+Dejová línia je prerušovaná reflexiami (úvahami) a lyrickými opismi  
+Záver vyznieva symbolicky - pomenúva dobu fašizmu, ktorú autor zobrazil: *,,Domy sú temné... ľudia spia, lebo je noc... Noc...“*
+
+**Postavy**  
+Igor Hamar, jeho matka  
+Eva Weimannová, jej otec Samko, mama, brat Róbert  
+Maxim Schlesinger  
+Maguš  
+Flórik  
+Haso  
+Žltý Dodo  
+Erna
+
+Autor zobrazuje všetky sociálne vrstvy v meste  
+Postavy sa delia na tie, ktoré sa pridali k fašistom a na obete fašistov  
+
+**Forma** 
+Pre román je typická lyrizácia a metaforika textu, lyrické časti sa prelínajú s dejom  
+Výrazné postavenie v románe má rozprávač (er-forma), ktorý vstupuje do pásma postáv, prihovára sa im, uvažuje za postavy, komentuje ich správanie, dovysvetľuje nepochopené (podobne ako J. C. Hronský)  
+Dramatické situácie autor metaforizuje, vetu skracuje, rytmizuje  
+Často využíva kontrast, napr. Igor – Dodo, Eva – Erna, čierne – svetlé  
+Celým dielom sa nesie biblická symbolika, napr. v názvoch kapitol (Božie oko, Posledná večera)  
+V románe je prítomná symbolika lásky – medzi Igorom a Evou, ale aj chýbajúcej lásky medzi ľuďmi a národmi v čase vojny  
+Lásku autor zbožšťuje, venuje jej veľa priestoru v úvahách a v autorskej reči  
+Mottom o láske je uvedené aj celé dielo
+
+**Dej**
+Igor ľúbi Evu, židovské dievča, priateľku z detstva  
+Stretávajú sa pod vežou alebo vo veži Kostola svätej Alžbety, ktorý sa nachádza na Námestí svätej Alžbety  
+Do mesta prichádzajú nemecké vojská  
+Všetci Židia aj Eva na základe Norimberských zákonov musia nosiť žltú hviezdu  
+Igor sa obáva o Evin osud  
+Maguš mu poradí, aby dal Evu pokrstiť  
+Miestny farár žiada za krstný list 10 000 Sk  
+Igor nemôže zohnať peniaze, nedá mu ich ani Evin otec, ani pani Erna  
+Nakoniec mu pomôže Maxi, ktorý predá kone Evinmu otcovi Samovi  
+Kňaz však zo strachu odmietne Eve vydať krstný list  
+Eva prichádza bývať k Igorovi a pomôže mu doopatrovať na rakovinu chorú matku  
+Maguš poradí Igorovi, aby s Evou odišli na Horniaky za jeho bratom  
+Jedného dňa sa Igor vráti z práce a od susediek sa dozvie, že Evu s ostatnými Židmi odviedlo komando na čele s Flórikom  
+Zavreli ich na noc do školy  
+Na ďalší deň ich zhromaždia na lúke a odvádzajú ich na stanicu  
+Nemecký major bezdôvodne zastrelí malého židovského chlapca  
+Zavolá ho k sebe, ponúkne mu čokoládu a zabije ho  
+Eva spolu s ďalšími dvoma Židmi chcú chlapca odniesť, no nemeckí vojaci ich zastrelia  
+Eva zomiera s Igorovým menom na perách  
+Igor z pomsty zabije železnou tyčou Flórika a sám sa chce utopiť v rieke, no Maguš, ktorý práve roznáša komunistické letáky ho presvedčí, že tým sa nič nezmení a odvádza ho preč
+
+### Charakteristiky postáv
+**Igor Hamar**  
+18-ročný chlapec z chudobnejšej rodiny  
+Žije s ťažko chorou matkou na rakovinu na predmestí Nitry  
+Otec mu umrel na týfus  
+Nemali peniaze a tak nemohol ukončiť školu, musel zabezpečiť domácnosť  
+Zarába si príležitostnými prácami vo vinici, upratovaním holičstva u Flórika, ako nosič na stanici, pomáha Samovi a Maximu rozvážať uhlie po meste  
+Svetlým bodom jeho života je Eva, s ktorou sa každý deň stretáva a ich priateľstvo prerastie do lásky  
+Igor nemá skúsenosti so ženami, spolužiak Žltý Dodo ho zoznámi s prostredím periférie, no ženy prostitútky sa mu hnusia  
+Svoju prvú milostnú noc prežije Igor s paničkou Ernou, ktorej niesol batožinu a ktorá ho zvedie  
+Igor má výčitky svedomia  
+Igor sa snaží ochraňovať Evu a súciti aj s ostatnými prenasledovanými židmi  
+Nerozdeľuje ľudí podľa viery, neuvažuje o politike, nič o nej nevie, podvedome však cíti, že sa deje veľká nespravodlivosť  
+Keď umiera Eva, uchýli sa k vražde, počká Flórika pred Helderovou vilou a niekoľkokrát ho udrie tyčou po hlave  
+Igor predstavuje individuálnu vzburu, je to proletár, ktorý sa politicky uvedomuje cez osobnú tragédiu v rodine a hlavne v láske  
+Je obeťou vojny  
+
+**Eva Weimannová**   
+Dcéra drobného židovského živnostníka  
+Je zvyknutá pracovať, je poslušná, pokorná, nežná, oddane ľúbi Igora a verí mu  
+Ticho znáša osud, ktorý ju postihol  
+Nie je pesimistická, len má strach  
+Necíti sa hrdinkou ani bojovníčkou, chce len žiť  
+Je medzi prvými odvlečenými Židmi z mesta  
+V škole myslí na Igora a utešuje aj ostatných Židov  
+Cestou na stanicu zbadá Igora a vzájomne sa počujú vyslovovať svoje mená  
+Je obeťou vojny
+
+**Samo Weimann**  
+50-ročný pracovitý Žid  
+So spoločníkom Maxim rozvážajú uhlie po meste  
+Samo sa chce osamostatniť a odkúpiť povoz od Maxiho  
+Neberie vážne reči Maxiho o Hitlerových zámeroch  
+Poslušne si pripína žltú hviezdu na kabát  
+Proti Igorovi nemá nič, no bol by radšej, keby si Eva našla bohatého židovského chlapca  
+Nie je ochotný požičať Igorovi peniaze na Evin krstný list  
+Po smrti Evy navštívi Maxiho a rozlúči sa s nim  
+Odprosí aj Igora za to, že mu nedal peniaze pre Evu, cíti vinu  
+Nakoniec otrávi ženu, syna aj seba, lebo nechce, aby skončili ako Eva (kapitola Posledná večera)
+
+**Maxi**  
+Samov spoločník vo firme na rozvoz uhlia  
+Múdry a bystrý Žid  
+Pochopil situáciu, reálne vidí, že pre Židov niet budúcnosti  
+Je smelý  
+Žltú hviezdu si pripne na chrbát  
+Pomôže Igorovi, predá povoz Samovi a dá mu peniaze  
+Po smrti Evy je nešťastný, že ešte žije a musí sa pozerať na tú tragédiu
+
+**Maguš**  
+Obuvník, komunista  
+Pracuje pre stranu v ilegalite  
+Zidealizovaná postava  
+Na námestí obľúbený, lebo vie poradiť a všetko vyriešiť
+
+**Žltý Dodo**  
+Igorov priateľ z detstva, zlodej z periférie, pasák, ktorý žije medzi prostitútkami  
+Začne spolupracovať s fašistami, udáva Židov, ktorí nenosia hviezdu, za jedného žida dostane 100 Sk  
+Nakoniec udáva aj tých, ktorých potrebujú kolaboranti usvedčiť  
+Hnusí sa sám sebe, má výčitky svedomia a peniaze prepíja v krčme
+
+**Flórik**  
+Holičský majster žijúci na predmestí  
+Sníva o peknom holičstve na hlavnej ulici  
+Na pohľad úslužný aj zručný  
+Bol presvedčený o tom, že je najlepším holičom v meste  
+Jeho živnosť prosperoval aj vďaka Židom, ktorí žili na predmestí  
+Po príchode Nemcov do mesta vyvesil na holičstvo oznam - "Židov neholím a ani nestrihám"  
+Najprv sa zo Slovenskej republiky vysmieval, no keď zistil, že sa môže na majetku Židov obohatiť, vstúpil do HSĽS aj do gardy  
+Dal si ušiť gardistickú uniformu a čižmy, stal sa politickým referentom a vzdal sa živnosti  
+Poklonkuje sa a čaká na príležitosť  
+Po ulici mesta chodí pyšný, no nikto sa mu nezdraví a nikto sa ho nebojí  
+Vodí Nemcov pri zatýkaní Židov, udá aj Evu  
+Po streľbe na stanici sľúbi kožušníkovi Židovi Helderovi, že mu pomôže ujsť do Londýna  
+Odvedie ho za mesto a tam ho s jeho ženou a 7-ročným synom zabije  
+Získa po ňom jeho vilu aj majetok  
+Nakoniec ho Igor zabije pre to, že udal Evu  
+Je to karierista, kolaborant, arizátor
+
+**Erna**  
+23-ročná vdova po židovskom bohatom advokátovi  
+Musí sa vydať za príživníka a ponemčenca Kvika, aby sa zabudlo na to, že bola manželkou Žida, ak nechce prísť o vilu a bohatstvo  
+Túžila po láske, a keďže ju nemala, nechce ju dopriať ani iným, preto nepožičia Igorovi peniaze, keď ju príde prosiť o pomoc pre Evu
+
+## Marína
+Básnická skladba  
+291 10-veršových básnických strof  
+Podnet na napísanie bola autorova láska k Márii Pišlovej  
+
+Najrozpracovanejšie témy:
+- Krása
+- Láska k Maríne
+- Láska k Slovensku
+- Mladosť
+
+### Krása
+Autor povýšil kategóriu krásy na cieľ tvorivej činnosti básnika  
+Opojený krásou nachádza jej stelesnenie v dievčine
+
+*"Ja sladké túžby, túžby po kráse*  
+*spievam peknotou nadšený,*  
+*a v tomto duše mojej ohlase*  
+*svet môj je celý zavrený;*  
+*z výsosti Tatier ona mi svieti,*  
+*ona mi z ohňov nebeských letí,*  
+*ona mi svety pohýna;*  
+*ona mi kýva zo sto životov:*  
+*No centrom, živlom, nebom, jednotou*  
+*krás mojich moja Marína!"*  
+
+
+Kráse sa korí i vyššia bytosť než je človek:  
+*"Krása je modla, ktorú rád vzýva*  
+*sám ten, čo tvorí čudesá."*  
+
+Človek sa ochudobňuje, ak vo svete, ktorý ho obklopuje, nevidí krásu:  
+*"Beda, kto v mori vidí len vodu,*  
+*kto nepočuje nemú prírodu,*  
+*kto v skalách vidí len skaly."*  
+
+Nemá oči len pre krásu duchovnú, veľmi intenzívne vníma krásu dievčaťa:  
+*"A keď zas svetlo rannej zory*  
+*osvieti tvár tú nebeskú,*  
+*ja tam budem, kde ľúbosť horí*  
+*v hviezdnych očí jasnom blesku.*  
+*A potom zlietnem útlym letom*  
+*k ľaliových ňadier svetom,*  
+*spočiniem na ich dolinách*  
+*a hľadieť chcem na tie kryštály,*  
+*čo v bleskoch zlatých pozostali*  
+*na hviezdnych očú výšinách."*  
+
+### Láska
+Téma lásky rozvíja poetický odkaz Jána Kollára, ktorý polovičku srdca dal Míne a polovičku vlasti  
+Symbióza osobného a slovanského našla u Sládkoviča paralelu v osobnom a slovenskom:  
+*"Chcel bych vás objať, kraje rodiny!*  
+*Náručie úzke, šíry cit:*  
+*Jak mi je sladko v ňadrách Maríny*  
+*objatie vaše pocítiť!*  
+*Jak mi je blaho nič, nič nežiadať,*  
+*z objemu v objem naveky padať,*  
+*troch nebies slasti prijímať!*  
+*Vlasť drahú ľúbiť v peknej Maríne,*  
+*Marínu drahú v peknej otčine,*  
+*a obe v jednom objímať!"*  
+
+Vyznanie lásky, ktorá jediná dokáže narušiť básnikov pokoj:  
+*"Marína moja! sveta búrov*  
+*duch môj tichý sa nebojí,*  
+*vulkánskych sa neľakne kúrov,*  
+*nezľakne krvavej zbroji,*  
+*svedomie čisté svetov plameň -*  
+*čaká pokojne v ten hromov deň,*  
+*pokoj môj v hrobe nezhynie:*  
+*No môžu strhnúť svet môj celý*  
+*jedného slova hrozné strely,*  
+*slova toho z úst tvojich: "Nie!""*  
+
+Výlučnosť lásky a sila citu urobila z nasledujúcej slohy jedno z najoriginálnejších vyznaní lásky v slovenskej literatúre:  
+*"Možno mi tvojich úst sa odrieknuť,*  
+*možno mi ruku nedostať,*  
+*možno mi v diaľky žiaľne utieknuť,*  
+*možno mi nemilým ostať,*  
+*možno mi ústam smädom umierať,*  
+*možno mi žialiť v samote,*  
+*možno mi život v púšťach zavierať,*  
+*možno mi nežiť v živote,*  
+*možno mi seba samého zhubiť: -*  
+*nemožno mi ťa neľúbiť!"*  
+
+Láska dvoch mladých ľudí nenašla naplnenie, lyrický hrdina cíti, že jej hrozí nebezpečenstvo:  
+*"Svety závistné medzi nás stali,*  
+*roztrhli blahé objemy:*  
+*Čože mohutné časy získali,*  
+*rozlúčiac nebo od zemi?*  
+*Láska na zemi nebo stvorila*  
+*a nás naveky zväzkom spojila,*  
+*ktorý sa nedá rozlúčiť:*  
+*Vytrhnúť srdce môž’ osud divý,*  
+*blesk očí zhasí hrob závistlivý:*  
+*ľúbosť nemožno umučiť!"*  
+
+Moderne vyznieva i obžaloba spoločnosti, v ktorej dievčina nemôže byť paňou svojho srdca, nesmie porušiť konvencie a stať sa ženou muža, ktorého miluje:  
+*"Duch devy plače, horko narieka*  
+*nad ľúbosti svätej skazou,*  
+*že kvet jej s poľným kvietím uteká,*  
+*krahne ostrím divých mrazov;*  
+*ľúbosť devina je cit bez hlasu,*  
+*vyšvihnúť nesmie sa nad zvyk času,*  
+*vyznať musí, čo neverí;*  
+*poslušnú dušu úbohej dcéry*  
+*s chlapom cudzím, ba odporným zverí*  
+*studený prsteň materi. -"*  
+
+Ušľachtilo vyznievajú záverečné verše, v ktorých básnik ďakuje za jej cit:  
+*"Tys´ mňa anjel môj, cítiť učila*  
+*a v bránach žitia objala,*  
+*myšlienky z citov si mi rozvila,*  
+*z chlapectva mužnosť vyzvala:*  
+*Žili sme spolu pre vyššie žitie,*  
+*spolu cez zemských dní vlnobitie*  
+*v prístav tento sme pribili;*  
+*by sme tu ambru jednu dýchali,*  
+*jeden med z jednej čaše píjali*  
+*a dvaja jedno ľúbili."*  
+
+Ich láska bola z tohto sveta, preto nebola večná, ale nič krásne, čo prežili, neupadne do zabudnutia:  
+*"Marína moja! teda tak sme my*  
+*ako tie božie plamene,*  
+*ako tie kvety na chladnej zemi,*  
+*ako tie drahé kamene;*  
+*padajú hviezdy, aj my padneme,*  
+*vädnú tie kvety, aj my zvädneme,*  
+*a klenoty hruda kryje:*  
+*Ale tie hviezdy predsa svietili,*  
+*a pekný život tie kvety žili,*  
+*a diamant v hrudi nezhnije!"*  
+
+### Slovensko
+Symbióza lásky k Míne a lásky k slovanstvu u Kollára sa prevtelila u Sládkoviča do symbiózy lásky k Maríne a lásky k Slovensku:  
+*"Slovensko mladé, rodisko moje*  
+*aj mohyla mojich kostí!*  
+*V tebe mám pekných obrazov dvoje*  
+*a dvoje veľkých ľúbostí! —*  
+*Ako je krásna tá moja deva,*  
+*aká k nej ľúbosť vo mne horieva:*  
+*tak ty a k tebe, otčina!*  
+*Ako tys’ pekná, krajina moja,*  
+*ako mladistvosť milá mi tvoja:*  
+*tak pekná, milá Marína!"*  
+
+V závere láska k pozemskému životu a rodnému kraju je silnejšia ako nadpozemská blaženosť po boku víly – kňažky Maríny:  
+*"Vo svet neznámy s neznámou Vílou,*  
+*bárs sladkohlasou, bárs lícomilou,*  
+*v hrtan pustiť sa chladných vôd? -*  
+*Je Hron môj obraz môjho národa,*  
+*ale obraz ten predsa len voda,*  
+*a duch je slovenský národ!*  
+*Víla, ty zostaň tam v svojom nebi -*  
+*mňa ešte viažu potreby -*  
+*a vlasť moja je na zemi!"*  
+
+Vrúcne vyjadrí svoju príslušnosť k ľudu a vysloví nádej, že sa dočká šťastnejšej slovenskej budúcnosti:  
+*"Zbohom! ty ľud môj, ľud môj ľúbený,*  
+*vyšších letov mojich predmet!*  
+*Zbohom, pamätaj, že máš sľúbený*  
+*duchom svetov bezmierny svet:*  
+*Ja duchom tebou večne prejatým*  
+*s tebou chcem túžiť k ideám svätým*  
+*a s tebou tam i tu bývať;*  
+*syn tvoj chce žialiť tvoje žialenie*  
+*a na síl tvojich víťazné vrenie*  
+*s vrelým sa nadšením dívať!"*  
+
+### Mladosť
+V časoch básnikovej tvorby mala mládež jedinečnú historickú príležitosť dosiahnuť to, o čo generácie pred ňou usilovali  
+Sládkovič chápe mladosť predovšetkým ako príležitosť:  
+*"Ach, sladké sú to mladých hodiny,*  
+*v ktorých hneď v nebies lietaš výšiny,*  
+*hneď v živlov zemských priestory,*  
+*a cítiš naraz i nebies slasti,*  
+*i pekných svetov vábne priepasti*  
+*a v tej voľnosti umieraš:*  
+*Nádejí tisíc k duši ti letí,*  
+*a hviezda slávy nová ti svieti,*  
+*keď na tej západ pozeráš."*  
+
+Výnimočná i z formálnej stránky je strofa č. 185, ktorá je ucelenou básnickou úvahou (reflexiou) o mladosti:  
+*"A čo je mladosť? — Dvadsaťpäť rokov?*  
+*Ružových tvárí hlaď jará?*  
+*Či údov sila? Či strmosť krokov?*  
+*Toto sa všetko zostará!*  
+*Mladosť je túžba živá po kráse,*  
+*je hlas nebeský v zemskom ohlase,*  
+*je nepokoj duší svätý,*  
+*je tá mohutnosť, čo slávu hľadá,*  
+*je kvetín lásky rajská záhrada,*  
+*je anjel v prachu zaviaty!"*  
+
+Sila mladosti spočíva v tom, že sa nezmieri so stavom sveta:  
+*"Mladosť, otčina horiacej túhy!*  
+*Mladosť, vrelých citov skala!*  
+*Mladosť, ty obraz nádejnej dúhy!*  
+*Mladosť, ty lásky Valhala!*  
+*Mladosť, ty preroď života brehy*  
+*a zápalom stop mŕtvosti snehy,*  
+*čo chladných srdcí moc kryjú!*  
+*Ty duchom svojím vzkries aj tie telá,*  
+*na ktorých schladlé starobou čelá*  
+*smutné Hóry vrásky ryjú!"*  
+
+A.Sládkovič patrí medzi najkultivovanejších autorov v slovenskej literatúre  
+Jeho poézia je mimoriadne bohatá na básnické trópy a figúry a patrí tak medzi skvosty v slovenskej poézii  
+
+Ukážky **básnických trópov** v diele Marína:  
+**Personifikácia** - Duch devy plače, (duch) horko narieka  
+**Metafora** - Kvet jej s poľným kvietím uteká, krahne ostrím divých mrazov. (Ničia jej lásku a šťastie.)  
+**Epiteton** - poslušná duša, svätá ľúbosť
+**Klimax** (stupňovanie významu za sebou idúcich slov) - Môj svet, môj poklad jediný!  
+**Litotes** (dvojitý zápor) - Nemožno mi ťa neľúbiť  
+**Zvolanie** - Toto všetko sa zostará!  
+**Anafora**:  
+*"<u>Možno mi</u> tvojich úst sa odrieknuť,*  
+*<u>možno mi</u> ruku nedostať,*  
+*<u>možno mi</u> v diaľky žiaľne utieknuť,*  
+*<u>možno mi</u> nemilým ostať,*  
+*<u>možno mi</u> ústam smädom umierať,*  
+*<u>možno mi</u> žialiť v samote,*  
+*<u>možno mi</u> život v púšťach zavierať,*  
+*<u>možno mi</u> nežiť v živote,*  
+*<u>možno mi</u> seba samého zhubiť –*  
+*nemožno mi ťa neľúbiť!"*  
+
+Záver skladby nevyznieva tragicky, nie je v nej už ani bolesť, ani trpkosť, iba spomienka na krásnu lásku  
+V skladbe je vyjadrená jednota subjektívneho a objektívneho (osobného a národného) - láska k žene a k vlasti
 
 &nbsp;
 # Otázka 30
+## Svetový realizmus
+Rozvoj priemyslu a prírodných literárnych vied výrazne ovplyvnilo vývoj literatúry, ľudstvo začína veriť rozumu a zmyslovému vnímaniu  
+Toto nové spoločenské hnutie vzniká a prekvitá v období vrcholenia priemyselnej revolúcie v 19. storočí  
+Upevňujú sa kapitalistické vzťahy založené "na všetko prevracajúcej moci peňazí"  
+S novým hnutím sa zároveň vyvíja nová filozofia Augusta Comteho – pozitivizmus  
+Pozitivizmus za skutočnosť považoval len to, čo sa dá zmyslami alebo skúsenosťami overiť  
+Aj do literatúry preniklo úsilie o umelecké poznanie skutočnosti a každodenného reálneho života  
+Dôraz sa kládol na pravdivosť  
+ 
+V literatúre teda ide o objektívne podanie skutočnosti  
+Nastáva charakteristická typizácia postáv a charakterov za typických okolností  
+Hrdinom je väčšinou obyčajný človek spätý s prírodou  
+Konfliktom je skutočnosť kontra skutočnosť  
 
+Metóda umeleckého poznania založená na analýze charakteru v jeho historicko-spoločenských súvislostiach, na základe vykreslenia typických charakterov v typických okolnostiach sa označuje ako realistická  
+Súbor diel vytvorených metódou tohto typu zobrazovania vymedzuje obdobie realizmu  
+V anglickej literatúre sa začína dielom Charlesa Dickensa v 30. tych rokoch 19. storočí  
+V ruskej literatúre vyvrchoľuje a završuje sa dielom Leva Nikolajeviča Tolstého a Antona Pavloviča Čechova  
 
+Realizmus vznikol aj ako reakcia na predchádzajúce umelecké smery a najmä na romantizmus
+
+## Romantizmus
+Literárny smer podmienený zmenami s spoločnosti a politickom živote po buržoáznych revolúciách v Európe  
+1789 – Veľká francúzska buržoázna revolúcia  
+Niesla sa v znamení hesla: Sloboda – rovnosť – bratstvo  
+1848 – buržoázna revolúcia v Anglicku  
+Dochádza k zániku feudalizmu a vzniká kapitalizmus  
+K moci sa dostáva nová spoločenská vrstva – buržoázia  
+Revolúcie proklamovali rovnosť všetkých ľudí, právo každého jednotlivca na slobodný, úspešný život – na rozdiel od klasicizmu, ktorý podriadil osobné šťastie človeka povinnosti rešpektovať nadosobné "vyššie" záujmy
+
+Myšlienkové hnutie a jeden z hlavných umeleckých smerov 19. storočia  
+Rušil hodnoty, ktoré prinieslo osvietenstvo a klasicizmus 18. stor.  
+Proti klasicistickým pravidlám uplatňoval tvorivú slobodu umelca, proti racionalizmu staval cit, vášne, fantáziu a vôľu, proti idealizácii pravdivosť, proti abstraktnému poňatiu človeka zdôrazňoval konkrétneho jedinca, proti všeobecnému poňatiu ľudstva ideu národa  
+
+**Znaky romantizmu**
+- Autoštylizácia 
+    – Stotožňovanie autora so svojou postavou  
+- Individualizmus 
+    – Vzbura proti svetovému poriadku a spoločnosti prináša postavy osamotených ľudí, vyvrheľov spoločnosti – tulákov, zbojníkov, žobrákov, ľudí stojacich na pokraji ľudskej spoločnosti
+- Sentimentalizmus 
+    – Prehnaná citlivosť, vyjadrenie silného a úprimného citu, ktorý stavia proti rozumu (iracionalizmus)
+- Titanizmus 
+    – Hrdina je ochotný obetovať svoj život za slobodu či šťastie iného človeka alebo národa
+-  Romantický hrdina 
+    – Búrlivák, nespokojný človek, prejavuje sa u neho rozpor medzi snom a skutočnosťou
+- Využívanie kontrastov 
+    – Protikladov, napr. krása – škaredosť, dobro – zlo  
+    - Využíva sa aj tzv. vnútorná harmónia kontrastov
+- Historizmus 
+    – Návrat do minulosti, slávne činy národa
+- Ľudová slovesnosť 
+    – Autori vychádzajú z ľudovej slovesnosti, predovšetkým stredoeurópski spisovatelia pod vplyvom filozofie nemeckého filozofa Herdera, považujú ju za prameň svojej tvorby
+- Autori využívajú hovorový jazyk, prirodzenejšie vyjadrovanie, v romantizme sa píše poézia, próza, dráma, veľmi frekventovaná je balada pre svoju tragickosť, vypätosť deja, novým žánrom je básnická poviedka  
+Nový žáner – román v listoch - denník
+
+**Porovnanie romantizmu s realizmom**
+| Romantizmus | Realizmus |
+|---|---|
+| Zobrazuje abstraktný svet, využíva predstavivosť, fantáziu, idealizáciu | Reálne vykresľuje všedný život na základe spoločenskej i vlastnej skúsenosti | 
+| Básnik - romantik obracia svoju pozornosť na veľkolepú minulosť, vykresľuje hmlistú víziu budúcnosti | Spisovateľ - realista sa zameriava na súčasnosť, na konkrétny všedný život |
+| Hrdina je individualista, žije bohatým vnútorným životom, cíti sa osamotený, výnimočný | Hrdina žije v konkrétnom spoločenskom prostredí, je určitý ľudský typ. Postavy si autori vyberajú zo všetkých spoločenských vrstiev | 
+| Typická postava je jedinec - titan. Búri sa proti spoločnosti | Typická postava je obyčajný človek so všednými dennými starosťami |  
+| Romantický básnik je subjektívny | Realista podáva objektívny obraz človeka a spoločnosti |
+| Zachytáva individuálnu vzburu podfarbenú subjektivizmom a silnou emocionálnosťou | Vychádza z objektívnej skutočnosti, k spoločenským deformáciám má racionalistický postoj |
+| Konflikt je založený na vonkajšom rozpore: sen - skutočnosť | Konflikt autori odkrývajú rozpory v samej skutočnosti |
+| Prevažuje poézia | Prevažuje próza - poviedka, novela, román |
+
+## Realizmus
+Zatiaľ čo základom romantizmu je fantázia a vízie do budúcnosti, realizmus sa zameriava na skutočnosť a holú pravdu  
+Témou realizmu je všedný život, zatiaľ čo v romantizme to bola minulosť a historické námety  
+Evidentné rozdiely sú medzi hrdinami týchto literárnych smerov  
+Pokiaľ ten romantický bol výnimočnou postavou, individualitou, pre ktorú bola charakteristickou bezvýchodiskovosť, bohatý citový život a tragika, osamelosť a ovládanie silnými vášňami, hrdina realistickej literatúry je človekom zo všedných spoločenských vrstiev a je zasadený do konkrétneho spoločenského života  
+V realizme je spoločnosť ovládaná peniazmi  
+Realisti sú často kritický a posmeškársky voči situácii, ale ani oni nenachádzajú východisko, len opíšu skutočnosť  
+Nedokázali postaviť pozitívny spoločenský ideál
+
+## [Honoré de Balzac](#honoré-de-balzac)
+
+## [Victor Hugo](#victor-hugo)
+Predstaviteľ romantizmu
 
 
 ---

@@ -10,10 +10,7 @@ Ak je niečo zle, máš námietky, chcel by si niečo doplniť, niečo sa opýta
 [Slovenský jazyk](SlovenskýJazyk.md)  
 [Staviteľstvo](Staviteľstvo.md)  
 [Účtovníctvo](Účtovníctvo.md)  
-[Anglický jazyk - audionahrávky*](https://mega.nz/file/fmgTyCwQ#I9w1xY5lj8l6t-SsnZoj-j_ju1clI2zJH7F6BGkfiPQ)  
-
-*Po kliknutí na odkaz sa otvorí link, kde si môžete stiahnuť súbor typu RAR s audionahrávkami. Veľkosť súboru ~135 MB
-
+[Anglický jazyk](AnglickýJazyk.md)  
 
 &nbsp;  
 > **Disclaimer**  
