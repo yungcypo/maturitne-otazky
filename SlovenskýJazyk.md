@@ -1664,6 +1664,60 @@ Retrospektívne rozprávanie - od konca príbehu k začiatku
 
 &nbsp;
 # Otázka 20
+## Odborný štýl
+Štýl verejnej vedeckej komunikácie
+
+Základné **znaky** náučného štýlu
+- Písomnosť
+    - Nachádza sa v písomnej forme
+    - Prevládajú dlhšie vety a súvetia
+    - Absencia jednoduchej vety
+    - Využíva polovetné konštrukcie (hlavne s príčastím)
+    - Jasné grafické členenie
+- Monologickosť
+    - Je tu autorský plurál
+    - Členenie na úvod, jadro a záver
+- Verejnosť
+    - Určené pre širokú verejnosť
+    - Prípustná iba spisovná forma národného jazyka, nepoužíva sa ani profesionálny slang
+- Presnosť/odbornosť
+    - Prevaha odborných termínov
+    - Bezpríznakové slová
+    - Presné citácie, čísla, tabuľky, schémy
+- Pojmovosť
+    - Zjavná prevaha substantív
+    - Využíva enumeráciu (vymenovanie diel, ...)
+    - Nachádzajú sa tu nacionálne pojmové slová (napr. pojem smrť)
+    - Chýbajú citovo príznakové slová (vulgarizmy, zdrobneniny)
+    - Využíva zložité súvetné a polovetné konštrukcie
+
+**Rozdeľuje sa na**
+- Vedecko-náučný štýl
+    - Termíny, knižné slová
+    - Prísne logická kompozícia
+    - Náročná, ale stereotypná štylizácia
+    - Presná vedecká argumentácia, citácia, parafrázovanie, argumentácia
+    - Neutrálnosť, nezaujatosť výkladu
+- Populárno-náučný štýl
+    - Patrí sem aj štýl školských učebníc a výkladov
+    - Voľnejší výber slov
+    - Voľnejšia kompozícia, bohatšie členenie textu na odseky
+    - Pestrá štylizácia, beletristické a rečnícke prvky
+    - Voľná citácia, parafrázovanie bez bibliografie
+    - Silná didaktická a presviedčacia zložka (postoj autora)
+
+**Útvary** odborného štýlu
+- Výkladové
+    - Výklad
+    - Úvaha
+    - Referát
+    - Prednáška
+    - Diskusný príspevok
+    - Esej
+- Opisné
+    - Recenzia
+    - Posudok
+    - Kritika
 
 &nbsp;
 # Otázka 21
