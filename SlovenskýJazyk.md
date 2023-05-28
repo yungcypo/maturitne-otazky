@@ -1300,41 +1300,115 @@ Hlas (artikulačný prúd) môže mať moduláciu
 &nbsp;
 # Otázka 17
 ## Publicistický štýl
+Subjektívno-objektívny štýl  
+Uplatňuje sa vo sfére žurnalistickej, novinárskej komunikácie  
+**Cieľ** - poúčať, ovplyvňovať, presviedčať, prinášať informácie o aktuálnych udalostiach, získavať názor na čitateľskú verejnosť  
 
+Využíva slohové postupy
+- Informačný - správa, interview
+- Úvahový - komentár, glosa
+- Rozprávací - fejtón
+- Opisný - reportáž
 
+**Znaky**
+- Písomnosť
+- Verejnosť
+    - Všeobecná zrozumiteľnosť textov
+    - Gramatická nenáročnosť vety a tvarov
+    - Zaokrúhľovanie číselných údajov
+- Variabilnosť
+    - Bohatstvo tém
+    - Kompozičná pestrosť
+- Aktualizovanosť
+    - Presvedčivý a pútavý obsah
 
+**Druhy útvarov**
+- Spravodajské
+    - Správa
+    - Interview
+    - Komuniké
+        - Oficiálne štátno-politické vyhlásenie
+    - Rezolúcia - v závere zjazdov, rokovaní
+- Analytické
+    - Úvodník
+    - Komentár
+    - Recenzia
+    - Posudok
+    - Editoriál
+- Beletristické
+    - Reportáž
+    - Fejtón
+    - Sú ovplyvnené umeleckým štýlom
+- Funkcia titulku
+    - Dáva čitateľovi prvú informáciu
+    - Upútava jeho pozornosť
+    - Vystihuje obsah článku
+    - Naznačuje a hodnotí obsah
+    - Niekedy naznačuje názor redaktora alebo celej redakcie na prezentovaný jav
+    - Okrem titulku sa v novinách stretneme s nadtitulkom a podtitulkom
+    - V titulkoch je dôležitá stručnosť
+    - Často využíva osobitné syntaktické konštrukcie
+- Komentár
+    - Využíva výkladový a úvahový slohový postup
+    - Analyzuje spoločenský jav a hodnotí ho zo subjektívneho hľadiska
+    - Redaktor sa snaží predpovedať vývoj, kombinuje a vyslovuje hypotézy
+    - Autor je vždy podpísaný
+    - V renomovaných novinách sú práve komentáre mienkotvorné (ovplyvňujú verejnú mienku)
+- Úvodník
+    - Je písaný formou úvahy
+    - Býva na prvej strane novín
+    - Píše ho väčšinou šéfredaktor
+    - Uvažuje sa v ňom o dôležitých spoločensko-politických problémoch
+    - Vyslovuje sa v ňom osobný názor, je všeobecnejší
+- Fejtón *z fr. lístok*
+    - Je vtipné, duchaplné, ale aj kritické rozprávanie, ktorým autor upozorňuje na nejakú aktuálnu (najčastejšie negatívnu) udalosť/jav z každodenného života
+    - Charakteristická je ľahkosť, vtip, zveličovanie (znaky subjektívneho textu)
+    - Cieľom je vyprovokovať reakciu čitateľa a vyjadriť osobný názor
+- Reportáž
+    - Dominuje v nich opisný slohový postup spolu s informačným
+    - Okrem informácií a faktov je jej cieľom zachytiť atmosféru, v ktorej sa udalosť odohráva
+    - Dôležitou vlastnosťou je autentickosť, jedinečnosť
+    - V nej sa odzrkadľuje, ak ide o rozhlasový postup aj momentálne citové rozpoloženie
+    - Má svoje miesto aj v umeleckej literatúre (významný spisovatelia často začínali ako novinári - Hemingway, Mňačko)
+    - Typy reportáží
+        - Dramatická - dejová, cestopisná
+        - Investigatívna - vyšetrovanie zločinov, sporov
+        - Športový prenos
+        - Reportáž - portrét - obraz o živote významnej osobnosti pred vybranou udalosťou a po nej (jubileum)
+        - Riport - malá reportáž - kratší živý opis aktuálnej udalosti
+- Správa
+    - Oboznamuje nás o aktuálnych spoločenských otázkach 
+    - Kladie odpoveď na otázky kto, čo, kedy, kde, ako, prečo
+    - Takmer dôsledne uplatňuje informačný slohový postup
+    - Uplatňujú sa v nej 3 základné slohové postupy:
+        - Chronologický - v časovej následnosti
+        - Logický - zohľadňuje sa vzťah, príčina, dôsledok
+        - Akcentujúci - zdôrazňujúci postup; najvýznamnejšia informácia je na začiatku
+- Interview
+    - Spravodajský rozhovor, dialogizovaná správa, riadený rozhovor
+    - Predstavuje nejakú osobnosť spoločenského života
+    - Publicista by mal dať definitívnu podobu interview autorizovať (potvrdiť pravdivosť)
+    - Informačný slohový postup
+    - Zámer - dialogizovanou formou podať nové informácie  
 
+| | |
+|-|-|
+| Nadtitulok | Často myšlienka z rozhovoru |
+| Podtitulok | Prináša meno osobnosti, dôvod, prečo sa rozhovor uskutočnil, jadro |
+| Stručná charakteristika osobnosti | Graficky zvýraznená, predstavuje osobnosť, prečo sa rozhovor uskutočňuje |
+| Fotografia | |
+| Otázky a odpovede v stĺpcoch | |
+| Podpis autora |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Editoriál *(editor - vydavateľ) = úvodný stĺpček*
+    - Slovo šéfredaktora alebo iného člena redakcie
+    - Subjektívnosť
+    - Krátky rozsah
+    - Aktuálnosť
+    - Oddelený od ostatného textu čiarou/rámčekom
+    - Forma komentára - výkladový text s úvahovými zložkami
+    - Podoba príhovoru čitateľovi
+    - Cieľ - zaujať čitateľa, podmieniť ho k zamysleniu 
 
 &nbsp;
 # Otázka 18
