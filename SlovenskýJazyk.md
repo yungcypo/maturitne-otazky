@@ -1216,38 +1216,125 @@ Frazeologizmy podľa pôvodu delíme na:
 
 &nbsp;
 # Otázka 16
+## Intonácia
+Prozodické vlastnosti reči (intonácia)
+- Prejavuje sa vo väčších rečových jednotkách ako hláska
+- Najmenšia intonačná jednotka je slabika
+- Intonácia vzniká modulovaním (zmenami) hlasu
 
+Hlas (artikulačný prúd) môže mať moduláciu
+- Časová modulácia
+    - Kvantita
+        - Je to dĺžka nositeľov slabičnosti
+        - Trvanie dlhej samohlásky/dvojhlásky je 2-krát dlhšie ako trvanie krátkej samohlásky
+    - Pauza (prestávka)
+        - Členenie reči na úseky - takty (frázovanie)
+        - Môžu byť:
+            - Fyziologická prestávka - nadýchnutie
+            - Významová 
+                - Členenie textu na logické úseky 
+                - Čiarka, dvojbodka, koniec vety alebo vetného úseku
+                - Rôznou dĺžkou prestávky vyčleňuje syntagmy, vety, odseky, ...
+    - Tempo
+        - Závisí od obsahu a funkcie prejavu
+        - Obsahovo náročnejší prejav má pomalšie tempo
+        - Priemerné tempo je 100 slov za minútu, zrýchlené 120-150 slov za minútu
+    - Rytmus
+        - Je tvorený striedaním prízvučných a neprízvučných slabík v slovách
+        - Čím je v slovách menej slabík, tým je text rytmickejší
+- Silová modulácia
+    - Intenzita hlasu
+        - Zvyšuje/znižuje sa ňou dynamika rečového prejavu
+        - Rozlišujú sa menej dôležité časti výpovede od dôležitých
+        - Je to významný štylizujúci prostriedok vety
+    - Prízvuk
+        - V spisovnej slovenčine je na prvej slabike slova
+        - Rozloženie v rôznoslabičných slovách
+            - 2-slabičné - **no**ha
+            - 3-slabičné - **do**bový
+            - 4-slabičné - **pes**nič**ko**vý
+            - 5-slabičné - **ne**zmieri**teľ**nosť
+            - 6 a viacslabičné - **ma**te**ma**ti**kár**ka; **ma**te**ma**ti**kár**kini
+        - Vo viac ako trojslabičných slovách považujeme prvý prízvuk za hlavný a ostatné za vedľajšie
+        - Novšia teória takto prízvuky už nerozlišuje
+    - Dôraz
+        - Intonačné vyzdvihnutie jadra výpovede
+        - V pokojnej reči 
+            - Nachádza sa na poslednom slove vety
+            - Je nepríznakový/neutrálny
+            - Logický dôraz
+            - Je <u>nevýrazný</u>
+        - Vo vzrušenej reči
+            - Je umiestnený podľa uváženia hovoriaceho
+            - Je citový
+            - Vyjadruje subjektívny postoj hovoriaceho k obsahu jazykového prejavu
+            - Je <u>veľmi výrazný</u>
+            - Príznakový dôraz - emfáza
+            - Emfáza
+                - Citový, expresívny dôraz
+                - Realizuje sa na slabike, ktorá je okrem zvýšenia hlasu aj nápadne predĺžená
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Tónová
+    - Melódia
+        - Stúpanie a klesanie výšky hlasu vo vete
+        - Existujú 3 druhy:
+            - Klesavá melódia
+                - Oznamovacie vety, rozkazovacie vety, želacie vety, opytovacie - zisťovacie vety  
+                *Pôjde starý otec do mesta?*  
+                *Bude to také ľahké*  
+                Očakáva sa odpoveď áno/nie
+            - Stúpavá melódia
+                - Opytovacie - doplňovacie vety  
+                *Kam pôjde starý otec?*  
+                *Aké to bude?*  
+                Neočakáva sa odpoveď áno/nie  
+                Veta sa spravidla začína opytovacím zámenom
+            - Stúpavo-klesavá melódia
+                - Ak je veta zložená a v prvej časti je veta neukončená  
+                *Chcela som ísť do kina, ale musela som sa učiť*
+- Kvalitatívna
+    - Zafarbenie/farba hlasu (timbre)
+        - Nemusíme hovoriaceho vidieť, ale podľa zafarbenia hlasu vieme, kto hovorí
+        - Schopnosť meniť farbu hlasu využívajú vo svojej práci napríklad herci
 
 &nbsp;
 # Otázka 17
+## Publicistický štýl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 &nbsp;
 # Otázka 18
