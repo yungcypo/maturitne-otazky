@@ -870,15 +870,381 @@ Býva doplnený životopisom, neuvádzame tu fakty o vzdelaní, praxi a o pomero
 
 &nbsp;
 # Otázka 13
+## Rečnícky štýl
+Štýl ústnej komunikácie  
+Primárny  
+Objektívno-subjektívny  
+Verejného styku  
+
+**Funkcia** - presviedčať, vysvetľovať, informovať, komentovať, agitovať, zapôsobiť na city poslucháča  
+
+```
+Z HISTÓRIE REČNÍCKEHO ŠTÝLU (RÉTORIKY):
+ 
+Rečnícky štýl (rétorika) nie je len jazykovým štýlom, ale už od staroveku sa považuje za umenie.
+Prvé rečnícke útvary vznikli približne v 6. storočí pred Kr. v starovekom Grécku. Vývoj rečníckeho štýlu  úzko súvisel s vývojom systému otrokárskej demokracie, ktorá dávala každému občanovi právo slobodne prejavovať svoju mienku na zhromaždeniach občanov a podieľať sa na výkone vládnej moci. V Grécku každý občan mohol slobodne vyjadriť svoju mienku, slobodne vystúpiť napr. na sneme. Výrečnosť bola dôležitou črtou štátnikov a ľudových vodcov. V Aténach sa väčšina sporov riešila pred ľudovým súdom. Podľa Solónových zákonov každý obžalovaný mal právo sa pred súdom obhajovať, ale musel to robiť osobne, bez pomocníka a akýchkoľvek pomôcok. Musel hovoriť bez prípravy, svoju reč nesmel čítať, nesmel nazerať do prípravy, resp. do nejakých pomôcok.
+ 
+V 5. storočí pred Kr. sa začala rozvíjať rečnícka náuka. V súdnych sporoch sa začali objavovať logografi – koncipienti súdnych rečí, ktorí pomáhali klientom, poskytovali im právne rady a učili ich pôsobivo a zaujímavo predniesť súdnu reč.
+ 
+Za tvorcov všeobecnej rečníckej náuky považujeme sofistov. V rétorských školách učili, že objektívna pravda neexistuje. Za pravdu považovali to, čo sa jedincovi podľa okolnosti pravdou javí. Pravda je teda podľa nich relatívna a subjektívna. Od jedinca závisí, či presvedčí ostatných, že jeho zdanie je pravda. K najznámejším rétorom patril Gorgias, zakladateľ prvej rétorskej školy. Tvrdil, že moc slova má pre rozpoloženie duše taký význam ako zloženie liekov pre stav tela. Veľkú pozornosť venoval príprave slávnostných rečí, bol považovaný za ich veľkého znalca. Každú slávnostnú reč sa usiloval obohatiť o rôzne básnické figúry – dnes ich nazývame gorgiovské figúry. Zakladá sa na nich celá stredoveká rýmovaná poézia a rým v básni sa používa dodnes. (Gréci v básňach nepoužívali rým – časomerná prozódia).
+ 
+Medzi najznámejších rečníkov patril Démosthenés (Demostenes). Nedisponoval veľkými predpokladmi na výborný prejav, ale svojím konaním a prácou sa vypracoval na vynikajúceho rečníka. Mal napr. problémy s dychom, preto dýchanie nacvičoval chôdzou do kopcov. Mal slabý hlas, preto behal po pobreží a snažil sa prehlušiť príboj. Jeho vystupovanie rušil nepríjemný tik (pri reči potrhával ramenom), preto sa postavil pod strom, na vetvu zavesil meč, ktorý mu pri každom bodnutí pripomenul, že si musí dávať pozor. Preslávil sa tzv. filipikami – bojovými prejavmi proti Filipovi Macedónskemu, ktoré si pripravoval mimoriadne dôsledne.
+Medzi slávnych rečníkov patril aj Sokrates a jeho žiak Platón. Sokrates sa snažil v rétorike presadiť etické princípy. Vypracoval metódu systematického vedenia rozhovoru. Podľa neho je rétor povinný bojovať za pravdu.
+Platónovým žiakom bol Aristoteles (vychovával Alexandra Macedónskeho, Veľkého). V Aténach mal vlastnú školu, v ktorej vedecky bádal v rôznych odboroch. V r. 347 napísal spis Rétorika, ktorý spolu so spisom Poetika tvorí základ európskej rétoriky.
+ 
+Rečníctvo od Grékov prebrali aj Rimania. Práve Rimania sú považovaní za majstrov rétoriky. Za mimoriadneho rečníka je považovaný napr. Marcus Tullius Cicero. Jeho najslávnejšie dielo sa volá O rečníkovi. Zachovalo sa jeho 57 rečí. Všetky svoje reči predniesol naspamäť, s množstvom kvetnatých, básnických, logicky i štylisticky dokonalými vetami. Na každé svoje vystúpenie bol dokonale pripravený.
+
+V antike vznikol aj prvý návod na postup pri príprave rečníckeho prejavu:
+ 
+1.	vyhľadávanie látky a dôkazov,
+2.	usporiadanie tém,
+3.	štylizácia,
+4.	zapamätávanie,
+5.	prednes.
+ 
+Z obdobia antiky sa rozvíjala rétorika cez stredovek v podobe cirkevného rečníctva a kazateľstva do súčasného rečníctva ako prostriedku komunikácie vo všetkých sférach života.
+Za prvého slovenského veľkého rečníka považujeme Ľ. Štúra (Reči a state). Známych je aj šesť jeho rečí na uhorskom sneme. Za jeho úplne najznámejšiu reč považujeme tú, v ktorej žiadal na uhorskom sneme zrušenie nevoľníctva.
+
+```
+
+### Útvary rečníckeho štýlu
+- Agitačno - propagačné prejavy a reči
+    - Politická reč
+        - Parlamentný prejav
+        - Prejav na zjazde strany
+        - Predvolebný prejav
+    - Súdna reč
+        - Reč obhajoby
+        - Reč obžaloby
+    - Cirkevný prejav 
+        - Kázeň
+- Náučné prejavy
+    - Prednáška
+        - Školská
+        - Osvetová
+    - Referáty a koreferáty
+        - Politický
+        - Vedecký
+        - Organizačný
+    - Replikové príspevky / dialogizované útvary
+        - Diskusný
+        - Polemický
+        - Debatný
+- Príležitostné prejavy
+    - Slávnostný prejav
+        - Jubilejný
+        - Spomienkový
+        - Gratulačný
+    - Rámcový prejav
+        - Privítací
+        - Záverový
+        - Otvárací
+        - Pozdravný
+    - Informačný prejav
+        - Konferenciersky
+        - Výstraha
+        - Rozkaz
+    - Rodinné prejavy
+        - Stolový (prípitok)
+        - Sobášny
+        - Pohrebný
+        - Pri krste dieťaťa
+    
+### Znaky rečníckeho štýlu
+- Verejnosť
+    - Je to štýl verejného rozhovoru jednotlivca a kolektívu (rečníka a kolektívneho adresáta)
+    - Využíva prostriedky, ktoré sú pre širokú verejnosť zrozumiteľné a vhodné, vyhýba sa vulgarizmom a termínom
+    - Rečník uprednostňuje kratšie vety 
+- Ústnosť
+    - Je vždy realizovaný v ústnej podobe
+    - Adresát je známy, treba ho osloviť  
+    - Adresát je prítomný, teda môže prichádzať k interakcií rečníka a poslucháča
+    - Rečník si pomáha mimojazykovými prostriedkami - mimikou a gestami
+- Adresnosť
+    - Rečník má pred sebou adresáta (poslucháča)
+    - Na vytvorenie vzájomného kontaktu využíva kontaktové slová (oslovenia), dialogizujúce gramatické kategórie (1. a 2. osoba), rečnícke otázky
+- Sugestívnosť
+    - Dosahuje sa používaním prostriedkov z iných jazykových štýlov
+        - Umelecký štýl
+            - Metafora
+            - Hyperbola
+            - Opakovanie
+            - Expresívne slová
+            - Dramatizujúce prostriedky
+        - Náučný štýl
+            - Názorné prvky
+        - Administratívny štýl
+            - Faktografia
+- Názornosť
+    - Dosahuje sa používaním
+        - Frazeologických jednotiek
+        - Citátov
+        - Príkladov
+        - Faktografických údajov
+
+### Prejavy neúcty 
+- V oblasti mimiky
+    - Prehnaný úsmev - škerenie sa
+    - Hryzenie pier
+    - Špúlenie pier
+    - Pohyby obočím
+    - Mračenie čela
+- V oblasti gestikulácie a kineziky (pohyby tela alebo jeho častí)
+    - Nedbanlivé držanie tela
+    - Dvíhanie ukazováka, mechanické a stereotypné pohyby (rukami, nohou,...)
+    - Podopreté lakte
+    - Ruky vo vreckách
+    - Ruky vbok, skrížené ruky
+    - Búchanie do stola
+    - Poklepkávanie prstami po stole
+    - Sekanie dlaňou do prázdna
+    - Otáčanie prsteňa
+    - Lúskanie prstami
+    - Hladenie fúzov, brady, krku
+    - Škrabanie jednej ruky druhou
+    - Nervózne škrabanie hlavy
+    - Podopieranie hlavy rukou
+    - Hranie sa s retiazkou na krku, náramkom na ruke
+    - Rozopínanie a zapínanie saka / svetra
+    - Úprava vlasov
+    - Upravovanie kravaty
+    - Ťukanie nohou do podlahy
+    - Zasúvanie prstov za golier
+    - Listovanie v papieroch
+    - Monotónne kolísanie sa
+    - Podvihovanie sa na prstoch nôh
+    - Prechádzanie sa pred poslucháčmi s pohľadom upretým do podlahy, na jedno miesto
+    - Pričastý pohľad na hodinky
+- Mimorečové zlozvyky
+    - Pazvuk pred výpoveďou (hrdelný tón)
+    - Pomľaskávanie
+    - Vydávanie rôznych tónov nosom
+    - Odfukovanie
+    - Časté prehĺtanie
+    - Časté pokašliavanie
+- Rečové zlozvyky
+    - Ošúchané, staré vety, frázy
+    - Dlhé, komplikované súvetia
+    - Priveľa cudzích slov
+    - Zbytočné, prázdne, hluché slová:
+        - Ak dovolíte
+        - Ako som už hovoril
+        - Keď sa tak človek zamýšľa
+        - Aby som tak povedal
+        - Ako sa hovorí
+        - Jedným slovom
+        - Ešte aspoň jednu vetu (a rečník pokračuje ešte niekoľko minút)
+    - Klišé (otrepané stereotypné úslovia) a klišéovité idiomy (bezvýznamné formálne slovné spojenia):
+        - Kráčať s duchom doby
+        - Ťahať za jeden povraz
+        - Otvárať priestor novým možnostiam
+        - Zmobilizovať všetky sily
+        - Iste sme všetci zajedno
+        - Je potrebné všetko podčiarknuť
+        - Čo ja viem
+        - Prosím vás pekne
+        - Akože
+        - Nesmieme zaspať na vavrínoch,...
+- Ďalšie nedostatky rečníckeho prejavu
+    - Krik
+    - Otrocké čítanie textu
+    - Zlá artikulácia
+    - Rýchle tempo – málo prestávok v prejave
+    - Monotónnosť v prejave
+    - Zlé dýchanie
+    - Málo vizuálneho kontaktu s poslucháčom
+    - Nedodržiavanie dohodnutého času
+    - Málo vlastného presvedčenia – prejav bez srdca
+    - Nedostatok humoru (pozor na smútočné prejavy,...)
+    - Priveľa rozvláčneho rečnenia
+    - Nepriateľskosť
+    - Snahu mať vždy pravdu
+    - Nevhodné a neprimerané oblečenie
+
+
+Veľký význam rečníckych prejavov spočíva v možnosti spätnej väzby:  
+- Súhlasné pokývania hlavou  
+- Potlesk  
+- Úsmev poslucháča  
+- Šomranie  
+- Vyrušovanie – ako prejav nudy  
+- Nudný výraz v tvári  
+- Zívanie, prípadne mikrospánok, driemanie  
+- Neustále kladenie otázok  
+- Prekrikovanie sa pri kladení otázok
+
+### Kompozícia rečníckych prejavov
+1. Úvod
+    - Objasnenie - definovanie udalosti
+    - Opis
+    - Vysvetlenie pojmov
+    - Má byť stručný, pútavý
+    - Naspamäť
+    - Využiť citát, výrok, porekadlo, príslovie, paralela, definícia, otázka, gradácia, konkrétny príklad, príbeh, stupňovanie
+2. Jadro
+    - Klasifikácia - triedenie, posudzovanie, hodnotenie pojmov
+    - Analýza
+    - Rozvíjať myšlienky v logickej následnosti, opakovať ich inými slovami (konkrétnosť, názornosť, zrozumiteľnosť)
+3. Záver
+    - Záverečné pokyny, zhrnutie
+    - Zdôrazniť najdôležitejšie myšlienky
+    - Zanechať pozitívny dojem
+    - Naspamäť
 
 &nbsp;
 # Otázka 14
+## Štýl *(HARPUN)*
+Štýl je špecifický spôsob vyjadrovania sa, správania sa a konania  
+Je príznačný pre jednotlivca, skupinu, dobu, ...  
+Hovoríme napríklad o štýle obliekania sa, bývania, o životnom štýle, štýle rozprávania, hudobnom štýle, ...
+
+Jazykový štýl je spôsob prejavu, ktorá vzniká cieľavedomým výberom a zákonitým usporiadaním jazykových a mimojazykových prostriedkov so zreteľom na tému, situáciu, funkciu a zámer autora
+
+### Primárne jazykové štýly
+| Subjektívne | Subjektívno - objektívne | Objektívne |
+|---|---|---|
+| Hovorový - sféra bežnej komunikácie | Publicistický - sféra masmediálnej komunikácie | Administratívny - sféra oficiálnej, úradnej komunikácie |
+| Umelecký - sféra komunikácie slovesného umenia | Rečnícky - sféra ústnej verejnej komunikácie | Náučný - sféra vedeckej komunikácie | 
+
+### Sekundárne jazykové štýly
+| | | |
+|-|-|-|
+| Esejistický | Texty, v ktorých sa na rozbor vedeckého problému využívajú prostriedky umeleckého štýlu | Znaky subjektívno - objektívneho štýlu |
+| Epištolárny | Súkromná korešpondencia, v poslednom čase upadá | Kedysi znaky subjektívneho štýlu, postupne znaky objektívneho štýlu |
+| Reklamný | Reklamné texty. Spomedzi sekundárnych štýlov sa rozvíja nejdynamickejšie | Znaky subjektívno - objektívneho štýlu |
+| Náboženský | Náboženské texty a obrady | Znaky subjektívneho štýlu |
+| Juristický | Zákony, zmluvy, nariadenia | Znaky objektívneho štýlu |
+
+### Staršie členenie jazykových štýlov
+| Štýly verejného styku | Štýly súkromného styku |
+|---|---|
+| Náučný (odborný) | Hovorový |
+| Administratívny | |
+| Publicistický | |
+| Rečnícky | |
+| Umelecký | |
+
+### Štýlotvorné činitele
+- Subjektívne - ovplyvňuje ich autor textu
+    - Povahové črty autora, jeho návyky, záľuby, temperament, citové založenie, psychický stav
+    - Biologické faktory, pohlavie, vek
+    - Dosiahnuté vzdelanie (všeobecné, odborné, vysokoškolské, stredoškolské, základné)
+    - Jazykové a komunikačné schopnosti, rozsah slovnej zásoby, pohotovosť, rozhľad, sčítanosť
+- Objektívne - nezávislé od autora textu
+    - Téma - predmet prejavu
+    - Funkcia prejavu 
+        - Zameranie, cieľ prejavu
+        - Základnou funkciou je komunikatívna (dorozumievacia) funkcia
+        - Môže ísť aj o funkciu informačnú, získavaciu, ovplyvňovaciu, estetickú
+    - Prostredie
+        - Komunikačná situácia, počas ktorej prejav vzniká
+        - Môže byť súkromné alebo verejné, mestské, dedinské, školské, vojenské
+        - Forma prejavu
+            - Spôsob realizácie prejavu
+            - Líši sa podľa toho, či ide o prejav ústny alebo písomný
+        - Adresát
+            - Osoba, ktorej je prejav určený
+            - Môže byť
+                - Prítomný 
+                    - V čase prejavu je v priamom kontakte s autorom prejavu
+                    - Súkromný dialóg, zvada
+                - Neprítomný
+                    - Medzi autorom a adresátom prejavu je iba nepriamy kontakt
+                        - Telefonický rozhovor, prejav v rozhlase
+                    - Prípadne môže byť adresát iba potenciálny
+                        - Verejné písomné prejavy
+        - Miera pripravenosti prejavu
+            - Či je téma vopred daná alebo ide o improvizáciu
+            - Či je prejav pripravený alebo nepripravený
 
 &nbsp;
 # Otázka 15
+## Združené pomenovania
+Pomenúvajú 1 objekt, ale skladá sa z viacerých slov, napr:
+- Stará mama
+- Vysoká škola
+- Svetový rekord
+- Kamzík tatranský
+- Národná Rada Slovenskej Republiky
+- Triedna učiteľka
+
+## Frazeológia
+Je to osobitná súčasť lexikológie  
+Náuka o ustálených obrazných a expresívnych slovných spojeniach (frazémach)  
+
+### Frazeologizmus 
+Je to ustálené slovné spojenie 2+ slov  
+Má obrazný, prenesený význam (prepásť príležitosť, hovoriť dve na tri)  
+Štylistické **využitie** - zlepšujú pohotovosť vyjadrovania, výstižnosť, pestrosť a živosť jazyka
+
+Frazeologizmy podľa pôvodu delíme na:
+- Ľudové - domáceho pôvodu
+    - Príslovie
+        - Má didaktický (poučný) zámer
+        - Čo sa za mladi naučíš, na starosť akoby si našiel
+    - Porekadlo
+        - Nemá didaktický (poučný) zámer
+        - Vtipne a nepriamo vyjadruje nejaké pozorovanie
+        - Aká matka, taká Katka
+    - Pranostika
+        - Tematicky zamerané na pozorovanie javov v prírode
+        - *"Ľudová predpoveď počasia"*
+        - Studený máj - v stodole raj
+- Intelektuálne - prevzaté prostredníctvom vzdelania, napr. z latinčiny a gréčtiny
+    - Mytologické
+        - Pochádzajú z mytológie, najčastejšie gréckej
+        - Achillova päta
+        - Gordický uzol
+        - Pandorina skrinka
+    - Biblické
+        - Ich pôvod súvisí s Bibliou
+        - Leží ako Lazar
+        - Stojí ako soľný stĺp
+        - Sodoma-Gomora
+        - V Evinom/Adamovom rúchu
+        - Starý ako Matuzalem
+    - Historické
+        - Viažu sa k určitým udalostiam, osobnostiam
+        - Kocky sú hodené
+        - Objavil Ameriku
+        - To je jeho Waterloo
+    - Literárne
+        - Vychádzajú z umeleckej literatúry
+        - Bojovať proti veterným mlynom
+        - Rytier smutnej postavy
+        - Keď ste si ma upiekli, tak si ma aj zjedzte
 
 &nbsp;
 # Otázka 16
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 &nbsp;
 # Otázka 17
