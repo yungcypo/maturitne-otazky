@@ -12,6 +12,10 @@ Ak je niečo zle, máš námietky, chcel by si niečo doplniť, niečo sa opýta
 [Účtovníctvo](Účtovníctvo.md)  
 [Anglický jazyk](AnglickýJazyk.md)  
 
+---
+
+[Čo potrebuješ vedieť, aby si na známku 1-5](klasifikacia.md)
+
 &nbsp;  
 > **Disclaimer**  
 Otázky som vypracoval ja, ako už bolo povedané, t.j. je prudko možné že nemusia byť správne vypracované, môžu byť neúplné a podobne :) Čiže netreba sa úplne 100% spoliehať  
