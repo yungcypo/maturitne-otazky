@@ -1111,7 +1111,7 @@ Jazykový štýl je spôsob prejavu, ktorá vzniká cieľavedomým výberom a z�
 |-|-|-|
 | Esejistický | Texty, v ktorých sa na rozbor vedeckého problému využívajú prostriedky umeleckého štýlu | Znaky subjektívno - objektívneho štýlu |
 | Epištolárny | Súkromná korešpondencia, v poslednom čase upadá | Kedysi znaky subjektívneho štýlu, postupne znaky objektívneho štýlu |
-| Reklamný | Reklamné texty. Spomedzi sekundárnych štýlov sa rozvíja nejdynamickejšie | Znaky subjektívno - objektívneho štýlu |
+| Reklamný | Reklamné texty. Spomedzi sekundárnych štýlov sa rozvíja najdynamickejšie | Znaky subjektívno - objektívneho štýlu |
 | Náboženský | Náboženské texty a obrady | Znaky subjektívneho štýlu |
 | Juristický | Zákony, zmluvy, nariadenia | Znaky objektívneho štýlu |
 
