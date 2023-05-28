@@ -6,11 +6,14 @@
 Systém ustálených znakov a pravidiel, na základe ktorých vzniká konkrétna reč  
 Je to jav spoločenský, nie prírodný - musíme sa ho naučiť, nemáme ho vrodený  
 Chápeme ho ako dohodnutý kód, súbor znakov a pravidiel, ktoré sa používajú na vyjadrenie, prenos a výmenu informácií  
+
 ## Reč
 Konkrétne využitie jazyka na vyjadrenie určitých myšlienok  
 Býva doplnená mnohými mimojazykovými prostriedkami - mimikou, pohybmi rúk a pod.
+
 ## Lexikológia
 Jazykovedná disciplína, ktorá skúma slovnú zásobu jazyka
+
 ## Slovná zásoba
 Súhrn všetkých slov v jazyku  
 Jej časťami sú:
@@ -89,6 +92,7 @@ Slová podľa spisovnosti
 - Nocionálnalne slová
     - Bez citového zafarbenia
     - Napr. tri, jesť, voda
+
 ## Slová podľa zaradenia do jazykových štýlov
 - Hovorový štýl
     - Hovorové slová (maturita, zasadačka)
@@ -616,7 +620,7 @@ Je to základná syntaktická jednotka s uceleným významom, gramatická uspori
         - Príponou - vrah-yňa
         - Predponou aj príponou súčasne - ná-hrob-ok
         - Prechodom do iného ohýbania - vyletieť (sloveso) - výlet(podstatné meno)
-    - Skladaním
+    - Skladaním (~~spájaním~~!)
         - Pravé zložené slová - zložili sa 2 slovotvorné základy - autoškola, celoživotný
         - Nepravé zložené slová - zložili sa 2 členy syntagmy - vrti-chvost, vedy-chtivý, kníh-kupectvo
 - Tvorenie viacslovných pomenovaní
@@ -1412,9 +1416,251 @@ Využíva slohové postupy
 
 &nbsp;
 # Otázka 18
+## Morfológia
+Slovnými druhmi sa zaoberá jazykovedná disciplína, ktorá sa nazýva morfológia alebo tvaroslovie  
+
+Slovné druhy rozdeľujeme podľa
+- Vecného významu
+    - Plnovýznamové - prvých 6 slovných druhov
+    - Neplnovýznamové - posledné 4 slovné druhy
+- Ohybnosti
+    - Ohybné - prvých 5 slovných druhov
+    - Neohybné - posledných 5 slovných druhov
+- Vetnočlenskej platnosti
+    - Majú vetnočlenskú platnosť - prvých 6 slovných druhov
+    - Nemajú vetnočlenskú platnosť - posledné 4 slovné druhy
+
+### Ohybné slovné druhy
+**Podstatné mená**  
+Označujú osoby, zvieratá, veci a abstraktné pojmy  
+
+Delia sa na:
+- Vlastné a všeobecné 
+- Konkrétne a abstraktné  
+- Životné a neživotné
+
+**Prídavné mená**  
+Označujú vlastnosti alebo vlastnícke vzťahy  
+
+Delia sa na:
+- Akostné - *svieži, studený, malý*
+- Vzťahové - *slnečný, páví*
+- Privlastňovacie - *matkin, otcov*
+
+**Zámená**  
+Odkazujú na podstatné mená, prídavné mená, číslovky a príslovky
+
+Delia sa na:
+- Osobné - *ja, vy, oni; môj, jeho ich*
+- Zvratné - *sa, svoj*
+- Ukazovacie - *ten*
+- Opytovacie - *kto, čo*
+- Vymedzovacie - *nikto*
+- Neurčité - *niečo, niekto*
+
+**Číslovky**  
+Vyjadrujú číselné vzťahy  
+
+Delia sa na:
+- Základné - *jeden*
+- Skupinové - *štvoro*
+- Radové - *prvý*
+- Násobné - *trikrát, tri razy, trojnásobný*
+- Druhové - *trojaký*
+
+**Slovesá**  
+Vyjadrujú dej, činnosť, stav
+
+Delia sa na:
+- Plnovýznamové a pomocné 
+- Činnostné a stavové
+- Jednoduchý slovesný tvar a zložený slovesný tvar
+- Zvratné a nezvratné
+
+Slová vyjadrujú vzťahy vo vete svojimi gramatickými tvarmi  
+Každý gramatický tvar sa skladá z lexikálno-významovej časti a gramatickej časti  
+
+### Morfologické kategórie
+Gramatická časť slova je nositeľom gramatických kategórií  
+
+Rozdeľujeme ich na
+- Menné - rod, číslo, pád
+- Slovesné  
+    - Osoba  
+    - Číslo  
+    - Čas - odráža  vzťah k momentu výpovede
+        - Prítomný (prézent) - dej sa uskutočňuje v momente výpovede
+        - Minulý (préteritum) - označuje deje pred momentom výpovede
+        - Budúci (futúrum) - označuje deje po momente výpovede
+    - Spôsob  
+        - Oznamovací - vyjadruje sa realizovaním deja - *Sneží.*
+        - Podmieňovací - vyjadruje sa možnosťou realizovania - *Pracoval by som.*
+        - Rozkazovací - vyjadruje sa vyžadovaním realizovania - *Pracuj!*
+    - Vid 
+        - Dokonavý - dej je ucelený, uzavretý, ohraničený - *prečítať, porozprávať*
+        - Nedokonavý - dej je prebiehajúci, plynúci, neohraničený - *čítať, rozprávať*
+    - Slovesný rod  
+        - Činný - pôvodca deja je podmetom vety a vykonáva dej - *Otec kosí lúku.*
+        - Trpný - pôvodca deja nie je podmetom vety a podmet je dejom zasiahnutý
+            - Zvratný tvar - *Lúka sa kosí.*
+            - Opisný tvar - *Lúka je pokosená.*
+    - Intencia slovesného deja
+
+Z domu: jednotné číslo, mužský rod, genitív (u = relačná gramatická morféma)  
+Učíme - 1. osoba plurálu, prítomný čas, oznamovací spôsob, činný rod
+
+### Neohybné slovné druhy
+**Príslovky**  
+Vyjadrujú okolnosť alebo vlastnosť deja
+
+Delia sa na:
+- Príslovky miesta - *hore, dole, vľavo, uprostred*
+- Príslovky času - *ráno, večer, dnes, včera*
+- Príslovky spôsobu - *nahlas, potme, naspamäť, ticho*
+- Príslovky príčiny - *nadarmo, zámerne*
+
+**Predložky**  
+V spojení s pádmi podstatných mien, zámen a čísloviek vyjadrujú vzťahy
+
+Delia sa na:
+- Prvotné - sú len predložkami - *na, o, s, z*
+- Druhotné 
+    - Môžu sa vyskytovať aj vo funkcií iného slovného druhu - *okolo, uprostred*  
+    Išiel <u>okolo</u> domu (predložka)  
+    Išiel <u>okolo</u> (príslovka)  
+    Má <u>okolo</u> 30 rokov (častica)  
+
+**Spojky**  
+Vyjadrujú vzťahy medzi vetnými členmi a vetami  
+
+Delia sa na:
+- Priraďovacie - *a, i, aj, ale, alebo*
+- Podraďovacie - *že, aby, keď, kým*
+
+**Častice**  
+Vyjadrujú postoj hovoriaceho k výpovedi  
+*Žiaľ, nemôžem ti to povedať.*  
+*Tie časy sú, pravda, už dávno za nami*  
+
+**Citoslovcia**  
+Sú pojmovo nespracované zážitky z oblasti citu, vôle a vnímania  
+
+Delia sa na:
+- Vlastné - *jaj, joj, haló*  
+- Zvukomalebné - *bác, hav, tik-tak*
 
 &nbsp;
 # Otázka 19
+## Rozprávací slohový postup
+Ide o sprostredkovanie (zachytenie) udalosti, zážitku príbehu s dôrazom na dej a časovú postupnosť
+
+Uplatňuje sa v:
+- Umeleckom štýle
+    - Román
+    - Novela
+    - Poviedka
+    - Rozprávka
+    - Povesť
+    - Báj
+    - Dráma
+- Publicistickom štýle
+    - Reportáž
+    - Fejtón
+- Hovorovom štýle
+
+**Znaky**
+Prevažujú dejové slovesá, najmä slovesá pohybu v minulom čase alebo historickom prézente  
+Postup sa oživuje priamou rečou postáv  
+Uplatňuje sa najmä v útvaroch umeleckého a publicistického štýlu  
+Súdržnosť testu  
+Následnosť dejov  
+Vysvetľovanie okolností  
+Subjektívnosť  
+Jedinečnosť  
+
+**Slohové útvary**  
+Rozprávanie  
+Fejtón  
+Bájka  
+Rozprávka  
+Povesť  
+Poviedka  
+Novela  
+Román 
+
+**Druhy rozprávania**
+- Ústne rozprávanie
+    - Najstarší typ
+    - Bezprostredný kontakt
+    - Napr. priame rozprávanie - 1. os. singuláru
+- Jednoduché rozprávanie
+    - V bežnej komunikácií (rodina, škola)
+    - Napr. rozprávanie príbehu
+- Komplexné rozprávanie
+    - Využíva aj opis a charakteristiku (prostredie, postavy) a prvky úvahy
+- Reprodukcia
+    - Prerozprávanie deja knihy, filmu, hry
+
+**Kompozícia umeleckého rozprávania**  
+- Retrospektívny princíp - podáva v prítomnosti obraz v minulosti
+- Chronologický princíp - dejové pásmo po časovej osi
+- Reťazový princíp - každý príbeh nadväzuje na predchádzajúci, prepojené postavou hlavného hrdinu
+- In medias res - rozpráva príbeh uprostred deja - bez fázy pre udalosťou
+
+**Schéma kompozície umeleckého rozprávania**
+1. Expozícia - vykreslenie prostredia, doby, hlavné postavy, náznaky konfliktu
+2. Kolízia - zápletka - udalosť, ktorá má rozhodujúci vplyv na dej, napr. konfliktná postava, dej začína gradovať, lexika je expresívnejšia
+3. Kríza - vyvrcholenie deja a rozporov. Postava môže byť v konflikte
+    - S inou postavou - medziľudské vzťahy
+    - So spoločnosťou - spoločenský konflikt
+    - Sama so sebou - osobný konflikt
+4. Peripetia - dejový zvrat - nepredpokladá zmenu situácie, dej sa zrýchľuje, smeruje k rozuzleniu konfliktu
+5. Rozuzlenie - dobrý alebo zlý koniec (v antických dielach tragické riešenie konfliktu - katastrofa)
+
+**Umelecké rozprávanie** využíva dramatické stupňovanie zápletky - zauzlenie, vyvrcholenie, rozuzlenie deja  
+V umeleckom rozprávaní autor používa aj opis, charakteristiku, úvahu  
+Umelecké rozprávanie sa člení na pásmo rozprávača a pásmo postáv  
+
+**Rozprávač** v rozprávaní môže byť:
+- Autorský - vševediaci - 3. os. singuláru
+- Personálny - vševidiaci, ale sústreďuje sa zvyčajne len na jednu osobu - 3. os. singuláru - on-rozprávanie
+- Priamy - jeho úlohu prevezme jedna z postáv diela - 1. os. singuláru
+
+**V pásme postáv** sa nachádza:
+- Replika - prehovor jednej postavy
+- Monológ - neprerušovaný prejav jednej postavy
+- Vnútorný monológ - myslený prehovor jednej postavy
+- Dialóg - rozhovor najmenej 2 postáv, ktorých repliky sa striedajú. Repliky dialógu sa zapisujú priamou rečou  
+Základným typom dialógu je <u>symetrický dialóg</u>   
+<u>Asymetrický dialóg</u> je prerušovaný priamou rečou alebo vnútornou rečou postáv
+
+**Nevlastná priama reč**  
+Formálne sa autorská reč neoddeľuje od reči postavy  
+Je písaná bez úvodzoviek  
+Napr. *Prečo ani mňa nepozvali, rozhnevala sa Eva*
+
+**Polopriama reč**  
+Zachytáva vnútorný dialóg postavy  
+Zachytí presne to, čo povedala iná osoba  
+Na rozdiel od priamej reči nepoužíva úvodzovky  
+Autor aj v citovanej vete používa 3. osobu  
+Napr. *Eva sa rozhnevala. Prečo ani ju nepozvali?*
+
+**Nepriama reč**  
+Autor sám prerozpráva, čo povedala iná osoba  
+Napr. *Povedal Eve, aby nebláznila*  
+
+V rozprávaní ma **úvod** veľký význam  
+
+Rozlišujeme 3 základné druhy úvodov
+- Expozícia - úvodný opis prostredia
+- In medias res - vpadnutie priamo do deja
+- Retrospektíva - pohľad do minulosti
+
+**Kompozícia útvarov**  
+Prevažuje trojčlenná - úvod, jadro, záver  
+Výnimka - rozprávanie in medias res - nemá úvod  
+Retrospektívne rozprávanie - od konca príbehu k začiatku
 
 &nbsp;
 # Otázka 20
