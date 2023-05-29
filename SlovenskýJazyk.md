@@ -1924,7 +1924,7 @@ Zmeny
 **u**lica **O**sloboditeľov –> **U**lica **o**sloboditeľov
 - Zaviedli sa dvojtvary písania výrazov typu *dobiela/do biela, dovidenia/do videnia*
 - Zrušila sa výnimka z rytmického zákona v činnom príčastí   
-Napr. píš**ú**ci -> píš**u**ci)  
+Napr. píš**ú**ci -> píš**u**ci  
 V podstatných menách na –ár, -áreň  
 Napr. prevádzk**á**r > prevádzk**a**r  
 V slovách typu kamzičí, trpasličé  
