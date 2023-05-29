@@ -29,8 +29,7 @@
 
 ## Audionahrávky
 V audionahrávkach sa nachádzajú úvodné texty k otázkam 1-20 a texty k počúvaniu s porozumením  
-Audionahrávky je možné prehrať online na [tomto linku](https://mega.nz/folder/Cu5iWKyR#eGQmG-ondWJ5tWGKO8oDZQ)  
-Audionahrávky je možné stiahnuť priamo na linku  
+Audionahrávky je možné prehrať online alebo stiahnuť na [tomto linku](https://mega.nz/folder/Cu5iWKyR#eGQmG-ondWJ5tWGKO8oDZQ)  
 
 
 ### Zoznam audionahrávok:
