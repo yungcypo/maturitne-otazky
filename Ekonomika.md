@@ -20,7 +20,7 @@ Obstaranie:
 
 Oceňovanie:
 - obstarávacia cena (OC)- cena, za ktorú sa majetok obstaral + náklady súvisiace s jeho obstaraním
-- reprodukčná obstarávacia cena (ROC) - vyjadruje zemené reprodukčné podmienky používania majetku. Je to cena, ktorú by mal majetok mať v čase, keď sa o ňom účtuje
+- reprodukčná obstarávacia cena (ROC) - vyjadruje zmenené reprodukčné podmienky používania majetku. Je to cena, ktorú by mal majetok mať v čase, keď sa o ňom účtuje
 - vlastné náklady (VN) - súčet priamo a nepriamo vynaložených nákladov pri vlastnej výrobe majetku
 - zostatková cena (ZC) - cena, ktorá nám ostane po odpísaní istej sumy z majetku
 - oprávky - kumulované (sčítané) odpisy, t. j. súčet odpisov majetku za celú dobu životnosti
@@ -108,30 +108,31 @@ Príčiny:
 # 3 - Mzda
 ## Definícia + funkcie
 Mzda = cena práce  
+
 Funkcie:
-- národno-hospodárska - mzda je odmena za poskytnutie výrobného faktora
-- podnikovo-hospodárska - významná nákladná položka
-- stimulačná - motivácia na zvýšenie výkonu
-- sociálna - zabezpečenie sociálnej istoty, ovplyvňuje životnú úroveň
+- Národno-hospodárska - mzda je odmena za poskytnutie výrobného faktora
+- Podnikovo-hospodárska - významná nákladná položka
+- Stimulačná - motivácia na zvýšenie výkonu
+- Sociálna - zabezpečenie sociálnej istoty, ovplyvňuje životnú úroveň
 
 ## Základné a doplnkové formy
-- základné formy 
-    - časová
-    - úkolová
-    - podielová
-    - kombinovaná (časová + úkolová)
-    - zmluvná (manažérska)
-    - naturálna
-- doplnkové formy
-    - odmeny
-    - prémie
-    - osobné ohodnotenie
-    - podiely na výsledku hospodárenia
+- Základné formy 
+    - Časová
+    - Úkolová
+    - Podielová
+    - Kombinovaná (časová + úkolová)
+    - Zmluvná (manažérska)
+    - Naturálna
+- Doplnkové formy
+    - Odmeny
+    - Prémie
+    - Osobné ohodnotenie
+    - Podiely na výsledku hospodárenia
 
 ## Spôsob výpočtu a účtovania mzdy
 |   | Výpočet mzdy                                                    |
 |:-:|-----------------------------------------------------------------|
-|   |Hrubá mzda                                                       |
+|   | Hrubá mzda                                                      |
 | + | Plnenia zúčtovanie a vyplatené v príslušnom kalendárnom mesiaci |
 | = | Hrubý príjem                                                    |
 | - | Povinné poistné SP                                              |
@@ -148,18 +149,19 @@ Funkcie:
 
 ## Sociálne poistenie
 Sociálne poistenie slúži na ochranu obyvateľov v rôznych situáciách (materstvo, PN). Povinnosť prispievať do sociálneho poistenia vyplýva zo zákona.
+
 Rozdelenie:
-- nemocenské poistenie
-- dôchodkové poistenie
-- úrazové poistenie
-- garančné poistenie
-- poistenie v nezamestnanosti
+- Nemocenské poistenie
+- Dôchodkové poistenie
+- Úrazové poistenie
+- Garančné poistenie
+- Poistenie v nezamestnanosti
 
 ## Pracovný čas - formy, doba odpočinku, dovolenka
 **Pracovný čas** je časový úsek, v ktorom je zamestnanec k dispozícií zamestnávateľovi, vykonáva prácu podľa pracovnej zmluvy. Je určený podľa zmennej prevádzky:
-- ranná (6-14)
-- poobedňajšia (14-22)
-- nočná (22-6)
+- Ranná (6-14)
+- Poobedňajšia (14-22)
+- Nočná (22-6)
 &nbsp;  
 &nbsp;  
 - 1-zmenná prevádzka - 40 hodín týždenne  
@@ -167,8 +169,8 @@ Rozdelenie:
 - 3-zmenná prevádzka - 37 $\frac{1}{2}$ hodín týždenne  
 
 Môže byť rozvrhnutý:
-- rovnomerne - rovnaký pracovný čas počas všetkých pracovných týždňov, týždeň je rozvrhnutý na 5 pracovných dní
-- nerovnomerne - pracovný čas v jednotlivých týždňoch je rozdelený, pracovný čas za 1 deň nesmie presiahnuť 12 hodín
+- Rovnomerne - rovnaký pracovný čas počas všetkých pracovných týždňov, týždeň je rozvrhnutý na 5 pracovných dní
+- Nerovnomerne - pracovný čas v jednotlivých týždňoch je rozdelený, pracovný čas za 1 deň nesmie presiahnuť 12 hodín
 
 Najvyšší rozsah týždenného pracovného času (neobsahuje prestávky v práci):
 - 40 hodín
@@ -178,16 +180,16 @@ Najvyšší rozsah týždenného pracovného času (neobsahuje prestávky v prá
 Pracovný čas môže byť pružný - zamestnávateľ nestanoví presný začiatok a koniec pracovného času, ale určí mu čas, ktorý musí byť na pracovisku. Pružný môže byť deň, týždeň, mesiac
 
 **Doba odpočinku**  
-- prestávky v práci - ak zamestnanec pracuje <u>\> 6 hodín</u> (mladiství \> 4,5 hodiny) vzniká mu nárok na odpočinok a jedenie v trvaní <u>30 minút</u> po 4 odpracovaných hodinách
-- nepretržitý denný odpočinok - zamestnanec musí mať medzi zmenami odpočinok <u>min. 12 hodín</u> (mladiství min. 14 hodín)
-- nepretržitý odpočinok v týždni - zamestnanec musí mať 1 $1\times$ za týždeň <u>2 po sebe nasledujúce dni</u> nepretržitého odpočinku (sobota a nedeľa/nedeľa a pondelok) 
-- dni pracovného pokoja - štátne sviatky a ostatné sviatky
+- Prestávky v práci - ak zamestnanec pracuje <u>\> 6 hodín</u> (mladiství \> 4,5 hodiny) vzniká mu nárok na odpočinok a jedenie v trvaní <u>30 minút</u> po 4 odpracovaných hodinách
+- Nepretržitý denný odpočinok - zamestnanec musí mať medzi zmenami odpočinok <u>min. 12 hodín</u> (mladiství min. 14 hodín)
+- Nepretržitý odpočinok v týždni - zamestnanec musí mať 1 $1\times$ za týždeň <u>2 po sebe nasledujúce dni</u> nepretržitého odpočinku (sobota a nedeľa/nedeľa a pondelok) 
+- Dni pracovného pokoja - štátne sviatky a ostatné sviatky
 
 **Dovolenka** na zotavenie
-- ak zamestnanec odpracoval nepretržite <u>60 dní</u>, má nárok na dovolenku v rozsahu <u>4 týždňov</u> za kalendárny rok, ak zamestnanec dovŕši 33 rokov je to 5 týždňov, majstri odborného výcviku, učitelia 8 týždňov
-- ak pracovný pomer netrval nepretržite počas celého kalendárneho roka, zamestnanec má právo nárok na pomernú časť dovolenky - <u>každý mesiac $\frac{1}{12}$ dovolenky</u>
-- dovolenka za odpracované dni - ak zamestnanec nemá právo na dovolenku podľa bodu 1, má právo na <u> $\frac{1}{12}$ dovolenky</u> za každých odpracovaných <u>21 dní</u>
-- ak zamestnanec pracoval v sťažených podmienkach, pripočíta sa mu <u>1 týždeň</u> dovolenky
+- Ak zamestnanec odpracoval nepretržite <u>60 dní</u>, má nárok na dovolenku v rozsahu <u>4 týždňov</u> za kalendárny rok, ak zamestnanec dovŕši 33 rokov je to 5 týždňov, majstri odborného výcviku, učitelia 8 týždňov
+- Ak pracovný pomer netrval nepretržite počas celého kalendárneho roka, zamestnanec má právo nárok na pomernú časť dovolenky - <u>každý mesiac $\frac{1}{12}$ dovolenky</u>
+- Dovolenka za odpracované dni - ak zamestnanec nemá právo na dovolenku podľa bodu 1, má právo na <u> $\frac{1}{12}$ dovolenky</u> za každých odpracovaných <u>21 dní</u>
+- Ak zamestnanec pracoval v sťažených podmienkach, pripočíta sa mu <u>1 týždeň</u> dovolenky
 
 ## Účtovné doklady a knihy spojené so mzdovou evidenciou
 |     | Účtovné doklady              |
@@ -206,15 +208,15 @@ Pracovný čas môže byť pružný - zamestnávateľ nestanoví presný začiat
 # 4 - Náklady
 ## Definícia + členenie + príklad
 Členenie podľa objemu výroby:
-- fixné (pevné)
-    - so zmenou výroby sa celkovo nemenia, ale mení sa ich podiel pripadajúci na jednotku výkonu
-    - napr. elektrická energia, voda, kúrenie, nájomné, odpisy, úroky z úverov
-- variabilné (premenlivé, pružné) - menia sa so zmenou objemu výroby
-    - proporcionálne - rastú v tom istom pomere ako objem výkonov, napr. spotreba priameho materiálu na výrobok
-    - neproporcionálne
-        - progresívne - ich celková výška rastie rýchlejšie ako objem výkonov (ak objem výkonov rastie) a klesá pomalšie ako objem výkonov (v prípade ak objem výkonov klesá). Napr. príplatky za nadčas, príplatky v dňoch pracovného pokoja, náklady na nepodarky. *Priama mzda pracovníka je 5€/hod., ak pracuje nadčas je jeho mzda 5,50€/hod. Čím viac nadčasových hodín odpracuje, tým sú celkové náklady vyššie a rastú rýchlejšie*
-        - degresívne - ich celková výška rastie pomalšie ako objem výkonov (ak objem výkonov rastie) a klesá rýchlejšie ako objem výkonov (ak objem výkonov klesá). Napr. náklady na opravy DM, náklady na pomocný materiál, technologické palivo a pod. *Podnik vlastní stroje, na ktorých sa robia každoročne opravy 100€ na 10 000 ks výrobkov -> 0,01€/ks. Ak vyrobí 15 000 ks výrobkov, stroje treba opravovať častejšie a cena opravy je 130€ -> 0,0086€/ks. Pri 20 000 ks je cena 160€ -> 0,008€/ks.*
-        - regresívne - vyvíjajú sa nepriamo úmerne s objemom výkonov. Napr. mzdy vyplatené za prestoje
+- Fixné (pevné)
+    - So zmenou výroby sa celkovo nemenia, ale mení sa ich podiel pripadajúci na jednotku výkonu
+    - Napr. elektrická energia, voda, kúrenie, nájomné, odpisy, úroky z úverov
+- Variabilné (premenlivé, pružné) - menia sa so zmenou objemu výroby
+    - Proporcionálne - rastú v tom istom pomere ako objem výkonov, napr. spotreba priameho materiálu na výrobok
+    - Neproporcionálne
+        - Progresívne - ich celková výška rastie rýchlejšie ako objem výkonov (ak objem výkonov rastie) a klesá pomalšie ako objem výkonov (v prípade ak objem výkonov klesá). Napr. príplatky za nadčas, príplatky v dňoch pracovného pokoja, náklady na nepodarky. *Priama mzda pracovníka je 5€/hod., ak pracuje nadčas je jeho mzda 5,50€/hod. Čím viac nadčasových hodín odpracuje, tým sú celkové náklady vyššie a rastú rýchlejšie*
+        - Degresívne - ich celková výška rastie pomalšie ako objem výkonov (ak objem výkonov rastie) a klesá rýchlejšie ako objem výkonov (ak objem výkonov klesá). Napr. náklady na opravy DM, náklady na pomocný materiál, technologické palivo a pod. *Podnik vlastní stroje, na ktorých sa robia každoročne opravy 100€ na 10 000 ks výrobkov -> 0,01€/ks. Ak vyrobí 15 000 ks výrobkov, stroje treba opravovať častejšie a cena opravy je 130€ -> 0,0086€/ks. Pri 20 000 ks je cena 160€ -> 0,008€/ks.*
+        - Regresívne - vyvíjajú sa nepriamo úmerne s objemom výkonov. Napr. mzdy vyplatené za prestoje
 
 ## Položky kalkulačného vzorca + úloha vzorca
 |     | Kalkulačný vzorec            |
@@ -238,12 +240,12 @@ Výnos je zvýšenie ekonomických úžitkov účtovnej jednotky v účtovnom ob
 
 ## Zásady účtovania nákladov a výnosov
 Náklady:
-- účtujú sa v triede 5
-- vždy na ľavej strane (Dal)
+- Účtujú sa v triede 5
+- Vždy na ľavej strane (Dal)
 
 Výnosy:
-- účtujú sa v triede 6
-- vždy na pravej strane (Má dať)
+- Účtujú sa v triede 6
+- Vždy na pravej strane (Má dať)
 
 ## Ako sa z účtovníctva zistí výsledok hospodárenia + spôsob rozdelenia
 
@@ -251,10 +253,11 @@ Výnosy:
 # 5 - Trh
 ## Charakteristika + subjekty trhu
 Trh je miesto, kde dochádza k výmene tovarov a služieb medzi jednotlivými trhovými subjektami  
+
 Subjekty trhu:
-- domácnosti
-- podniky
-- štát
+- Domácnosti
+- Podniky
+- Štát
 
 ## Čo vyjadruje dopyt, ponuka, rovnovážna cena
 **Dopyt** predstavuje množstvo statku, ktoré je kupujúci ochotný a schopný **kúpiť** za danú cenu tohto statku za dané časové obdobie.  
@@ -263,29 +266,29 @@ Subjekty trhu:
 
 ## Význam konkurencie, typy konkurencie + príklady
 Druhy konkurencie: 
-- podľa subjektov trhu
-    - konkurencia medzi dopytom a ponukou - spotrebitelia chcú kupovať za nízke ceny, výrobcovia chcú predávať za vysoké ceny
-    - konkurencia na strane dopytu - konkurencia medzi spotrebiteľmi. Cieľom každého spotrebiteľa je nakúpiť čo najviac za čo najlepšiu cenu, hoci aj na úkor ostatných. Konkurencia na strane D rastie, keď je na trhu nedostatok P a naopak
-    - konkurencia na strane ponuky - každý výrobca sa usiluje maximalizovať svoj zisk a posilniť si pozíciu na trhu aj na úkor konkurencie
-- podľa formy prejavu
-    - cenová konkurencia - výrobca znižuje ceny, na určitý čas sa vzdáva zisku - snaží sa získať spotrebiteľov
-    - necenová konkurencia - pomocou reklamy, služieb, rastom kvality a pod.
-- podľa trhových podmienok
-    - dokonalá konkurencia - ak je na trhu veľa predávajúcich aj kupujúcich, ale žiaden z nich nedokáže dosiahnuť taký veľký zisk, aby mohol ovplyvniť trhovú cenu. *(Napr. niektoré odvetvia poľnohospodárstva (pšenica, bavlna))*
-    - nedokonalá konkurencia
-        - monopolistická konkurencia *(Napr. maloobchod (potraviny), čerpadlá pohonných hmôt)*
-            - veľa malých podnikov
-            - odlišné produkty
-        - oligopol
-            - homogénny *(Napr. oceľ, hliník, letecká doprava)*
-                - málo veľkých podnikov
-                - takmer identické produkty
-            - heterogénny *(Napr. autá, PC)*
-                - málo veľkých podnikov
-                - odlišné produkty
-        - monopol/úplný monopol/čistý monopol *(Napr. elektrina, voda, plyn)*
-            - jeden veľký výrobca
-            - jednotlivý produkt bez náhrady
+- Podľa subjektov trhu
+    - Konkurencia medzi dopytom a ponukou - spotrebitelia chcú kupovať za nízke ceny, výrobcovia chcú predávať za vysoké ceny
+    - Konkurencia na strane dopytu - konkurencia medzi spotrebiteľmi. Cieľom každého spotrebiteľa je nakúpiť čo najviac za čo najlepšiu cenu, hoci aj na úkor ostatných. Konkurencia na strane D rastie, keď je na trhu nedostatok P a naopak
+    - Konkurencia na strane ponuky - každý výrobca sa usiluje maximalizovať svoj zisk a posilniť si pozíciu na trhu aj na úkor konkurencie
+- Podľa formy prejavu
+    - Cenová konkurencia - výrobca znižuje ceny, na určitý čas sa vzdáva zisku - snaží sa získať spotrebiteľov
+    - Necenová konkurencia - pomocou reklamy, služieb, rastom kvality a pod.
+- Podľa trhových podmienok
+    - Dokonalá konkurencia - ak je na trhu veľa predávajúcich aj kupujúcich, ale žiaden z nich nedokáže dosiahnuť taký veľký zisk, aby mohol ovplyvniť trhovú cenu. *(Napr. niektoré odvetvia poľnohospodárstva (pšenica, bavlna))*
+    - Nedokonalá konkurencia
+        - Monopolistická konkurencia *(Napr. maloobchod (potraviny), čerpadlá pohonných hmôt)*
+            - Veľa malých podnikov
+            - Odlišné produkty
+        - Oligopol
+            - Homogénny *(Napr. oceľ, hliník, letecká doprava)*
+                - Málo veľkých podnikov
+                - Takmer identické produkty
+            - Heterogénny *(Napr. autá, PC)*
+                - Málo veľkých podnikov
+                - Odlišné produkty
+        - Monopol/úplný monopol/čistý monopol *(Napr. elektrina, voda, plyn)*
+            - Jeden veľký výrobca
+            - Jednotlivý produkt bez náhrady
 
 
 ## Účtovanie zúčtovacích vzťahov z obchodného styku
@@ -294,7 +297,8 @@ Tzv. vystavené a prijaté faktúry - **účty 311, 321**
 &nbsp;
 # 6 - Podnik
 ## Charakteristika + zložky
-Podnik je samostatná hospodárska jednotka, ktorá využívaním výrobných činiteľov vyrába výrobky alebo poskytuje služby určené na predaj. Môžeme ho charakterizovať aj ako súhrn hmotných, nehmotných a osobných zložiek podnikania, ktoré zabezpečujú činnosť podniku.
+Podnik je samostatná hospodárska jednotka, ktorá využívaním výrobných činiteľov vyrába výrobky alebo poskytuje služby určené na predaj  
+Môžeme ho charakterizovať aj ako súhrn hmotných, nehmotných a osobných zložiek podnikania, ktoré zabezpečujú činnosť podniku
 
 ## Ekonomická samostatnosť, právna subjektivita
 - **Ekonomická samostatnosť**
@@ -397,19 +401,23 @@ Podnik je samostatná hospodárska jednotka, ktorá využívaním výrobných č
         - Kultúrno-vzdelávacie podniky - vzdelávacie inštitúcie, vydavateľstvá, filmové podniky
         - Finančné podniky - služby súvisiace s finančnými operáciami (banky, poisťovne, sporiteľne, zmenárne)
         - Ostatné - napr. liečebne, podniky sociálnej starostlivosti
+
 - **Podľa sektorov**
     - Podnik primárneho sektora - podniky surovinového sektoru - ťažobný priemysel (bane), energetika (elektrárne), poľnohospodárstvo, lesníctvo (pestovanie a ťažba dreva)
     - Podnik sekundárneho sektora - podniky sektoru výroby, kam patria priemyselné podniky (strojárske, textilné, potravinárske), stavebné, remeselné (sklárstvo)
     - Podnik terciárneho sektora - podniky sektoru služieb, napr. podniky cestovného ruchu, obchodné, finančné, dopravné
     - Podnik kvarciárneho sektora - oblasť vedy, techniky, výskum, školstvo a zdravotníctvo  
+
 - **Podľa veľkosti**
     - Malé - do 50 zamestnancov
     - Stredné - do 500 zamestnancov
     - Veľké - nad 500 zamestnancov
+
 - **Podľa vlastníctva**
     - Štátne - majetok podniku je vlastníctvom štátu 
     - Súkromné - majetok podniku je súkromným vlastníctvom
     - Zmiešané - kombinácia oboch foriem vlastníctva, najčastejšie ide o spojenie štátneho a súkromného vlastníctva v tých oblastiach podnikania, ktoré potrebuje mať štát pod kontrolou (napr. výroba zbraní, preprava plynu)
+
 - **Podľa právnej formy**
     - Podnik jednotlivca (živnosti) - vlastníkom podniku je jednotlivec, ktorý vkladá do podniku časť svojho majetku. Vlastník podniku sám rozhoduje o jeho činnosti a sám nesie aj celé riziko spojené s podnikaním. Ručí sa za záväzky svojej firmy neobmedzene, celým svojím majetkom (aj osobným majetkom)
     - Obchodné spoločnosti - združenie 2 alebo viacerých podnikateľov, ktoré vzniká na základe zmluvy. Spoločníci sa spoločne podieľajú na dosiahnutom zisku, ale aj prípadné straty uhrádzajú spoločne
@@ -419,6 +427,7 @@ Podnik je samostatná hospodárska jednotka, ktorá využívaním výrobných č
         - Združenie osôb na spoločné podnikanie
 
 ## Cenkros
+
 &nbsp;
 # 7 - Finančné riadenie
 ## Finančné zdroje - charakteristika
@@ -721,12 +730,125 @@ Pod pojmom výrobková politika rozumieme činnosti spojené s právom s výrobk
 
 &nbsp;
 # 11 - Krátkodobý majetok
+Je to majetok, ktorý firma používa menej ako 1 rok  
+Má krátkodobý charakter  
+Spotrebúva sa naraz (materiál) alebo krátkodobo (náradie)
+
+Delíme ho na:
+- Zásoby
+    - Materiál
+    - Nedokončená výroba
+    - Polotovary vlastnej výroby
+    - Výrobky
+    - Zvieratá
+    - Tovar
+- Krátkodobý finančný majetok
+    - Doba splatnosti menej ako 1 rok
+    - Najlikvidnejší majetok
+    - Zaraďujeme sem
+        - Peniaze v hotovosti
+        - [Ceniny](#ceniny)
+        - Peniaze uložené na účtoch a v bankách - bežný účet, vkladový účet, devízový účet
+        - Majetkové a dlhové cenné papiere s dobou splatnosti menej ako 1 rok
+- Krátkodobé pohľadávky
+    - Pohľadávky s dohodnutou dobou splatnosti najviac 1 rok
+
 ## Obežný majetok
+Sú to zložky majetku, ktoré sa v podniku používajú krátkodobo  
+
+Delia sa na:
+- Zásoby
+- Krátkodobý finančný majetok
+- Krátkodobé pohľadávky
+
 ## Ceniny
+Sú to ekvivalenty peňažnej hotovosti  
+
+Môžu to byť napríklad:
+- Poštové známky
+- Kolky
+- Šeky
+- Poukážky
+- Stravné lístky
+- Telefónne karty
+- Odberné poukážky na benzín
+
 ## Dodacie podmienky pre voľbu dodávateľa 
+> Ak som pochopil správne, tak sa učivo už nachádza v otázke 9 -> [ďalšie obchodné podmienky](#ďalšie-obchodné-podmienky)
+
 ## Druhy zásob + charakteristika
-## Význam normy spotreby materiálu
+Zásoby sú hmotné statky, ktoré sa nachádzajú v podniku a doteraz sa nevyužili na určený cieľ  
+V podnikovom transformačnom procese pôsobia krátkodobo, menia často svoju formu, obiehajú  
+Nazývajú sa obežným majetkom  
+
+Druhy zásob:
+- Podľa spôsobu obstarania
+    - Nakupované zásoby
+        - Výrobkové materiály - stávajú sa súčasťou výrobku
+            - Základný materiál - tvorí hmotnú podstatu výrobku
+            - Pomocný materiál - dotvára výrobok (lak, farba)
+        - Technologický materiál a náhradné diely - stroje, oleje, mazadlá
+        - Nakupovaný tovar
+        - Zvieratá
+    - Zásoby vlastnej výroby
+        - Nedokončené výrobky - výrobky v rôznom štádiu rozpracovania
+        - Polovýrobky 
+            - Pre určitú časť výroby sú už hotovým výrobkom
+            - Podnik ich používa v ďalšej fáze výroby na dokončenie výrobkov
+        - Výrobky - konečný výsledok výroby
+        - Tovar v predajniach - výrobky odovzdané do vlastnej predajne výrobkov
+        - Zvieratá - prírastky chovov
+
+## Norma spotreby materiálu
+Je to maximálne množstvo, ktoré sa môže spotrebovať na jednotku produkcie v stanovenej kvalite  
+> vyjadruje sa v natur. *(?)* a hodnote jednotky (€)
+
+Rozlišujeme:
+- Normu spotreby základného materiálu
+    - Určí sa jednotka výkonu *(ks, m, l)*
+    - Napr. drevo na drevenú stoličku
+- Norma spotreby pomocného materiálu
+    - Určuje sa na rôzne jednotky spotreby, pretože sa nie vždy dá určiť na jednotku výkonu
+    - Pomocný materiál, ktorý sa pridáva k základnému materiálu, ale netvorí obsah hotového výrobku (laky, farby - určí sa na vyrábaný výrobok)
+    - Pomocný materiál použitý pri obsluhe výrobného zariadenia (mazacie oleje určí sa na stroj, jednotka práce 100 normohodín)
+    - Pomocný materiál, ktorý používa pracovná sila (odev, obuv - určí sa na robotníka, počet pracovných dní, ...)
+
+Skladá sa z dvoch častí:
+- Čistý (užitočný) podiel materiálu - materiál, ktorý vchádza do výrobku 
+    - Vstupný materiál 
+    - Polovýrobky
+- Odpad - podnik ho môže likvidovať alebo použiť na ďalšiu výrobu
+    - Technologický - vyplýva z technologického procesu, pri výrobe
+    - Ostatný - vzniká pri organizácií práce - nepodarky, zmätky
+
+Metódy určenia noriem spotreby:
+- Prepočtovo - analytická
+    - Vychádza z technickej a technologickej dokumentácie (norma nástrojov a výrobné postupy)
+- Skúšobno - technologická
+    - Norma sa stanoví skúškami vo výrobnej prevádzke alebo v laboratóriu
+- Štatistická
+    - Vychádza z priemernej štatistiky (skutočnej) spotreby za uplynulé obdobie
+
 ## Spôsob obstarania a ocenenia zásob
+### Obstaranie
+- Náhodné obstarávania
+    - Podnik objednáva zásoby až vtedy, keď sa minú
+    - Využíva sa najmä pri remeslách
+- Obstarávanie do zásoby
+    - V pravidelných časových intervaloch
+    - Využíva sa hlavne v priemysle
+- Bezskladové obstaranie
+    - Tiež nazývané *"Just in time"* alebo *synchrónne obstarávanie*
+    - Podnik dáva zásoby priamo do výroby
+    - Vo väčšej miere v obchodnej činnosti
+
+### Ocenenie
+Zásady oceňovania zásob
+- Nakúpené zásoby sa oceňujú v obstarávacej cene
+- Zásoby vlastnej výroby sa oceňujú vo vnútroorganizačnej cene  
+Táto cena vychádza z predbežnej kalkulácie vlastných nákladov výroby (spotreba materiálu, priame mzdy, ...)
+- Darované zásoby a dodatočne zistené zásoby sa oceňujú reprodukčnou obstarávacou cenou = cenou, za ktorú by sa zásoby obstarali v čase, keď ju potrebujeme zistiť
+
 ## Cenkros
 
 &nbsp;
@@ -878,6 +1000,18 @@ Pod pojmom výrobková politika rozumieme činnosti spojené s právom s výrobk
 - Účtovný prípad
 ## Súvaha - položky, druhy súvah, účtová osnova, účtový rozvrh
 ## Zásady účtovania na súvahových a výsledkových účtoch
+
+&nbsp;
+# Nenašiel som!
+Zoznam vecí, ktoré som v poznámkach nenašiel:  
+[Ako sa z účtovníctva zistí výsledok hospodárenia + spôsob rozdelenia](#ako-sa-z-účtovníctva-zistí-výsledok-hospodárenia--spôsob-rozdelenia) (otázka 4)  
+[Hlavné ciele a činnosti podniku (charakteristika) - ciele podniku](#hlavné-ciele-a-činnosti-podniku-charakteristika) (otázka 6)  
+[Činitele, ktoré ovplyvňujú finančnú situáciu podniku](#činitele-ktoré-ovplyvňujú-finančnú-situáciu-podniku) (otázka 7)  
+[Koho zaujíma finančná situácia, prečo](#koho-zaujíma-finančná-situácia-prečo) (otázka 7)  
+[Formy a metódy prieskumu trhu](#formy-a-metódy-prieskumu-trhu) (otázka 9)  
+[Činnosti spojené s prácou s výrobkom](#činnosti-spojené-s-prácou-s-výrobkom) (otázka 10)  
+<!-- []() (otázka )  -->
+
 
 ---
 [↑ Späť na začiatok ↑](#ekonomika---maturitné-otázky)
