@@ -1721,55 +1721,475 @@ Základné **znaky** náučného štýlu
 
 &nbsp;
 # Otázka 21
+## [Ohybné slovné druhy](#ohybné-slovné-druhy)
+> Táto otázka už je spracovaná v otázke č. 18
 
 &nbsp;
 # Otázka 22
+## Súvetia
+### Priraďovacie súvetia
+Sú zložené z 2 formálne rovnocenných hlavných viet, ktoré sa spájajú priraďovacími prostriedkami (spojkami alebo bez spojok)  
+
+### Zlučovacie súvetie
+Vzniká spojením 2 rovnocenných viet, ktorých deje prebiehajú súčasne alebo tesne za sebou  
+Môže sa spájať so spojkami *a, i, aj, ani, a najmä, i-i, aj-aj, ...*;  
+Spájacími výrazmi *jednak-jednak, najprv-potom*;  
+Alebo bez spojok  
+
+Napr. *Bolo zamračené a fúkal silný vietor.*  
+*Najprv. sa pohádali, potom sa museli udobrovať*
+
+### Odporovacie súvetie
+Je spojenie 2 viet, ktorých obsahy si významovo odporujú  
+Spájajú sa spojkami *a, ale, no, lež, avšak, len*;  
+Spájacími výrazmi *ale predsa, jednako, a napriek tomu, lenže*
+
+Napr. *Bolo slnečno, ale fúkal silný vietor*  
+*Učil sa tri hodiny, lenže jednotku nedostal.*
+
+### Stupňovacie súvetie
+Je spojenie 2 viet, z ktorých je druhá obsahovo dôležitejšia než prvá  
+Spájajú sa spojkami *ba aj, ba ani*;  
+Alebo spájacími výrazmi *nielen-ale aj, ba-naopak, ba dokonca*
+
+Napr. *Zvalilo ohradu, ba aj strechu odnieslo*  
+*Nepochopili nás, dokonca sa nám smiali*
+
+### Vylučovacie súvetie
+Je spojenie 2 viet, ktorá sa obsahovo navzájom vylučujú  
+Spájajú sa spojkami *alebo, buď, či, či-alebo, buď-alebo, buď-buď, alebo-alebo*  
+
+Napr. *Možno to nechápali, možno sa tak iba tvárili*  
+*Buď budeš počúvať, alebo si to oprav sám*  
+
+### Dôvodové súvetie
+Je spojenie 2 viet, z ktorých druhá uvádza dôvod prvej vety  
+Spájajú sa spojkami *veď, avšak, totiž, ináč*  
+
+Napr. *Neviem nič, veď som sa neučil*  
+*Pomohol som mu, keď ma o to požiadal*
+
+### Dôsledkové súvetie
+Je spojenie 2 viet, z ktorých prvá vyjadruje dôvod a druhá dôsledok  
+Môže byť bez spojok, alebo so spojkami *preto, tak, teda, a tak, a preto, a teda*  
+
+Napr. *Bola chorá, a tak prišla*
 
 &nbsp;
 # Otázka 23
+## [Rečnícky štýl](#rečnícky-štýl)
+> Táto otázka je už spracovaná v otázke č. 13
 
 &nbsp;
 # Otázka 24
+## Slohové postupy *(IVOR)*
+| Slohový postup | Spôsob, akým vyberáme, skladáme a usporadúvame text alebo časti textu | Niektoré útvary |
+|---|---|---|
+| Informačný | Sprostredkúva stručné údaje (fakty), vyberá a usporadúva ich do konkrétneho slohového útvaru. Odpovedá na otázky *kto, čo, kedy, kde, ako, prečo* | Správa, interview, oznámenie, inzerát, plagát, reklama, referát, žiadosť, objednávka, pozvánka, programy, rôzne tlačivá, zápisnica,  životopis |
+| Výkladový/úvahový | Objektívne vysvetľuje príčinné a dôsledkové vzťahy medzi javmi života. Úvaha a esej používa aj subjektívne prostriedky - vykladá vzťahy medzi javmi života zo zorného uhla pohľadu autora | Výklad, referát, prednáška, dizertácia, monografia, prejav, diskusia, diskusný príspevok, debata, úvaha, úvodník, esej, recenzia |
+| Opisný | Vyberá a usporadúva znaky a vlastnosti osôb, zvierat, vecí, činností a javov. Funkciou opisu je názorne slovami vystihnúť znaky, črty a vlastnosti | Opis (jednoduchý, odborný, umelecký, statický), návod na použitie, opis pracovného postupu, životopis, posudok, charakteristika, cestopis, karikatúra |
+| Rozprávací | Zachytáva udalosti, príhody, zážitky v časovej postupnosti. Vzniká súvislé dejové pásmo | Román, poviedka, reportáž, rozprávanie, reprodukcia, balada, vtip, dynamický opis |
+
+**Slohový útvar** (alebo žáner) je konkrétny uzavretý a ukončený výsledný text, ktorý vznikol použitím určitého slohového postupu
 
 &nbsp;
 # Otázka 25
+## Vznik a vývoj slovenského jazyka
+Porovnávaním sa dokázalo, že európske jazyky a jazyky značnej časti západnej Ázie vychádzajú zo spoločného prajazyka – indoeurópskeho, ktorým sa hovorilo asi 3 500 rokov p. n. l.  
+Jednotlivé indoeurópske kmene sa postupne oddeľovali a osídľovali nové územia
+
+### Indoeurópske jazyky
+- Indoiránske (perzština, hindičtina)
+- Grécky
+- Baltské (litovský, lotyšský)
+- Slovanské
+- Germánske 
+    - Západogermánske (anglický, holandský, flámsky, nemecký, luxemburský)
+    - Severogermánske (dánsky, švédsky, nórsky, islandský)
+- Italické a románske (latinský, taliansky, francúzsky, španielsky, portugalský, rumunský, moldavský)
+- Keltské (írčina, waleština, bretónčina)
+- Ďalšie jazykové roviny - napr. uralská (ugrofínska) - maďarčina, estónčina, ...
+
+### Slovanské jazyky
+Slovanskými jazykmi hovoria príslušníci slovanských národov v strednej a východnej Európe  
+Všetky sa vyvinuli zo spoločného základu - praslovančiny  
+**Praslovančina** sa vyčlenila z indoeurópskeho prajazyka niekoľkými charakteristickými zmenami v hláskovej stavbe (1. - 3. palatalizácia - zmäkčovanie)  
+Je to pôvodný jazyk starých Slovanov
+
+Delíme ich na:
+- Západoslovanské - slovenský, český, poľský, lužicko-srbský
+- Južnoslovanské - srbský, chorvátsky, slovinský, bulharský, macedónsky
+- Východoslovanské - ruský, ukrajinský, bieloruský
+
+Slovenčina si zachovala asi 108 praslovanských slov - voda, človek, zem, ...
+
+## Vývin slovenčiny
+### 6. - 9. storočie
+K diferenciácii praslovanského jazyka dochádza vplyvom migrácie našich predkov a osídľovania karpatsko-naddunajskej oblasti (okolo 6. stor.)  
+Naši predkovia prichádzali na toto územie dvoma prúdmi – západná a východná časť bola osídlená prúdom prichádzajúcim zo severu a severovýchodu, stredná časť prúdom z juhu a juhovýchodu  
+Slovania po príchode na naše územie preberali mená riek a hôr po národoch, ktoré tu žili pred nimi (Kelti, Germáni), napr. Karpaty, Tatry, Nitra, Váh  
+Spoločným slovanským jazykom bola teda **praslovančina**, ktorá zanikla okolo 8. – 9. storočia
+
+### 9. storočie
+Konštantín a Metod pred príchodom na Veľkú Moravu zostavili nový sloviensky jazyk, ktorým hovorili slovanskí vzdelanci v okolí mesta Solún  
+Bol to prvý kultúrny, liturgický jazyk Slovanov  
+
+**Staroslovienčina** využívala:
+- nosovky e, o – zanikajú v druhej polovici 10. stor.  
+Goleta – Galanta, roka – ruka
+- jery - zanikajú v 10. – 11. stor.
+- hlaholika – staroslovienske písmo, zostavil ho Konštantín na základe malej gréckej abecedy
+- cyrilika – veľké písmená gréckej abecedy, dodnes ju používajú Rusi, Ukrajinci, Bulhari, Srbi – upravená
+
+### 10. storočie
+Staroslovienčina nezanikla hneď po odchode Metodových žiakov z Veľkej Moravy  
+Mnohé mená na kráľovskom dvore poukazujú na slovanský pôvod – Dobroslav, Drahon  
+Maďari po príchode na naše územie preberali terminológiu zo staroslovienčiny: kráľ – király, krst – kereszt  
+Po rozpade Veľkej Moravy v 10. storočí staroslovienčina ustupuje do úzadia, presadzuje sa **latinčina**
+
+### 14. - 16. storočie
+Do listín písaných po **latinsky** a po **česky** postupne preniká slovenčina s českými prvkami  
+Vzniká **slovakizovaná čeština**
+
+### 1. kodifikácia slovenského jazyka
+**Anton Bernolák**  
+1787 - vychádzal z kultúrnej západoslovenčiny a svojimi gramatickými dielami kodifikoval kultúrny jazyk – bernolákovčinu s fonetickým pravopisom  
+Slovenskí evanjelici však neprijali Bernolákovu slovenčinu, ďalej používali slovakizovanú češtinu  
+
+Diela:
+- Filozoficko-kritická rozprava o slovenských písmenách  
+- Slovenská gramatika  
+- Slowár Slovwenskí-Česko-Latinsko-Nemecko-Uherskí** 
+
+Hlavné zásady Bernolákovskej kodifikácie sú tieto:
+- Odstránil rozdiel v písaní *y-i*, ponechal len *i*
+- Mäkkosť *t, d, n, l* sa vždy označovala
+- Písali sa veľké písmená pri všetkých substantívach a pri výrazoch, ktoré sa vzťahovali na osoby: *Král, Telo, Dwere, Zem, ...*
+- Predložky *s* a *z* sa písali podľa výslovnosti: *z Adamom, s kaplnky, s ním, atd.*
+- Hláska *j* sa písala ako *g*, cudzie *q*, *x* sa písali ako *kw, ks, gz*
+- Zaviedol skupinu *šc*: *ešce, púšcat*
+
+### 2. kodifikácia slovenského jazyka
+**Ľudovít Štúr**  
+1843 - na základe stredoslovenského nárečia, ktoré pokladal za najčistejšie, kodifikoval nový spisovný jazyk
+
+Diela:
+- Nárečja slovenskuo alebo potreba písaňja v tomto nárečí
+- Nauka reči slovenskej
+
+Pravopis nebol dôsledne fonetický, rešpektoval pôvod a zloženie slova  
+Jeho slovenčina zjednotila slovenskú inteligenciu, lebo ju prijali katolíci aj evanjelici
+
+Odlišnosti Štúrovej slovenčiny od dnešnej podoby sú takéto:
+- V pravopise
+    - Nemal písmeno *y*, iba *i*
+    - Rozdiel medzi zvukmi *d, t, n* – d, t, n sa všade graficky vyznačoval.
+    - Dvojhláska *ô* sa rozpisovala ako *uo*
+    - Dvojhláska *ia, ie* sa písala ako *ja, je*
+    - V genitíve plurálu sa zvuk *v* písal ako *u*  
+    Napríklad *kralou, sluhou, casou, kostolou, ...*
+- V hláskosloví
+    - Nemal *ľ*, mal len *l*  
+    Napr. *laví, nedela*
+    - Nemal *ä*  
+    Iba *a* alebo obyčajné *e*  
+    Napr. *svatí, zavazuje, najme, vezen*
+    - Nemal *iu* len *ú*  
+    Napr. *božú, znamenú* 
+    - Nemal *é* len *je*  
+    Napr. *dobrjeho, dobrjemu*  
+    Výnimkou bolo slovo *céra*
+    - Zákon o krátení druhej dĺžky sa uplatňovalo dôsledne  
+    Napr. *oni slúža, hlása, kvjetim*
+
+### Hodžovsko-Hattalovská reforma
+**M. Hodža**  
+Mal výhrady voči pravopisu štúrovskej slovenčiny  
+Presadzoval etymologický pravopis  
+V roku 1851 bola prijatá **Hattalova úprava**  
+1852 – **Krátka mluvnica slovenská**
+
+Zmeny
+- Rozlišuje *i/y*
+- Namiesto *uo* používa *ó*, neskôr *ô*
+- Pribúdajú hlásky *ä, ľ, é*
+- Prestáva označovať mäkkosť *d, t, n, l* v slabikách de, te, ne, le
+- Koncovky prídavných mien stredného roku sa menia na *-é*
+
+### 1991
+Nové pravidlá slovenského pravopisu  
+
+Zmeny
+- Zmenilo sa písanie veľkého písmena v názvoch ulíc, mostov a podobne  
+**u**lica **O**sloboditeľov –> **U**lica **o**sloboditeľov
+- Zaviedli sa dvojtvary písania výrazov typu *dobiela/do biela, dovidenia/do videnia*
+- Zrušila sa výnimka z rytmického zákona v činnom príčastí   
+Napr. píš**ú**ci -> píš**u**ci)  
+V podstatných menách na –ár, -áreň  
+Napr. prevádzk**á**r > prevádzk**a**r  
+V slovách typu kamzičí, trpasličé  
+Napr. kamz**í**čí –> kamz**i**čí
+- Zmenilo sa písanie slova smena (v zmysle pracovná jednotka) na *zmena*
+
+### 2006
+Vyšiel **Slovník súčasného slovenského jazyka**
+- Povoľuje dvojtvary: mliek**á**r/mliek**a**r, bábk**a**r/bábk**á**r, email/e-mail, cinzano/činzáno 
+- Ppravuje písanie cudzích slov: četovanie, editoriál, bloger/blogér, drajvovať, esemeska 
+- Zachytáva nové zložené slová: eurominca, dvojeurovka... 
+
+## 2011 
+Vyšiel **Slovník súčasného slovenského jazyka** 
+- Povoľuje dvojtvary: hacker/heker 
+- Hovorové slová: holohlavec, imidžovka, informačka, intimka 
+- Nové zložené slová: infostánok
+
+---
+
+**Jazyková norma** - súhrn jazykových prostriedkov a objektov jestvujúcich zákonitostí, ktoré sa záväzne uplatňujú v kolektívnom úze nositeľov spisovného jazyka  
+Zaväzuje používateľov jazyka narábať s jazykovými prostriedkami ustáleným spôsobom  
+
+**Kodifikácia** – úradný akt, súbor pravidiel a predpisov na používanie spisovného jazyka v istom období, záväzný pre všetkých používateľov jazyka  
+
+**Štandardná forma jazyka** – má celonárodnú platnosť, používa sa v každodennej komunikácii  
+
+**Subštandardná forma jazyka** – má celonárodnú platnosť, ale využíva množstvo nárečových prvkov  
+
+**Územné nárečie** – jazyk časti národného spoločenstva v územne presne vymedzenej oblasti  
+
+**Sociálne nárečie** – jazyk skupiny ľudí s tým istým povolaním alebo s tými istými záujmami  
+Slang – mení tvar slova, využíva metaforu, slovné hračky, napr. sámoška, vegetovať, komp...  
+Argot – používa slová v inom významovom kontexte, chce niečo skryť, napr. tráva, očko...
 
 &nbsp;
 # Otázka 26
+## Slovanské jazyky
+Slovanskými jazykmi hovoria príslušníci slovanských národov v strednej a východnej Európe  
+Všetky sa vyvinuli zo spoločného základu – praslovančiny  
+Praslovančina sa vyčlenila z indoeurópskeho prajazyka niekoľkými charakteristickými zmenami v hláskovej stavbe (1. – 3. palatalizácia – zmäkčovanie)
+
+**Praslovančina** - pôvodný jazyk starých Slovanov  
+**Praindoerópčina** - prajazyk indoeurópskych jazykov  
+**Staroslovienčina** – prvý slovanský jazyk  
+**Hlaholika** – prvé slovanské písmo, vytvorené na základe malých písmen gréckej abeceda  
+**Cyrilika** – písmo, vytvorili ho žiaci Metoda na základe veľkých písmen gréckej abecedy  
+
+Slovanské jazyky delíme na:
+- Západoslovanské – slovenský, český, poľský, lužicko-srbský
+- Južnoslovanské – srbský, chorvátsky, slovinský, bulharský, macedónsky
+- Východoslovanské – ruský, ukrajinský, bieloruský
+
+### Rozdiely medzi slovenčinou a češtinou
+Čeština má tieto hlásky a písmená:
+- **ř** - *moře, kořen, třeba*
+- **ou** - *soud, jsou, pouť*
+- **ů** - *můj, původně, důkaz*
+- **ě** - *děti, země, rozkvět, běží*
+
+Čeština nemá tieto hlásky:
+- **ä** (ě, a) – *pět, maso, pata*
+- **ia** (á/í) – *žák, ulicím*
+- **ie** (é/í) – *mléko, pírko, vím, stín*
+- **iu** (í) – *cizí, paní*
+- **ô** (ů/o) – *můj, různy, stůl, osmý*
+- **ľ, ĺ** (l) – *učitel, libovolný, sloup, tloucí*
+- **ŕ** (r) – *vrba, mrtvola, vršek*
+- **dz, dž** (z) – *házet, mez, sázet, hází*
 
 &nbsp;
 # Otázka 27
+## Podraďovacie súvetie
+Je to spojenie 2 nerovnocenných viet - hlavnej a vedľajšej vety
+
+### Vedľajšia veta
+Stoji vždy za podraďovacou spojkou alebo napájacím výrazom (vzťažné zámeno - ktorý, kde, kedy)
+
+**Vedľajšia veta podmetová**  
+Hlavná veta nemá podmet, ten je iba naznačená nominatívom ukazovacích zámien  
+Vyjadruje podmet z hlavnej vety - spojky *kto, čo, že, aby*  
+
+Napr. *<u>Kto mlčí</u>, ten svedčí*  
+*<u>Kto je sýty</u>, hladnému neverí*
+
+**Vedľajšia veta prísudková**  
+V hlavnej vete je slovesná časť slovesno-menného prísudku  
+Menná časť je vyjadrená vo vedľajšej vete  
+Hlavná veta končí ukazovacím zámenom *taký, taká, také*  
+
+Napr. *Jánošík bol taký, <u>že ho nik nepremohol</u>*
+
+**Vedľajšia veta predmetová**  
+Rozvíja sloveso v hlavnej vete  
+Pýtame sa pádovými otázkami okrem nomintívu  
+Stojí iba za slovesami, ktoré pomenúvajú reč, vnímanie, voľu - *povedať, hovoriť, cítiť, spýtať sa, mysliť, počuť, vedieť, pamätať, dovoliť, predstaviť si, tešiť sa, ...*  
+
+Napr. *Cítila som, <u>že vyhrám</u>*
+
+**Vedľajšia veta prívlastková**  
+Rozvíja podstatné meno hlavnej vety  
+Stojí vždy za podstatným menom  
+Pýtame sa otázkami ako na prívlastok  
+
+Napr. *Mám rád koláče, <u>ktoré pečie moja mama</u>*
+
+**Vedľajšia veta príslovková**  
+Rozvíja sloveso hlavnej vety  
+Pýtame sa príslovkovými otázkami  
+Miestna, časová, spôsobová, príčinná  
+
+Napr. *Nemôžem ísť do kina, <u>lebo som chorý</u>*  
+
+**Vedľajšia veta doplnková**  
+Viaže sa súčasne na sloveso a podstatné meno v úlohe podmetu alebo predmetu - podmetový alebo predmetový doplnok  
+
+Napr. *Videl Janu, <u>ako kráča dolu ulicou</u>*
+
+**Vedľajšia veta vetnozákladová**  
+Je vyjadrením vetného základu z hlavnej vety - mennej časti slovesno-menného základu  
+Obyčajne za spojkou *že, aby, ako, akoby*  
+
+Napr. *Bolo mi, <u>akoby ma ktosi podviedol</u>*
 
 &nbsp;
 # Otázka 28
+## [Jazyk](#jazyk)
+## [Reč](#reč)
+
+## Funkcie jazyka
+- Dorozumievacia (komunikatívna)
+- Poznávacia (kognitívna)
+- Expresívna (výrazová)
+- Estetická
+- Reprezentatívna
+
+### Národný jazyk
+Je to prirodzený živý jazyk národného spoločenstva  
+Je územne vymedzený  
+Je vnútorne diferencovaný  
+Je sociálne rozvrstvený  
+
+### Formy národného jazyka 
+1. Spisovná forma
+    - Spisovný jazyk
+        - Má celonárodnú a celoštátnu platnosť
+        - Má národno-reprezentatívnu funkciu
+        - Je znakom národa
+        - Je prejavom národného uvedomenia používateľov
+        - Je štátnym, úradným a vyučovacím jazykom
+        - Je jedinou kodifikovanou formou národného jazyka, a to v písanej i v ústnej podobe
+    - Kodifikácia
+        - Uzákonenie pravidiel spisovného jazyka
+        - V modernej dobe ju realizuje inštitúcia, kolektív jazykovedcov vedený významnou vedeckou osobnosťou
+        - Kodifikácia súčastného spisovného jazyka je zachytená v kodifikačných dielach:
+            - Pravidlá slovenského pravopisu
+            - Pravidlá slovenskej výslovnosti
+            - Krátky slovník slovenského jazyka
+2. Štandardná forma
+    - Má celonárodnú platnosť
+    - Používa sa v každodennej komunikácií
+3. Subštandardná forma
+    - Má celonárodnú platnosť
+    - Využíva také množstvo nárečových prvkov, že možno hovoriť o jej západoslovenskom, stredoslovenskom a východoslovenskom variante
+
+
+**Materinský jazyk** - jazyk, ktorý si jednotlivec osvojí v rodine, ku ktorému má najbližší vzťah  
+**Cieľový jazyk** - oficiálny jazyk určitého štátu, ktorý sa učí napr. príslušník národnostnej menšiny daného štátu  
+**Cudzí jazyk** - treba sa ho učiť na pozadí materinského jazyka, od jazyka k reči, alebo od reči k jazyku
+
+Napr. slovenčina je:
+- Pre slováka - materinským jazykom
+- Pre občana Slovenskej republiky - štátnym/úradným jazykom
+- Pre cudzinca - cudzím jazykom
 
 &nbsp;
 # Otázka 29
+## [Morfológia](#morfológia)
+## [Ohybné slovné druhy](#ohybné-slovné-druhy)
+## [Neohybné slovné druhy](#neohybné-slovné-druhy)
 
 &nbsp;
 # Otázka 30
+*Zaraďte do rámcových častí textu a vysvetlite pojmy - motto, resumé, kapitola, titulok, epilóg, typy rozprávača*  
+
+## Nadvetná syntax
+Nadvetná (textová) syntax skúma skladbu celého textu, ktorý sa skladá zo zámerne usporiadaných viet  
+Vyjadruje uzavretý myšlienkový obsah (téma)
+
+Nadvetná syntax **skúma**  
+- Nadväznosť textu (konexia)
+    - Autor ukladá vety tak, aby jednotlivé obsahové časti na sba nadväzovali
+    - Spájacie prvky medzi vetami - konektory
+    - Druhy konektorov:
+        - Jazykové prostriedky - zámená, synonymá, opakovanie syntaktickej konštrukcie
+        - Obsahové prostriedky - opakovanie motívu
+        - Mimojazykové prostriedky - mimika, gestikulácia pri hovorenom texte
+        - Retrospektívne konektory - najčastejšie - smerom dozadu  
+        Napr. *K narodeninám dostal nové <u>korčule</u>. Túžil po <u>nich</u> (korčuliach) už dávno*
+        - Perspektívne konektory - smerom dopredu  
+        Napr. *Urobili <u>to</u> náročky. <u>Nič mu vopred nepovedali</u>*
+        - Mimo textu - na iný text alebo situáciu  
+        Napr. *Ako včera spomínal, bude to veľké prekvapenie*
+- Slovosled
+    - Slová majú určenú svoju pozíciu vo vete
+    - V pokojnej komunikácií je objetívne poradie častí výpovede:
+        1. Východisko výpovede 
+            - Opiera sa o známe fakty
+        2. Jadro výpovede
+            - Prináša neznámy, nový fakt
+        - Napr. *Susedia mu požičali <u>stotisíc</u>*
+    - V emocionálne vypätej komunikácií je subjektívne poradie
+        1. Jadro výpovede
+        2. Východisko výpovede
+        - Napr. *<u>Stotisíc</u> mu susedia požičali!* 
+- Modifikácia vetnej stavby
+- Nadvetná kompozícia textu 
+    - Členenie textu - na odseky, kapitoly, strofy, dejstvá
+    - Odstupňovanie textu - pásmo rozprávača, pásmo postáv
 
 
+**Motto**  
+Slovná fráza opisujúca motiváciu alebo zámer  
+Može to byť heslo, citát  
+Často sa používa v prednej časti písaného diela
 
+**Resumé**  
+Zhrnutie  
+Stručne vyjadruje základné myšlienky a závery odborného textu  
+Krátky obsah, výťah, zhrnutie
 
+**Kapitola**  
+Časť, úsek, samostatný oddiel spisu, knihy  
+Je číslovaná alebo označená názvom  
+Začína sa na novej strane
 
+**Titulok**  
+Má upútavaciu, informačnú funkciu  
+Vyjadruje pointu textu  
+Mal by byť zrozumiteľný, výstižný, pútavý, stručný  
+Využíva osobitné syntaktické konštrukcie - elipsa  
 
+**Epilóg**  
+V literatúre záver diela, doslov, v hudbe dohra
 
+### Priama reč
+**Uvádzacia veta na začiatku**  
+Uvádzacia veta sa konči dvojbodkou  
+Priama reč sa začína veľkým písmenom  
+*Peter iba ticho poznamenal:,,Takto som to nechcel urobiť."*  
+*Mama sa spýtala:,,A kedy to už bude hotové?"*  
+*Hájnik sa zamračil:,,Nech vás tu už nikdy nestretnem!"*  
 
+**Uvádzacia veta na konci**  
+Priama reč sa končí čiarkou, otáznikom alebo výkričníkom  
+Uvádzacia veta sa začína malým písmenom  
+*,,Takto som to nechcel urobiť," ticho poznamenal Peter.*  
+*,,A kedy to už bude hotové?" chcela vedieť mama.*  
+*,,Nech vás tu už nikdy nevidím!" mračil sa hájnik.*  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+**Vložená uvádzacia veta**  
+Uvádzacia veta sa začína malým písmenom, končí čiarkou  
+Druhá časť priamej reči sa začína malým písmenom  
+*,,Takto som to nechcel urobiť," ticho poznamenal Peter, ,,nebudeme pokračovať."*  
+*,,Veľmi som sa snažila," kývala hlavou, ,,ale nemá to zmysel."*  
 
 ---
 [↑ Späť na začiatok ↑](#slovenský-jazyk---maturitné-otázky)
