@@ -74,77 +74,80 @@ Audionahrávky je možné prehrať online alebo stiahnuť na [tomto linku](https
 
 # Úvodné texty
 ## 1. Family
-&nbsp;
 
+&nbsp;
 ## 2. Culture and Art
-&nbsp;
 
+&nbsp;
 ## 3. Sports and Games
-&nbsp;
 
+&nbsp;
 ## 4. Housing
-&nbsp;
 
+&nbsp;
 ## 5. Shopping and Services
-&nbsp;
 
+&nbsp;
 ## 6. Health Care
-&nbsp;
 
+&nbsp;
 ## 7. Traveling
-&nbsp;
 
+&nbsp;
 ## 8. Education
-&nbsp;
 
+&nbsp;
 ## 9. Jobs
-&nbsp;
 
+&nbsp;
 ## 10. People and Nature
-&nbsp;
 
+&nbsp;
 ## 11. Science and Technology
-&nbsp;
 
+&nbsp;
 ## 12. People and Society
-&nbsp;
 
+&nbsp;
 ## 13. The Young and Their World
-&nbsp;
 
+&nbsp;
 ## 14. Food
-&nbsp;
 
+&nbsp;
 ## 15. Hobbies, Leisure and Lifestyle
-&nbsp;
 
+&nbsp;
 ## 16. Multicultural Society
-&nbsp;
 
+&nbsp;
 ## 17. Towns and Places
-&nbsp;
 
+&nbsp;
 ## 18. Fashion
-&nbsp;
 
+&nbsp;
 ## 19. English-Speaking Countries
-&nbsp;
 
+&nbsp;
 ## 20. Slovakia - My Homeland
-&nbsp;
 
+&nbsp;
 ## 21. Human Relationships
-&nbsp;
 
+&nbsp;
 ## 22. Communication and Languages
-&nbsp;
 
+&nbsp;
 ## 23. Mass Media
-&nbsp;
 
+&nbsp;
 ## 24. The Book - The Friend of People
-&nbsp;
 
+&nbsp;
 ## 25. Idols and Celebrities
+
+
+---
 
 [↑ Späť na začiatok ↑](#anglický-jazyk)
