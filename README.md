@@ -14,6 +14,9 @@ Ak je niečo zle, máš námietky, chcel by si niečo doplniť, niečo sa opýta
 
 ---
 ### Iné
+[Prehľad tém z ANJ](PrehľadTémANJ.pdf)  
+[Prehľad tém zo SJL](PrehľadTémSJL.pdf)  
+[Prehľad tém z odborných predmetov](PrehľadTémTČOZ.pdf)  
 [Čo potrebuješ vedieť, aby si mal známku 1-5](klasifikacia.md)  
 [Účtová osnova *(2022)*](uctovaosnova.pdf)  
 
