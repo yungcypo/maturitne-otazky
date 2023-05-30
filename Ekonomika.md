@@ -1286,12 +1286,141 @@ Výsledok môže byť:
 
 &nbsp;
 # 15 - Poisťovníctvo
+Poistenie je právny vzťah, pri ktorom poisťovňa na seba preberá záväzok, že poistenému poskytne poistné plnenie za udalosť, ktorá vznikla podľa dohodnutých podmienok  
+
+Úloha:
+- Zabezpečenie istoty, t. j. nahradenie škody poistenému v rozsahu poistnej zmluvy
+- Kryť zvyšné potreby, sprostredkovane sa zúčastňovať na odstraňovaní škôd ktoré spôsobili náhodné udalosti
+
 ## Význam poistenia
+- Pre jednotlivca - zmierňuje negatívne vplyvy na jeho životnú úroveň (úraz)
+- Pre podnikateľské subjekty - pomáha znášať podnikom nepredvídateľné škody (poškodenie majetku)
+- Pre hospodárstvo - pomáha zabezpečiť chod ekonomiky, obmedzuje počet bankrotov, prispieva k rozvoju finančného trhu a pod.
 ## Základné pojmy
+**Poisťovateľ** - FO alebo PO, ktorá vykonáva poisťovaciu činnosť = <u>poisťovňa</u>, ktorá disponuje licenciou na vykonávanie poisťovacej činnosti. Má právnu formu *a. s.*  
+**Poistník** - FO alebo PO, ktorá uzavrela poistnú zmluvu s poisťovateľom  
+**Poistenec** (<u>poistený</u>) - FO alebo PO, ktorej na základe uzavretej poistnej zmluvy vzniká nárok na poistné plnenie v prípade poistnej udalosti  
+*Poistenec nemusí byť poistníkom*  
+**Poistná zmluva** - právny dokument, v ktorom sa poisťovateľ a poistník dohodnú na poistných podmienkach  
+**Poistné** - cena za <u>poskytnutie</u> poistnej služby. Platí ju poistník počas istej doby. Predstavuje protihodnotu za prevzatie rizika poisťovateľov  
+**Poistná suma** - maximálna finančná čiastka poistného plnenia, na ktorej sa poistník dohodol s poisťovateľom v poistnej zmluve v prípade vzniku poistnej udalosti  
+**Poistná doba** - časové obdobie dohodnuté v poistnej zmluve, počas ktorého <u>trvá poistenie</u>  
+**Poistné obdobie** - časový interval dohodnutý v pracovnej zmluve, počas ktorého <u>poistník</u> pravidelne <u>platí</u>  
+**Poistná udalosť** - vzniknutá ujma (dožitie, krádež, úraz, ...), ktorého riziko vzniku bolo dohodnuté v poistnej zmluve. Poisťovateľ je povinný ju uhradiť  
+**Poistné plnenie** - <u>odškodnenie poistenia</u> poisťovateľom v prípade vzniku poistnej udalosti  
+**Zaistenie** - poistenie poistenia  
+
 ## Poistný vzťah
+Vzniká na základe uzatvorenej poistnej zmluvy medzi poisťovateľom a poistníkom  
+
+Účastníci:
+- Poisťovateľ, poistník, poistenej
+- Oprávnená osoba - FO alebo PO, ktorá je oprávnená rokovať alebo prevziať poistné namiesto poisteného 
+- Poškodený - ekonomický subjekt, ktorému bola spôsobená škoda. Poisťovňa mu priamo vypláca poistné plnenie
+
 ## Životné a neživotné poistenie
+### Životné
+Predmetom poistenia sú **fyzické osoby**  
+
+Môže sa riadiť dvoma základnými prístupmi:
+- Poistný prístup
+    - Poistený očakáva v rámci vzniku poistnej udalosti určitú finančnú kompenzáciu za škodu vzniknutú na zdravotnom stave, resp. smrť
+    - Poistné plnenie pomáha prekonať negatívne finančné dôsledky vzniknutej poistnej udalosti
+- Investičný prístup
+    - Poistený uzatvára poistenie s investičnou zložkou
+    - Cieľom je zhodnotiť zaplatené poistné počas poistnej doby
+    - Časť poistného sa použije na krytie technických rezerv a časť sa investuje do finančného trhu
+
+Poznáme 6 poistných odvetví:
+- Poistenie pre prípad **smrti**, dožitia sa určitého veku alebo ich kombinácia
+- Poistenie **vena** alebo prostriedkov na **výživu dieťaťa**
+- **Kapitálové** poistenie - klasické poistenie + sporenie
+- **Investičné životné** poistenie - časť poistného sa investuje do podielových fondov
+- **Dôchodkové** poistenie - zabezpečenie poistného v starobe, v prípade plnej invalidity (oprávnené osoby v prípade predčasnej smrti poisteného)
+- **Pripoistenie** - pre prípad úrazu alebo choroby
+
+### Neživotné
+Predmetom poistenia je **majetok**, zodpovednosť za škody, podnikateľské riziká (zničenie, poškodenie, odcudzenie)  
+
+Poznáme 5 poistných odvetví:
+- **Majetkové** poistenie - hmotný a nehmotný majetok FO a PO
+- Poistenie **zodpovednosti za škodu**
+- **Dopravné** poistenie - dopravné prostriedky, prepravovaný tovar
+- Poistenie **podnikateľských rizík** - riziká, ktoré môžu ohroziť finančnú stabilitu podniku
+    - Živelné, technické, prerušenia prevádzky, úverové, poľnohospodárstvo
+- Poistenie **úrazu** a choroby - povolania - duševná činnosť, manuálna činnosť, povolania s vysokým rizikom úrazu
+
+Poistenie nehnuteľnosti - pevné časti nehnuteľnosti (steny, podlaha)  
+Poistenie domácnosti - hnuteľné veci
+
 ## Zložky sociálneho poistenia
+Sociálne poistenie je hlavná časť sociálneho zabezpečenia  
+Na Slovensku je to povinné verejnoprávne poistenie  
+
+Zameriava sa na sociálne riziká  
+Jeho úlohou je ochrániť veľkú časť obyvateľstva pre rizikami v živote, ako aj zabezpečiť prerozdelenie príjmov v národnom hospodárstve  
+
+Druhy sociálneho poistenia  
+- Nemocenské
+    - Slúži na zabezpečenie príjmu v prípade straty alebo zníženia príjmu v dôsledku dočasnej PN, potreby ošetrovania/opatrovania, tehotenstva a materstva
+    - Vzniká dňom nástupu do zamestnania, dňom začatia výkonu pracovnej činnosti, dňom uvedeným na prihláške u dobrovoľne poistených
+    - Platitelia - zamestnanec, zamestnávateľ, samostatne zárobkovo činná osoba, dobrovoľne nemocensky poistený (študenti, nezamestnaní)
+    - Dávky
+        - Nemocenské - dočasná PN (choroba, úraz)
+            - Prvých 10 dní vypláca zamestnávateľ
+                - 1. až 3. deň - 25% z denného vymeriavacieho základu (DVZ)
+                - 4. až 10. deň - 55% z DVZ
+            - Od 11. dňa platí zdravotná poisťovňa
+        - Ošetrovné - ošetrenie rodiny (dieťa, manžel, manželka)
+            - 55% z DVZ
+        - Vyrovnávacia dávka - kompenzuje rozdiel v mzde u tehotných žien, ktoré v dôsledku tehotenstva musela byť preradený na inú prácu s nižšou mzdou ako pred pôrodom
+        - Materské - v dôsledku odchodu na materskú
+            - Nárok vzniká 6 týždňov pred očakávaným pôrodom 
+- Dôchodkové - 1. pilier dôchodkového systému SR. Má 2 podsystémy
+    - Starobné 
+        - Zabezpečenie príjmu v starobe, pre prípad úmrtia
+        - Dávky:
+            - Starobný dôchodok
+            - Predčasný starobný dôchodok
+            - Vdovský/vdovecký dôchodok
+            - Sirotský dôchodok
+    - Invalidné
+        - Pre prípad poklesu schopnosti vykonávať zárobkovú činnosť v dôsledku dlhodobo nepriaznivého zdravotného stavu poistenca a pre prípad úmrtia
+        - Dávky
+            - Invalidný dôchodok
+            - Vdovský/vdovecký dôchodok
+            - Sirotský dôchodok
+        - Vznik - dňom vstupu do zamestnania, začatia výkonu práce, dňom uvedeným na prihláške u dobrovoľne poistených osôb
+        - Platitelia - zamestnanec, zamestnávateľ, samostatne zárobkovo činná osoba, dobrovoľne nemocensky poistené osoby, štát
+- Úrazové
+    - Pre prípad poškodenia zdravia alebo úmrtia v dôsledku pracovného úrazu, služobného úrazu a choroby z povolania
+    - Platitelia - zamestnávateľ
+    - Dávky
+        - Úrazový poplatok - pri PN v dôsledku pracovného úrazu
+        - Úrazová renta - ak invalidita nastala v dôsledku pracovného úrazu
+        - Jednorázové odškodnenie - pri poklese schopnosti
+        - Pozostalostná renta - ak osoba zomrela v dôsledku pracovného úrazu
+- Garančné
+    - Pre prípad platobnej neschopnosti zamestnávateľa na uspokojovanie nárokov zamestnanca
+    - Platitelia - zamestnávateľ
+    - Dávky 
+        - Max. v rozsahu 3 mesiace
+        - Max. v trojnásobku
+- Poistenie v nezamestnanosti
+    - Pre prípad straty príjmu v dôsledku nezamestnanosti a na zabezpečenie príjmu v tomto období
+    - Dávky
+        - Tzv. dávka v nezamestnanosti = podpora
+            - Max. 6 mesiacov
+            - Nárok vzniká ak uchádzač 4 roky pred zaradením do evidencie nezamestnaných bol poistený v nezamestnanosti min. 2 roky (730 dní)
+- Rezervný fond solidarity
+    - Vytvára ho sociálna poisťovňa 
+    - Je zásadným prvkom ochrany spotrebiteľa a v systéme starobného dôchodkového poistenia
+
 ## Účtovanie mánk a škôd na majetku
+| | 549 - Manká a škody | |
+| ID | Škoda na materiáli nad normu | *549/112* |
+| ID | Škoda na tovare nad normu | *549/132* |
+
 ## Cenkros
 
 &nbsp;
