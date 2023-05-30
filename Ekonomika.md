@@ -1123,15 +1123,166 @@ Je potrebné použiť účet 261 - Peniaze na ceste
 &nbsp;
 # 14 - Kúpna zmluva, platobný styk
 ## Podstata zúčtovacích vzťahov
+### Dodávateľ
+Dodávateľ = predávajúci = veriteľ  
+Podnik alebo podnikateľ, ktorý niečo <u>predáva</u>  
+Je povinný <u>dodať, odovzdať</u> tovar/službu odberateľovi podľa zmluvy  
+Ak mu ešte nie je zaplatené za tovar/službu, má <u>pohľadávku</u> voči odberateľovi  
+
+Povinnosti:
+- Dodať kupujúcemu tovar v dohodnutom množstve, čase, na dohodnuté miesto, v dohodnutej cene a kvalite
+- Odovzdať doklady, ktoré sú potrebné na prevzatie a užívanie tovaru
+- Umožniť kupujúcemu nadobudnúť vlastnícke práva k tovaru
+
+### Odberateľ 
+Odberateľ = kupujúci = dlžník  
+Podnik alebo podnikateľ, ktorý niečo <u>kupuje</u>  
+Je povinný <u>zaplatiť, prevziať</u> za tovar/službu dodávateľovi podľa zmluvy  
+Ak ešte nezaplatí, má <u>záväzok</u> voči dodávateľovi
+
+Povinnosti:
+- Zaplatiť za tovar kúpnu cenu
+- Prevziať tovar v súlade so zmluvou
+
+![Schéma kúpno-predajných vzťahov](images/eko-obr1.png)
+
+### Sprostredkovateľ
+Ekonomický subjekt, ktorého predmetom podnikania je <u>sprostredkovať činnosť</u>  
+Tretia osoba, ktorá môže (nemusí) vystupovať pri kúpno-predajných vzťahoch  
+
+Môže to byť:
+- *Komerčná banka* - sprostredkuje platbu
+- *Dopravná spoločnosť* - zabezpečuje prepravu tovaru
+
 ## Kúpna zmluva - uzatvorenie a plnenie
-## Základné dodacie a platobné podmienky
+Kúpna zmluva je dokument, ktorý vyjadruje súhlasný prejav vôle medzi kupujúcim a predávajúcim na kúpu a predaj predmetu kúpy  
+
+Realizuje sa na 2 základné fázy:
+1. Uzatvorenie zmluvy - súhlasný prejav vôle oboch strán
+2. Plnenie zmluvy - dodanie premetu kúpy odberateľovi a platenie za predmet odberateľovi
+
+Môže sa uzatvoriť:
+- Priamym konaním - pri priamych predajoch - *Tovar pri pokladni zaplatíme, zoberieme a odídeme*  
+- Ústne - napr. telefonická objednávka tovaru
+- Písomne - je presne určená Obchodným a Občianskym zákonníkom.
+Zaraďujeme sem aj zmluvu napísanú elektronicky
+
+Aby bola platná, je potrebné dodržať určité podmienky:
+- Účastníci musia byť spôsobilí na právne úkony - 18+, nemôžu byť súdom zbavený na právne úkony
+- Musí byť zabezpečený súhlasný prejav vôle oboch účastníkov
+- Musí byť podpísaná slobodne a vážne (nie pod nátlakom, hrozbou)
+- Musí byť určitá a zrozumiteľná (konkrétna a musí byť jasné a presné kto sú účastníci, čo je predmetom a pod.)
+- Musí byť vždy reálna
+- Svojim obsahom a účelom nesmie odporovať zákonu, ani ho nijak obchádzať (predmetom nemôžu byť zbrane, drogy, ...)
+
+### Povinné náležitosti
+- Údaje o predávajúcom
+    - FO - meno, priezvisko, trvalý pobyt, rodné číslo
+    - PO - obchodné meno, sídlo, IČO, údaje o štatutárnom zástupcovi
+- Údaje o kupujúcom
+    - > Také isté ako údaje o predávajúcom
+- Predmet kúpnej zmluvy
+    - Podrobne rozpísať
+    - Technické parametre
+- Množstvo a merná jednotka
+- Cena
+    - Celková
+    - Za mernú jednotku
+
+### Nepovinné náležitosti
+Nemusia sa uvádzať, ale je dobré, keď sú uvedené
+- Dodacie podmienky
+    - Kam má byť predmet dodaný
+    - Kedy a kto ho má dodať
+    - Kto znáša náklady prepravy, sankcie pri meškaní, prípadne škody pri preprave
+- Platobné podmienky
+    - V akej forme sa má tovar uhradiť (hotovosť, bankový prevod)
+    - > urč. výš. splat. *(?)*, kedy, sankcie z omeškania, ... 
+    - Spôsob záruky, uvedenie záručnej doby, podmienky
+    - Ďalšie - balenie, spôsob dopravy, vedľajšie výkony, vady, ...
+
+Každá kúpna zmluva musí byť podpísaná oboma účastníkmi, musí byť opatrená obchodnými pečiatkami, musí byť uvedený dátum a miesto uzatvorenia 
+
+## [Základné](#povinné-náležitosti), [dodacie a platobné](#nepovinné-náležitosti) podmienky
+> Uvedené v prechádzajúcej odrážke
+
 ## Platobný styk
+Sú to všetky platby, ktoré prebiehajú medzi jednotlivými ekonomickými subjektami (podniky, domácnosti, štát)
+
+### Tuzemský platobný styk
+Sú to všetky formy a spôsoby platenia, ktoré sa uskutočňujú na území danej krajiny
+
+### Formy
 - Hotovostný
+    - Platiteľ platí v hotovosti
+    - Príjemca prijíma platbu tiež v hotovosti
+    - Vyskytuje sa zriedkavo
+    - Existujú 2 spôsoby:
+        - Priamy - platiteľ dá peniaze v hotovosti priamo príjemcovi
+        - Prostredníctvom pošty - medzi platiteľom a príjemcom sa nachádza pošta
+    - Nevýhody
+        - Potreba držania väčšieho množstva hotovosti, riziko krádeže
+        - Zdĺhavý spôsob platenia, potreba prepočítavania, kontroly
+        - Nákladnosť na ochranu (trezor)
+    - Využitie
+        - Maloobchod
+        - Doprava
+        - Inkaso (nájomné, plyn, energie)
+        - Iné - kultúrne a športové podujatia
 - Bezhotovostný
+    - Ani platiteľ, ani príjemca platby nedisponujú hotovosťou
+    - Predpokladá sa, že obaja majú otvorený účet v niektorej z komerčných bánk, ktorá následne realizuje všetky platby
+    - Používa sa oveľa častejšie ako hotovostný
+    - Výhody
+        - Rýchlosť, operatívnosť
+        - Hospodárnosť, racionálnosť, úspornosť - odpadáva manipulácia s peniazmi, nižšie náklady
+        - Bezpečnosť, istota
+    - Doklady
+        - Príkaz na úhradu - platiteľ žiada svoju banku, aby z jeho účtu uhradila záväzok na účet príjemcu
+        - Príkaz na inkaso - príjemca platby si sám inkasuje z účtu platiteľa (paušál na telefón)
+        - Hromadný príkaz na úhradu - používa sa, ak platiteľ vykonáva viac platieb naraz
+        - Trvalý príkaz na úhradu - platiteľ dáva príkaz banke na pravidelne sa opakujúce platby, ktorých suma sa nemení (nájomné)
+        - Platobná karta - majiteľ platobnej karty platí kartou. Podmienkou je, aby príjemca disponoval platobným terminálom
+        - Výpis z bankového účtu - zoznam platieb realizovaných prostredníctvom banky
 - Kombinovaný
+    - Používajú sa aj nástroje hotovostného aj bezhotovostného platobného styku
+    - Môžu nastať 2 variácie
+        1. Platiteľ uhradí svoj záväzok na pošte (banke), ktorá prevedie úhradu na účet
+        2. Platiteľ uhrádza záväzok zo svojho účtu príjemcovi, ktorý sumu dostane v hotovosti  
+    ![Kombinovaný platobný styk - schéma](images/eko-obr2.png)
+
 ## Postup účtovania 211, 213
+213 - Ceniny
+
+| | 211 - Pokladnica | |
+|---|---|---|
+| VPD | Výdaj z pokladnice | *xxx\*/211* |
+| PPD | Príjem do pokladnice | *211/xxx\** |
+
+\* Najčastejšie účet 261 - Peniaze na ceste
+
+213 - Ceniny  
+Podobne ako účet 211  
+Patria sem poštové známky, e-kolky, telefónne a ostatné karty, stravné lístky
+
 ## Inventarizácia pokladnice
-## Funkcie peňazí *(3)*
+Kontroluje sa ňou vecná správnosť účtovných zápisov  
+Kontroluje sa ku dňu, ku ktorému sa zostavuje účtovná závierka
+
+Má 3 etapy:
+1. Fyzická inventúra - pokladničné skontro
+2. Kontrola pokladničných dokladov a zápisov v pokladničnej knihe
+3. Porovnanie účtovného stavu na účte 211 a v pokladničnej knihe so skutočným stavom peňazí zisteným pri pokladničnom skontre
+
+Výsledok môže byť:
+- Účtovný stav = skutočný stav
+- Účtovný stav > skutočný stav - schodok v pokladnici
+- Účtovný stav < skutočný stav - prebytok v pokladnici (finančný výnos)
+
+## Funkcie peňazí
+- Prostriedok výmeny - uľahčujú výmenu statkov a služieb - obeživo, platidlo
+- Zúčtovacia jednotka - prostredníctvom nich určujeme cenu
+- Uchovávateľ hodnoty - umožňujú prenášať hodnotu do budúcnosti vo forme úspor, ktoré možno neskôr použiť na nákup statkov alebo ich investovať
 
 &nbsp;
 # 15 - Poisťovníctvo
