@@ -595,6 +595,57 @@ Nezamestnanosť je sociálno - ekonomický jav, ktorý vyjadruje neúplné využ
 &nbsp;
 # 9 - Odbytová logistika marketingu
 ## Formy a metódy prieskumu trhu
+Prieskum trhu znamená zber, zhromažďovanie, analýzu a vyhodnocovanie informácií týkajúcich sa trhovej situácie  
+
+Člení sa podľa:
+- Objektu (predmetu) skúmania
+    - Hospodársky prieskum
+        - Zameriava sa na zistenie objektívnych veličín trhu, ktoré sú kvantifikovateľné
+        - Patria sem napr.:
+            - Obrat (objem predaja)
+            - Cena tovaru
+            - Tržba
+            - Zisk
+            - Počty a štruktúra kupujúcich a predávajúcich
+    - Sociologický prieskum
+        - Sleduje osoby na trhu a ich správanie
+        - Zameriava sa na vonkajšie charakteristiky osôb:
+            - Pohlavie
+            - Vek
+            - Povolanie
+            - Príjem
+        - Zameriava sa na pocity
+            - Predstavy
+            - Názory
+            - Motívy
+- Časového hľadiska
+    - Analýza trhu
+        - Získavanie údajov o momentálnej situácií na trhu (k určitému časovému okamihu)
+        - Možno hovoriť o statickom prieskume trhu
+    - Sledovanie trhu
+        - Permanentné sledovanie zmeny trhových situácií
+        - Ide o dynamický prieskum trhu
+- Metód (postupu) získavania informácii
+    - Primárny prieskum
+        - Získavanie informácií priamo na trhu
+        - Získavajú sa nové informácie, ktoré doteraz neboli k dispozícií
+        - Nazýva sa prieskum v teréne - osobne, telefonicky, poštou, online
+        - Základným nástrojom je dotazník
+    - Sekundárny prieskum
+        - Orientuje sa na spracovanie dostupných informácií na trhu
+        - Môže ísť o vyhodnotenie evidenčných (štatistických) údajov sledovaných
+            - Vo vlastnom podniku
+                - Vnútorné informácie
+                - Napr.:
+                    - Údaje o odbyte, nákladoch, reklame
+                    - Výročné správy, katalógy firmy
+            - Mimo podniku
+                - Vonkajšie informácie (externé)
+                - Hovorí sa o prieskume od písacieho stola
+                - Napr.:
+                    - Oficiálne štatistiky, publikácie, správy
+
+
 ## Kontraktačná politika, metódy tvorby cien
 **Kontraktačná politika** je činnosť, ktorá sa zaoberá obchodnými podmienkami pri predaji výrobkov  
 - **Metódy tvorby ceny**
@@ -638,13 +689,13 @@ Elasticita dopytu je citlivosť dopytu na zmenu ceny
     - Faktoring - predaj krátkodobej pohľadávky faktoringovej spoločnosti pred lehotou jej splatnosti
     - Leasing - prenájom veci s možnosťou jej odkúpenia, po určitom čase na splátky za vyššiu sumu
 ## Postup účtovania kúpy a predaja tovaru
-|     |                            |                                         |
-|-----|----------------------------|-----------------------------------------|
-| PFA | Nákup tovaru               | *<sup>131 + 343</sup>/<sub>321</sub>*   |
-| PFA | Preprava tovaru            | *<sup>131 + 343</sup>/<sub>321</sub>*   |
-| ID  | Zaradenie do užívania v OC | *132/131*                               |
-| VFA | Predaj tovaru              | *<sub>311</sub>*/*<sup>343 + 604</sup>* |
-| ID  | Úbytok predaného tovaru    | *504/132*                               |
+| | | |
+|-|-|-|
+| PFA | Nákup tovaru | *<sup>131 + 343</sup>/<sub>321</sub>* |
+| PFA | Preprava tovaru | *<sup>131 + 343</sup>/<sub>321</sub>* |
+| ID  | Zaradenie do užívania v OC | *132/131* |
+| VFA | Predaj tovaru | *<sub>311</sub>*/*<sup>343 + 604</sup>* |
+| ID  | Úbytok predaného tovaru | *504/132* |
 
 
 &nbsp;
@@ -854,13 +905,132 @@ Táto cena vychádza z predbežnej kalkulácie vlastných nákladov výroby (spo
 &nbsp;
 # 12 - Distribučná politika, skladovanie
 ## Distribučná politika
+Distribučná politika zahŕňa činnosti zameriavajúce sa na hľadanie vhodných distribučných ciest  
+Cieľom je riadiť pohyb tovaru od výrobcu ku konečnému spotrebiteľovi  
 ## Priame a nepriame odbytové cesty
-## Hlavné úlohy veľkoobchodu a maloobchodu
+### Priame odbytové cesty
+Nastáva pri nich bezprostredný kontakt výrobcu so zákazníkom  
+*Výrobca -> spotrebiteľ*
+
+Takto sa predávajú najmä:
+- Výrobky neštandardného vyhotovenia
+- Jednoúčelové stroje
+- Kusové výrobky
+- Výrobky sériovej alebo hromadnej výroby, ktoré sa dostávajú vo väčších množstvách malému počtu odberateľov
+- Výrobky, ktoré umožňujú skrátiť čas potrebný na prepravu
+
+### Nepriame odbytové cesty
+Nenastáva pri nich bezprostredný kontakt výrobcu so zákazníkom  
+Výrobcovia predávajú skrz sprostredkovateľov  
+
+Poznáme 3 rôzne úrovne:
+1. *Výrobca -> maloobchod -> spotrebiteľ*
+2. *Výrobca -> veľkoobchod -> maloobchod -> spotrebiteľ*
+3. *Výrobca -> agent -> veľkoobchod -> maloobchod -> spotrebiteľ*
+
+Takto sa predávajú najmä:
+- Výrobky, ktoré sú určené pre väčší počet odberateľov, často územne rozptýlených
+- Štandardné výrobky, ku ktorým odberateľovi netreba poskytovať poradenskú službu
+- Výrobky, pri ktorých netreba priamy kontakt medzi výrobcom a spotrebiteľom
+- Dodávky výrobkov sériovej a hromadnej výroby
+
+## Hlavné úlohy maloobchodu a veľkoobchodu
+### Maloobchod 
+Maloobchod nakupuje od veľkoobchodu a predáva konečnému spotrebiteľovi  
+
+Jeho úlohou je:
+- Vytvárať zásoby
+- Pretvoriť výrobný sortiment na obchodný - predávať v malých množstvách
+- Predávať produkty
+- Aktívne prispievať k ochrane spotrebiteľa
+
+### Veľkoobchod
+Veľkoobchod nakupuje od výrobcu/iného veľkoobchodu a predáva maloobchodu/inému veľkoobchodu
+
+Jeho úlohou je:
+- Nákup a predaj sortimentu - zostavuje sortiment podľa potrieb zákazníkov
+- Transformácia množstva - veľké zásielky delí na menšie množstvá
+- Skladovanie
+- Doprava dodávok a tovaru
+- Financovanie - poskytovanie úverov zákazníkom
+- Prevzatie rizika na seba
+- Podávanie info o trhu (konkurencia)
+- Služby a poradenský manažment (školenia)
+
 ## Faktory ovplyvňujúce spôsob prepravy tovaru
+Podnik pri voľbe distribučného kanála rozhoduje na základe týchto kritérií:
+- Rýchlosť, akou sa výrobok dostane k spotrebiteľovi (zákazníkovi)
+- Skladovacia kapacita
+- Distribučné náklady
+
+Výber prepravy tovaru závisí od:
+- Hospodárnosti
+- Špecifických vlastností tovaru
+    - Veľkosť a hmotnosť tovaru
+    - Či sa jedná o tovar nebezpečný na prepravu
+    - Či sa jedná o živý tovar (zvieratá)
+    - Skupenstvo tovaru
+    - Vzdialenosť prepravy
+- Množstvo tovaru
+
+Príklady spôsobu dopravy: automobilová, železničná, lodná, letecká, potrubná, lanovková, ...  
+Jednotlivé prepravy sa odlišujú výškou nákladov a časom
+
+Podnik môže použiť
+- Vlastné dopravné prostriedky
+- Cudzie dopravné prostriedky - služby dopravcov
+
 ## Doklady a činnosti spojené s príjmom a výdajom + postup účtovania
-## Úlohy zásobovacích skladov *(3)*
+### Príjem
+| | | |
+|-|-|-|
+| 1. PFA | Obstaranie materiálu + náklady spojené s obstaraním | *<sup>111+343</sup>/<sub>321</sub>* |
+| **2. PRI** | Príjem tovaru na sklad v OC *(suma "a" - bez dph)* | *112/111* |
+
+Doklady: PRI = príjemka
+
+### Výdaj
+| | | |
+|-|-|-|
+| **VYD** | Úbytok predaného tovaru | *504/132* |
+
+Doklady: VYD = výdajka
+
+## Úlohy zásobovacích skladov 
+1. Preklenovacia - sklad umožňuje prekovať rozdiel medzi dodávkou a potrebou materiálu
+2. Transformačná - niektoré zásoby získavajú skladovaním nové užitkové vlastnosti (sušenie dreva)
+3. Zabezpečovacia - sklad umožňuje zásobovanie materiálom aj v prípade neočakávaných výpadkov v dodávkach
+
 ## Druhy skladov a ich využitie
+- Podľa podnikových činností
+    - Zásobovacie sklady 
+        - Materiál
+        - Skladujú sa tu zásoby priamo po prijatí, resp. dodaní
+    - Výrobné sklady 
+        - Zásoby, ktoré bezprostredne plynú do výroby
+        - Musia byť pripravené
+    - Odbytové sklady
+        - Hotové výrobky, ktoré sú predmetom predaja
+- Podľa charakteru zásob
+    - Otvorené sklady
+        - Zásoby, ktoré sa nepoškodia vplyvom externých faktorov 
+        - Napr. štrk, piesok
+    - Polootvorené sklady
+        - Priestory, ktoré majú strechu, ale nemajú pevné steny
+    - Kryté sklady
+        - Prevažne tovar spotrebného ale aj priemyselného charakteru
+    - Špecifické sklady
+        - Napr. pohonné hmoty
+
 ## FIFO, VAP
+### FIFO
+First in - first out (prvý dnu - prvý von)  
+Materiál, ktorý príde prvý do skladu pôjde prvý von zo skladu  
+T. j. pri výdaji zo skladu použijeme cenu materiálu, ktorý prišiel do skladu ako prvý
+
+### VAP
+Vážený aritmetický priemer  
+Pri výdaji použijeme priemernú cenu všetkého materiálu  
 
 &nbsp;
 # 13 - Bankovníctvo
@@ -1008,7 +1178,6 @@ Zoznam vecí, ktoré som v poznámkach nenašiel:
 [Hlavné ciele a činnosti podniku (charakteristika) - ciele podniku](#hlavné-ciele-a-činnosti-podniku-charakteristika) (otázka 6)  
 [Činitele, ktoré ovplyvňujú finančnú situáciu podniku](#činitele-ktoré-ovplyvňujú-finančnú-situáciu-podniku) (otázka 7)  
 [Koho zaujíma finančná situácia, prečo](#koho-zaujíma-finančná-situácia-prečo) (otázka 7)  
-[Formy a metódy prieskumu trhu](#formy-a-metódy-prieskumu-trhu) (otázka 9)  
 [Činnosti spojené s prácou s výrobkom](#činnosti-spojené-s-prácou-s-výrobkom) (otázka 10)  
 <!-- []() (otázka )  -->
 

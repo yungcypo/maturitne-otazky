@@ -13,8 +13,9 @@ Ak je niečo zle, máš námietky, chcel by si niečo doplniť, niečo sa opýta
 [Anglický jazyk](AnglickýJazyk.md)  
 
 ---
-
-[Čo potrebuješ vedieť, aby si na známku 1-5](klasifikacia.md)
+### Iné
+[Čo potrebuješ vedieť, aby si mal známku 1-5](klasifikacia.md)  
+[Účtová osnova *(2022)*](uctovaosnova.pdf)  
 
 &nbsp;  
 > **Disclaimer**  
