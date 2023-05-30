@@ -1035,11 +1035,90 @@ Pri výdaji použijeme priemernú cenu všetkého materiálu
 &nbsp;
 # 13 - Bankovníctvo
 ## Založenie, právna forma
+Komerčné (obchodné) banky tvoria sieť finančných inštitúcií, ktoré ekonomickým subjektom ponúkajú rôzne bankové služby  
+Sú to podnikateľské subjekty, ktorých cieľom je maximalizácia zisku a rast trhovej ekonomiky  
+Je to **PO**, založená ako **akciová spoločnosť**  
+O udelení bankovej licencie rozhoduje Národná banka Slovenska
+
 ## Základné činnosti
+1. Prijímanie vkladov
+    - Vklad (depozit) je peňažná suma, ktorú vkladateľ za určitú náhradu (úrok) zapožičiava banke  
+    Predstavujú rozhodujúcu časť zdrojov komerčných bánk  
+    Vklady, vrátane dohodnutého úroku, predstavujú záväzok banky voči vkladateľovi (musí ich po určitom čase vkladateľovi vrátiť)  
+    Úrok je v tomto prípade pre banku nákladom
+2. Poskytovanie úverov
+    - Úver je dočasné poskytnutie peňažných prostriedkov bankou za určitú náhradu (úrok)  
+    Predstavuje záväzok klienta voči banke (klienta voči veriteľovi) zaplatiť dlh vrátane dohodnutého úroku  
+    Úrok je v tomto prípade pre banku výnosom  
+    Poskytovaním úverov si banka vytvára najviac výnosov a zisku  
+
 ## Aktívne operácie - postup pri získaní úveru
+Aktívne = prinášajú zisk  
+1. Úverové operácie  
+    - Tzv. klasické aktívne operácie  
+    - Banka pri nich dočasne požičiava peniaze klientovi za určitú cenu (úrok)
+    - Banky sa pri poskytovaní úrokov u nás riadia týmito základnými právnymi normami:
+        - Zákon o bankách
+        - Obchodný zákonník
+        - Občiansky zákonník
+        - Pravidlá stanovené Národnou bankou Slovenska
+    - Pri rozhodovaní o poskytnutí úveru musí banka postupovať veľmi rozvážne, pretože hlavným zdrojom na poskytovanie úverom sú vklady klientom
+2. Investičné činnosti banky
+    - Tzv. moderné aktívne operácie
+    - Investuje do cenných papierov a obchoduje s nimi pre seba a svojich klientov  
+    
+Banka podstupuje tzv. úverové riziko - možnosť, že klient nebude schopný splatiť úver načas alebo vôbec  
+Aby banky znížili mieru úverového rizika, zaviedli všeobecné podmienky poskytovania úverov
+
 ## Pasívne operácie - vklady
-## Význam postavenia funkcie NBS
+
+## Význam postavenia, funkcie NBS
+Národná banka Slovenska, tiež nazývaná *Nezávislá centrálna banka Slovenska, Banka bánk, Banka štátu, Emisná banka*  
+Nie je komerčne orientovaná  
+Jej klientmi sú prevažne banky a vláda  
+Je členom Európskeho systému centrálnych bánk (ESCB)  
+
+ESCB - pozostáva z ECB a národných centrálnych bánk všetkých členov EÚ bez ohľadu na to, či prijali alebo neprijali euro  
+Eurosystém - tvorí ECB a národné banky, ktoré prijali euro
+
+**Funkcie** NBS:
+- Emisná funkcia
+    - NBS mý výhradné právo vydávať eurobankovky, euromince a pamätné mince  
+    Určuje ich minimálnu hodnotu, platnosť, vzhľad, ochranné známky, spôsob výmeny, pripravuje ich výrobu
+- Menová funkcia
+    - Reguluje množstvo peňazí v obehu
+        - Expanzívna politika - podpora obehu
+        - Reštriktívna politika - pribrzdenie obehu
+    - Stanovuje úrokové sadzby, podmienky úverových obchodov, povinné minimálne rezervy
+- Devízová funkcia
+    - Určuje vzťah eura k vonkajšiemu prostrediu
+    - Stanovuje kurzy valút a devíz (cudzie hotovostné a bezhotovostné platidlá)
+    - Spravuje zlaté rezervy štátu, usmerňuje platobnú bilanciu štátu a uzatvára platobné dohody so zahraničnými bankami
+- Kontrolná funkcia
+    - Bankový dohľad
+    - Poskytuje bankové licencie
+    - Dohliada na činnosť bánk a pobočiek zahraničných bánk
+    - Pri zistení vážnych nedostatkov uvalí na banku nútenú správu, pozastavuje sa výkon funkcie orgánov banky
+
+**Cieľ**om NBS je:
+- Spolupodielať sa na napĺňaní strategických cieľov ECB
+- Zabezpečovať výkon dohľadu nad finančným trhom SR
+
 ## Postup účtovania o BÚ a KBÚ
+| | 221 - Bankové účty | |
+|---|---|---|
+| VBÚ | Príjem na účet | *221/261* |
+| VBÚ | Výdaj z účtu | *261/221* |
+
+| | 231 - Krátkodobé bankové úvery | |
+|---|---|---|
+| VKBÚ | Získanie úveru | *261/231* |
+| VKBÚ | Čerpanie úveru | *261/231* |
+| VKBÚ | Čerpanie úveru | *321/231* |
+| VKBÚ | Splatenie úveru | *231/261* |
+
+Nemôže nastať prípad ~~*221/231*~~, ani ~~*231/221*~~  
+Je potrebné použiť účet 261 - Peniaze na ceste
 
 &nbsp;
 # 14 - Kúpna zmluva, platobný styk
@@ -1179,6 +1258,7 @@ Zoznam vecí, ktoré som v poznámkach nenašiel:
 [Činitele, ktoré ovplyvňujú finančnú situáciu podniku](#činitele-ktoré-ovplyvňujú-finančnú-situáciu-podniku) (otázka 7)  
 [Koho zaujíma finančná situácia, prečo](#koho-zaujíma-finančná-situácia-prečo) (otázka 7)  
 [Činnosti spojené s prácou s výrobkom](#činnosti-spojené-s-prácou-s-výrobkom) (otázka 10)  
+[Pasívne operácie - vklady](#pasívne-operácie---vklady) (otázka 13) 
 <!-- []() (otázka )  -->
 
 
