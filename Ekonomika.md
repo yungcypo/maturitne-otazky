@@ -63,14 +63,14 @@ Oceňovanie:
     - vplyvom restu produktivity práce - znižujú sa náklady, cena DM klesá 
 
 ## Účtovné a daňové odpisy
-- účtovné odpisy - predstavujú reálne opotrebenie majetku
-- daňové odpisy - sú stanovené zákonom
+- Účtovné odpisy - predstavujú reálne opotrebenie majetku
+- Daňové odpisy - sú stanovené zákonom
 
 ## Postup účtovania odpisov
-|      |                                      |                |
-| :--- | :----------------------------------- | :------------- |
-| ID   | odpis DHM, DNM                       | *551/08x, 07x* |
-| ID   | zúčtovanie zostatkovej ceny DHM, DNM | *551/08x, 07x* |
+| | | |
+| :--- | :--- | :--- |
+| ID | odpis DHM, DNM | *551/08x, 07x* |
+| ID | zúčtovanie zostatkovej ceny DHM, DNM | *551/08x, 07x* |
 
 ## Výpočet zostatkovej ceny 
 Zostatková cena = vstupná cena - oprávky  
@@ -88,21 +88,21 @@ Príčiny:
 - ak už nie je potrebný na účely podnikania - preradením z podnikania do osobného používania
 
 Účtovanie:
-|      | Predaj DHM                    |           |
-| :--- | :---------------------------- | :-------- |
-| VFA  | Faktúra za predaj stroja      | *315/641* |
-| ID   | Odpis zostatkovej ceny stroja | *541/082* |
-| ID   | Vyradenie stroja              | *082/022* |
+| | Predaj DHM | |
+| :--- | :--- | :--- |
+| VFA | Faktúra za predaj stroja | *315/641* |
+| ID | Odpis zostatkovej ceny stroja | *541/082* |
+| ID | Vyradenie stroja | *082/022* |
 
-|      | Darovanie DHM                  |           |
-| :--- | :----------------------------- | :-------- |
-| ID   | Bezodplatné odovzdanie stavby  | *543/081* |
-| ID   | Vyradenie DHM - stavby         | *081/021* |
+| | Darovanie DHM | |
+| :--- | :--- | :--- |
+| ID | Bezodplatné odovzdanie stavby | *543/081* |
+| ID | Vyradenie DHM - stavby | *081/021* |
 
-|      | Likvidácia DHM             |           |
-| :--- | :------------------------- | :-------- |
-| ID   | Odpis zostatkovej ceny DHM | *551/082* |
-| ID   | Vyradenie DHM z majetku    | *082/022* |
+| | Likvidácia DHM | |
+| :--- | :--- | :--- |
+| ID | Odpis zostatkovej ceny DHM | *551/082* |
+| ID | Vyradenie DHM z majetku | *082/022* |
 
 &nbsp;  
 # 3 - Mzda
@@ -130,22 +130,22 @@ Funkcie:
     - Podiely na výsledku hospodárenia
 
 ## Spôsob výpočtu a účtovania mzdy
-|   | Výpočet mzdy                                                    |
-|:-:|-----------------------------------------------------------------|
-|   | Hrubá mzda                                                      |
+| | Výpočet mzdy |
+|:-:|---|
+| | Hrubá mzda |
 | + | Plnenia zúčtovanie a vyplatené v príslušnom kalendárnom mesiaci |
-| = | Hrubý príjem                                                    |
-| - | Povinné poistné SP                                              |
-| - | Preddavky na ZP                                                 |
-| = | Čiastkový základ dane                                           |
-| - | Nezdaniteľná časť základu dane na daňovníka                     |
-| = | Zdaniteľná mzda/Základ dane                                     |
-| - | Preddavok na daň                                                |
-| + | Daňový bonus                                                    |
-| = | Čistá mzda                                                      |
-| + | Náhrada príjmu pri PN                                           |
-| - | Čisté zrážky                                                    |
-| = | Čistý príjem/K výplate                                          |
+| = | Hrubý príjem |
+| - | Povinné poistné SP |
+| - | Preddavky na ZP |
+| = | Čiastkový základ dane |
+| - | Nezdaniteľná časť základu dane na daňovníka |
+| = | Zdaniteľná mzda/Základ dane |
+| - | Preddavok na daň |
+| + | Daňový bonus |
+| = | Čistá mzda |
+| + | Náhrada príjmu pri PN |
+| - | Čisté zrážky |
+| = | Čistý príjem/K výplate |
 
 ## Sociálne poistenie
 Sociálne poistenie slúži na ochranu obyvateľov v rôznych situáciách (materstvo, PN). Povinnosť prispievať do sociálneho poistenia vyplýva zo zákona.
@@ -192,17 +192,17 @@ Pracovný čas môže byť pružný - zamestnávateľ nestanoví presný začiat
 - Ak zamestnanec pracoval v sťažených podmienkach, pripočíta sa mu <u>1 týždeň</u> dovolenky
 
 ## Účtovné doklady a knihy spojené so mzdovou evidenciou
-|     | Účtovné doklady              |
-|-----|------------------------------|
-| VFA | Vystavená faktúra            |
-| PFA | Prijatá faktúra              |
-| ID  | Interný účtovný doklad       |
+| | Účtovné doklady |
+|---|---|
+| VFA | Vystavená faktúra |
+| PFA | Prijatá faktúra |
+| ID | Interný účtovný doklad |
 | VPD | Výdavkový pokladničný doklad |
-| PPD | Príjmový pokladničný doklad  |
-| VYD | Výdajka zásob zo skladu      |
-| PRI | Príjemka zásob zo skladu     |
-| VBÚ | Výpis bankového účtu         |
-| ZVL | Zúčtovacia výplatná listina  |
+| PPD | Príjmový pokladničný doklad |
+| VYD | Výdajka zásob zo skladu |
+| PRI | Príjemka zásob zo skladu |
+| VBÚ | Výpis bankového účtu |
+| ZVL | Zúčtovacia výplatná listina |
 
 &nbsp;  
 # 4 - Náklady
@@ -219,21 +219,21 @@ Pracovný čas môže byť pružný - zamestnávateľ nestanoví presný začiat
         - Regresívne - vyvíjajú sa nepriamo úmerne s objemom výkonov. Napr. mzdy vyplatené za prestoje
 
 ## Položky kalkulačného vzorca + úloha vzorca
-|     | Kalkulačný vzorec            |
-|----:|------------------------------|
-| 1.  | Priamy materiál              |
-| 2.  | Priame mzdy                  |
-| 3.  | Ostatné priame náklady       |
-| 4.  | Výrobná (prevádzková) réžia  |
-| =   | Vlastné náklady výroby       |
-| 5.  | Správna réžia                |
-| =   | Vlastné náklady výkonu       |
-| 6.  | Odbytové náklady             |
-| =   | Úplné vlastné náklady výkonu |
-| 7.  | Zisk                         |
-| =   | Cena výrobku (služby)        |
-| 8.  | Daň z pridanej hodnoty       |
-| =   | Predajná cena vrátane DPH    |
+| | Kalkulačný vzorec |
+|---:|---|
+| 1. | Priamy materiál |
+| 2. | Priame mzdy |
+| 3. | Ostatné priame náklady |
+| 4. | Výrobná (prevádzková) réžia |
+| = | Vlastné náklady výroby |
+| 5. | Správna réžia |
+| = | Vlastné náklady výkonu |
+| 6. | Odbytové náklady |
+| = | Úplné vlastné náklady výkonu |
+| 7. | Zisk |
+| = | Cena výrobku (služby) |
+| 8. | Daň z pridanej hodnoty |
+| = | Predajná cena vrátane DPH |
 
 ## Výnosy + členenie z účtovného hľadiska
 Výnos je zvýšenie ekonomických úžitkov účtovnej jednotky v účtovnom období, ktoré sa dá spoľahlivo oceniť.
@@ -560,12 +560,12 @@ Používajú sa 2 účty
 - *335 - Pohľadávky voči zamestnancom*
 > Účet *331 - Zamestnanci* sa používa iba pri prípadoch spojených so mzdou, napr. Priznané hrubé mzdy *512/331*
 
-|                         |           |
-|-------------------------|-----------|
-| Záväzky - pribúdanie    | *xxx/333* |
-| Záväzky - ubúdanie      | *333/xxx* |
+| | |
+|---|---|
+| Záväzky - pribúdanie | *xxx/333* |
+| Záväzky - ubúdanie | *333/xxx* |
 | Pohľadávky - pribúdanie | *335/xxx* |
-| Pohľadávky - ubúdanie   | *xxx/335* |
+| Pohľadávky - ubúdanie | *xxx/335* |
 ## Nezamestnanosť
 Nezamestnanosť je sociálno - ekonomický jav, ktorý vyjadruje neúplné využitie práceschopného obyvateľstva, ktoré má záujem pracovať
 - **Príčiny**
@@ -693,9 +693,9 @@ Elasticita dopytu je citlivosť dopytu na zmenu ceny
 |-|-|-|
 | PFA | Nákup tovaru | *<sup>131 + 343</sup>/<sub>321</sub>* |
 | PFA | Preprava tovaru | *<sup>131 + 343</sup>/<sub>321</sub>* |
-| ID  | Zaradenie do užívania v OC | *132/131* |
+| ID | Zaradenie do užívania v OC | *132/131* |
 | VFA | Predaj tovaru | *<sub>311</sub>*/*<sup>343 + 604</sup>* |
-| ID  | Úbytok predaného tovaru | *504/132* |
+| ID | Úbytok predaného tovaru | *504/132* |
 
 
 &nbsp;
@@ -2193,10 +2193,77 @@ Sú to buď vrodené alebo získané požiadavky, ktoré sa nepretržite vyvíja
 &nbsp;
 # 22 - Priame dane
 ## Pojem daň + význam
+Daň je povinná, zákonom stanovená, spravidla opakujúca sa platba, ktorú odvádzajú FO a PO do štátneho alebo miestneho rozpočtu v určenej výške a stanovenej lehote  
+
+
 ## Priame a nepriame dane *ktoré musí firma odovzdávať*
+### Priame dane
+Vyrubujú sa priamo z príjmu alebo majetku  
+Zaťažujú priamo  
+
+Rozdelenie:
+- Daň z príjmov
+    - Daň z príjmov FO
+    - Daň z príjmov PO
+- Miestne dane
+    - Daň z nehnuteľností
+    - Daň za psa
+    - Daň za užívanie verejného priestranstva
+    - Daň za ubytovanie
+    - Daň za predajné automaty
+    - Daň za nevýherné hracie stroje
+    - Daň za vjazd a zotrvanie vozidla v historickej časti mesta
+    - Poplatok za komunálny odpad 
+- Daň z motorových vozidiel
+
+### Nepriame dane
+"Dane zo spotreby"  
+Odvádza ich výrobca alebo poskytovateľ služby, ale zaplatí ich spotrebiteľ v cene nakupovaných tovarov alebo služieb  
+
+Rozdelenie:
+- DPH
+- Spotrebné dane
+    - Daň z alkoholických nápojov (piva, vína, liehu)
+    - Daň z tabakových výrobkov
+    - Daň z minerálneho oleja
+    - Daň z elektriny, uhlia a zemného plynu
+
 ## Daň z príjmov FO a spôsob jej výpočtu
+1. Výdavky preukázateľné/vynaložené v skutočných výdavkoch
+2. Uplatnenie paušálnych výdavkov (60% z príjmu)
+
+| | Základný vzorec pre výpočet daňovej povinnosti |
+|---|---|
+| | Hrubé príjmy |
+| - | Výdavky |
+| - | Odvody (sociálna a zdravotná poisťovňa) |
+| - | Odpočítateľné položky |
+| **=** | **Základ dane** |
+| x | 19% |
+| **=** | **Daňová povinnosť** |
+| - | Zaplatené preddavky na naň |
+| - | Daňový bonus |
+| **=** | **Daňový preplatok** alebo **daňový nedoplatok** |
+
 ## Postupy účtovania dane z príjmov PO *(kladná a záporná daňová povinnosť)*
+| | | |
+|-|-|-|
+| VBÚ | Zaplatený preddavok na daň z príjmu účtovnej jednotky | *341/221* |
+| ID | Zúčtovanie záväzku dane z príjmu bežnej činnosti ÚJ | *591/341* |
+| VBÚ | Zúčtovanie rozdielu dane z príjmu ÚJ, ak preddavky < záväzok | *341/221* |
+| VBÚ | Zúčtovanie rozdielu dane z príjmu ÚJ, ak preddavky > záväzok | *221/341* |
+
 ## Ostatné priame dane + spôsob účtovania
+| | | |
+|-|-|-|
+| ZVL | Preddavok na daň z príjmov zamestnancov (zrážka zo mzdy) | *331/342* |
+| VBÚ | Úhrada dane z príjmu za zamestnancov | *342/221* |
+| ZVL | Ročné zúčtovanie dane z príjmu zamestnancov, ak preddavky > skutočná suma | *342/331* |
+| ID | Daňové priznanie k dani z motorových vozidiel | *531/345* |
+| VPD | Úhrada dane z motorových vozidiel (podľa daňového priznania) | *345/211* |
+| ID | Daňové priznanie k dani z nehnuteľnosti | *532/345* |
+| ID | Vznik záväzku na zaplatenie administratívnych poplatkov | *538/345* |
+| VBÚ | Úhrada administratívnych poplatkov | *345/221* |
 
 &nbsp;
 # 23 - Akciová spoločnosť *(a. s.)*
@@ -2273,7 +2340,7 @@ Môže byť vydaná v listinnej alebo dematerializovanej podobe (vytlačená na 
 |---|---|
 | Majetkový CP | Úverový CP |
 | Predstavujú podiel na vlastníctve emitenta (spoločnosti) | Investujúci je veriteľom emitenta, teda má nárok na pravidelné platby úrokov a návrat pôžičky |
-| Majitelia akcií majú právo rozhodovať o spoločnosti  | Majitelia dlhopisov nemajú toto právo |
+| Majitelia akcií majú právo rozhodovať o spoločnosti | Majitelia dlhopisov nemajú toto právo |
 | Vyššie riziko, vyššia potencionálna návratnosť | Nižšie riziko, nižšia potencionálna návratnosť |
 | Neobmedzená doba splatnosti | Obmedzená doba splatnosti |
 
