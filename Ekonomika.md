@@ -1508,8 +1508,9 @@ Subjekt dane - delíme na 2 skupiny:
     - Rozdiel je v tom, že nemá trvalý pobyt, obvykle sa na území SR nezdržiava  
     Zdaňujú sa príjmy, ktoré dosiahne len na našom území
 
-**1. Výdavky preukázateľné/vynaložené v skutočných výdavkoch**
-**2. Uplatnenie paušálnych výdavkov (60% z príjmu)**
+&nbsp;  
+1. **Výdavky preukázateľné/vynaložené v skutočných výdavkoch**
+2. **Uplatnenie paušálnych výdavkov (60% z príjmu)**
 
 | | Základný vzorec pre výpočet daňovej povinnosti: |
 |---|---|
@@ -1536,7 +1537,23 @@ Subjekt dane - delíme na 2 skupiny:
 | **=** | **Daň** |
 
 
-## Účtovné knihy v jednoduchom účtovníctve *!*
+## [Účtovné knihy v jednoduchom účtovníctve](#účtovné-knihy)
+> Táto odrážka je zhrnutá v ďalšej téme
+
+## Cenkros
+
+&nbsp;
+# 17 - Účtovníctvo - jednoduché
+## Postup účtovania v jednoduchom účtovníctve
+Môžu v ňom účtovať len niektoré účtovné jednotky
+- Podnikateľ, ktorému to umožňuje osobný predpis
+- FO - občianske združenie a jeho organizačné zložky, ak nepodnikajú a ak ich príjmy nedosiahli v predchádzajúcom účtovnom období... *(?)*
+- Cirkev a náboženská spoločnosť a ich orgány, ak nepodnikajú
+
+Postup je uvedený v [ďalšej odrážke](#účtovné-knihy-druhy-účtovných-dokladov) 
+
+## Účtovné knihy, druhy účtovných dokladov
+### Účtovné knihy
 - Hlavné knihy
     - Peňažný denník
     - Kniha pohľadávok
@@ -1556,19 +1573,108 @@ Subjekt dane - delíme na 2 skupiny:
         - Mzdové listy
         - Kniha sociálneho fondu
 
-## Cenkros
+**Peňažný denník** predstavuje hlavnú knihu jednoduchého účtovníctva  
+Zachytávajú sa v ňom všetky účtovné prípady, ktoré sú spojené s pohybom peňažných prostriedkov - v hotovosti a na bankových účtoch v peňažných ústavoch  
 
-&nbsp;
-# 17 - Účtovníctvo - jednoduché *!*
-## Postup účtovania v jednoduchom účtovníctve
-## Účtovné knihy, druhy účtovných dokladov
-- PPD
-- VPD
-- VBÚ
+Účtujú sa tu:
+- Príjmy a výdavky v hotovosti, vrátane prijatých šekov a cenín
+- Príjmy a výdavky na účtoch v bankách
+- Priebežné položky 
+    - Prevody medzi pokladnicou a bankovým účtom
+    - Prevody medzi pokladnicami
+    - Prevody medzi bankovými účtami
+- Uzávierkové účtovné prípady na konci účtovného obdobia, ktoré upravujú základ dane z príjmov. T. j. údaje, ktoré sú, alebo nie sú súčasťou dane z príjmu  
+
+Zápisy v peňažnom denníku musia byť len finančné operácie (pohyb peňazí) s výnimkou uzávierkových účtovných prípadov (odpisy DM, kurzové rozdiely)
+
+**Kniha pohľadávok**  
+Účtujú sa všetky pohľadávky voči vonkajším subjektom:
+- Pohľadávky voči odberateľom
+- Poskytnuté preddavky dodávateľom
+- Pohľadávky voči sociálnej a zdravotnej poisťovni
+- Poskytnuté úvery iným podnikateľom
+- Poskytnuté preddavky zamestnancom
+- Pohľadávky za manká a škody
+- Pohľadávky dane z príjmov
+- Pohľadávky nepriamych daní
+
+**Kniha záväzkov**  
+Účtujú sa všetky záväzky voči vonkajším subjektom:
+- Záväzky voči dodávateľom
+- Prijaté preddavky od odberateľov
+- Záväzky voči sociálnej a zdravotnej poisťovni
+- Záväzky voči zamestnancom
+- Záväzky voči správcovi jednotlivých daní
+- Záväzky voči banke
+
+### Druhy účtovných dokladov
+Podľa obsahu
+- Externé (vonkajšie) doklady vznikajú v styku podniku s jeho okolím
+    - Ich smerovania do podniku alebo z podniku von môžeme rozlíšiť prijaté a vydané doklady
+    - Prijaté doklady 
+        - Faktúry od dodávateľov
+        - Výpisy z vkladových účtov v banke
+    - Vydané doklady 
+        - Faktúry odosielané odberateľov pri predaji výrobkov, tovaru alebo pri poskytnutí služieb
+- Interné (vnútorné) 
+    - Vznikajú na základe vnútropodnikových procesov a s nimi súvisiacich operácií
+    - Príjemky
+    - Výdajky 
+    - Pokladničné doklady 
+    - Prevodky 
+    - Zápisy o zaradení alebo vyradení majetku
+    - Protokoly o škodách
+    - Odpisy dlhodobého majetku a pod.
+
+Podľa počtu zachytených účtovných prípadov:
+- Jednotlivé 
+    - Slúžia na overenie jedného účtovného prípadu (faktúry, pokladničné doklady)
+- Zberné (súhrnné) 
+    - Slúžia na zhrnutie viacerých účtovných prípadov, ktoré nastali v tom istom dni, prípadne i v dlhšom časovom úseku
+    - Znižujú počet účtovných zápisov a znamenajú úsporu účtovných prác
+
+V jednoduchom účtovníctve sú to len tieto doklady
+- Príjmový pokladničný doklad *(PPD)*
+- Výdavkový pokladničný doklad *(VPD)*
+- Výpis bankového účtu *(VBÚ)*
+
 ## Účtovná uzávierka (činnosti)
-## Podstata a obsah účtovnej uzávierky
-## Výpočet základu dane a dane z príjmov
+Uzavieranie účtovných kníh je činnosť, keď sa za posledný zápis v peňažnom denníku dopĺňajú uzávierkové účtovné prípady, týkajúce sa príjmov a výdavkov, ktoré zvyšujú alebo znižujú základ dane z príjmov  
+
+Pred uzávierkou je potrebné vykonať prípravné práce: 
+1. Urobiť inventarizáciu majetku a záväzkov
+2. Zaúčtovať do peňažného denníka kurzové rozdiely
+3. Kontrolu a odsúhlasenie zostatkov peňažných prostriedkov podľa VBÚ
+4. Pred zaúčtovaním uzávierkových účtovných prípadov sa v peňažnom denníku urobí formálna kontrola zápisov, pričom platí:
+    - Príjmy v hotovosti + príjmy na BÚ = priebežné položky  
+    Príjem + príjmy zahrňované do základu dane + príjmy nezahrňované do základu dane *(?)*
+    - Výdavky v hotovosti + výdavky z BÚ = priebežné položky  
+    Výdaj + výdavky na dosiahnutie, zabezpečenie a udržanie príjmov + výdavky neovplyvňujúce základ dane
+5. Za poslednú položku peňažného denníka sa na základe ID zaúčtujú uzávierkové účtovné prípade, ktoré môžu ovplyvniť základ dane z príjmov
+6. Jednotlivé stĺpce pokladničného denníka sa sčítajú a vyčísli sa výsledok hospodárenia pred zdanením ako:
+    - Príjmy zahrňované do základu dane - výdavky na dosiahnutie, zabezpečenie a udržanie príjmov  
+    (Zisk - strata)
+
+## Podstata a obsah účtovnej závierky
+Účtovná závierka podnikateľa, ktorý preukazuje svoje výdavky na dosiahnutie, zabezpečenie a udržanie príjmov a účtuje v sústave jednoduchého účtovníctva, je súhrnné označenie účtovných výkazov:
+- Výkaz o príjmoch a výdavkoch 
+    - Poskytuje prehľad len o príjmoch a výdavkoch ovplyvňujúcich základ dane
+- Výkaz o majetku a záväzkoch 
+    - Všetky údaje o majetku a záväzkoch musia byť doložené inventúrnymi súpismi
+
+Účtovná závierka poskytuje informácie o hospodárení danej účtovnej jednotky, pričom obsahuje údaje z bežného účtovného obdobia, ako aj údaje z bezprostredne predchádzajúceho účtovného obdobia
+
+Účtovná jednotka pri zostavovaní účtovnej závierky v jednoduchom účtovníctve čerpá údaje najmä z:
+- Peňažného denníka
+- Knihy pohľadávok a záväzkov
+- Pomocných kníh
+- Výsledkov inventarizácie majetku a záväzkov
+
+## [Výpočet základu dane a dane z príjmov FO](#postup-výpočtu-dane-z-príjmov-fo) 
+> Toto už je zahrnuté v predchádzajúcej otázke
+
 ## Postup účtovania v peňažnom denníku
+
 
 &nbsp;
 # 18 - Manažment
@@ -1664,7 +1770,10 @@ Zoznam vecí, ktoré som v poznámkach nenašiel:
 [Činitele, ktoré ovplyvňujú finančnú situáciu podniku](#činitele-ktoré-ovplyvňujú-finančnú-situáciu-podniku) (otázka 7)  
 [Koho zaujíma finančná situácia, prečo](#koho-zaujíma-finančná-situácia-prečo) (otázka 7)  
 [Činnosti spojené s prácou s výrobkom](#činnosti-spojené-s-prácou-s-výrobkom) (otázka 10)  
-[Pasívne operácie - vklady](#pasívne-operácie---vklady) (otázka 13) 
+[Pasívne operácie - vklady](#pasívne-operácie---vklady) (otázka 13)  
+[Postup výpočtu dane z príjmov FO](#postup-výpočtu-dane-z-príjmov-fo) (otázka 16) - chýba nejaký odsek  
+[Postup účtovania v peňažnom denníku](#postup-účtovania-v-peňažnom-denníku) (otázka 17)  
+<!-- []() (otázka )  -->
 <!-- []() (otázka )  -->
 
 
