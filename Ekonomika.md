@@ -1418,6 +1418,7 @@ Druhy sociálneho poistenia
 
 ## Účtovanie mánk a škôd na majetku
 | | 549 - Manká a škody | |
+|---|---|---|
 | ID | Škoda na materiáli nad normu | *549/112* |
 | ID | Škoda na tovare nad normu | *549/132* |
 
@@ -1426,10 +1427,135 @@ Druhy sociálneho poistenia
 &nbsp;
 # 16 - Živnosť
 ## Charakteristika, druhy + príklad
+Živnosť alebo podnikanie je sústavná činnosť uskutočňovaná podnikateľom vo vlastnom mene, za vlastnú zodpovednosť s cieľom dosiahnuť zisk  
+
+Členenie:
+- Podľa požiadaviek na odbornú spôsobilosť
+    - Ohlasovacie
+        - Remeselné - vyžadujú vzdelanie a prax
+        - Viazané - odborná spôsobilosť, je upravená osobitnými predpismi (autoškola, cestovné kancelárie, ...)
+        - Voľné - nevyžaduje sa odborná spôsobilosť
+- Podľa predmetu činnosti (podnikania)
+    - Obchodné
+    - Výrobné
+    - Poskytujúce služby
+
 ## Založenie a vznik
+Založenie = súbor činností a aktivít, ktoré sa uskutočňujú pred vznikom podniku  
+Účelom je pripraviť založenie, vznik a rozvoj zakladajúceho podniku  
+
+Podnikateľský zámer by mal obsahovať
+- Vecno-technickú stránku podnikania, materiálne, finančné, technické a ľudské zabezpečenie
+- Právne-organizačnú stránku podnikania
+- Ekonomická stránka podnikania - či bude podnikateľská činnosť rentabilná, aká bude potreba kapitálu, zdroje financovania, aké budú predpokladané náklady, výnosy, predpokladaný zisk  
+
+Podnik vzniká zápisom do obchodného registra alebo získaním živnostenského oprávnenia  
+
+Postup pri založení podniku je iný pri každej forme podnikania:
+- Komanditná spoločnosť *(k. s.)* 
+    - Podpísaním spoločenskej zmluvy (komandisti a komplementári)
+    - Základné imanie určené v spoločenskej zmluve - min. 250€
+- Spoločnosť s ručením obmedzením *(s. r. o.)* 
+    - Podaním návrhu za zápis do obchodného registra
+    - Kapitálové vklady aspoň 5 000€, každý spoločník min. 750€
+- Akciová spoločnosť *(a. s.)* 
+    - Podpísaním zakladateľskej listiny alebo zakladateľskej zmluvy. Môže ju založiť:
+        - 1 zakladateľ, ak je PO - zakladateľská listina
+        - 2 zakladatelia - zakladateľská zmluva
+    - Základné imanie min. 25 000€ 
+- Obchodné spoločnosti
+    - Zakladateľmi môžu byť FO aj PO
+    - Ak zakladajú 2 a viacerí zakladatelia, podpisujú spoločenskú zmluvu
+    - Ak zákon pripúšťa, aby spoločnosť založil jediný zakladateľ, 
+    podpisuje zakladateľskú listinu
+    - Patria sem:
+        - Verejná obchodná spoločnosť *(v. o. s.)*
+        - Osobitné formy podnikania
+            - Tiché spoločenstvo
+            - Združenie osôb pre spoločné podnikanie
+
+
+> 1. Navštíviť živnostenský úrad, ktorým je okresný úrad, odbor živnostenského podnikania (tzv. jednotné kontaktné miesto). Fyzická osoba musí navštíviť živnostenský úrad príslušný podľa jej bydliska a právnická osoba podľa jej sídla.
+> 2. Prípadná registrácia na daňovom úrade (ak sa chcete zaregistrovať ako platiteľ DPH, prípadne budete zamestnávať pracovníkov)
+> 3. Zdravotná poisťovňa – registráciu vybavuje jednotné kontaktné miesto do 8 dní musíte poisťovni oznámiť výšku preddavkov na ZP
+> 4. Sociálna poisťovňa
+
 ## Možnosti vedenia účtovníctva a zistenia výsledku hospodárenia
+Živnostník si môže vybrať, či bude účtovať v jednoduchom, alebo podvojnom účtovníctve  
+
+### Jednoduché účtovníctvo
+Môžu v ňom účtovať len niektoré účtovné jednotky
+- Podnikateľ, ktorému to umožňuje osobný predpis
+- FO - občianske združenie a jeho organizačné zložky, ak nepodnikajú a ak ich príjmy nedosiahli v predchádzajúcom účtovnom období... *(?)*
+- Cirkev a náboženská spoločnosť a ich orgány, ak nepodnikajú
+
+
+### Podvojné účtovníctvo
+Musia v ňom účtovať všetky účtovné jednotky zapísané v obchodnom registri
+
 ## Postup výpočtu dane z príjmov FO
+Predmetom dane z príjmov sú
+- Príjmy zo závislej činnosti
+- Príjmy z podnikania, z inej samostatnej zárobkovej činnosti a prenájmu
+- Príjmy z kapitálového majetku
+- Ostatné príjmy
+
+Subjekt dane - delíme na 2 skupiny:
+- Daňovník s neobmedzenou daňovou povinnosťou (daňový rezident)
+    - FO, ktorá má na území SR trvalý pobyt, alebo sa tu obvykle zdržiava (183 dní v roku)  
+    Daňujú sa príjmy, ktoré dosiahne na našom území ale aj v cudzine
+- Daňovník s obmedzenou daňovou povinnosťou (daňový nerezident)
+    - Rozdiel je v tom, že nemá trvalý pobyt, obvykle sa na území SR nezdržiava  
+    Zdaňujú sa príjmy, ktoré dosiahne len na našom území
+
+**1. Výdavky preukázateľné/vynaložené v skutočných výdavkoch**
+**2. Uplatnenie paušálnych výdavkov (60% z príjmu)**
+
+| | Základný vzorec pre výpočet daňovej povinnosti: |
+|---|---|
+| | Hrubé príjmy |
+| - | Výdavky |
+| - | Odvody (sociálna a zdravotná poisťovňa) |
+| - | Odpočítateľné položky |
+| **=** | **Základ dane** |
+| x | 19% |
+| **=** | **Daňová povinnosť** |
+| - | Zaplatené preddavky na naň |
+| - | Daňový bonus |
+| **=** | **Daňový preplatok** alebo **daňový nedoplatok** |
+
+&nbsp;  
+
+| | SZČO pri využití paušálnych výdavkov |
+|---|---|
+| | Hrubé príjmy |
+| - | Odvody (sociálna a zdravotná poisťovňa) |
+| - | Paušálne výdavky (40%) |
+| **=** | **Základ dane** |
+| - | Nezdaniteľná časť |
+| **=** | **Daň** |
+
+
 ## Účtovné knihy v jednoduchom účtovníctve *!*
+- Hlavné knihy
+    - Peňažný denník
+    - Kniha pohľadávok
+    - Kniha záväzkov
+- Pomocné knihy
+    - O zložkách majetku a záväzkov
+        - Kniha DNM a DHM
+        - Kniha DFM
+        - Kniha zásob (skladové karty)
+        - Pokladničná kniha
+        - Kniha cenín
+        - Kniha účet v banke
+        - Kniha na evidenciu nepriamych daní
+        - Kniha rezerv
+        - Kniha zvierat, základného stáda, ťažných zvierat, plemenných a dostihových koní
+    - O záväzkoch z pracovnoprávnych vzťahov
+        - Mzdové listy
+        - Kniha sociálneho fondu
+
 ## Cenkros
 
 &nbsp;
