@@ -2072,10 +2072,112 @@ Je to teda <u>maximálna výrobná schopnosť podniku</u> za určité obdobie
 &nbsp;
 # 20 - Ekonómia, ekonomika
 ## Definícia
+**Ekonómia** je veda, ktorej predmetom skúmania je, ako spoločnosť využíva vzácne zdroje na výrobu statkov a služieb a ako ich rozdeľuje medzi rôzne skupiny ľudí  
+Mikroekonómia skúma správanie jednotlivých subjektov na trhu (podniky, domácnosti)  
+Makroekonómia skúma fungovanie ekonomiky ako celku (HDP, nezamestnanosť, inflácia)
+
+**Ekonomika** je cieľavedomá hospodárska činnosť zameraná na výrobu, výmenu a spotrebu statkov a služieb
+
+Ekonómia = teória  
+Ekonomika = prax  
+
 ## Služby, statok, potreby + členenie
+### Služby
+Činnosti, ktoré uspokojujú ľudí vlastným priebehom
+- Vecné
+    - Súvisia s údržbou vecí *(oprava techniky)*, zabezpečovaním čistoty *(čistiareň)*, presunom osôb a tovaru *(doprava)*
+- Osobné
+    - Uspokojujú ľudí priamo *(zdravotníctvo, školstvo)*
+    - Aj hygienické služby *(kaderníctvo)*
+
+### Statok
+Každá vec, ktorá uspokojuje potrebu človeka  
+Môže byť výsledkom prírodných procesov alebo výsledkom výroby  
+
+Delia sa na:
+- Podľa ?
+    - Voľné
+        - Nachádzajú sa v prírode
+        - Sú prístupne každému v neobmedzenom množstve *(!)*
+    - Vzácne (ekonomické)
+        - Sú výsledkom hospodárskej činnosti
+        - Sú obmedzené
+- Podľa účelu používania
+    - Spotrebné - uspokojujú priamo
+        - Jednorazové - jedlo, uhlie, benzín
+        - Dlhodobé - oblečenie, mobil
+    - Kapitálové (investičné, výrobné) - uspokojujú nepriamo
+        - Sprostredkovanie a vo výrobe sa postupne opotrebúvajú alebo spotrebúvajú
+- Podľa využitia
+    - Súkromné
+    - Verejné
+
+### Potreby
+Potreba je pocit nedostatku, ktorý sa človek usiluje odstrániť  
+Sú to buď vrodené alebo získané požiadavky, ktoré sa nepretržite vyvíjajú, vznikajú nové
+
+Členenie:
+- Podľa naliehavosti uspokojenia
+    - Životne nevyhnutné (základné, existenčné) - *napr. jedlo, voda, bývanie, spánok*
+    - Kultúrne a luxusné (získané) - *napr. divadlo, kino, auto*
+- Podľa počtu nositeľov
+    - Individuálne - *napr. čítať knihy*
+    - Kolektívne - *napr. školy, verejné osvetlenie*
+- Podľa charakteru
+    - Hmotné (materiálne) - *napr. oblečenie*
+    - Nehmotné (nemateriálne) - *napr. vzdelávať sa, vzťahy*
+
+**Spotreba** je použitie statkov a služieb s cieľom uspokojiť ľudské potreby
+
 ## 3 základné ekonomické otázky
+- **Čo** vyrábať
+    - Aké výrobky a služby, v akom množstve
+    - Vychádza hlavne z potrieb spoločnosti, ale aj dopytu, či konkurencie
+    - Odpoveď dávajú <u>spotrebitelia</u>
+- **Ako** vyrábať
+    - Akou technológiou, prostriedkami, postupmi
+    - Odpoveď dáva <u>výrobca</u>
+- **Pre koho** vyrábať
+    - Komu budú vyrobené statky a služby určené
+    - Odpoveď dáva <u>aj spotrebiteľ aj výrobca</u>
+
+Ďalšie otázky
+- Pre aké trhy vyrábať
+- V akej kvalite
+- Za akú cenu
+- ...
+
 ## Typy ekonomík
+>Základné ekonomické otázky sa v prvopočiatkoch riešili prevažne inštinktami, zvykmi a tradíciami, ktoré sa prenášali z generácie na generáciu a boli prirodzenými spôsobom získavania statkov nevyhnutných pre život  
+
+>Na základe spôsobu rozhodovania o výrobných zdrojoch rozlišujeme:  
+>- Centrálne riadené hospodárstvo
+>    - Ekonomickým centrom je štát, plánuje, riadi, kontroluje výrobu aj spotrebu
+>    - Prevláda štátne vlastníctvo
+>    - Monopolné postavenie výrobcov
+>    - Centrálne sú stanovené ceny všetkých tovarov a služieb
+>    - Centrálne sú stanovené výšky miezd
+>    - Nedostatočné zásobovanie spotrebiteľského trhu
+>    - Nedostatok osobnej iniciatívy zamestnancov
+>    - Plná zamestnanosť
+
+>Trhové hospodárstvo (ekonomika)
+>    - Systém založený na slobodnom podnikaní a voľnej súťaže
+>    - Funguje prostredníctvom trhového mechanizmu (ponuka, dopyt)
+>    - Povolené súkromné vlastníctvo
+>    - Vznik konkurencie
+>    - Štát nezasahuje do hospodárskeho diania
+>    - Má slobodný trh statkov, služieb, práce, pôdy, kapitálu
+
+>Zmiešané hospodárstvo (ekonomika) - sociálne trhové hospodárstvo
+>    - Najčastejšie sa reálne vyskytuje,
+>    - Trhový mechanizmus je založený na slobodnej podnikateľskej činnosti, voľnej súťaži, voľnej cenotvorbe a prevládajúcom súkromnom vlastníctve, pričom štát zasahuje do chodu hospodárstva, usmerňuje ho,
+>    - Štát prijíma zákony, vytvára základný zákonný rámec krajiny, stará sa o uspokojovanie spoločenských potrieb (výstavba škôl, nemocníc, zásobovanie energiou, spoje) a prostredníctvom zákonov chráni sociálne slabšie vrstvy obyvateľstva ( minimálna mzda, životné minimum, zdravotné poistenie a iné),
+>    - Štát je vlastníkom strategických podnikov (energetika, naftový priemysel, bankovníctvo a pod.).
+
 ## Výrobné vstupy a výstupy podniku
+> Vstupy sú napr. materiál alebo suroviny, z ktorých sa vyrábajú výstupy - produkty
+
 
 &nbsp;
 # 21 - Účtovná dokumentácia
@@ -2142,7 +2244,7 @@ Zoznam vecí, ktoré som v poznámkach nenašiel:
 [Pasívne operácie - vklady](#pasívne-operácie---vklady) (otázka 13)  
 [Postup výpočtu dane z príjmov FO](#postup-výpočtu-dane-z-príjmov-fo) (otázka 16) - chýba nejaký odsek  
 [Postup účtovania v peňažnom denníku](#postup-účtovania-v-peňažnom-denníku) (otázka 17)  
-<!-- []() (otázka )  -->
+[Výrobné vstupy a výstupy podniku](#výrobné-vstupy-a-výstupy-podniku) (otázka 20)  
 <!-- []() (otázka )  -->
 
 
