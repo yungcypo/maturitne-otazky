@@ -2199,12 +2199,84 @@ Sú to buď vrodené alebo získané požiadavky, ktoré sa nepretržite vyvíja
 ## Ostatné priame dane + spôsob účtovania
 
 &nbsp;
-# 23 - Akciová spoločnosť
+# 23 - Akciová spoločnosť *(a. s.)*
 ## Postup založenia a vzniku
+Akciová spoločnosť sa zakladá podpísaním zakladateľskej listiny alebo zakladateľskej zmluvy  
+Môže ju založiť 1 zakladateľ (PO) - podpisuje zakladateľskú listinu  
+Môžu ju založiť 2 a viac zakladatelia - podpisujú zakladateľskú zmluvu
+
+Vzniká zápisom do obchodného registra
+
 ## Charakteristika + orgány
+Akciová spoločnosť je kapitálová spoločnosť  
+Spoločníci - <u>akcionári</u> nie sú povinní sa osobne podieľať na podnikateľskej činnosti  
+
+### Orgány
+- Valné zhromaždenie
+    - Najvyšší orgán
+    - Koná min. 1-krát za rok
+    - Zvoláva ho predstavenstvo
+    - Rozhoduje väčšina hlasov prítomných akcionárov
+- Predstavenstvo
+    - Štatutárny orgán a. s.
+    - Riadi činnosť spoločnosti a koná v jej mene
+    - Ich členov volí a odvoláva valné zhromaždenie
+- Dozorná rada
+    - Kontrolný orgán spoločnosti
+    - Musí mať min. 3 členov na max. 5 rokov
+    - Členom nemôže byť člen predstavenstva, ani prokurista spoločnosti
+
 ## Akcia, typy akcií
+Akcia je cenný papier  
+Predstavuje práva akcionára ako spoločníka podieľať sa na riadení spoločnosti na jej likvidačnom zostatku, právo na informácie a iné  
+Môže byť vydaná v listinnej alebo dematerializovanej podobe (vytlačená na špeciálnom papieri alebo v počítačovej databáze)  
+
+**Menovitá hodnota** akcie - peňažná suma uvedená v akcií  
+**Kurz** akcie - trhová cena, za ktorú sa akcia kupuje a predáva na burze  
+**Dividenda** - podiel majiteľa na  zisku, ktorý pripadá na jednu akciu  
+**Tantiéma** - pohyblivá odmena, ktorú dostávajú členovia predstavenstva a dozornej rady a. s. Jej výšku schvaľuje valné zhromaždenie  
+
+### Typy akcií
+>- Podľa znenia
+>    - Akcia na meno 
+>        – Prevoditeľná
+>        - Prevod sa uskutočňuje rubopisom a odovzdaním akcie 
+>        - Spoločnosť vedie zoznam akcionárov, ktorý nie je verejný
+>        - Pri listinnej forme akcie má akcia plášť, talón a kupónový hárok
+>    - Akcia na doručiteľa 
+>        – Prevoditeľná odovzdaním 
+>        - Práva s ňou spojené má držiteľ
+>- Podľa poskytovaných práv a povinností
+>    - Kmeňové akcie 
+>        – Sú akcie, z vlastníctva ktorých vyplývajú základné práva akcionárov 
+>        - Sú s nimi spojené všetky riziká podnikania
+>    - Prioritné akcie 
+>        – Ich majitelia majú pevne stanovenú a prednostne vyplácanú dividendu 
+>        - Môžu mať obmedzené hlasovacie právo
+
+
 ## Postup účtovania predaja a nákupu akcií
+| | | |
+|-:|-|-|
+| VPD, VBÚ | Obstaranie akcií (DFM) | *043/211, 221* |
+| VPD, VBÚ | Obstaranie akcií (KFM) | *259/211, 221* |
+| ID | Zaradenie akcií do užívania | *25x\*, 043/259* |
+| | \* *Použije sa účet konkrétneho typu KFM zo skupiny 25* | |
+| VPD, VBÚ | Nákup akcií | *213/211, 221* |
+| PPD, VBÚ | Výnosy z DFM a KFM | *211, 221/665, 666* |
+| PPD | Predaj CP a podielov | *211/661* |
+| ID | Úbytok predaných CP | *561/25x\** |
+| | \* *Použije sa účet konkrétneho typu KFM zo skupiny 25* | |
+
 ## Rozdiel medzi akciou a dlhopisom
+| Akcia | Dlhopis |
+|---|---|
+| Majetkový CP | Úverový CP |
+| Predstavujú podiel na vlastníctve emitenta (spoločnosti) | Investujúci je veriteľom emitenta, teda má nárok na pravidelné platby úrokov a návrat pôžičky |
+| Majitelia akcií majú právo rozhodovať o spoločnosti  | Majitelia dlhopisov nemajú toto právo |
+| Vyššie riziko, vyššia potencionálna návratnosť | Nižšie riziko, nižšia potencionálna návratnosť |
+| Neobmedzená doba splatnosti | Obmedzená doba splatnosti |
+
 ## Cenkros
 
 &nbsp;
@@ -2244,7 +2316,12 @@ Zoznam vecí, ktoré som v poznámkach nenašiel:
 [Pasívne operácie - vklady](#pasívne-operácie---vklady) (otázka 13)  
 [Postup výpočtu dane z príjmov FO](#postup-výpočtu-dane-z-príjmov-fo) (otázka 16) - chýba nejaký odsek  
 [Postup účtovania v peňažnom denníku](#postup-účtovania-v-peňažnom-denníku) (otázka 17)  
+[Typy ekonomík](#typy-ekonomík) (otázka 20)  
 [Výrobné vstupy a výstupy podniku](#výrobné-vstupy-a-výstupy-podniku) (otázka 20)  
+[Typy akcií](#typy-akcií) (otázka 23)  
+
+<!-- []() (otázka )  -->
+<!-- []() (otázka )  -->
 <!-- []() (otázka )  -->
 
 
