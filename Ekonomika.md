@@ -2362,19 +2362,109 @@ Môže byť vydaná v listinnej alebo dematerializovanej podobe (vytlačená na 
 &nbsp;
 # 25 - Národné hospodárstvo
 ## Definícia + jeho odvetia a štruktúra
+Národné hospodárstvo (národná ekonomika) je súhrn všetkých samostatných hospodársky (ekonomických) činností na území určitého štátu  
+Zahŕňa verejný aj súkromný sektor  
+Hlavnou funkciou je uspokojovať rastúce potreby obyvateľov statkami a službami, starať sa o *ŽP (?)*, zabezpečenie techniky, kultúrny a spoločenský pokrok krajiny  
+
+Národné hospodárstvo každej krajiny tvoria 4 subjekty:
+- Domácnosti
+- Firmy
+- Štát
+- Zahraničie
+
+### Štruktúra
+- Odvetová štruktúra
+    - Odvetie tvoria podniky s rovnakým alebo podobným zameraním
+    - Odvetia sa členia na
+        - Výrobné - priemysel, poľnohospodárstvo, lesné a vodné hospodárstvo, stavebníctvo, nákladná doprava, výrobné služby, ...
+        - Nevýrobné - školstvo, kultúra, zdravotníctvo, osobná doprava, peňažníctvo, nevýrobné služby, ...
+- Sektorová štruktúra
+    - Jednotlivé odvetia sa v procese ekonomického rozvoja nevyvíjali rovnako, preto sa vytvorilo viacero sfér (sektorov) ekonomickej činnosti  
+    - Rozdiely sú v:
+        - Tempe vedecko-technického pokroku
+        - Raste produktivity práce
+        - Investičnej činnosti
+        - Vývoji zamestnancov
+        - Úrovni deľby práce
+    - Delí sa na:
+        - Primárny sektor
+            - Najvýznamnejší
+            - Tvoria ho odvetia produkujúce základné suroviny, materiály ťažobného priemyslu, poľnohospodárstvo, lesníctvo, energetika
+        - Sekundárny sektor
+            - Odvetia spracovateľského priemyslu a stavebníctvo, od ktorého úrovne závisí uspokojovanie základných ekonomických potrieb spoločnosti (stupeň rozvoja ekonomiky a životná úroveň)
+        - Terciárny sektor
+            - Všetky druhy služieb (platené aj neplatené), obchod, doprava, spoje
+        - Kvarciárny sektor
+            - Oblasť vedy a techniky, výskum, školstvo, zdravotníctvo
+            - Na jeho rozvoji sa najčastejšie podieľa štát - finančne náročné činnosti  
+
+            &nbsp;  
+            | | Tempo vedecko-technického pokroku | Rast produktivity práce | Investičná činnosť | Vývoj zamestnancov | Úroveň deľby práce |
+            |---|---|---|---|---|---|
+            | Primárny sektor | Nízke | Pomalý | Vysoká | | | Relatívne malá ziskovosť |
+            | Sekundárny sektor | Rýchle | Vysoký | Vysoká | | Neustále prehlbovanie |
+            | Terciárny sektor | Najrýchlejšie | Rýchly | | | |
+            | Kvarciárny sektor | Rýchle | | | Rast vzdelanosti | Zvyšovanie kvalifikácie | 
+- Podľa klasifikácie produkcie
+    - Táto klasifikácia je záväzným európskym štandardom pre členské štáty EÚ
+    - Poľnohospodárska produkcia
+        - Priemyselná produkcia
+        - Stavebníctvo
+        - Obchod
+        - Hotelové a reštauračné služby
+        - Doprava a spoje
+        - Peňažníctvo a poisťovníctvo
+        - Služby s oblasti nehnuteľností, prenájmu, počítačov výskumu a ostatné obchodné služby
+        - Verejná správa a obrana, povinné sociálne zabezpečenie
+        - Školstvo
+        - Zdravotníctvo a sociálna starostlivosť
+        - Ostatné verejné sociálne a osobné služby
+        - Súkromné domácnosti s domácim personálom
+- Územná štruktúra
+    - Z tohto hľadiska sa člení národné hospodárstvo každej krajiny podľa jednotlivých územných celkov alebo oblastí na základe územno-správneho členenia krajiny
+    - Slovenská republika sa skladá z 8 vyšších územných celkov a z 79 okresov
+
 ## Hrubý domáci produkt, hrubý národný produkt
+### Hrubý domáci produkt (HDP)
+Je súhrn vyprodukovaných tovarov a služieb vyjadrených v peňažných jednotkách určených na konečnú spotrebu, v danej krajine za určité obdobie, spravidla za 1 rok  
+HDP teda zohľadňuje tzv. územný princíp - berie do úvahy produkciu tovarov a služieb na území danej krajiny (štátu), bez ohľadu na to, kto je vlastníkom výrobných faktorov  
+Napr. ak český podnik podniká na území SR, jeho zisk za započítava do HDP Slovenska, a nie do HDP Česka  
+
+### Hrubý národný produkt (HNP)
+Hodnota všetkých finálnych statkov a služieb vyrobených národnými výrobnými faktormi  
+Zohľadňuje tzv. národný princíp, čiže sledujeme komu patria výrobné faktory produkujúce výrobky a služby, pričom nie je dôležité na území ktorého štátu podniky pôsobia
+
 ## Základné pojmy
 - Účtovníctvo
+    - Najucelenejší ekonomický informačný systém, ktorý presne a spoľahlivo podáva ekonomické informácie o:
+        - Stave, pohybe a rozdelení majetku a záväzkov
+        - Nákladoch a výnosoch (výdavkoch a príjmoch)
+        - Výsledku hospodárenia
 - Sústavy účtovníctva
+    - Sústava jednoduchého účtovníctva
+    - Sústava podvojného účtovníctva
 - Účtovné obdobie
+    - Obdobie, počas ktorého účtovná jednotka vedie účtovníctvo:
+        - Kalendárny rok 
+            - Od 1.1. do 31.12.
+            - Môžu ho uplatniť všetky účtovné jednotky
+        - Hospodársky rok 
+            - 12 po sebe idúcich mesiacov, nezačína sa 1.1
+            - Môžu ho uplatniť len tie účtovné jednotky, ktorým to umožňuje zákon
 - Účtovná jednotka
+    - PO, ktorá je podľa zákona povinná viesť účtovníctvo a má sídlo na území SR
+    - FO, ktoré podnikajú alebo vykonávajú inú samostatne zárobkovú činnosť a preukazujú svoje výdavky vynaložené na dosiahnutie, zabezpečenie a udržanie príjmov
+    - Zahraničná osoba - ak na území SR podnikajú alebo vykonávajú inú činnosť
 - Účtovný prípad
+    - Každá hospodárska operácia, ktorá sa počas roka vyskytne a účtuje
+
 ## Súvaha - položky, druhy súvah, účtová osnova, účtový rozvrh
+
 ## Zásady účtovania na súvahových a výsledkových účtoch
 
 &nbsp;
 # Nenašiel som!
-Zoznam vecí, ktoré som v poznámkach nenašiel:  
+### Zoznam vecí, ktoré som v poznámkach nenašiel  
 [Ako sa z účtovníctva zistí výsledok hospodárenia + spôsob rozdelenia](#ako-sa-z-účtovníctva-zistí-výsledok-hospodárenia--spôsob-rozdelenia) (otázka 4)  
 [Hlavné ciele a činnosti podniku (charakteristika) - ciele podniku](#hlavné-ciele-a-činnosti-podniku-charakteristika) (otázka 6)  
 [Činitele, ktoré ovplyvňujú finančnú situáciu podniku](#činitele-ktoré-ovplyvňujú-finančnú-situáciu-podniku) (otázka 7)  
@@ -2385,6 +2475,9 @@ Zoznam vecí, ktoré som v poznámkach nenašiel:
 [Postup účtovania v peňažnom denníku](#postup-účtovania-v-peňažnom-denníku) (otázka 17)  
 [Typy ekonomík](#typy-ekonomík) (otázka 20)  
 [Výrobné vstupy a výstupy podniku](#výrobné-vstupy-a-výstupy-podniku) (otázka 20)  
+[Daň z príjmov FO a spôsob jej výpočtu](#daň-z-príjmov-fo-a-spôsob-jej-výpočtu) (otázka 22)  
+[Postup účtovania dane z príjmov PO](#postupy-účtovania-dane-z-príjmov-po-kladná-a-záporná-daňová-povinnosť) (otázka 22)  
+[Ostatné priame dane + spôsob účtovania](#ostatné-priame-dane--spôsob-účtovania) (otázka 22)  
 [Typy akcií](#typy-akcií) (otázka 23)  
 
 <!-- []() (otázka )  -->
