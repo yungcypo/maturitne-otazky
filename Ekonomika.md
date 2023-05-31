@@ -1897,17 +1897,177 @@ Taktiež opravuje odchýlky od požadovaného výstupu
 &nbsp;
 # 19 - Výroba
 ## Definícia, stránky
-## Ciele výroby (princíp maxima, princíp minima)
-## Zákonitosti organizácie výrobného procesu
-## Členenie
-## Elementárne a dispozitívne výrobné faktory
-## Výrobný program, výrobný rad, výrobná kapacita - definícia
-## Druhy výrobného sortimentu
-- Úzky
-- Široký
+Výroba je výrobná podniková činnosť, v ktorej sa pretvárajú výrobné vstupy na výrobné výstupy (materiál, suroviny na výrobky) 
 
-- Hlboký
-- Plytký
+**Stránky**
+- Vecná = transformačný proces
+    - Premena vstupov na výstupy
+- Organizačná = kombinačný proces
+    - Vstupy sa rôzne kombinujú s cieľom vytvoriť výrobok
+- Hodnotová = reprodukčný proces - predstavuje
+    - Kolobeh procesov financovania - obstaranie finančných prostriedkov na podnikovú činnosť
+    - Proces investovania - získavanie majetku
+
+## Ciele výroby (princíp maxima, princíp minima)
+- Kvantitatívne 
+    - Účelom je zhotoviť konkrétne výrobky v konkrétnom množstve
+    - Sledujú najmä vecnú stránku výroby - transformačný proces
+- Kvalitatívne
+    - Účelom je zhotoviť konkrétne výrobky v požadovanej kvalite
+    - Sleduje najmä organizačnú a hodnotovú stránku
+    - Rozhodujúce kvalitatívne ciele sú 
+        - Produktivita = princíp maxima
+            - S danými výrobnými vstupmi dosiahnuť maximum výrobných výstupov
+            - Produktivita = $\frac{Výstupy}{Vstupy}$
+        - Hospodárnosť = princíp minima
+            - Dané výrobné výstupy dosiahnuť s minimom spotreby výrobných vstupov
+            - Hospodárnosť = $\frac{Vstupy}{Výstupy}$
+
+## Zákonitosti organizácie výrobného procesu
+Uplatňovanie týchto zákonitostí ovplyvňuje racionálnosť organizácie výroby
+
+- Proporcionálnosť = kvantitatívna vyváženosť jednotlivých zložiek
+    - Medzi prácnosťou výroby a počtom robotníkov
+        - Jej narušenie môže znamenať, že je buď nedostatok alebo prebytok robotníkov (výrobky sa nevyrobia včas alebo robotníci nemajú čo robiť)
+        - V oboch prípadoch firma stráca peniaze
+    - Medzi výrobnými operáciami
+        - Narušenie znamená, že niektoré výrobné operácie zdržiavajú plynulosť výrobného procesu
+- Paralelnosť
+    - Súbežné vykonávanie všetkých výrobných operácií, pri ktorých je to možné
+    - Pri jej dodržaní sa skráti celý výrobný cyklus
+- Rytmickosť
+    - Rovnomerný a pravidelný priebeh výroby
+    - Do výroby sa v pravidelných intervaloch zadávajú výrobné vstupy a vychádzajú výrobné výstupy
+- Nepretržitosť
+    - Výroba sa nezastavuje, neprerušuje
+
+## Členenie
+- Podľa výrobného programu
+    - Základná výroba
+        - Výrobky, ktoré predstavujú hlavný výrobný program
+        - *Napr. mliekareň - mlieko*
+    - Doplnková výroba
+        - Výrobky, ktoré nie sú hlavným výrobným programom, ale súvisia s nim
+        - Lepšie využitie výrobných kapacít a odpadu
+        - *Napr. mliekareň - syr, bryndza, jogurty*
+    - Pridružená výroba
+        - Výrobky vôbec nesúvisia so špecializáciou podniku
+        - Nevyrába sa na rovnakom zariadení ako základná výroba
+        - Nevyrába sa z rovnakého materiálu ako základná výroba
+        - *Napr. mliekareň - obaly na produkty, pestovanie pšenice v nevyužitých priestoroch, ...*
+- Podľa vzťahu k výrobnému procesu
+    - Hlavná výroba
+        - Operácie na zhotovenie základného výrobku
+        - Mení sa v nej tvar a zloženie surovín
+        - *Napr. mliekareň - výroba mlieka* 
+    - Pomocná výroba
+        - Výrobky bezprostredne potrebné na zabezpečenie hlavnej výroby
+        - Nevchádzajú do hlavného výrobku
+        - Len málokedy opúšťajú výrobný podnik
+        - *Napr. mliekareň - príprava prostriedku na čistenie strojov*
+    - Vedľajšia výroba
+        - Produkcia rôznych druhov energií potrebných na hlavnú a pomocnú výrobu
+        - *Napr. výroba elektrickej energie, výroba stlačeného vzduchu pomocou kompresora*
+- Podľa priebehu (spojitosti)
+    - Spojitá (kontinuálna)
+        - Prebieha bez časového prerušenia
+    - Nespojitá (diskontinuálna)
+        - Je charakteristická časovými prestávkami vo výrobnom procese
+- Podľa fáz výroby
+    - Predrozhodujúca fáza  
+        - Určitým spôsobom sa pripravuje východiskový materiál na zhotovujúcu fázu
+        - *Napr. brúsenie, pieskovanie, miesenie*
+    - Zhotovujúca fáza
+        - Samotná výroba výrobku z pripraveného materiálu
+        - Pri jednoduchých výrobkoch je táto fáza aj dohotovujúca 
+        - *Napr. pečenie*
+    - Dohotovujúca fáza
+        - Výrobku sa dáva konečná podoba
+        - *Napr. lakovanie, skladovanie*
+- Podľa hromadnosti
+    - Hromadná
+        - Vyrába sa 1 alebo malý počet druhov výrobkov vo veľkom množstve
+        - Veľká opakovateľnosť (jednoúčelové stroje, automaty)
+        - Podrobná deľba práce
+        - Možnosť zamestnať pracovníkov s nižšou kvalifikáciou
+        - Podrobná produktivita práce
+        - Podrobná príprava výroby
+        - Najnižšie náklady
+        - DHM sa využíva najviac pri opakovaných úkonoch (stroje)
+        - KHM má vysokú rýchlosť obratu (materiál)
+        - *Napr. pečivo, náhradné súčiastky, poľnohospodárska výroba*
+    - Sériová
+        - Jednotlivé druhy produkcie sa striedajú po určitom čase
+        - Delí sa na:
+            - Veľkosériovú
+            - Strednosériovú
+            - Malosériovú
+        - *Napr. dlažba (rôzne farby a vzory) autá, odev*
+    - Kusová
+        - Veľký počet druhov v malom množstve (resp. 1 kus)
+        - Nepravidelnosť výroby - podľa objednávky
+        - Náročnosť na konštrukciu a technologickú prípravu (príprava prototypu, zložité súčiastky, komponenty, farby, materiály)
+        - Potreba vysoko kvalifikovaných pracovníkov (odborníci)
+        - Nízka deľba práce - 1 pracovník musí ovládať a vykonávať viac činností
+        - Univerzálne stroje
+        - *Napr. lode, stavby, nábytok na mieru* 
+- Podľa stupňa zložitosti
+    - Jednoduchá
+        - Vyrábajú sa jednoduché výrobky z jedného kusu materiálu
+        - *Napr. tehly, ihly*
+    - Zložitá
+        - Z viacerých častí materiálu
+        - *Napr. auto, elektronika*
+- Podľa úrovne použitej výrobnej techniky
+    - Ručná
+    - Strojová
+    - Aparatúrna
+    - Automatizovaná
+
+## Elementárne a dispozitívne výrobné faktory
+### Elementárne
+- Práca
+- Pôda
+- Kapitál
+
+### Dispozitívne
+- Plánovanie
+    - Určuje ciele podniku a spôsoby ich dosiahnutia
+    - Výsledkom je plán
+- Organizovanie
+    - Riadiaci subjekt organizuje prácu a činnosť subjektov tak, aby viedli k úspešnému splneniu podnikových cieľov
+- Rozhodovanie
+    - Riadiaci subjekt vyberá jednu z možných alternatív riešenia určitého problému
+- Vedenie
+- Kontrola
+    - Zisťuje, či sa vytýčené podnikové ciele splnili
+
+Ich úlohou je zabezpečiť organizačnú stránku výroby tak, aby boli splnené ciele podniku  
+Ide aj o pracovnú silu, ale v riadiacej činnosti  
+Závisí od duševných schopností človeka  
+Vyžadujú sa vyššie kvalifikačné predpoklady, schopnosti, zručnosti  
+
+
+## Výrobný program, výrobný rad, výrobná kapacita - definícia
+### Výrobný program
+<u>Súhrn všetkých vyrábaných výrobkov</u>, vyjadrený v sortimente a kvalite  
+Určuje výrobné zameranie - výrobné portfólio - výrobný profil  
+
+### Výrobný rad
+<u>Skupina príbuzných výrobkov</u>, ktoré majú približne rovnaké charakteristiky a použitie *(hygienické potreby - šampón, mydlo, zubné pasty)*
+
+### Výrobná kapacita
+Ak chce podnik realizovať výrobný program, musí disponovať primeranou výrobnou kapacitou  
+Je to teda <u>maximálna výrobná schopnosť podniku</u> za určité obdobie  
+
+## Druhy výrobného sortimentu
+- Úzky - podnik sa realizuje na výrobu jedného alebo málo druhov výrobkov
+- Široký - veľký počet rozličných výrobkov (diverzifikácia = rozšírenie) 
+
+---
+
+- Hlboký - podnik vyrába veľký počet variantov jedného druhu produktu
+- Plytký - podnik vyrába málo, resp. iba 1 variant jedného druhu produktu
 
 &nbsp;
 # 20 - Ekonómia, ekonomika
