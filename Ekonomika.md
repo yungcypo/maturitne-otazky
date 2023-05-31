@@ -1144,6 +1144,7 @@ Povinnosti:
 - Zaplatiť za tovar kúpnu cenu
 - Prevziať tovar v súlade so zmluvou
 
+&nbsp;  
 ![Schéma kúpno-predajných vzťahov](images/eko-obr1.png)
 
 ### Sprostredkovateľ
@@ -1249,6 +1250,7 @@ Sú to všetky formy a spôsoby platenia, ktoré sa uskutočňujú na území da
     - Môžu nastať 2 variácie
         1. Platiteľ uhradí svoj záväzok na pošte (banke), ktorá prevedie úhradu na účet
         2. Platiteľ uhrádza záväzok zo svojho účtu príjemcovi, ktorý sumu dostane v hotovosti  
+    &nbsp;  
     ![Kombinovaný platobný styk - schéma](images/eko-obr2.png)
 
 ## Postup účtovania 211, 213
@@ -1679,11 +1681,218 @@ Pred uzávierkou je potrebné vykonať prípravné práce:
 &nbsp;
 # 18 - Manažment
 ## Definícia
+Umenie riadiť podnikovú činnosť, resp. dosiahnuť stanovené ciele podniku  
+Proces tvorby a udržiavania prostredia, v ktorom jednotlivci pracujú spoločne v skupinách a účinne dosahujú vybrané ciele  
+Proces plánovania, rozhodovania, organizovania, komunikovania, motivovania, kontroly a použitia všetkých zdrojov podniku k vytýčeniu a dosiahnutiu cieľov podniku  
+Je proces práce prostredníctvom iných ľudí tak, aby sa dosiahli ciele organizácie v meniacom sa prostredí  
+
 ## Plánovanie
+Je to proces vytyčovania cieľov podniku, ich zreálňovania a stanovovania spôsobu ich dosahovania  
+Je východiskovou a najdôležitejšou funkciou, ktorá ovplyvňuje všetky ostatné manažérske funkcie  
+Je projektovanie budúcnosti, t. j. budúceho stavu  
+
+Časti:
+1. Vytýčenie cieľov a ich zreálňovanie
+    - Cieľ by mal byť SMART
+        - **S**pecific - špecifický, presne stanovený
+            - *Napr. znížiť náklady na výrobu výrobku X*
+        - **M**easurable - merateľný, číselne vyjadrený
+            - *Napr. zvýšiť výnosovosť z jednej akcie na 100€*
+        - **A**greed - akceptovateľný pre širšiu skupinu
+            - *Napr. znížiť emisie CO<sub>2</sub> o 10t ročne*
+        - **R**ealisitc - reálny, dosiahnuteľný
+        - **T**rackable (time) - musí myť vymedzený časový rámec, musí byť možné sledovať jeho plnenie
+            - *Napr. v priebehu nasledujúceho polroka znížiť nepodarkovosť o 1%*
+2. Stanovenie prostriedkov na dosiahnutie cieľov
+    - Pracovné prostriedky
+        - Manažéri
+        - Robotníci
+        - Štábni pracovníci
+    - Materiálové prostriedky
+        - Suroviny
+        - Materiál
+        - Energia
+        - Polotovary
+    - Kapacitné prostriedky
+        - Stroje
+        - Zariadenia
+        - Výrobné kapacity
+    - Finančné prostriedky
+        - Úvery
+        - Zisk
+        - Akciový kapitál
+3. Určenie ciest a spôsobov na dosiahnutie cieľov
+    - Druhy cieľov
+        - Z časového hľadiska
+            - Dlhodobé ciele - > 5 rokov
+            - Strednodobé - 2 až 5 rokov
+            - Bežné - 1 až 2 roky
+            - Krátkodobé - < 1 rok
+        - Z hierarchického hľadiska
+            1. Spoločenské
+                - Dodržiavanie právnych a etických noriem
+                - Ochrana prírody
+            2. Zákaznícky orientované
+                - Uspokojovanie potrieb zákazníkov
+                - Podiel na trhu
+            3. Zamestnanecky orientované
+                - Vytváranie pracovných podmienok 
+                - Motivácia
+            4. Ekonomické
+                - Prežitie podniku
+                - Rast aktív
+                - Produktivita
+                - Rentabilita vlastného imania
+        - Podľa toho, z akých aspektov sa budúci očakávaný stav formuluje
+            - Hospodárske
+                - Výkonové ciele
+                - Ekonomické ciele
+                - Finančné ciele
+            - Sociálne
+        - Podľa významu
+            - Vrcholový - najdôležitejší spomedzi podnikových
+                - Prežitie (zachovanie) podniku
+                - Rentabilita kapitálu
+                - Rast podielu na trhu
+            - Čiastkové ciele - odvíjajú sa od vrcholového
+
+
 ## Druhy rozhodovacích procesov a riziká
+Rozhodovanie je činnosť, ktorá odhaľuje a analyzuje problém ako predmet riešenia, stanovuje možné varianty riešenia a podľa zvolených kritérií vyberá ten najvýhodnejší variant
+
+Charakteristické znaky:
+- Existencia viacerých možností
+- Výber riešenia je vedomý
+- Výber riešenia je cieľavedomý
+- Výber riešenia sa uskutočňuje podľa stanovených kritérií
+- Po výbere riešenia nasleduje fáza realizácie
+
+Druhy rozhodovacích procesov
+- Rozhodovanie v podmienkach istoty
+    - Vyskytuje sa zriedkavo
+    - Rozhodovateľ pozná
+        - Alternatívy riešenia
+        - Možné stavy okolia
+        - Účinky jednotlivých alternatív pri rôznych stavoch okolia
+    - *Napr. na úrovni dielne, pri operatívnom riadení, výroba na objednávku*
+- Rozhodovanie v podmienkach rizika
+    - Využíva štatistické údaje a teóriu pravdepodobnosti
+    - Bežné rozhodovanie
+    - Rozhodovateľ pozná 
+        - Alternatívy riešenia
+        - Prípadné účinky jednotlivých alternatív
+    - Rozhodovateľ nepozná
+        - Možné stavy okolia 
+    - *Napr. či sa predá tovar*
+- Rozhodovanie v podmienkach neurčitosti
+    - Využíva teóriu pravdepodobnosti a posudky expertov
+    - Rozhodovateľ pozná
+        - Alternatívy riešenia
+        - Možné stavy okolia
+        - Účinky jednotlivých alternatív
+    - Rozhodovateľ nepozná
+        - Pravdepodobnosť výskytu možných stavov okolia
+    - *Napr. chce predávať na nových trhoch nové výrobky*
+
 ## Organizačná štruktúra
+Je to vnútorná organizácia, ktorá vnáša do riadiaceho procesu usporiadanosť  
+Jej úlohou je určiť základné prvky organizačného celku a definovať vzťahy medzi nimi  
+Jej cieľom je vytvárať podmienky na účinné riadenia  
+
+Organizovanie v manažmente vytvára:
+- Organizáciu
+    - Nahrádza neusporiadanosť usporiadanosťou
+    - Nahrádza neurčitosť určitosťou
+    - Nahrádza neinformovanosť informovanosťou
+    - Ľudia vedia, čo, kde a kedy majú robiť, za akú odmenu, aké majú práva a povinnosti, kto ich riadi, ...
+- Hierarchické vzťahy
+    - Rôzne stupne riadenia
+    - Vzťahy nadriadenosti a podriadenosti
+    - Vymedzenie kompetencií
+- Stabilitu
+    - Prvky rovnovážnosti, pevnosti a zotrvačnosti
+- Synergické efekty
+    - Vyplývajú zo zapojenia viacerých činiteľov, napr. vhodnou deľbou práce, koordinovanou súčinnosťou práce, správnou motiváciou a stimuláciou
+    - *1 + 1 = 2*  
+    *2 + 2 = 5*
+
+Typy organizačných štruktúr
+- Jednoduchá (líniová) 
+    - 1 vedúci s malým počtom podriadených
+    - Využíva sa pri malých, začínajúcich podnikoch  
+    &nbsp;  
+    ![Líniová OŠ - schéma](images/eko-obr3.png)
+- Funkčná
+    - Na čele je generálny riaditeľ, ktorému su podriadené odborné útvary  
+    &nbsp;  
+    ![Funkčná OŠ - schéma](images/eko-obr4.png)
+- Divizionálna
+    - Uplatňuje sa pri veľkom rozsahu oblastí pôsobenia podniku
+    - Vytvárajú sa relatívne samostatné organizačné útvary - divízie  
+    &nbsp;  
+    ![Divizionálna OŠ - schéma](images/eko-obr5.png)
+- Maticová 
+    - Patrí k najnovším OŠ
+    - Je charakteristická svojou pružnosťou a prispôsobivosťou útvarov na riešenie konkrétnych situácií v podniku
+    - Má tvar matice, kde P sú pracovníci  
+    &nbsp;  
+    ![Maticová OŠ - schéma](images/eko-obr6.png)
+
 ## Štýly vedenia ľudí + stupne manažérov
+### Štýly vedenia
+- Autoritatívny štýl
+    - Právomoc bez konzultácií s ostatnými
+    - Jednostranná komunikácia vo forme príkazov
+    - Nevýhoda - slabo motivuje
+- Demokratický štýl
+    - Rozhodovanie za účasti podriadených
+    - Konzultácia, spolurozhodovanie
+    - Vyšší stupeň dôvery k podriadeným
+    - Nevýhoda - postupne môže vedúci strácať kontrolu
+- Liberálny štýl
+    - Prenechanie veľkej voľnosti v konaní podriadených
+    - Manažér preberá funkciu skôr konzultanta
+    - Obvykle nefunguje - cieľ kolektívu nezodpovedá cieľu organizácie
+
+### Stupne (úrovne) manažérov
+- Z hľadiska úrovne manažéra
+    - Vrcholoví manažéri
+        - Usmerňujú a koordinujú činnosť podniku ako celku
+    - Manažéri strednej úrovne
+        - Manažéri vyšších vnútropodnikových útvarov *(závodov, divízií)*
+        - Vedúci rôznych odborných útvarov *(marketingu, výskumu a vývoja, personalistiky, ...)*
+    - Manažéri prvej línie
+        - Majstri, vedúci dielní a podobných organizačných jednotiek
+        - Spravidla sú v kontakte s výkonnými pracovníkmi podniku
+- Z hľadiska postavenia v podniku
+    - Všeobecný manažér
+        - Patria do vrcholového manažmentu *(prezident spoločnosti, generálny riaditeľ, ...)*
+        - Ich vzdelanie je spravidla všeobecné
+    - Špecializovaný manažér
+        - Patria do strednej a nižšej triedy 
+        - Ich vzdelanie ze užšie špecializované na určitú oblasť, ktorú riadia *(manažér výskumu a vývoja, majster výroby, ...)*
+<!-- - Maťo-->
+
 ## Funkcie kontroly, druhy
+Kontrola je proces zisťovania toho, či sú ciele dosahované  
+Taktiež opravuje odchýlky od požadovaného výstupu
+
+### Funkcie
+- Zisťovanie skutočného vývoja
+- Porovnávanie skutočného vývoja - porovnávanie prípadných odchýlok od určeného vývoja a ich príčin
+- Vyvodzovanie záverov pre ďalšie rozhodovanie s cieľom odstrániť nežiaduce odchýlky
+
+### Druhy
+- Predbežná kontrola
+    - Kontroluje reálnosť stanovených plánov
+    - Kontroluje pripravenosť podniku na realizáciu plánu
+- Priebežná kontrola
+    - Uskutočňuje sa v priebehu realizácie plánu
+    - Hodnotí priebežné plnenie plánovaných úloh 
+    - Dáva podnety na uskutočňovanie zásahov v prípade vzniku odchýlok, teda zabraňuje nesprávnemu vývoju 
+- Výsledná kontrola
+    - Uskutočňuje sa po realizácií plánu
+    - Umožňuje uskutočniť súhrnné hodnotenie dosiahnutých výsledkov  - Poskytuje info pre manažment podniku
 
 &nbsp;
 # 19 - Výroba
