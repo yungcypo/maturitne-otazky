@@ -1479,7 +1479,7 @@ Postup pri založení podniku je iný pri každej forme podnikania:
 
 > 1. Navštíviť živnostenský úrad, ktorým je okresný úrad, odbor živnostenského podnikania (tzv. jednotné kontaktné miesto). Fyzická osoba musí navštíviť živnostenský úrad príslušný podľa jej bydliska a právnická osoba podľa jej sídla.
 > 2. Prípadná registrácia na daňovom úrade (ak sa chcete zaregistrovať ako platiteľ DPH, prípadne budete zamestnávať pracovníkov)
-> 3. Zdravotná poisťovňa – registráciu vybavuje jednotné kontaktné miesto do 8 dní musíte poisťovni oznámiť výšku preddavkov na ZP
+> 3. Zdravotná poisťovňa - registráciu vybavuje jednotné kontaktné miesto do 8 dní musíte poisťovni oznámiť výšku preddavkov na ZP
 > 4. Sociálna poisťovňa
 
 ## Možnosti vedenia účtovníctva a zistenia výsledku hospodárenia
@@ -2219,9 +2219,9 @@ Podľa počtu zachytených účtovných prípadov:
 
 ## Priebeh spracovania účtovných dokladov
 Účtovné doklady musia byť vyhotovené tak, aby údaje na nich boli:
-- Čitateľné – nie rozmazané, poprečiarkované, gumované, atď.
-- Prehľadné – aby sa dala identifikovať každá náležitosť účtovného dokladu
-- Trvalé – nemôžu byť vyplnené ceruzkou, odoslané faxom, ...
+- Čitateľné - nie rozmazané, poprečiarkované, gumované, atď.
+- Prehľadné - aby sa dala identifikovať každá náležitosť účtovného dokladu
+- Trvalé - nemôžu byť vyplnené ceruzkou, odoslané faxom, ...
 
 Spracovanie účtovných dokladov obsahuje tieto činnosti
 1. Preskúmanie účtovných dokladov
@@ -2276,9 +2276,9 @@ Musia sa robiť tak, aby sa nemohli neoprávnene zmeniť a upravovať
 
 Sú usporiadané
 - Z časového hľadiska (chronologicky)
-    - Vykonáva a preukazuje sa zaúčtovanie všetkých účtových prípadov v účt. období v časovom poradí – <u>denník</u>
+    - Vykonáva a preukazuje sa zaúčtovanie všetkých účtových prípadov v účt. období v časovom poradí - <u>denník</u>
 - Z vecného hľadiska (systematicky)
-    - Vykonáva a preukazuje sa zaúčtovanie všetkých účtovných prípadov v účtovnom období na účtoch aktív a pasív, nákladov a výnosov (kam patria vecne) – <u>hlavná kniha</u>
+    - Vykonáva a preukazuje sa zaúčtovanie všetkých účtovných prípadov v účtovnom období na účtoch aktív a pasív, nákladov a výnosov (kam patria vecne) - <u>hlavná kniha</u>
 
 ### Účtovné knihy
 **Hlavná kniha**
@@ -2316,7 +2316,7 @@ Napr. ak má firma bankový účet vo viacerých bankách:
 
 ## Vymenujte knihy syntetickej a analytickej evidencie
 Knihy syntetickej evidencie - denník, hlavná kniha  
-Knihy analytickej evidencie – skladové karty, inventárne karty, mzdové listy, saldokonto dodávateľov, saldokonto odberateľov
+Knihy analytickej evidencie - skladové karty, inventárne karty, mzdové listy, saldokonto dodávateľov, saldokonto odberateľov
 
 ## Kontrolná súpiska analytických účtov a jej úlohu
 Peňažné sumy analytických účtov musia zodpovedať príslušným súhrnným peňažným sumám začiatočných stavov, obratov strany Má dať a Dal, konečných zostatkov a konečných stavov syntetických účtov, ku ktorým sa analytické účty vedú  
@@ -2329,7 +2329,6 @@ Zhoda medzi analytickými účtami a syntetickým účtom, ku ktorému boli otvo
 # 22 - Priame dane
 ## Pojem daň + význam
 Daň je povinná, zákonom stanovená, spravidla opakujúca sa platba, ktorú odvádzajú FO a PO do štátneho alebo miestneho rozpočtu v určenej výške a stanovenej lehote  
-
 
 ## Priame a nepriame dane *ktoré musí firma odovzdávať*
 ### Priame dane
@@ -2441,19 +2440,19 @@ Môže byť vydaná v listinnej alebo dematerializovanej podobe (vytlačená na 
 ### Typy akcií
 >- Podľa znenia
 >    - Akcia na meno 
->        – Prevoditeľná
+>        - Prevoditeľná
 >        - Prevod sa uskutočňuje rubopisom a odovzdaním akcie 
 >        - Spoločnosť vedie zoznam akcionárov, ktorý nie je verejný
 >        - Pri listinnej forme akcie má akcia plášť, talón a kupónový hárok
 >    - Akcia na doručiteľa 
->        – Prevoditeľná odovzdaním 
+>        - Prevoditeľná odovzdaním 
 >        - Práva s ňou spojené má držiteľ
 >- Podľa poskytovaných práv a povinností
 >    - Kmeňové akcie 
->        – Sú akcie, z vlastníctva ktorých vyplývajú základné práva akcionárov 
+>        - Sú akcie, z vlastníctva ktorých vyplývajú základné práva akcionárov 
 >        - Sú s nimi spojené všetky riziká podnikania
 >    - Prioritné akcie 
->        – Ich majitelia majú pevne stanovenú a prednostne vyplácanú dividendu 
+>        - Ich majitelia majú pevne stanovenú a prednostne vyplácanú dividendu 
 >        - Môžu mať obmedzené hlasovacie právo
 
 
@@ -2484,15 +2483,118 @@ Môže byť vydaná v listinnej alebo dematerializovanej podobe (vytlačená na 
 &nbsp;
 # 24 - Nepriame dane
 ## Druhy daní platných v SR
+- Priame dane
+    - Daň z príjmov
+        - Daň z príjmov FO
+        - Daň z príjmov PO
+    - Miestne dane
+        - Daň z nehnuteľností
+        - Daň za psa
+        - Daň za užívanie verejného priestranstva
+        - Daň za ubytovanie
+        - Daň za predajné automaty
+        - Daň za nevýherné hracie stroje
+        - Daň za vjazd a zotrvanie vozidla v historickej časti mesta
+        - Poplatok za komunálny odpad 
+    - Daň z motorových vozidiel
+- Nepriame dane
+    - DPH
+    - Spotrebné dane
+        - Daň z alkoholických nápojov (piva, vína, liehu)
+        - Daň z tabakových výrobkov
+        - Daň z minerálneho oleja
+        - Daň z elektriny, uhlia a zemného plynu
+
 ## Daň - definícia + prečo ich delíme na priame a nepriame
+Daň je povinná, zákonom stanovená, spravidla opakujúca sa platba, ktorú odvádzajú FO a PO do štátneho alebo miestneho rozpočtu v určenej výške a stanovenej lehote  
+
+Priame dane sa vyrubujú sa priamo z príjmu alebo majetku  
+Zaťažujú priamo  
+
+Nepriame dane odvádza výrobca alebo poskytovateľ služby, ale zaplatí ich spotrebiteľ v cene nakupovaných tovarov alebo služieb  
+Zaťažujú nepriamo - sprostredkovane  
+
 ## Základné daňové pojmy
-- Subjekt dane
-- Objekt dane
-- Základ dane
-- Sadzba dane
+### Subjekt dane
+FO alebo PO, ktorej vzniká daňová povinnosť
+- Daňovník - subjekt, ktorého daň v skutočnosti zaťažuje, musí ju zaplatiť
+- Platiteľ - zodpovedný za odvedenie dane správcovi, v skutočnosti ho nezaťažuje
+
+Pri priamych daniach je daňovník zároveň platiteľom  
+Pri nepriamych daniach sú to 2 odlišné subjekty  
+
+### Predmet (objekt) dane
+Činnosť alebo vec, na ktorú sa zo zákona vzťahuje daňová povinnosť  
+To, z čoho sa daň vyrubuje - príjem, majetok  
+
+### Základ dane
+Základ, z ktorého sa vypočíta daň  
+Kvantitatívne vyjadrenie predmetu dane *(v €, l, ks, m, t, ...)*
+
+### Sadzba dane
+Nástroj, prostredníctvom ktorého sa z daňového základu vypočíta výška dane  
+Môže byť určená
+- Pevnou sumou *(daň z pozemkov)*
+- Percentuálne *(DPH)*
+- Kombináciou *(daň z cigariet)*
+
 ## Systém DPH
+DPH (daň z pridanej hodnoty) je nepriama daň spotrebného charakteru  
+
+Zaťažuje končeného spotrebiteľa:
+1. Spotrebiteľ zaplatí DPH v cene zakúpeného tovaru
+2. Obchodník odvedie DPH správcovi dane
+
+Pridaná hodnota = náklady výrobcov súvisiace s vlastnou výrobnou činnosťou v jednotlivých etapách výroby  
+
+Základom pre výpočet DPH je práve konečná cena výrobku, resp. jeho hodnota v jednotlivých výrobných etapách
+
+### Dan pri nákupe - na vstupe
+Daň, ktorú kupujúci (platiteľ dane) zaplatí pri kúpe tovaru ako súčasť nákupnej ceny  
+Je odpočítateľnou daňou
+
+### Dan pri predaji - na výstupe
+Daň, ktorú predávajúci (platiteľ dane) zahrnie do predajnej ceny výrobku a uplatní ju pri vzniku daňovej povinnosti
+
+Daň sa vyberá po častiach na každom stupni produkcie a distribúcie prostredníctvom osôb, ktoré sú registrované pre DPH  
+
+Platiteľ dane si svoju daňovú povinnosť vypočíta nasledovne:  
+*Daňová povinnosť = DPH pri predaji - DPH pri nákupe*
+
+### Registrácia
+- Povinná - ak zdaniteľná osoba dosiahne obrat 49 790€ za 12 po sebe idúcich mesiacov, je povinná podať žiadosť o registráciu za platiteľa DPH do 20. dňa kalendárneho mesiaca nasledujúceho po mesiaci, v ktorom dosiahla obrat
+Dobrovoľná - neviaže sa na dosiahnutie obratu
+
 ## Spotrebné dane + ich význam
+Nepriame dane  
+Zaťažujú konečnú spotrebu   
+Zaplatí ich spotrebiteľ v cene tovaru  
+Sú selektívne dane - vyberajú sa z vybraných druhov výrobkov
+
+Predmetom dane sú výrobky vyrobené na území SR (daňové územie) alebo dodané z iného členského štátu EÚ alebo dovezené z tretích štátov (štáty mimo EÚ):  
+-  Víno (šumivé, tiché, medziprodukt)
+-  Pivo
+-  Lieh
+-  Tabakové výrobky (cigarety, cigáry, cigárky, tabak)
+-  Minerálny olej (nafta, benzín)
+-  Energia (uhlie, elektrina, zemný plyn)
+
+Význam spotrebných daní - sú časťou štátneho rozpočtu a spočívajú v znižovaní spotreby/obehu nezdravého sortimentu/produktu 
+
+Subjekt dane - FO alebo PO, ktorá predmet dane vyrába, dováža
+
 ## Postup účtovania nepriamych daní
+| MD | 343 - Daň z pridanej hodnoty | D |
+|---|:-:|---|
+| Daňová pohľadávka - daň na vstupe | \| | Daňový záväzok - daň na výstupe |
+| Nárok na daňový odpočet (odpočítateľná daň z nakúpených zdaniteľných obchodov) | \| | Inkaso dane od odberateľa (daňová povinnosť z uskutočnených zdaniteľných obchodov) |
+
+| MD | 345 - Ostatné dane a poplatky | D |
+|---|:-:|---|
+| Platné preddavky na spotrebné dane | \| | Vznik záväzkov zo spotrebných daní |
+| Nárok na vrátenie spotrebných daní | \| | | 
+| Vyrovnanie daňovej povinnosti zo spotrebných daní na konci zdaňovacieho obdobia | \| | | 
+
 
 &nbsp;
 # 25 - Národné hospodárstvo
