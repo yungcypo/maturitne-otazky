@@ -74,9 +74,27 @@ Audionahrávky je možné prehrať online alebo stiahnuť na [tomto linku](https
 
 # Úvodné texty
 ## 1. Family
+A family usually consists of a mother, father and children, who live together in one home. A functioning family should provide protection, education, help and security to all its members. Strong relationships are often created between siblings, cousins, parents, aunts, uncles, grandparents and other relatives. 
+
+All family members have some duties and responsibilities. Parents should teach their children what is good and bad, how to solve problems in life, how to become an independent person and care about others. Democratic parents talk with their children and respect them. Strict parents do not make compromises, which often creates a generation gap between them and their own children. The main duty of children is learning and going to school. They should also help their parents with housework. 
+
+Modern European families are monogamous. Most of young people get married in their late twenties or early thirties. Many young people live together in the same home but are not a husband and wife. This is called cohabitation. Older generations think this is not correct. 
+
+The wedding is a formal act and it takes place in a town hall or in a church. The engaged couple exchange their wedding rings and promise themselves to live together in good and bad and in illness too. Nowadays, many couples are divorced. Their frequent reasons for a divorce are problems with trust, money, living with parents and parents-in-law, alcohol, drugs, gambling and unemployment. 
+
+When one of the parents dies, children stay with a single parent. A woman who loses her husband is called a widow and a man a widower. When they get married again, the new parents are called step-parents. Sometimes, divorced parents get married once again. Bad relationships with new step-parents lead to problems and frequent arguments. 
+
+Family life is different all around the world. In Slovakia many families meet together for special days, such as birthdays, weddings, feasts and funerals. A family, a real home and relatives are what we need for life. They always help us when we need them. 
+
 
 &nbsp;
 ## 2. Culture and Art
+Culture and art are important for us because they add aesthetic value to our lives, use they add aesthetic value to our lives. Cultural events are an interesting way how people can spend their free time. Art is a way of communicating feelings. Artists express themselves in many forms music, literature, architecture, painting, drawing, sculpture. Music, dance and theatre are performing arts. Painting, sculpture, architecture and photography are decorative arts.
+
+Cities offer many cultural attractions to citizens and tourists. People who like classical music can enjoy a chamber music concert in concert halls. Mozart, Beethoven and Bach have become the most important European composers. Fans of different music styles - pop, rock, jazz, blues or country can enjoy music at the festivals, go to see their favourite singers or bands perform live at concerts or simply
+listen to CDs, MP3 players or watch concerts on DVDs. In towns, people have the possibility to go to the theatre to see various performances. The most popular are musicals. Film lovers can go to cinemas to watch dubbed or subtitled films. The multi-screen air- conditioned complexes in shopping centres are becoming more and more popular. Open- air cinemas are a popular option among the young in summer. The lovers of fine arts can go to galleries to see the artwork of famous painters and sculptors. The works of Picasso, Van Gogh, Rembrandt, Michelangelo are immortal.
+
+Cultural events in villages and rural areas are not very frequent. In Slovak villages, the so-called houses of culture are the main centres of cultural life. The most popular cultural events in villages are dance balls where people dance polka, waltz, tango or modern dances. Slovak villages are famous for promoting folklore traditions. There are folklore festivals of folklore music, dances and songs organised for example in Východná, Myjava, Detva and elsewhere. Nowadays, most young people prefer modern music and modern dance to folklore.
 
 &nbsp;
 ## 3. Sports and Games
