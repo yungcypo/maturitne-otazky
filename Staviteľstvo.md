@@ -536,11 +536,11 @@ $b = 280mm$
 
 &nbsp;  
 ### 4. Sklon schodiska $\alpha$
-$\tg\alpha = \frac{h}{b}$  
+$\tan\alpha = \frac{h}{b}$  
 
-$\Rightarrow \underline{\alpha = \tg^{-1} \times \frac{h}{b}}$
+$\Rightarrow \underline{\alpha = \tan^{-1} \times \frac{h}{b}}$
 
-$\alpha = \tg^{-1} \times \frac{175}{280}$
+$\alpha = \tan^{-1} \times \frac{175}{280}$
 
 $\alpha = 32.005 \approx 32^\circ$  - bežné schodisko
 
@@ -585,24 +585,107 @@ $L = \left(\frac{16}{2} - 1\right) \times 280$
 
 $L = 1960mm$
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 &nbsp;
 # 6 - Sklonité strechy
+## Účel
+- Zakončenie stavby na vrchu
+- Chráni objekt pred poveternostnými vplyvmi
+- Plní tepelnoizolačnú funkciu
+- Závisí od nej živostnosť objektu
+
+## Materiál
+- Drevo
+
+## Základné časti
+- Hlavná nosná konštrukcia (krov)
+    - Prenáša hmotnosť strešného plášťa a občasné zaťaženie (vietor, sneh) do zvislých nosných konštrukcií
+    - Šikmé tlaky zachytávajú šikmé a vodorovné prvky
+- Strešný plášť (škridla)
+- Podhľad (sadrokartón)
+
+## Zásady
+- Zostavené sú z tesárskych konštrukcií
+- Vyžaduje sa tuhosť v priečnom aj pozdĺžnom smere
+
+## Tvary šikmých striech
+- Pultové
+- Sedlové
+- Valbové
+- Polvalbové
+    - S hornou polvalbou
+    - S dolnou polvalbou
+- Stanové
+- Manzardové
+- Pílové
+- Vežové
+
+
+## Časti
+### Latky (latovanie, väzničky)
+- Je na nich položená krytina (škridle, kanadský šindel)
+- Sú prichytené na krokvách
+
+### Krokvy
+- Smer majú v tvare strechy
+- Sú kolmo na odkvap
+- Vzdialené od seba 900 až 1100 mm
+- Na vrchole sú spojené nárožným čapom/preplatovaním
+- Spoj je zabezpečený klincami alebo dreveným kolíkom
+- Nesmú dosahovať na rímsu (medzera min. 20 mm)
+- Vo vzdialenosti 3600 až 4500 mm sú osedlaná do väzníc
+- Ak nie je vrcholová väznica od strednej väznici k vrcholu max. 2500 mm
+- Previsnuté konce krokiev max. 1000 až 1500 mm
+- Spodný koniec je osadený na pomúrnicu
+
+### Väznice
+- Nosné vodorovné trámce
+- Sú krokvami zaťažené na ohyb
+- Podľa umiestnenia
+    - Vrcholová (nemusí byť)
+    - Stredná
+    - Odkvapová (nahradená pomúrnica)
+
+### Pomúrnica
+- Prenáša hmotnosť krovu na murivo
+- Položená je celou plochou na vrchu muriva
+- Kotví sa do muriva 
+- V mieste plných väzieb do stropu a do stien
+
+### Stĺpiky
+- Podopierajú väznice vo vzdialenosti cca 4000 mm
+- Spodok je opretý na hlavný väzný trám
+
+### Hlavný väzný trám
+- Ide z múru na múr
+- Do múrov prenáša tiaž krovu
+- Musí byť aspoň 80 mm nad povalovou dlažbou
+- Konce sú uložené v múroch
+
+### Klieštiny a vzpery
+- V plných väzbách stužujú krov v priečnom reze
+- Prichytávajú sa na pomúrnice, väznice, krokvy alebo stĺpiky
+
+### Pásiky
+- Začapované do stĺpikov a väzníc
+- Vystužujú krov v pozdĺžnom aj priečnom smere
+- Zabraňujú stĺpiku vo ohýbaní
+
+## Druhy krovovej sústavy
+- Stojatá stolica - väznice sú podopreté zvislými stĺpikmi
+- Ležatá stolica - väznice sú podopreté stĺpikmi alebo vzperami  
+&nbsp;
+- Plná väzba - tam, kde je pod krokvou stĺpik a ďalšie šikmé časti podopierajúce väznicu
+- Prázdna väzba - tam, kde pod krokvou nie je stĺpik a ostatné časti iba väznica  
+&nbsp;  
+- Hambálkový krov
+    - Pre rozpätie do 10m
+    - Väzbové prvky sú zložené z
+        - Krokiev
+        - Hambálka
+        - Pomúrnice
+    - Doplňujúce prvky
+        - Väzničky
+        - Zavetrávanie
 
 &nbsp;
 # 7 - Previsnuté a ustupujúce konštrukcie
