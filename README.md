@@ -1,7 +1,11 @@
 # Maturitné otázky
+
+[![wakatime](https://wakatime.com/badge/user/4c514061-8f41-4da2-97ea-f2b4906774a3/project/5418a29a-6016-4dca-9e7b-22745f9edf7a.svg)](https://wakatime.com/badge/user/4c514061-8f41-4da2-97ea-f2b4906774a3/project/5418a29a-6016-4dca-9e7b-22745f9edf7a)
+
 Tu sa nachádzajú maturitné otázky, ktoré som si vypracoval  
 SOŠ T. Vansovej 32, Prievidza, odbor TIS, 2022/2023  
 Ak je niečo zle, máš námietky, chcel by si niečo doplniť, niečo sa opýtať *(aka v prípade potreby)*, napíš mi na [cypooriginal@gmail.com](mailto:cypooriginal@gmail.com)
+
 
 ## Obsah
 [Ekonomika](Ekonomika.md)  

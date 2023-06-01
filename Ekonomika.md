@@ -1609,36 +1609,13 @@ Zápisy v peňažnom denníku musia byť len finančné operácie (pohyb peňaz�
 - Záväzky voči správcovi jednotlivých daní
 - Záväzky voči banke
 
-### Druhy účtovných dokladov
-Podľa obsahu
-- Externé (vonkajšie) doklady vznikajú v styku podniku s jeho okolím
-    - Ich smerovania do podniku alebo z podniku von môžeme rozlíšiť prijaté a vydané doklady
-    - Prijaté doklady 
-        - Faktúry od dodávateľov
-        - Výpisy z vkladových účtov v banke
-    - Vydané doklady 
-        - Faktúry odosielané odberateľov pri predaji výrobkov, tovaru alebo pri poskytnutí služieb
-- Interné (vnútorné) 
-    - Vznikajú na základe vnútropodnikových procesov a s nimi súvisiacich operácií
-    - Príjemky
-    - Výdajky 
-    - Pokladničné doklady 
-    - Prevodky 
-    - Zápisy o zaradení alebo vyradení majetku
-    - Protokoly o škodách
-    - Odpisy dlhodobého majetku a pod.
-
-Podľa počtu zachytených účtovných prípadov:
-- Jednotlivé 
-    - Slúžia na overenie jedného účtovného prípadu (faktúry, pokladničné doklady)
-- Zberné (súhrnné) 
-    - Slúžia na zhrnutie viacerých účtovných prípadov, ktoré nastali v tom istom dni, prípadne i v dlhšom časovom úseku
-    - Znižujú počet účtovných zápisov a znamenajú úsporu účtovných prác
-
+### Druhy účtovných dokladov v jednoduchom účtovníctve
 V jednoduchom účtovníctve sú to len tieto doklady
 - Príjmový pokladničný doklad *(PPD)*
 - Výdavkový pokladničný doklad *(VPD)*
 - Výpis bankového účtu *(VBÚ)*
+
+> V podvojnom účtovníctve sa nachádzajú aj [iné účtovné doklady](#druhy-účtovných-dokladov)
 
 ## Účtovná uzávierka (činnosti)
 Uzavieranie účtovných kníh je činnosť, keď sa za posledný zápis v peňažnom denníku dopĺňajú uzávierkové účtovné prípady, týkajúce sa príjmov a výdavkov, ktoré zvyšujú alebo znižujú základ dane z príjmov  
@@ -2182,13 +2159,171 @@ Sú to buď vrodené alebo získané požiadavky, ktoré sa nepretržite vyvíja
 &nbsp;
 # 21 - Účtovná dokumentácia
 ## Význam 
+**Účtovná dokumentácia** je súhrn všetkých účtovných záznamov  
+
+**Účtovný záznam** je údaj, ktorý je nositeľom informácie týkajúcej sa predmetu účtovníctva alebo spôsobu jeho vedenia  
+Sú to najmä účtovné doklady, účtovné zápisy, účtovné knihy, odpisový plán, inventúrne odpisy, účtovný rozvrh, účtovná závierka, výročná správa a iné  
+Účtovný záznam môže mať písomnú alebo technickú formu (fyzický/elektronický)  
+
+Každý účtovný záznam musí byť
+- Preukázateľný - jeho obsah priamo dokazuje skutočnosť
+- Zrozumiteľný - vyhotovený v štátnom jazyku, jednoznačne a spoľahlivo určený obsah účtovných prípadov
+- Trvalý - trvalosť zápisov po celú dobu spracovania a úschovy
+
+**Účtovné doklady** - preukázateľné účtovné záznamy, na základe ktorých sa uskutočňujú účtovné zápisy  
+
+Majú 2 základné funkcie
+- Dokladujú (dokumentujú) účtovné zápisy
+- Sú prostriedkom na overenie (kontrolu) správnosti zaúčtovania účtovných prípadov  
+
+Bez účtovného dokladu nie je možné urobiť žiadny účtovný záznam  
+Každý účtovný záznam musí byť doložený účtovným dokladom
+
 ## Členenie účtovných dokladov + náležitosti
+### Druhy účtovných dokladov
+Podľa obsahu
+- Externé (vonkajšie) doklady vznikajú v styku podniku s jeho okolím
+    - Ich smerovania do podniku alebo z podniku von môžeme rozlíšiť prijaté a vydané doklady
+    - Prijaté doklady 
+        - Faktúry od dodávateľov
+        - Výpisy z vkladových účtov v banke
+    - Vydané doklady 
+        - Faktúry odosielané odberateľov pri predaji výrobkov, tovaru alebo pri poskytnutí služieb
+- Interné (vnútorné) 
+    - Vznikajú na základe vnútropodnikových procesov a s nimi súvisiacich operácií
+    - Príjemky
+    - Výdajky 
+    - Pokladničné doklady 
+    - Prevodky 
+    - Zápisy o zaradení alebo vyradení majetku
+    - Protokoly o škodách
+    - Odpisy dlhodobého majetku a pod.
+
+Podľa počtu zachytených účtovných prípadov:
+- Jednotlivé 
+    - Slúžia na overenie jedného účtovného prípadu (faktúry, pokladničné doklady)
+- Zberné (súhrnné) 
+    - Slúžia na zhrnutie viacerých účtovných prípadov, ktoré nastali v tom istom dni, prípadne i v dlhšom časovom úseku
+    - Znižujú počet účtovných zápisov a znamenajú úsporu účtovných prác
+
+### Náležitosti
+1. Slovné a číselné označenie účtovného dokladu
+2. Označenie jeho účastníkov (dodávatelia a odberatelia)
+3. Obsah účtovného prípadu
+4. Peňažná suma alebo údaj o cene za mernú jednotku
+5. Dátum vyhotovenia dokladu
+6. Dátum uskutočnenia účtovného prípadu, ak nie je zhodný s dátumom vyhotovenia
+7. Podpisový záznam osoby zodpovednej za účtovný prípad
+8. Podpisový záznam osoby zodpovednej za jeho účtovanie
+9. Predkontácia
+
 ## Priebeh spracovania účtovných dokladov
+Účtovné doklady musia byť vyhotovené tak, aby údaje na nich boli:
+- Čitateľné – nie rozmazané, poprečiarkované, gumované, atď.
+- Prehľadné – aby sa dala identifikovať každá náležitosť účtovného dokladu
+- Trvalé – nemôžu byť vyplnené ceruzkou, odoslané faxom, ...
+
+Spracovanie účtovných dokladov obsahuje tieto činnosti
+1. Preskúmanie účtovných dokladov
+    - Musí sa uskutočniť vždy pred ich zaúčtovaním
+    - Súčasťou je 
+        - Kontrola vecnej správnosti
+            - Zisťuje sa súlad obsahu so skutočnosťou, správnosť uvedeného množstva a ceny, dodržanie zmluvných podmienok, preskúmanie prípustnosti hospodárskej operácie v súlade s právnymi predpismi, súčasťou kontroly je aj správnosť výpočtov
+        - Kontrola formálnej správnosti
+            - Zisťuje či účtovné doklady obsahujú všetky zákonom predpísané náležitosti
+            - Overuje sa, či má účtovný doklad záznam o kontrole vecnej správnosti
+            - Ak zistíme chybu v doklade je potrebné chybu opraviť alebo vrátiť vystaviteľovi chybný doklad
+2. Očíslovanie účtovných dokladov
+    - Účtovné doklady sa v podniku rozdelia do rovnorodých skupín podľa obsahu *(PPD, VPD, PFA, VFA, VBÚ, PRI, VYD, iné ID)*
+    - V rámci týchto skupín sa číslujú
+    - Každej skupine sa priradí číselný alebo iný znak 
+    - Každá skupina sa k prvému dňu účtovného obdobia musí začať číslovať od jednotky
+    - Poradie číslovania nesmie byť číslované *(?)*
+3. Zapísanie účtovného predpisu
+    - Zapísanie účtovacieho predpisu, t.j. stanovenie predkontácie a jej zaznamenanie vyznačuje zodpovedný pracovník na samotný účtovný doklad (na vyznačené miesto alebo sa vpíše do odtlačku pečiatky) alebo na samostatný lístok, ktorý sa pripojí k účtovnému dokladu - likvidačný list
+4. Zaúčtovanie účtovného dokladu
+    - Podľa účtovacieho predpisu sa účtovný doklad zaúčtuje na príslušné účty účtovných kníh  
+    Súčasne sa doplní dátum zaúčtovania a podpisový záznam osoby zodpovednej za vykonanie účtovného zápisu
+5. Archivovanie účtovného dokladu
+    - V príručnom archíve 
+        - Účtovné doklady, s ktorými pracujeme, obvykle do ukončenia uzávierkových prác za príslušné účtovné obdobie
+    - V účtovnom archíve 
+        - Účtovné doklady, s ktorými sa už bežne nepracuje, uschovávajú sa po dobu stanovenú zákonom o účtovníctve
+        - Zoraďujú sa podľa účtovných období, podľa obsahu, a pod
+        - V účtovnom archíve vedieme archívnu knihu
+        - V prípade spracovania účtovníctva pomocou prostriedkov výpočtovej techniky sa účtovné prípady zachytené priamo na technických nosičoch dát archivujú spôsobom uvedeným v projektovo-programovej dokumentácii
+6. Skratácia
+
 ## Hlavné zásady účtovnej dokumentácie
+Zásady vedenia účtovníctva - účtovníctvo sa musí viesť
+- Správne
+    - V súlade so zákonom a inými právnymi predpismi
+- Úplne
+    - musia byť zaúčtované všetky účtovné prípady daného účtovného obdobia
+- Preukázateľne
+    - Ku každému účtovnému prípadu musí byť doložený príslušný účtovný doklad
+- Zrozumiteľne
+    - Vyhotovený v štátnom jazyku tak, aby bolo jednoznačne možné určiť obsah zápisu
+- Spôsobom zaručujúcim trvanlivosť
+
+
 ## Účtovné zápisy, účtovné knihy 
+### Účtovné zápisy
+Účtovný zápis je písomné alebo technické zaznamenanie účtovného prípadu  
+Podkladom pre každý účtovný zápis je účtovný doklad  
+Účtovné zápisy sa robia v účtovných knihách  
+Musia sa robiť tak, aby sa nemohli neoprávnene zmeniť a upravovať  
+
+Sú usporiadané
+- Z časového hľadiska (chronologicky)
+    - Vykonáva a preukazuje sa zaúčtovanie všetkých účtových prípadov v účt. období v časovom poradí – <u>denník</u>
+- Z vecného hľadiska (systematicky)
+    - Vykonáva a preukazuje sa zaúčtovanie všetkých účtovných prípadov v účtovnom období na účtoch aktív a pasív, nákladov a výnosov (kam patria vecne) – <u>hlavná kniha</u>
+
+### Účtovné knihy
+**Hlavná kniha**
+Zápisy na každom účte hlavnej knihy predstavujú súhrn (syntézu) údajov o príslušnom jave, preto sa účty hlavnej knihy označujú ako syntetické účty  
+Celý súbor účtov hlavnej knihy sa označoval ako kniha syntetickej evidencie  
+Podľa Zákona o účtovníctve sa súčasťou hlavnej knihy aj analytické účty  
+
+**Denník**
+Uskutočňujú sa tu chronologické zápisy  
+Časové zápisy majú kontrolnú funkciu, ktorá spočíva v tom, že sa nimi zabezpečuje a preukazuje úplnosť účtovných prípadov a ich správnosť zaúčtovania do príslušného účtovného obdobia  
+Účtovné zápisy sa vždy robia hlavne v denníku, potom v hlavnej knihe, na základe tých istých účtovných prípadov  
+
+Denníkový obrat je súčet peňažných súm príslušného stĺpca denníka,
+
+Čiastkové denníky
+- Pokladničná kniha
+- Kniha došlých faktúr
+- Kniha vystavených faktúr
+- Denník ostatných účtovných prípadov
+
 ## Rozdiely medzi syntetickým a analytickým účtom
+**Syntetické účty** sú účty, ktoré tvoria účtovú osnovu  
+Súvahové aj výsledkové účty  
+Sú označované 3 číslicami  
+Napr. *211, 343, 501*
+
+**Analytické účty** sú viazané na konkrétne syntetické účty  
+Sú dobrovoľne vytvárané na získanie väčšieho prehľadu o jednotlivých syntetických účtoch  
+Sú označované 6 číslicami - prvé 3 označujú syntetický účet, druhé 3 označujú analytického účtu (ľubovoľne, podľa účtovníka)  
+Napr. ak má firma bankový účet vo viacerých bankách:  
+*221 001* - účet v banke A  
+*221 002* - účet v banke B  
+*221 003* - účet v banke C  
+
+
 ## Vymenujte knihy syntetickej a analytickej evidencie
+Knihy syntetickej evidencie - denník, hlavná kniha  
+Knihy analytickej evidencie – skladové karty, inventárne karty, mzdové listy, saldokonto dodávateľov, saldokonto odberateľov
+
 ## Kontrolná súpiska analytických účtov a jej úlohu
+Peňažné sumy analytických účtov musia zodpovedať príslušným súhrnným peňažným sumám začiatočných stavov, obratov strany Má dať a Dal, konečných zostatkov a konečných stavov syntetických účtov, ku ktorým sa analytické účty vedú  
+Analytické účty sú súčasťou analytickej evidencie, ktorá sa vedie v peňažných jednotkách  
+Ak to povaha majetku vyžaduje, vedie sa analytická evidencia aj v jednotkách množstva a obsahuje aj iné údaje pre potreby účtovnej jednotky  
+Zhoda medzi analytickými účtami a syntetickým účtom, ku ktorému boli otvorené, sa kontroluje kontrolnou súpiskou analytických účtov
+
 
 &nbsp;
 # 22 - Priame dane
