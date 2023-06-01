@@ -1439,32 +1439,149 @@ Nevýhody
     - Hydroizolácia strechy
     - Nosná konštrukcia strechy
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 &nbsp;
 # 13 - Komíny v bytových stavbách
+## Účel
+- Odvádzanie plynný spalín (sadze) od vykurovacieho zariadenia do voľného priestoru
+
+## Názvoslovie
+- Komínový plášť
+- Komínový prieduch
+
+## Rozdelenie
+### Podľa zloženia
+- Jednovrstvové - len tehly
+- Viacvrstvové - plášť, vložka, izolácia
+
+### Podľa umiestnenia
+- Vstavané (v miestnosti)
+- Pristavané
+    - K stene zvonka
+    - K stene zvnútra
+- Samostatne stojace (elektráreň)
+
+### Podľa konštrukcie
+- Murované (z tehál)
+- Monolitické - betón (elektráreň Nováky)
+- Montované - z dielcov (Schiedel)
+
+### Podľa počtu prieduchov
+- Jednotlivé
+- Združené (2 a viac)
+
+### Podľa druhu paliva
+- Tuhé
+- Plynné 
+- Kvapalné
+
+### Podľa umiestnenia
+- Vnútorné 
+- Vonkajšie
+
+### Podľa priebehu osi prieduchu
+- Priame
+- Uhýbané
+
+### Podľa usporiadania prieduchov
+- Priebežné
+- Podlažné
+- Prehradnené
+
+### Podľa plochy prierezu
+- Úzke (do 400 cm<sup>2</sup>)
+- Stredné (od 400 do 2025 cm<sup>2</sup>)
+- Prielezné (nad 2025 cm<sup>2</sup>)
+
+### Podľa tvaru prieduchu
+- Kruhové 
+- Štvorcové
+- Obdĺžnikové
+
+## Výška komína nad strechou
+- Plochá strecha - min. 1500 mm nad najvyšším bodom strechy
+- Šikmá strecha
+    - Ak je komín do 2 metrov od hrebeňa - 650 mm nad najvyšším bodom strechy
+    >Ak je komín viac ako 2 metre od hrebeňa - 650 mm nad 10° sklonom smerom dolu od hrebeňa strechy
+
+## Vzdialenosť komína
+- Od drevených konštrukcií min. 50 mm
+- Od dreva v múre min. 300 mm (od prieduchu)
+
+## Konštrukčné riešenie
+### Komínový plášť
+- Bráni unikaniu spalín z prieduchu
+- Teplota na povrchu max. 52°C
+- Z mrazuvzdorného materiálu
+- Tehlový
+    - Hrúbka min. 15 cm (šírka tehly)
+    - Na maltu vápenno-cementovú
+- Prefabrikované
+    - Zostavuje sa z dielcov podľa návodu výrobcu
+
+### Komínová hlava
+- Hrúbka min. 80 mm
+- Sklon od prieduchu
+- *(Je na nej časť podlažia napojenia sopúcha) ?*
+
+### Prieduch
+- Čo najhladší povrch (usádzanie sadzí)
+- Uhol uhýbania max. 30°
+- Uhýbanie len na jednu stranu
+- Uhýbanie nesmie byť cez strop
+
+### Sopúch
+- Do dĺžky 250 môže byť vodorovný
+- Nad 250 mm musí byť šikmý (min. 10°)
+- Do prieduchu len na jedno palivo
+- Do jedného komína môže ísť v podlaží len jeden
+
+### Vymetací otvor
+- V povalovom priestore
+- Veľkosť min. 120 x 250 mm
+- Výška nad podlahou 800 až 1200 mm
+- Výška nad vrchom komína max 6 m
+
+### Vyberací otvor
+- V najnižšej časti komína
+- Veľkosť min. 120 x 250 mm
+- Výška nad podlahou cca 300 mm (vedro)
+- Pre kvapalné a plynné palivá musí byť na spodku kondenzačná nádoba na kvapalinu
+- Podlaha v okolí musí byť nehorľavá
+
+## Viacvrstvový komín
+### Zloženie
+- Komínový plášť
+- Tepelnoizolačná vložka
+- Komínová vložka
+
+### Účel
+- Aby komínový plášť nebol tepelne zaťažovaný rozdielom cca 100°C (dym 90°C, mráz -30°C)
+
+### Vyhotovenie
+- Nový komín - už pri výstavbe
+- Starý komín - dodatočným vložením vložky do prieduchu (ohybná kovová rúra)
+
+---
+
+Zo statického hľadiska je komín samonosný (musí byť dostatočne pevný)  
+Nesmie sa oň opierať žiadna iná konštrukcia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 &nbsp;
 # 14 - Poruchy stavebných konštrukcií, statika tuhej dosky
