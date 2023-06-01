@@ -3,14 +3,14 @@
 &nbsp;
 # 1 - Základové konštrukcie
 ## Účel
-Prenos zaťaženia objektu do únosnej pôdy  
-Ukotvenie objektu v zemine  
-Tvar a konštrukčné usporiadanie sú ovplyvnené konštrukčným systémom objektu a kvalitou zeminy
+- Prenos zaťaženia objektu do únosnej pôdy  
+- Ukotvenie objektu v zemine  
+- Tvar a konštrukčné usporiadanie sú ovplyvnené konštrukčným systémom objektu a kvalitou zeminy
 
 ## Materiál
-Betón  
-Oceľobetón  
-Tehla (v minulosti)
+- Betón  
+- Oceľobetón  
+- Tehla (v minulosti)
 
 ## Druhy
 ### Podľa technológie
@@ -18,7 +18,9 @@ Tehla (v minulosti)
 - Montované
 
 ### Podľa hĺbky
-Plošné, hlbinné, základové studne
+- Plošné
+- Hlbinné
+- *\*Základové studne ?\**
 
 ### Plošné základy
 - Hĺbka 800 až 4000 mm (nezámrzná hĺbka)
@@ -103,15 +105,16 @@ Plošné, hlbinné, základové studne
 &nbsp;
 # 2 - Zvislé nosné konštrukcie
 ## Účel
-Prenos zaťaženia do základovej konštrukcie  
-Rozdelenie objektu na miestnosti  
-Oddelenie vnútra budovy od vonkajšieho priestoru  
-Tepelná a zvuková izolácia  
-Požiarna odolnosť  
-Estetická funkcia  
+- Prenos zaťaženia do základovej konštrukcie  
+- Rozdelenie objektu na miestnosti  
+- Oddelenie vnútra budovy od vonkajšieho priestoru  
+- Tepelná a zvuková izolácia  
+- Požiarna odolnosť  
+- Estetická funkcia  
 
 ### Stena
 Múr alebo panel  
+
 Rozdelenie:
 - Podľa pôdorysnej polohy
     - Hlavné (obvodové)
@@ -225,7 +228,7 @@ Druhy
 &nbsp;
 # 3 - Vodorovné nosné konštrukcie
 ## Definícia
-Stropy sú vodorovné nosné konštrukcie, ktoré rozdeľujú budovu na jednotlivé podlažia  
+- Stropy sú vodorovné nosné konštrukcie, ktoré rozdeľujú budovu na jednotlivé podlažia  
 
 ## Požiadavky
 - Prenos zaťaženia do zvislých nosných konštrukcií (steny, stĺpy)  
@@ -242,12 +245,12 @@ Stropy sú vodorovné nosné konštrukcie, ktoré rozdeľujú budovu na jednotli
 
 ## Rozdelenie
 ### Podľa materiálu
-Drevené  
-Z oceľových nosníkov tvaru **I** a plechu  
-Keramické  
-Oceľobetónové  
-Pórobetónové  
-Sklenené 
+- Drevené  
+- Z oceľových nosníkov tvaru **I** a plechu  
+- Keramické  
+- Oceľobetónové  
+- Pórobetónové  
+- Sklenené 
 
 ### Podľa technológie vyhotovenia 
 - Monolitické  
@@ -339,7 +342,7 @@ Sklenené
 &nbsp;
 # 4 - Dverné otvory v stenových konštrukciách
 ## Účel
-Slúžia na spojenie priestorov alebo vetranie  
+- Slúžia na spojenie priestorov alebo vetranie  
 ## Názvoslovie
 - Prah
 - Ostenie
@@ -396,6 +399,204 @@ Určuje sa podľa umiestnenia závesov
 
 &nbsp;
 # 5 - Schodiskové konštrukcie
+## Definícia
+- Stupňovitá stavebná konštrukcia v šikmom smere
+
+## Účel 
+- Prekonávanie výškových rozdielov chôdzou
+
+## Názvoslovie
+### Rameno
+- Šikmá nosná konštrukcia pozostávajúca z min. 2 stupňov
+
+### Podesta
+- Vodorovná plošina spájajúca (ukončujúca) schodiskové ramená
+- Hlavná podesta - v úrovni podlažia
+- Medzipodesta - medzi podlažiami
+
+### Stupeň
+- Podstupnica, nástupnica - zvislá a vodorovná časť 
+- Čelo - bočná časť
+- Jalový stupeň - nástupnica splýva s podestou
+- Bežný - medzi nástupným (jalovým) a výstupným stupňom
+- Nástupný - 1. dolný nad úrovňou podesty
+- Výstupný - Posledný horný so stupnicou v úrovni hornej podesty
+
+### Schodiskový priestor
+- Okolo schodiska
+- Ohradený stenami, stropnou (strešnou) konštrukciou a podlahou najspodnejšieho podlažia
+
+### Zrkadlo
+- Priestor medzi ramenami
+
+### Držadlo (madlo)
+- Priestor medzi ramenami
+
+### Zábradlie
+
+### Schodisková stena
+- Zvislá konštrukcia, ktorá ohraničuje schodisko
+
+### Podestový nosník
+- Konštrukcia, na ktorej je uložené schodiskové rameno na podeste (medzipodeste)
+
+### Vretenová stena
+- Stena, okolo ktorej ide schodisko (miestnosť zrkadla)
+
+### Vreteno
+- Stĺp, okolo ktorého sa točí schodisko
+
+### Schodnica
+- Šikmý nosník tvaru obdĺžnika alebo písmena **L** 
+- Podopiera stupne schodiska na bokoch alebo v strede 
+
+### Nástupné rameno
+- Z podesty na medzipodestu
+
+### Výstupné rameno
+- Opak nástupného
+
+## Druhy
+### Podľa umiestnenia
+- Vnútorné - vo vnútri budovy
+- Vonkajšie - z vonku budovy
+- Terénne - v teréne *(Bojnice)*
+
+### Podľa konštrukcie
+- Pažené
+    - V teréne
+    - Kolia sa dosky ako podstupnica
+    - Hlina ako násyp
+- Celopodmurované
+    - Oba konce schodiska sú zamurované v stenách
+- Doskové
+    - Nosná konštrukcia je oceľobetónová doska
+    - Na ňu sú vyhotovené stupne
+    - Doska je uložená na podestách ozubom alebo v jednom celku s podestami (prefabrikované alebo monolitické)
+- Schodnicové
+    - Schodnice
+        - Obojstranné (tvar **L**)
+        - Stredová (tvar obdĺžnika)
+    - Na schodnice sa kladú stupne
+- Visuté
+    - Jedna bočná stena je votknutá do steny
+    - Druhá je nepodopretá (ako balkón)
+- Zavesené
+    - Stupňové dosky sú zavesené na oceľových lanách
+- Pilierové
+    - Schodisko má piliere, ktoré podopierajú podesty *(v škole)*
+- Pohyblivé *(Prior)*
+
+### Podľa materiálu
+- Drevené
+- Kovové
+- Oceľobetónové
+- Betónové (iba terénne)
+- Murované
+- Plastové
+- Sklenené
+- Kamenné
+
+## Návrh schodiska
+Máme zadanú konštrukčnú výšku napr. $KV = 2800mm$
+
+### 1. Návrh počtu stupňov *n*
+$n = \frac{KV}{170}$
+
+$n = \frac{2800}{170}$
+
+$n = 16.471$ - zaokrúhlime na celé číslo (pri dvojramennom schodisku na párny počet)
+
+$n = 16$ stupňov  
+8 stupňov v jednom ramene
+
+&nbsp;  
+### 2. Výška stupňa *h*
+$h = \frac{KV}{n}$  
+
+$h = \frac{2800}{16}$  
+
+$h = 175mm$  
+
+&nbsp;  
+### 3. Šírka stupňa *b*
+$2h + b = 630$  
+$\Rightarrow \underline{b = 630 - 2 \times h}$
+
+$b = 630 - 2 \times 175$
+
+$b = 280mm$  
+*Hodnota sa zaokrúhľuje tak, aby hodnota končila 0 alebo 5*  
+*T. j. 280, 285, 290, ...*
+
+### Návrh 8 ks x 175mm x 280mm v jednom ramene
+
+&nbsp;  
+### 4. Sklon schodiska $\alpha$
+$\tg\alpha = \frac{h}{b}$  
+
+$\Rightarrow \underline{\alpha = \tg^{-1} \times \frac{h}{b}}$
+
+$\alpha = \tg^{-1} \times \frac{175}{280}$
+
+$\alpha = 32.005 \approx 32^\circ$  - bežné schodisko
+
+&nbsp;  
+### 5. Šírka ramena
+Šírka ramene závisí od priestoru, kde je schodisko umiestnené (škola, nemocnica, rodinný dom)
+
+&nbsp;  
+### 6. Šírka podesty
+Šírka podesty musí byť min. o 100mm väčšia od šírky ramena
+
+&nbsp;  
+### 7. Šírka medzipodesty
+Šírka podesty musí byť min. taká, ako je šírka ramena
+
+&nbsp;  
+### 8. Podchodná výška *h<sub>1</sub>*
+$h_1 = 1500 + \frac{750}{\cos\alpha}$
+
+$h_1 = 1500 + \frac{750}{\cos32^\circ}$
+
+$h_1 = 2384mm$
+
+$2384 > 2100 \Rightarrow \underline{vyhovuje}$
+
+&nbsp;  
+### 9. Priechodná výška *h<sub>2</sub>*
+$h_2 = 750 + 1500 \times \cos \alpha$
+
+$h_2 = 750 + 1500 \times \cos 32^\circ$
+
+$h_2 = 2022mm$
+
+$2022 > 1900 \Rightarrow \underline{vyhovuje}$
+
+&nbsp;  
+### 10. Dĺžka ramena *L*
+$L = \left(\frac{n}{2} - 1\right) \times b$  
+> Pri jednoramennom schodisku $L = \left(n - 1\right) \times b$  
+
+$L = \left(\frac{16}{2} - 1\right) \times 280$
+
+$L = 1960mm$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 &nbsp;
 # 6 - Sklonité strechy
