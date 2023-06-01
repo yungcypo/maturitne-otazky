@@ -508,7 +508,7 @@ $n = \frac{2800}{170}$
 $n = 16.471$ - zaokrúhlime na celé číslo (pri dvojramennom schodisku na párny počet)
 
 $n = 16$ stupňov  
-8 stupňov v jednom ramene
+>\* 8 stupňov v jednom ramene
 
 &nbsp;  
 ### 2. Výška stupňa *h*
@@ -517,6 +517,9 @@ $h = \frac{KV}{n}$
 $h = \frac{2800}{16}$  
 
 $h = 175mm$  
+
+$175 < 180 \Rightarrow \underline{vyhovuje}$
+
 
 &nbsp;  
 ### 3. Šírka stupňa *b*
