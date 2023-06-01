@@ -1074,28 +1074,110 @@ $L = 1960mm$
 - Plast - PVC
 - Keramika
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 &nbsp;
 # 10 - Povrchové úpravy stavebných konštrukcií
+## Účel
+- Vytvorenie lícnej plochy - to, čo vidíme
+- Ochrana pred mechanickým poškodením a poveternostnými vplyvmi
+- Zlepšenie odolnosti voči vlhku, teplu a zvuku
+- Estetický vzhľad
+
+## Druhy
+- Nátery
+- Omietky
+- Obklady
+- Pohľadové betóny
+- Frakcie kameňa (8 - 32 mm)
+- Škárovanie tehlového muriva (bez omietky) - režné murivo
+
+## Materiál
+- Olejové farba (sokel)
+- Vápenné farby (Primalex)
+- Obkladačky (okolo umývadla)
+- Sadrokartón
+- Plasty (kazetový strop)
+- Drevo
+- Sklo
+
+## Vnútorné omietky
+### Druhy
+- Podľa materiálu
+    - Malta
+        - Vápenná
+        - Vápenno-cementová
+        - Cementová
+        - Vápenno-sadrová
+        - Sadrová
+    - Umelé
+    - Špeciálne
+- Podľa spôsobu vyhotovenia
+    - Jednovrstvové
+    - Viacvrstvové
+- Úpravy povrchu
+    - Hrubé
+    - Hladké
+    - Jemné
+    - Vyhladené
+    - So špeciálnymi úpravami
+- Podľa použitých prísad
+    - Farebné
+    - Mrazuvzdorné
+    - Atď
+- Špeciálne omietky
+    - Barytová - proti Röntgenovým lúčom
+    - Perlitová
+    - S prísadami - proti ohňu, teplu, hluku
+    - Suchá - sadrokartón, drevovláknitá doska
+
+## Vonkajšie omietky
+### Odolnosť voči
+- Teplotným zmenám
+- Vlhkosti
+- Mechanickým účinkom
+- Chemickým účinkom z ovzdušia
+
+### Druhy
+- Hrubovrstvové - hrúbka > 4 mm
+    - Vápenné
+    - Cementové (sokle)
+    - Zošľachtené (brizolit)
+    - Umelý kameň
+    - Špeciálne
+    - Farebné
+- Tenkovrstvové - hrúbka do 4 mm
+    - Stierkové (maltové a plastické zmesi)
+    - Nástreky
+
+### Omietanie v zime
+- Pri teplote nad 5°C
+- Panely omietané v panelárňach
+
+## Obklady
+### Druhy
+- Drevo
+    - Borovica
+    - Dub
+    - Drevotrieska
+    - Preglejky
+- Keramika
+- Mozaika
+- Kameň 
+    - Žula
+    - Mramor
+    - Travertín
+- Betón
+- Plasty
+- Sklo
+- Kov
+- Ľahké izolačné dosky
+
+### Posúdenie kvality
+- Podľa vzhľadu
+    - Vonkajšie z 5 až 20 metrov
+    - Vnútorné min. 2 metre
+- Škáry zo vzdialenosti 0.3 až 2 metre
+- Nerovnosť plochy max 1.5 mm
+- Poklepom (nesmie byť dutý zvuk)
 
 &nbsp;
 # 11 - Zvislé nenosné konštrukcie
