@@ -688,6 +688,141 @@ $L = 1960mm$
 
 &nbsp;
 # 7 - Previsnuté a ustupujúce konštrukcie
+## Definícia
+- Časti objektov, ktoré vystupujú (ustupujú) prez alebo za líce priečelia
+
+## Účel
+- Úžitková funkcia - sušenie prádla, opaľovanie, fajčenie
+- Estetické stvárnenie priečelia
+
+## Druhy
+### Balkóny
+- Definícia
+    - Konštrukcie vystupujúce z líca priečelia v úrovni podlažia na voľných stavbách so zábradlím
+- Požiadavky
+    - Vyloženie aspoň 900 mm, optimálne 1200 mm
+    - Dĺžka závisí od možností ukotvenia v stene
+    - Nosnosť sa zo statického hľadiska ráta ako konzola s podmienkou
+    - Min. nosnosť je 400 kg/m<sup>2</sup>
+- Materiál
+    - Drevo
+    - Kameň
+    - Oceľobetón (monolitické alebo montované)
+- Trvanlivosť závisí od
+    - Povrchu balkóna (mrazuvzdorný)
+    - Vyhotovenia odkvapu (nosa)
+    - Styk s priečelím (tepelná izolácia)
+    - Kotvenie zábradlia (zhora, spredu, zospodu)
+- Spád balkóna mi. 2% od budovy
+- Vodotesná izolácia medzi balkónom a stenou musí byť na stene do výšky min. 150 mm
+- Tyčky zábradlia môžu byť od seba max. 120 mm
+- Medzi balkónovou doskou a zábradlím môže byť max. 120mm
+- Únosnosť zábradlia musí byť min. 1 kN/m
+
+### Loggie
+- Definícia
+    - Otvorené priestory, ktoré majú po stranách plné nosné steny
+- Druhy - podľa polohy
+    - Zapustené
+        - Zmenšujú obytnú plochu
+        - Zhoršujú osvetlenie bytu
+    - Polozapustené
+        - Tvoria prechod medzi balkónom a loggiou
+        - Zhoršujú osvetlenie
+        - Treba izolovať bočné steny ako u zapustených
+    - Predsadené
+        - Zmenšujú obytnú plochu
+        - Od balkóna sa líšia bočnými stenami
+        - *(10. poschodový panelák na Žabníku)*
+
+### Rímsy
+- Účel
+    - Chráni priečelie objektu pred poveternostnými vplyvmi (dážď)
+    - Odvod dažďovej vody čo najďalej od líca objektu
+    - Architektonické stvárnenie objektu
+- Umiestnenie
+    - Ukončenie šikmej i zvislej strešnej konštrukcie na obvode budovy
+    - Nad oknami a dverami 
+- Rozmer
+    - Dĺžka - celá strana objektu alebo nad celým oknom/dverami
+    - Šírka - vyloženie cez priečelie cca 150 až 300 mm
+    - Hrúbka - podľa statického návrhu (oceľobetón) alebo materiálu (tehly)
+- Zo statického hľadiska musí byť stabilita rímsy dvojnásobná ako balkón
+- Tvar, vyhotovenie a materiál závisí od
+    - Druhu konštrukcie objektu (montovaná, monolitická)
+    - Sklonu strechy (šikmá, plochá)
+    - Druhu strechy
+    - Druhu strešnej krytiny
+    - Spôsobu odvodnenia strechy
+    - Vyhotovenia žľabov
+    - Vyloženia rímsy
+    - Požiadavky na živostnosť
+- Vyhotovenia 
+    - Nadmurovkou
+    - Odľahčením vyloženej časti rímsy
+    - Zakotvením do obvodového muriva
+    - Zakotvením do stropnej konštrukcie
+
+### Markízy
+- Definícia
+    - Konzolovo vyložená doska nad vstupom do objektov
+- Účel
+    - Ochrana vchádzajúcich/vychádzajúcich osôb z/do objektu pred dažďom
+    - Ochrana dverí pre poveternostnými vplyvmi
+    - Architektonický doplnok budovy
+- Vyhotovenie
+    - Šírka - min. šírka dverného otvoru
+    - Dĺžka (vyloženie) bežne 900 mm - môže byť bez odvodnenia žliabkami a zvodmi
+    - Dĺžka nad 900 mm musí byť odvodnená ako strecha
+    - Hrúbka 
+        - Ľubovolná
+        - Podľa návrhu architekta
+        - Závisí aj od použitého materiálu
+- Konštrukcia je spádovaná od budovy
+- Môže byť k budove len "prilepená" - podopretá stĺpmi
+- Materiál
+    - Oceľobetón
+    - Drevo
+    - Plast
+    - Kov
+- Zo statického hľadiska musí byť navrhnutá tak, aby preniesla tiaž snehu
+- Od budovy musí byť odizolovaná oplechovaním
+
+### Atiky
+- Definícia
+    - Konštrukcia ukončujúca obvodový plášť nad strechu vo zvislom smere
+- Účel
+    - Zabránenie zatekania dažďovej vody zo strechy na priečelie
+    - Ukončenie konštrukcie (vrstiev plochej strechy)
+- Umiestnenie
+    - Z 3 strán
+    - Z 2 strán
+    - Zo 4 strán
+- Musí byť v súlade s konštrukciou strechy a obvodového plášťa
+- Od strešného plášťa musí byť oddelená dilatačnou škárou v ktorej je pružná vložka
+- Izolácia strechy (vrchná vodotesná) musí byť vyvedená aj na atiku (najlepšie po samý vrch)
+- Vrch atiky musí byť krytý pozinkovaným plechom, prečnievajúcim okrajom atiky cca 50 mm
+
+### Arkiere
+>Vysunutá miestnosť z budovy
+
+### Ustupujúce podlažia
+- Účel
+    - Vytvorenie terás umožňujúcich pobyt v exteriéry
+- Použitie
+    - Pri zástavbe svahových terénov terasovými objektami
+    - Význam majú terasy v 
+        - Nemocniciach
+        - Ozdravovniach
+        - Jasliach
+        - Materských školách
+- Strop
+    - Dolnej miestnosti musí tvoriť podlahu terasy
+    - Musí byť prispôsobený aj na dynamické zaťaženie chôdzou (dupanie)
+    - Musí vyhovovať požiadavkám ako strecha (únosnosť, tepelná izolačnosť, ochrana voči vode, snehu, ...)
+- Podlaha musí byť pochôdzna (dlaždice)
+- Terasa musí byť odvodnená žľabmi
+- Ustúpenie horného podlažia môže byť na celú miestnosť, alebo iba časť
 
 &nbsp;
 # 8 - Navrhovanie bytu z typologického hľadiska
