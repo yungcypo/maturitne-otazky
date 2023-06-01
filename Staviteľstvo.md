@@ -224,6 +224,118 @@ Druhy
 
 &nbsp;
 # 3 - Vodorovné nosné konštrukcie
+## Definícia
+Stropy sú vodorovné nosné konštrukcie, ktoré rozdeľujú budovu na jednotlivé podlažia  
+
+## Požiadavky
+- Prenos zaťaženia do zvislých nosných konštrukcií (steny, stĺpy)  
+- Vystuženie budovy vo vodorovnom smere (zabránenie vybočeniu zvislých nosných konštrukcií)  
+- Zabezpečenie tuhosti a stability celého objektu  
+- Protipožiarna odolnosť  
+- Tepelná izolačnosť (medzi bytmi a pivnicou väčšia)  
+- Nepriezvučnosť
+    - Vzduchová
+        - Závisí od plošnej hmotnosti stropu
+        - Zlepšuje sa izolačnou vrstvou
+    - Kročajová - "ozveny" krokov v panelákoch
+    - Medzi podlahou a stropnou konštrukciou musí byť pružná vrstva (plávajúca podlaha)
+
+## Rozdelenie
+### Podľa materiálu
+Drevené  
+Z oceľových nosníkov tvaru **I** a plechu  
+Keramické  
+Oceľobetónové  
+Pórobetónové  
+Sklenené 
+
+### Podľa technológie vyhotovenia 
+- Monolitické  
+    - Oceľová výstuž zaliata na stavbe v debnení betónu
+- Montované
+    - Osadenie stropných panelov žeriavom (paneláky)
+    - Uloženie nosníkov zo steny na stenu, na ne uložené stropné vložky (keramické)
+    - Uloženie oceľových nosníkov na steny a na ne tvarovaný plech
+    - Drevené trámy na stenu a na ne pribité dosky
+    - Sklenené dielce osadené v oceľovom rošte
+    - Tehlová klenba medzi oceľovými nosníkmi
+
+## Druhy
+### Drevené trámové
+- Trámy (hranoly) uložené vo vzdialenosti cca 1 m od seba na steny
+- Krajný je od steny min. 50 mm aby nenavlhol
+- Na stene je uložený cca 200 mm
+- Boky a vrch trámu musia byť od muriva cca 30 mm
+- V murive je položený na vodotesnú podložku
+- Na trámy sa zhora pribijú dosky - záklop - hrúbka 25 mm
+- Na dosky sa položí asfaltová lepenka
+- Na lepenku sa nasype škára cca 80 mm
+- V nej sa uložia drevené vankúše na povrchu
+- Na vankúše sa pribije podlaha z dosiek
+- Z dola možno vyhotoviť pohľad aby nebolo vidieť trámy
+
+### Drevené fošňové
+- Ako trámové
+- Stropnice sú z fošieň, ktoré sú k sebe bližšie ako trámy
+
+### Drevené lepené
+- Ako trámové
+- Stropnice sú zlepené z viacerých častí
+
+### Keramické
+- Nosným prvkom je prefabrikovaný keramický nosník spevnený betónom a výstužou
+- Poskladaný z kratších dielcov rôznych tvarov
+- Medzi nosníkmi sa ako výplň ukladajú vložky rôznych tvarov - pôdorysy:
+    - Obrátené **T**
+    - Obdĺžnik
+    - Lichobežník
+    - Lichobežník + obdĺžnik
+- Existuje viacero tvarových a rozmerových typov týchto stropov
+
+### Oceľové
+- Nosníky sú vytvorené z oceľových prvkov
+- Valcové profily **I**
+- Plnostenné nosníky
+- Priehradové nosníky
+- Profilový plech
+
+### Oceľobetónové
+- Montované
+    - Trámové
+        - Zo steny na stenu sa uloží trám
+        - Na trámy sa uložia vložky alebo panely
+    - Doskové
+        - Zo steny na stenu sa uložia panely
+- Monolitické
+    - Vyhotoví sa debnenie popod celú miestnosť
+    - Do debnenia sa uloží podľa predpisov výstuž
+    - Naleje sa betón
+    - Po 28 dňoch sa debnenie odstráni
+    - Typy
+        - Jednoduchá uložená doska
+            - Uložená na dvoch protiľahlých podperách
+            - Navrhuje sa do rozpätia 3000 mm
+            - Hrúbka dosky $\frac{1}{25}$ rozpätia
+            - Uloženie min. 100 mm
+            - Min. hrúbka dosky 50 mm *(80 mm ?)*
+            - Uložená po celom obvode
+        - Votknutá doska
+            - Je spojená s podperou (prekladom, vencom) do jedného tuhého celku
+        - Doska s nábehmi
+            - Miesto pri podpere je zosilnené betónom, ktorý vytvára tzv. nábeh
+        - Trámové monolitické
+            - Nosný trám je súvisle spojený s doskou
+            - Doska a trám spolu pôsobia a tvoria tzv. **T** prierez
+        - Hannebiquerov strop
+            - Trámy sú uložené na alebo votknuté do prekladov, prievlakov, vencov
+            - Trámy sú viditeľné
+
+### Hríbové
+- Stropná doska je podopieraná stĺpmi, ktoré majú rozšírenú hlavicu kruhového, štvorcového alebo 8-uholníkového tvaru
+- Hlavica slúži na to, aby sa stĺp pri veľkom zaťažení neprepichol cez stropnú konštrukciu 
+- Používa sa v objektoch s veľkým zaťažením (sklady)
+> Zrútenie obchodného domu v Kórei
+
 
 &nbsp;
 # 4 - Dverné otvory v stenových konštrukciách
