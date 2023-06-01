@@ -1286,6 +1286,182 @@ $L = 1960mm$
 
 &nbsp;
 # 12 - Ploché strechy
+## Definícia
+- Strešná konštrukcia nesklonitá alebo so sklonom do 10° = 17%  
+- Ideálny sklon 3%, okolo vpustov a odkvapov 5%
+
+Výhody
+- Jednoduchšia konštrukcia ako krov
+- Úspora materiálu
+
+Nevýhody
+- Častá poruchovosť
+- Malá životnosť
+- Nákladná údržba
+- Nutnosť veľmi kvalitného vyhotovenia a materiálu
+- Nevieme ich poriadne vyhotoviť
+
+## Rozdelenie
+### Podľa skladby strešného plášťa
+- Jednoplášťové
+- Dvojplášťové
+- Viacplášťové
+
+### Podľa využitia
+- Pochôdzne 
+- Nepochôdzne
+
+
+### Podľa spôsobu odvodnenia
+- Spádové
+- Bezspádové
+
+### Podľa tvaru strešnej plochy
+- Rovinné
+- Zakrivené
+
+### Podľa vyhotovenia
+- Monolitické
+- Montované
+
+## Požiadavky 
+- Vodotesnosť
+    - Z ovzdušia (dážď, sneh)
+    - Z objektu (para)
+- Mechanické opotrebenie - krupobitie, vietor, chodenie
+- Slnečné žiarenie
+- Kvalita vyhotovenia
+    - Styk vrstiev obvodom strechy
+    - Prieniky cez strechu - komín, ventilácia
+- Tepelná izolácia
+- Odtok vody z povrchu
+- Nosnosť strechy
+
+## Vrstvy plášťa
+### Nosná
+- Ako strop
+- Únosnosť podľa predpokladaného zaťaženia
+- Je vodorovná
+
+### Parotesná zábrana
+- Lepenka v nosnej vrstve
+- Zabraňuje vnikaniu pár do strechy
+
+### Tepelnoizolačná vrstva
+- Zabezpečenie tepelného odporu strešného plášťa
+- Môže byť
+    - Liata (perlitbetón)
+    - Sypaná (škvára)
+    - Tvarovaná (polystyrén)
+    - Z rohoží
+
+### Vzduchová medzera
+- Pri dvojplášťovej streche
+- Na fasáde budovy sú mriežky (Priemstav)
+
+### Vodotesná izolácia
+- Zabraňuje vnikaniu vody zhora
+
+### Ochranná vrstva
+- Antireflexný strieborný náter na doraz teplých slnečných lúčov
+
+## Konštrukcia strešných plášťov
+- Jednoplášťová
+    - Nevetraná
+        - Bez vetracích kanálikov
+        - Problematická
+        - Jednoduché stavby
+        - Zloženie napr.
+            - Drevené trámy
+            - Dosky
+            - Vodotesná izolácia
+            - Plech
+    - Vetraná
+        - Vetracie kanáliky najlepšie v oboch smeroch
+        - Vyhotovenie kanálikov v tepelnej izolácií
+        - Na fasáde sú mriežky - ukončenie kanálikov
+        - Skladba vrstiev musí zodpovedať požiadavkám druhu prevádzky
+- Dvojplášťová
+    - Medzi vrstvami je vytvorená vzduchová medzera (100 až 200 mm) po celej ploche na prívod a odvod vzduchu
+    - Vyhotovenie medzery
+        - Podopretie tepelnej izolácie hranolčekmi tvrdých dosiek (len v rohoch)
+    - Vzduchová medzera - čo najintenzívnejšie prúdenie vzduchu *(otvory na fasáde cca $\frac{1}{1000}$ pôdorysnej plochy strechy) ?*
+    - Dolný plášť - zamedzenie prenikaniu pary z objektu do strechy, prípadne aj tepelná izolácia
+    - Skladba vrstiev podľa požiadaviek objektu
+
+## Ukončenie plochých striech
+- Veľmi dôležité je zabrániť vniknutiu vody do strešného plášťa 
+- Okraj býva
+    - Atika
+        - Izolácia musí byť vedená až na ňu
+        - Najlepšie až pod oplechovanie atiky
+        - Alebo ukončenie prekryť lištou
+    - Odkvap
+        - Dôležité pre vyhotovenie tvaru rímsy
+
+## Odvodnenie
+- Do stredu strechy cez vpusť do zvislého odpadu
+- Cez odkvap do zvodov (rín) na jednu alebo dve strany budovy
+
+## Prienik potrubí a komínov 
+- Precíznym vyhotovením okolo telies zabrániť vniku vody do strechy
+
+## Dilatačná škára
+- Ak je monolitická oceľobetónová doska rozmeru > 15 m
+
+## Vyhotovenie strešného plášťa
+- Pred kladením materiálu preštudovať návod a riadiť sa ním
+- Materiál musí byť suchý
+- Vrstvy sa kladú podľa projektu
+- Izolačné povlaky musia byť položené na hladký podklad (cementový poter) aby sa neprederavil
+- Pre lepší účinok vodotesnosti sa na podklad nanáša vodotesný náter
+- Treba dbať aby do nasiakavých materiálov (izolačné rohože) nevsiakla voda z podkladovej alebo vyrovnávacej vrstvy
+- Spád strechy sa môže vyhotoviť
+    - Spádovaním tepelnoizolačného ľahčeného betónu
+    - Podopretím nosnej vrstvy vrchného plášťa do spádu
+
+## Zelené strechy
+- Povrch plochy je tvorený rastlinnou výsadzbou (trávy, kry, kríky)
+- Výhody
+    - Pôsobí ako tepelná izolácia
+    - Predlžuje životnosť strechy
+    - Zvyšuje estetický dojem a vracia zeleň do miest
+    - Znižuje
+        - Množstvo zrážkovej vody odvádzanej do kanalizácie
+        - Množstvo vody z prívalových dažďov, zároveň ju filtruje
+        - CO<sub>2</sub>
+    - Zabraňuje vzniku tepelných ostrovov
+- Nevýhody
+    - Vegetačný koberec (zeleň)
+    - Minerálny substrát
+    - Rohož s pórmi pre vodu
+    - Protikoreňová membrána
+    - Hydroizolácia strechy
+    - Nosná konštrukcia strechy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 &nbsp;
 # 13 - Komíny v bytových stavbách
