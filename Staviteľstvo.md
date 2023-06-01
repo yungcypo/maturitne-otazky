@@ -825,7 +825,102 @@ $L = 1960mm$
 - Ustúpenie horného podlažia môže byť na celú miestnosť, alebo iba časť
 
 &nbsp;
-# 8 - Navrhovanie bytu z typologického hľadiska
+# 8 - Lešenie
+## Definícia
+- Dočasná stavebná konštrukcia
+
+## Určenie
+- Práce vo výškach
+- Ako ochranná konštrukcia
+
+## Požiadavky
+- Čo najjednoduchšia konštrukcia
+- Bezpečná
+- Dostatočne únosná
+- Rýchlo postaviteľná
+
+## Druhy
+- Nepohyblivé - kovové
+    - Oceľové
+    - Hliníkové
+- Posuvné kovové
+- Pohyblivé pracovné plošiny
+- Drevené
+    - Jednopodlažné ("kozy")
+    - Viacpodlažné
+- Zavesené
+    - Plošiny 
+    - Klietky  
+&nbsp;  
+- Je ich viacero od viacerých výrobcov
+
+## Časti
+- Podkladové prahy - na zemi medzi stĺpikmi a zeminou
+- Nánožky - pätka na osadenie rúrkových stĺpikov
+- Upínacie spojky - pre krízové spojenie dvoch rúrok
+- Pracovné podlahy
+    - Fošne
+    - Podlahové dielce
+- Nastavovacie spojky - pre osové nastavenie dvoch spájaných rúrok
+- Spájacie prvky - spojenie rôznych častí
+- Zvislé stĺpiky
+- Vodorovné pozdĺžniky
+- Vodorovné priečniky
+- Šikmé zavetrenie
+- Šikmé vzpery
+- Zábradlie
+- Rebríky
+- Ochranné siete
+- Ochranné striešky
+- Zákopy na podlahách (aby z nich niečo nevypadlo)
+- Uzemnenie - proti blesku
+- Ukotvenie k budove
+
+## Zásady vyhotovenia
+- Tuhosť lešenia musí byť zabezpečená dostatočným množstvom šikmých prvkov
+- Medzery v podlahových dielcoch môžu byť max. 600 mm
+- Hrúbka podlahy min. 24 mm
+- Podchodná výška lešenia min. 1800 mm
+- Šírka pracovnej plochy min. 80 mm
+- Zábradlie
+    - Dvojtyčové
+    - Výška 1100 mm
+- Rebríky
+    - Nesmú byť nad sebou
+    - Dĺžka max. 6 metrov
+    - Presah podlahy 1100 mm
+
+## Stavebnicové lešenie HAKI
+### Prvky
+- Pätky lešenia
+    - Určené na osadenie zvislých stĺpikov na zemi, aby sa nezaborili
+    - Namiesto nich môžu byť kolieska, vtedy je lešenie pojazdné
+- Zvislé predlžovacie stĺpiky
+    - Dĺžka 2 alebo 3 metre
+    - Na koncoch majú bajonetový uzáver na rýchle vzájomné spájanie
+    - Vo vzdialenosti 500 mm sú závesné strmene na zavesenie priečnikov, pozdĺžnikov, zábradlia a zavetrovacích prvkov
+- Priečniky
+    - Dvojpriehradové (ako rebrík)
+    - Dĺžka 1200 mm
+    - Na oboch koncoch sú záchytky na uchytenie k stĺpikom
+    - Spojenie so stĺpikom je zabezpečené na každom konci gravitačnou poistkou
+- Pozdĺžniky
+    - Konštrukcia je podobná ako priečniky
+    - Dĺžka 3 metre
+- Zábradlie
+    - Dvojrúrkové
+    - Výška 500 mm
+    - 1 meter nad podlahou
+
+## Zavesené lešenie
+- Klietka zavesená na 2 vysunutých konzolových trámoch zo strechy alebo z miestnosti
+- V klietke je zariadenie, pomocou ktorého sa lešenie zdvíha a spúšťa
+- V klietke by mali byť dvaja
+
+## Plošiny
+- Klietky na pojazdnom zariadení
+- Zdvíhajú sa teleskopicky alebo hydraulicky
+- Používajú sa na opravu fasád budov alebo stropov vo vysokých miestnostiach
 
 &nbsp;
 # 9 - Podlahové konštrukcie
