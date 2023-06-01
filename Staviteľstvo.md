@@ -336,9 +336,63 @@ Sklenené
 - Používa sa v objektoch s veľkým zaťažením (sklady)
 > Zrútenie obchodného domu v Kórei
 
-
 &nbsp;
 # 4 - Dverné otvory v stenových konštrukciách
+## Účel
+Slúžia na spojenie priestorov alebo vetranie  
+## Názvoslovie
+- Prah
+- Ostenie
+    - Rovné
+    - Zalomené
+- Výplň 
+    - Zárubňa so závesmi *("pánty")*
+    - Krídlo
+
+## Materiál
+- Zárubňa
+    - Drevo
+    - Kov
+    - Plast
+- Krídlo
+    - Drevo
+    - Kov
+    - Plast
+    - Sklo
+
+## Umiestnenie
+- Vnútorné
+- Vonkajšie
+
+## Rozdelenie
+### Podľa otvárania
+- Otočné *(bežné dvere)*
+- Posuvné *(Prior)*
+- Otáčavé *(Korzo)*
+- Skladacie *(v reštaurácií)*
+- Kývavé - otvárajú sa na obe strany
+
+### Podľa počtu krídel
+- Jednokrídlové
+- Dvojkrídlové
+- Viackrídlové
+
+### Podľa smeru otvárania
+Určuje sa podľa umiestnenia závesov
+- Pravé
+- Ľavé
+
+### Podľa zárubne
+Účelom zárubne je napojenie dverí na dverný otvor
+- Kovové
+    - Z tenkých plechov
+        - Jednodielne
+        - Dvojdielne
+    - Z oceľových uhoľníkov
+- Drevené
+    - Tesárske (neopracované)
+    - Fošňové (opracované)
+    - Rámové (hladké) - obklad kovových
 
 &nbsp;
 # 5 - Schodiskové konštrukcie
