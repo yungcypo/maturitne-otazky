@@ -1181,6 +1181,108 @@ $L = 1960mm$
 
 &nbsp;
 # 11 - Zvislé nenosné konštrukcie
+= Priečky
+
+## Účel
+- Rozdelenie priestoru
+    - Mechanicky (nepriechodná)
+    - Opticky (nepriehľadná)
+    - Akusticky (nepriezvučná)
+
+## Materiál
+- Tehly
+- Tvarovky
+- Tvárnice
+- Betón
+- Oceľobetón
+- Sadrokartón
+- Kov
+- Drevo
+- Sklo
+- Látka (lekár)
+- Koža (reštaurácie)
+- Plast
+- Papier
+
+## Rozdelenie
+### Podľa technológie výroby
+- Murovanie (tvárnice)
+- Monolitické (betón)
+- Montované (sadrokartón)
+
+### Podľa akustických vlastností
+- Jednoduché
+- Dvojité - s medzerou 60 mm
+- Kombinované - pevná s obkladom
+
+### Podľa spôsobu zabudovania
+- Pevné (murované)
+- Premiestniteľné (ľahké diely)
+- Pohyblivé (harmonikový záves)
+
+### Podľa prenášania tiaže
+- Uložené na strop pod priečkou (tehly)
+- Zakotvené do bočných stien (sadrokartón)
+- Zavesené na strop (kožený "záves")
+- Kombinované
+
+### Podľa spôsobu kotvenia
+- Do káps a ozubov (murované)
+- Oceľovými pásikmi (murované)
+- Skrutkami (sadrokartón)
+- Do zvislých drážok
+- Oceľovými prútmi (sklobetón)
+
+## Technológie prevedenia priečok 
+### Murované
+- Nepriechodnosť zabezpečená materiálom (tehly, tvarovky, tvárnice, sklené tvarovky)
+- Stabilita zabezpečená ukotvením do nosných múrov
+- Zvukoizolačnosť zabezpečená izolačnou vrstvou (lepenka, hobra, polystyrén) na spodku a vrchu priečky
+- Nadpražie
+    - Hrúbka od 100 mm, šírka do 800 mm - nemusí byť
+    - Hrúbka od 100 mm, šírka nad 800 mm - 2 oceľové prúty
+    - Hrúbka nad 100 mm, šírka nad 800 mm - železobetónový preklad
+- Spevnenie priečky
+    - Vložením oceľových prútov priemeru 5 mm do každej 3. škáry
+- Sklooceľobetónové musia mať po obvode oceľobetónový rám 60 mm a pružnú podložku hore aj dolu
+
+### Monolitické
+- Oceľobetónové panely vyrábané v továrni
+- Žeriavom osadené
+- Monjerky
+    - Vybetónované priamo na stavbe do debnenia
+    - Sú pevné
+    - Vystužené oceľovou sieťou
+- Rabitcky
+    - Medzi stropom a podlahou sa zvislo upevnia oceľové tyče priemeru cca 10 mm
+    - Na tyče sa uchytí rabicové pletivo
+    - Na pletivo sa nahodí hustá malta
+    - Hrúbka 50 mm
+- Keramické
+    - Výstuž - keramidové pletivo (drsné)
+    - Naň sa nahodí malta
+
+### Montované
+- Celostenové
+    - Zo železobetónu
+    - Z ľahčených betónov
+    - V panelákoch, priemyselných stavbách
+    - Plné alebo s dvernými otvormi
+- Z úzkych vertikálnych dielcov
+    - Pórobetónové
+    - Viac dielov na jednu stenu
+    - Od stropu po podlahu
+    - Musia sa dobre zaklinovať
+- Zo sklenených prvkov
+    - Tvar úzkeho **U** od stropu po podlahu
+    - Osadenie do líšt zakotvených v stenách
+- Sadrokartónové
+    - Dosky prišróbované na **U** profil
+- Skriňové
+    - Využitie nábytku na vytvorenie priečky
+- Premiestniteľné
+    - S ľahko rozoberateľnými spojmi
+    - Drevené, kovové
 
 &nbsp;
 # 12 - Ploché strechy
