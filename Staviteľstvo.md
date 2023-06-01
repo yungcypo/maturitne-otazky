@@ -924,6 +924,175 @@ $L = 1960mm$
 
 &nbsp;
 # 9 - Podlahové konštrukcie
+## Definícia 
+- Súhrn podlahových vrstiev uložených na nosnom podklade
+
+## Účel
+- Skvalitnenie povrchu nosnej konštrukcie
+- Vytvorenie vhodnej plochy na prevádzku (sprcha - dlaždice)
+- Vytvorenie vhodnej tepelnoizolačnej konštrukcie (byt nad pivnicou)
+- Vytvorenie vhodnej zvukoizolačnej konštrukcie (plávajúca podlaha)
+
+## Požiadavky
+### Estetické
+- Rovnosť
+- Škáry
+    - Rovné
+    - Neprepadnuté
+    - Rovnomerne široké
+    - Plynulý styk so stenou
+
+### Mechanické
+- Pevnosť v tlaku
+- Pevnosť v ťahu (prídržnosť)
+- Odolnosť voči nárazu (tvrdé podlahy)
+- Odolnosť voči dlhodobému zaťaženiu (skriňa, lavica)
+- Tvrdosť povrchu
+- Odolnosť voči opotrebeniu (chôdza, doprava)
+
+### Tepelnotechnické
+- Vyhotovenie optimálneho prostredia (byt nad pivnicou)
+- Úspora energie
+>Tepelná pohltivosť je pokles teploty (chodidlá) po 10 minútach na 17°C podlahe
+
+### Akustické
+- Vzduchová nepriepustnosť - závisí od
+    - Zloženia podlahy
+    - Plošnej hmotnosti vrstiev
+    - Podhľadu stropu
+- Kroková neprievzdušnosť
+    - Tlmenie hluku šíriaceho sa hmotou stropu
+    - Veľmi zlá (paneláky)
+    - Riešenie - plávajúca podlaha
+
+### Optické
+- Odraz svetla
+- Lesk povrchu
+
+### Odolnosť
+- Chemické látky
+- Biologické vplyvy (plesne, živočíchy, červotoče)
+- Voda a vlhkosť (práčovne, sprchy)
+
+## Vrstvy podláh
+### 1. Podkladová 
+- Stropná
+- Terén (zemina)
+- Betónová vrstva
+
+### 2. Vyrovnávacia
+- Cementový poter
+    - Hrúbka min. 40 mm
+    - Môže byť vystužený pletivom
+- Betónová mazanina
+    - Pri väčšom zaťažení na podlahe
+    - Hrúbka závisí od prevádzky v miestnosti
+- Samonivelačný poter
+    - Hrúbka 20 až 80 mm
+    - Obsahuje plastifikačné prísady
+    - Sám sa vyrovnáva po celej ploche  
+
+
+| Prípustné nerovnosti na 1 meter dĺžky | |
+|-:|-|
+| Vlysy a parkety | 2 mm |
+| Dlaždice lepené tmelom | 3 mm |
+| Dlaždice do malty | 5 mm |
+| PVC | 2 mm |
+| Izolácie | 3 mm |
+| Plávajúca podlaha | 3 mm |
+
+### 3. Izolačná
+- Zvuková izolácia
+    - Umiestnenie
+        - V podlahách
+        - Styk podlahy so stenou
+        - Prieniky telies cez podlahu
+    - Vyhotovenie
+        - Pružné *róže ?*
+        - Minerálne dosky ("špongiové" pásy)
+        - Polotuhé dosky
+- Tepelná izolácia
+    - Umiestnenie ako zvuková
+    - Účel - zabrániť vnikaniu chladu a úniku tepla
+    - Vyhotovenie
+        - Penové látky (polystyrén)
+        - Pórovité materiály
+        - Na povrchu by mali byť chránené proti vlhkosti
+- Hydroizolácia
+    - Na teréne
+        - Penetračný náter na betónový podklad
+        - Hydroizolačné pásy
+    - V podlahe
+        - Proti zmáčaniu podlahy (sprcha)
+        - Hydroizolačné pásy
+- Proti chemickým vplyvom
+    - Chemické prevádzky
+    - Odolná dlažba (chemicky)
+    - Syntetické nátery 
+    - Rôzne tmely
+    - Asfaltové alebo fóliové pásy
+
+### 4. Nášľapná
+- Drevo
+    - Výhoda - malá odnímateľnosť tepla
+    - Doskové
+        - Palubovky, fošne - pribíjajú sa na podklad
+        - "Plávajúca"
+            - Ukladá sa na pero a drážku na izolačnú vrstvu
+    - Parketové
+        - Vlysy
+            - Kladú sa pod uhlom 45° ku stene *(rybina ?)* na lepidlo (telocvičňa)
+        - Mozaikové parkety
+            - Lamely usporiadané šachovnicovo do rôznych vzorov
+            - Lepia sa na bezfarebné lepidlá
+        - Po obvode lišty
+- Mazaniny, potery
+    - Celistvé a priamo v miestnosti zhotovované podlahovými
+    - Betónové mazaniny (priemyselné prevádzky)
+        - Dobrá odolnosť proti opotrebovaniu
+        - Vyhotovujú sa zhutnením vrstvy cca 40 mm
+        - Pri veľkých plochách musia mať dilatačné škáry
+    - Cementové potery (priemyselné prevádzky, len pre pešiu prevádzku)
+        - Vyhotovujú sa z cementovej malty
+        - Podľa druhu prevádzky sa do malty môže pridať rôzna prísada
+- Terazové mazaniny
+    - Dvojvrstvový cementový poter
+    - Do vrchnej vrstvy sa zatlačia rôznofarebné kamienky
+    - Po zatvrdnutí sa vybrúsi a vytmelí
+    - Školská chodba (schodisko)
+- Xylitové mazaniny
+    - Zhotovujú sa z organických výplní a farbív
+    - Zmes sa rozprestrie a uhladí na betónový podklad
+- Anhydritové mazaniny
+    - Hladký povrch
+    - Dobré tepelnoizolačné vlastnosti
+    - Robia sa z jemného piesku a andydritového prášku
+    - Používa sa na špeciálne účely
+- Asfaltové
+    - Robia sa v menšej miere v priemyselných prevádzkach
+- Plast - PVC
+- Keramika
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 &nbsp;
 # 10 - Povrchové úpravy stavebných konštrukcií
