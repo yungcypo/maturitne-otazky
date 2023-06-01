@@ -2459,8 +2459,81 @@ Zohľadňuje tzv. národný princíp, čiže sledujeme komu patria výrobné fak
     - Každá hospodárska operácia, ktorá sa počas roka vyskytne a účtuje
 
 ## Súvaha - položky, druhy súvah, účtová osnova, účtový rozvrh
+### Súvaha
+Súvaha (bilancia) je prehľadné usporiadanie majetku a zdrojov jeho krytia (aktív a pasív)  
+Je v peňažnom vyjadrení  
+Je k určitému dátumu  
+
+Súvahová deň - deň, ku ktorému sa súvaha zostavuje  
+Súvahová položka - určitý druh majetku alebo zdrojov krytia, ktorý je uvedený s konkrétnym názvom a peňažnou sumou v súvahe (Softvér 12 000,-)  
+Súvahový stav - peňažné vyjadrenie súvahovej položky (12 000,-)  
+
+![Vzor súvahy](images/eko-obr7.png)
+
+### Položky
+- Aktíva
+    - Neobežný majetok
+        - Dlhodobý nehmotný majetok
+        - Dlhodobý hmotný majetok
+        - Dlhodobý finančný majetok
+    - Obežný majetok
+        - Zásoby
+        - Dlhodobé pohľadávky
+        - Krátkodobé pohľadávky
+        - Krátkodobý finančný majetok
+- Pasíva
+    - Vlastné imanie
+        - Základné imanie
+        - Kapitálové fondy
+        - Fondy zo zisku
+        - Výsledok hospodárenia z minulého roku
+        - VH b. ú. o. *(?)*
+    - Záväzky (cudzie zdroje)
+        - Rezervy
+        - Záväzky
+        - Úvery
+
+### Druhy
+- Z časového hľadiska
+    - Riadna - k poslednému dňu účtovného obdobia
+    - Mimoriadna 
+        - Otváracia
+        - Ku dňu zániku
+    - Priebežná - povinná napr. u bánk
+- Podľa počtu účtovných jednotiek
+    - Individuálna - za jeden podnik
+    - Konsolidovaná - za skupinu účtovných jednotiek
+- Z hľadiska právnych noriem
+    - Zostavená podľa zákona o účtovníctve
+    - Podľa medzinárodných štandardov finančného vykazovania (IFRS)
+    - Podľa amerických účtovných zásad (US GAAP)
+
+### Účtová osnova
+Rámcová účtová osnova - súhrn syntetických účtov usporiadaných podľa ekonomického hľadiska do účtových tried  
+Sleduje sa na nich stav a pohyb majetku a zdrojov krytia ako aj účtov nákladov a výnosov  
+Má 10 účtovných tried (0 - 9)  
+Každá trieda má 10 účtovných skupín  
+Každá skupina môže mať 10 syntetických účtov  
+
+[Vzor účtovej osnovy](uctovaosnova.pdf)
+
+### Účtový rozvrh
+Účtová jednotka v ňom uvádza len tie syntetické účty z osnovy, ktoré potrebuje na účtovanie vlastný účtovných prípadov  
+Zostavujú si ho na každý rok  
+Môžu ho kedykoľvek dopĺňať
 
 ## Zásady účtovania na súvahových a výsledkových účtoch
+Aktíva sa uvádzajú na ľavej strane  
+Pasíva sa uvádzajú na pravej strane  
+
+Ľavá strana sa vždy musí rovnať pravej strane
+
+Môžu nastať 4 situácie zmeny súvahy:
+- +A +P - pribúdajú aktíva, pribúdajú pasíva
+- -A -P - ubúdajú aktíva, ubúdajú pasíva
+- +A -A - pribúdajú aktíva, ubúdajú aktíva
+- +P -P - pribúdajú pasíva, ubúdajú pasíva
+
 
 &nbsp;
 # Nenašiel som!
