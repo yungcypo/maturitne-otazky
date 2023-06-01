@@ -617,8 +617,7 @@ $L = 1960mm$
 - Stanové
 - Manzardové
 - Pílové
-- Vežové
-
+- Vežové 
 
 ## Časti
 ### Latky (latovanie, väzničky)
