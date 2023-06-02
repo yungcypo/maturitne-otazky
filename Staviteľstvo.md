@@ -2001,7 +2001,106 @@ Podmienkou je, že pôdorysný tvar miestností, poloha okien, dverí a vykurova
 
 &nbsp;
 # 19 - Zemné práce
-<!-- Ornica 200 mm -->
+## Prípravné zemné práce
+- Búranie objektov (nové sídlisko - búranie starých domčekov)
+- Odstránenie mačiny (hrče trávy)
+- Odstránenie kríkov a stromov (treba povolenie od úradov životného prostredia)
+- Odobratie ornice (200 mm úrodnej pôdy)
+## Hlavné zemné práce
+### Výkopové
+- 90% mechanizmy
+- Ručne len "dočisťovanie" steny výkopov
+- Výkopy pre zhotovenie
+    - Základov
+    - Podzemných podlaží
+    - Tvarovanie
+- Rozpájanie hornín
+    - Bagrami (rýpateľné)
+    - Odstrelom (skalnaté)
+### Rozvoz zeminy
+- Malé množstvo na stavenisku - terénne úpravy
+- Väčšie množstvo na legálnu skládku
+    - Trvalé skládky (Koš)
+    - Dočasné (Brose)
+### Zhutňovanie zeminy
+- Po vrstvách 150 až 200 mm
+- Voľba mechanizmu podľa
+    - Druhu zeminy
+    - Miery zhutnenia
+        - "Žaba"
+        - Valce
+
+## Druhy zemín
+### Súdržné
+- Ílovité
+- Zadržujú vodu a naboptnávajú
+- Výkop v nich sa nerozsypáva
+- Na zakladanie sú menej vhodné
+### Nesúdržné
+- Štrkovité
+- Nezadržujú vodu
+- Výkopy v nich treba pažiť výdrevami
+- Na zakladanie sú vhodné
+
+## Zabezpečovanie stability stien výkopov
+### Svahovaním
+- Sklon svahu závisí od druhu zeminy
+- Sklon svahu určuje projektant podľa geologického prieskumu
+- Spevnenie svahu pre trvalé použitie sa robí zatrávnením a vydláždením (kameňmi)
+- Nevýhodou je veľký objem zemných prác
+- Výhodou je voľný priestor vo výkope (bez výdrevy) a úsporu reziva
+### Výdrevami
+- Zabezpečenie výkopu proti zosypu zeminy
+- Nevýhody
+    - Obmedzenie priestoru na prácu
+    - Finančne nákladné
+    - Predĺženie výstavby
+- Druhy
+    - S príložným vodorovným pažením
+        - Vodorovné dosky
+        - Zvislé stĺpiky
+        - Priečne rozpery
+    - So spusteným pažením
+        - Do vykopanej rysy sa loží rám výšky 1.5 m
+    - S pažením do zápor
+        - Do zeme sa zatlačia profily tvaru **I**
+        - Medzi ne sa dajú dosky
+    - S hnaným pažením
+        - Pažnice sa do sypkej zeminy zatlčú pred vyhotovením výkopu
+    - Podzemnými stenami
+        - Štetovnicové steny
+            - Pri rozsiahlych zemných stenách
+            - Pozdĺž obvodu budúcej jamy
+            - Pri väčších hĺbkach sa rozopierajú alebo kotvia do zeminy
+            - Vhodné v prípade stavieb pod úrovňou spodnej vody
+            - Oceľ alebo oceľobetón
+            - Zatlčené tesne vedľa seba
+            - Hĺbka až 20 m
+            - Používajú sa najmä vo vodnom staviteľstve
+        - Pilótové steny
+            - Vyhotovenie veľa pilot vedľa seba, potom sa medzi nimi vykope zemina (podjazd pri škole)
+            - Dotýkajúce sa pilóty
+            - Prekrývajúce sa pilóty
+            -
+        - Milánske steny
+            - Tvorené priebežnou ryhou
+            - Hrúbka 400 až 1800 mm
+            - Hĺbka do 40 m
+            - Dĺžka - koľko potrebujeme
+            - Vykopávaná ryha sa paží betonitom
+            - Môžu tvoriť steny budúcej stavby
+
+### Odvodnenie stavebnej jamy
+- Od povrchovej vody
+    - Dážď, sneh
+    - Vykopaním obvodových rýh na dne jamy
+    - Záchytnými priekopmi po obvode svahov
+    - Nasypanou hrádzkou okolo jamy na povrchu
+    - Priekopy a ryhy sú spádované do jedného miesta z ktorého sa voda môže odčerpať
+- Od podzemnej vody
+    - Hĺbkové odvodnenie znižovaním hladiny podzemnej vody odsávaním
+    - Povrchové odvodnenie vyhotovením rýh a odčerpávaním
+
 
 &nbsp;
 # 20 - Izolácie
