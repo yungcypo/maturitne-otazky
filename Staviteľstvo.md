@@ -1771,6 +1771,39 @@ stavu
 
 &nbsp;
 # 17 - Okenné otvory
+## Názvoslovie
+### Poprsnica
+- Nenosné výplňové murivo pod oknom
+- Výška 750 až 1100 mm
+- Môže byť tenšie ako iné steny
+
+### Ostenie
+- Bočná zvislá časť otvoru
+- Môže byť
+    - Rovné
+    - Zalomené
+
+### Nadpražie
+- Nosná konštrukcia, prenáša zaťaženie sponad otvoru do ostenia
+- Tvar
+    - Rovné
+    - Klenba
+- Vyhotovenie
+    - Na šírku steny
+    - Je dlhšie ako šírka okna (uloženie prekladu)
+- Materiál
+    - Oceľobetón
+    - Oceľové profily
+    - Drevo
+    - Pórobetón + oceľ
+- Technológia
+    - Murované
+    - Montované
+    - Monolitické
+- Výplň - okenná konštrukcia
+    - Rám
+    - Krídlo
+
 
 &nbsp;
 # 18 - Vystužovanie oceľobetónovej konštrukcie
