@@ -1566,25 +1566,202 @@ Nevýhody
 Zo statického hľadiska je komín samonosný (musí byť dostatočne pevný)  
 Nesmie sa oň opierať žiadna iná konštrukcia
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 &nbsp;
 # 14 - Poruchy stavebných konštrukcií, statika tuhej dosky
+## Názvoslovie
+### Údržba 
+- činnosť nevyhnutná k udržiavaniu dobrého stavu objektu a jeho funkčnosti
+
+### Oprava 
+- Činnosť, kt sa uvádzajú porušené alebo poškodené, časti objekty do pôvodného stavu
+
+### Adaptácia
+- Stavebná úprava, kt. sa mení účel (využitie) objektu
+
+### Rekonštrukcia
+- Stavebná činnosť, pri ktorej sa funkcia objektu nemení
+- Prístavba 
+    - Plošné rozšírenie objektu spojené s pôvodným objektom
+- Nadstavba 
+    - Výškové zväčšenie objektu (zmena statických podmienok!)
+- Prestavba
+    - Zmena dispozičného riešenia vo vnútri objektu
+
+### Modernizácia
+- Úpravy objektu, ktorou starý objekt meníme stavebnými úpravami na objekt v súlade s modernými požiadavkami svojím vybavením, vzhľadom a funkciou
+
+### Asanácia 
+- Stavebný zásah, ktorým sa v objekte odstraňujú technické, architektonické, bezpečnostné chyby
+### Demolácia 
+- Zbúranie objektu
+
+## Poruchy stavieb
+- Je to každá zmena konštrukcie, alebo celého objektu oproti pôvodnému
+stavu
+- Zhoršuje sa ňou vzhľad, životnosť, bezpečnosť, úžitková hodnota objektu  
+
+### Rozdelenie podľa závažnosti
+1. Bežné opotrebovanie
+2. Závady
+3. Nevýznamné poruchy
+4. Významné poruchy
+5. Havarijný stav  
+
+### Ako sa prejavujú poruchy
+- Dotvarovaním muriva
+- Drvením konštrukcie
+- Trhlinami v konštrukcií
+- Deformáciami stropných a kovových konštrukcií
+- Vlhkosťou konštrukcií
+- Koróziou
+- Výkvetmi na murive a omietke
+- Napadnutím biologickými škodcami
+
+### Príčiny porúch
+- Prirodzené starnutie materiálu (vyblednutie farieb)
+- Konštrukčné chyby 
+    - Prenikanie vlhkosti
+    - Nevhodné zásahy do konštrukcie
+    - Mimoriadne účinky
+- Nevhodné používanie objektu
+    - Najčastejšie zväčšením užitkového zaťaženia
+
+### Diagnostikovanie porúch
+- Poruchy sa na stavebnom objekte prejavujú postupne, majú dlhodobý charakter
+- Prejavy porúch sú zdanlivo nenápadné (zmena farby, omietky, výkvety, vlasové trhliny, olupujúce sa nátery), ale ak takýto stav zostane bez povšimnutia, poruchy sa môžu radikálne rozvinúť
+- Každé oneskorené odhalenie porúch sa prejaví vo zvýšených nákladoch na opravu
+
+### Určenie diagnostiky
+- Základom predbežného prieskumu sú zmyslové metódy, ktorými môžeme zistiť trhliny, prevlhnutie, výkvety, kvalitu povrchov a povrchové odozvy
+- Na presnejšie zistenie fyzikálnych a mechanických vlastností materiálov a konštrukcií sa používajú diagnostické metódy a prístroje
+
+## Meranie vlhkosti
+- Deštrukčný spôsob
+    - Odobratie vzoriek muriva
+    - Vyhodnotenie vzoriek hmotnostnou metódou
+    - Najpresnejšia
+- Karbidová metóda
+    - Odobratie vzoriek muriva
+    - Sú vyhodnotené priamo na stavbe
+- Nedeštruktívnym meraním vlhkosti - elektrickými vlhkomermi
+
+## Trhliny
+- Najčastejší a vážny prejav porúch stavieb
+- Ich (ne)bezpečnosť môže posúdiť len znalec na základe skúseností
+
+### Rozdelenie podľa závažnosti
+1. Staticky zanedbateľné
+    - Neohrozujú stavbu
+    - Pôsobia nepriaznivo esteticky a psychicky
+2 Staticky závažné
+    - Vhodnou úpravou je možné zabezpečiť bezpečnosť stavby
+3. Havarijné trhliny
+    - Staticky veľmi nebezpečné
+    - Pri ich výskyte je možné bezpečnosť stavby dosiahnuť len celkovou rekonštrukciou alebo výmenou
+
+## Dodatočné izolácie
+### Dôsledok
+- Zafarbenie muriva
+- Plieseň na murive
+- Opadávanie omietky z muriva
+
+### Príčina
+- Vzlínanie zemnej vlhkosti
+- Zatekanie dažďovej vody do konštrukcie
+- Porušenie potrubia (vodovod, kanalizácia)
+- Zrážanie vodných pár z prevádzky budov
+
+### Odstránenie zemnej vlhkosti v murive
+- Odkop zeminy od muriva
+- Vyhotovenie trativodu okolo budovy
+- Podrezanie muriva a vloženie izolácie do vytvorenej medzery
+- Injektáž muriva navŕtaním dier pri spodku muriva, vtlačenie vodotesnej emulzie do otvorov
+- Vyhotovením sanačných omietok na murive
+- Obklad muriva vodotesným materiálom
+- Vyhotovenie vzduchovej medzere okolo konštrukcie dodatočnou priečkou s vetraním
+- Elektroosmoticky zavedením jednosmerného elektrického prúdenia v konštrukcií medzi elektródami 
+
+## Tehlové murivo
+### Príčiny
+- Vlhkosť
+- Mráz
+- Preťaženie
+- Šikmé zaťaženie
+
+### Odstránenie
+- Primurovanie nosných pilierov
+- Výmena pilierov
+- Zamurovane otvorov
+- Opravy trhlín
+- Vyrovnávanie vychýlených múrov
+- Vkladanie múrových klieští
+- Opravy komínov
+
+### Spevňovanie múrov
+- Zosilňovanie múrov
+    - Vyhotovuje sa pri preťažení múrov dodatočným zaťažením
+    - K jestvujúcemu múru sa primuruje ďalší (hrúbka podľa potreby)
+    - Primurovaný múr pomáha prenášať zaťaženie starému múru
+    - Ak je to múr do výšky jedného podlažia, tak sa oba múry spoja na kapsy a drážky
+    - Ak je to múr nad výšku jedného podlažia, tak sa nesmie pripojiť nový k starému, lebo nový bude sadať a starý by strhol so sebou, preto sa medzi ne vloží lepenka
+- Stiahnutie objektu
+    - Vyhotovuje sa pri rozchádzaní múrov
+    - Múry objektu sa po obvode stiahnu klieštinami vo výške podlažia (ako obruč suda) 
+    - Stiahnutie sa môže previesť aj ťahadlami, ktoré sa vyhotovia cez protiľahlé múry
+- Injektovanie múrov
+    - Vyhotovuje sa vtláčaním zmesi do muriva
+    - Po stuhnutí murivo spevní
+- Výmena múrov, pilierov
+    - Robí sa v prípade, ak je murivo zvetralé a už dostatočne neúnosné
+
+## Poruchy stropov
+### Príčiny
+- Zatekajúca voda
+- Prenikanie vodných pár do nich
+- Biologický škodcovia
+- Zlá izolácia konštrukcie
+- Vzlínanie vlhkosti v murive
+- Chybný návrh
+- Zlá technológia vyhotovenia
+- Použitie zlých materiálov
+- Preťaženie
+- Pôsobenie vysokých teplôt
+
+### Drevené stropy
+- Dôsledok
+    - Prehnitý trám
+    - Rozožratie drevokaznou hubou - rozmrvenie materiálu
+    - Navlhnutie stropu stykom s vlhkou konštrukciou
+- Odstránenie
+    - Strop rozožratý hmyzom 
+        - Náter, ak nie je znehodnotená veľká časť
+        - Vyničenie hmyzu plynom
+    - Hnilý materiál
+        - Odrezať hnilú časť (až po zdravú)
+        - Nahradiť novým 
+    - Ak je prehnitý trám pri murive
+        - Z muriva sa vyloží konzola
+        - Na ňu sa uloží trám
+
+### Keramické stropy
+- Dôsledok
+    - Zväčšený priehyb
+    - Praskanie omietky
+    - Zafarbenie omietky
+- Odstránenie
+    - Podopretie
+    - Zosilnenie
+
+### Oceľobetónové stropy
+- Dôsledok
+    - Trhliny na omietke
+    - Obnaženie výstuže
+    - Rozdrvený betón
+- Odstránenie 
+    - Doplnenie chýbajúceho betónu
+    - Doplnenie betónovej vrstvy
+    - Vyhotovenie doplňujúceho oceľobetónového trámu
+
 
 &nbsp;
 # 15 - Navrhovanie a realizácia oceľobetónovej konštrukcie
