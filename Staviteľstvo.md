@@ -2300,6 +2300,189 @@ Podmienkou je, že pôdorysný tvar miestností, poloha okien, dverí a vykurova
 
 &nbsp;
 # 21 - Poľnohospodárske stavby
+## Účel
+- Zabezpečovanie dostatočného množstva potravín pre obyvateľstvo
+
+## Rozdelenie
+### Podľa účelu
+- Živočíšna výroba - mäso, mlieko, vajcia
+- Rastlinná výroba - obilie, ovocie, zelenina
+- Sklady - potraviny, seno, siláž 
+- Mechanizačné dielne a garáže - kombajny
+- Veterinárne stanice - zverolekár
+### Podľa charakteru
+- Jednoúčelové
+- Viacúčelové
+- Agrokomplexy
+- Poľnohospodársko-priemyselné komplexy
+
+## Požiadavky
+- Rozpätie
+- Rozostup
+- Technológia vyhotovenia
+- Odolnosť voči škodlivým vplyvom prostredia, ohňu
+- Ochrana proti poškodeniu mechanizmami
+- Ľahký spôsob údržby
+- Ekonomickosť výstavby
+- Využiteľnosť na viaceré účely
+- Možnosť architektonického stvárnenia
+
+## Voľba materiálu
+### Oceľobetón
+- Odolnosť voči agresívnemu prostrediu
+- Veľká hmotnosť
+- Menšia variabilita prvkov
+
+### Oceľ
+- Menšia hmotnosť ako oceľobetónové
+- Ľahká montáž a demontáž
+- Variabilita v zostavách
+- Nutná častá údržba (korózia)
+- Nie sú vhodné v agresívnom maštaľnom prostredí
+
+### Drevené lepené plnostenné konštrukcie
+- Odolné voči agresívnemu prostrediu
+- Dostatočná odolnosť voči ohňu
+- Ľahká demontáž
+- Veľká variabilita tovaru
+- Ak je v nich použitý kov, musia byť od maštaľného priestoru parotesne oddelené
+
+### Kombinované konštrukcie
+- Využívajú výhody jednotlivých materiálov vo vhodnej kombinácií
+
+## Stavby pre hovädzí dobytok
+### Rozdelenie
+- Chov dojníc
+- Odchov teliat výkrm býkov
+- Odchov jalovíc
+- Výkrm býkov
+### Názvoslovie
+- Stojisko - pobyt zvieraťa pri viazanom ustajnení
+- Leháreň - odpočinok zvierat
+- Krmovisko - kŕmenie
+- Dojáreň
+- Výbeh - vonkajšia plocha
+- Box - pre jedno zviera
+- Koterec - pre viacero zvierat
+- Kalisko - zachytenie a odpratanie výkalov
+
+Stavby sú rôznej veľkosti a rozsahu s počtom zvierat až niekoľko stoviek kusov
+
+## Stavby pre ošípané
+### Rozdelenie
+- Reprodukčná časť
+    - Ustajnenie základného stáda prasníc a kancov
+    - Účel - odchov nových kusov (5 až 7 kusov v koterci)
+    - Rodiace a kojace prasnice musia byť samostatne
+    - Malé prasiatka sú takto ustajnené do 3 mesiacov alebo 30 kg hmotnosti
+    - Väčšie sú už po 12 až 15 kusov
+    - Priestory sú viac tepelne izolačné ako u veľkých prasiat
+- Produkčná časť
+    - Ustajnenie prasiat určených na porážku
+    - Čas ustajnenia cca 20 týždňov
+    - V jednom pavilóne ich môže byť až 700 kusov
+    - Rozdelené na koterce po 12 až 15 kusov
+- Vybavenie
+    - Výhradne bezpodstielkové
+    - Odkalisko je roštové s odstraňovaním kalu mechanicky alebo hydromechanicky
+    - Na odchovňu prasiatok nadväzuje
+        - Príjmová sekcia
+        - Expedičná sekcia
+        - Váhovňa
+        - Dezinfekčná miestnosť
+        - Veterinárna miestnosť
+### Názvoslovie
+- Individuálny box - pre jedno zviera
+- Skupinový koterec - 10 až 15 zvierat
+- Boxový koterec - 4 až 7 zvierat s individuálnym prístupom ku korytu
+- Dvojpodlažná batéria kotercov 
+    - Na odchov
+    - Vo výkrme
+
+## Stavby pre hydinu
+### Druhy hydiny
+- Hrabavá
+    - Sliepky
+    - Morky
+- Vodná
+    - Kačice
+    - Husy
+### Rozdelenie podľa zamerania chovu
+- Liahňové
+- Rozmnožovacie
+- Šľachtiteľské
+- Odchov kuriatok
+- Priemyselná výroba vajec
+- Výkrm
+### Pre nosnice
+- Haly s kapacitou až 30 000 
+    - Bezokenné, nevykurované, s mikroklímou, so svetelným režimom na "oklamanie" nosníc
+- Klietkové batérie
+    - V klietke 4 nosnice, max. $\cfrac{25 ks}{m^2}$
+    - 10 000 sliepok na jedného ošetrovateľa
+    - Zariadenie na kŕmenie, napájanie, odstránenie trusu
+    - Zber vajec
+    - Znáškové hniezda
+### Na výkrm brojlerov
+- Na podstielke hrúbky 10 cm
+- Kurčatá $\cfrac{18 ks}{m^2}$
+- 2 týždne pod elektrickými kvočkami po 500 kusov
+
+## Sklady
+### Na siláž
+- Trvalé objekty
+- Slúžia na konzervovanie siláže (z kukurice) a senáže (zo sena)
+- Majú byť hermeticky uzavreté
+- Vnútorný povrch odolný proti kyselinám
+- Musia byť nepriepustné
+### Na suché krmivo
+- Na dosušenie a uskladnenie sena a slamy
+- Môžu byť bez alebo s obvodovými stenami
+- Halové majú ventilátory na dosúšanie
+### Na hnoj a hnojovnicu
+- Oceľobetónové nádrže
+    - Polozapustené
+    - Zapustené
+    - Nadzemné (aj oceľové) 
+- Musia byť nepriepustné a odolné voči kyselinám
+
+## Stavby na pozbernú úrodu
+- Úpravne
+    - Čistenie
+    - Triedenie
+    - Konzervácia
+    - Dosúšanie
+- Uskladnenie
+    - Sýpky
+    - Haly
+    - Silá
+        - Výška až 80 m
+        - Oceľobetónové
+        - V hornej a dolnej časti prepojené
+### Skladovanie zemiakov
+- Triediarne
+    - Halové objekty
+    - Príjmové rampy
+    - Triediace zariadenia
+    - Odpadové zásobníky
+- Sklady
+    - Typy
+        - Podzemné
+        - Polozapustené
+        - Nadzemné
+    - Požiadavky
+        - Ochrana zemiakov pred svetlom, mrazom, mechanickým poškodením, poveternostnými podmienkami
+    - Druhy
+        - Boxové
+        - Halové
+### Sušenie produktov
+- Pomocou vonkajšieho neupraveného vzduchu - krmivo, stelivo
+- Pomocou upraveného sušiaceho prostredia - obilie, chmeľ
+- Časti
+    - Ohrievač
+    - Chladiče
+    - Sušiace zariadenie
+- Zvýšené riziko požiaru
 
 &nbsp;
 # 22 - Hydroizolácie
