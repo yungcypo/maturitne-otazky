@@ -2842,34 +2842,164 @@ Stavby sú rôznej veľkosti a rozsahu s počtom zvierat až niekoľko stoviek k
 ### Zachytávače snehu
 ### Ventilačné nadstavce
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 &nbsp;
 # 25 - Technické zariadenie budov
+## Verejné (inžinierske) siete 
+- Pridávajú médium od zdroja do obcí
+- Je to sústava potrubí prispôsobená svojmu účelu
+### Druhy
+- Vodovod
+- Kanalizácia
+- Plynovod
+- Teplovod
+
+## Vodovod
+- Privádza pitnú, užitkovú a požiarnu vodu
+- Zdrojom môže byť povrchová vodná nádrž alebo podzemný pramenitý zdroj
+- Upravená voda sa zhromažďuje vo vodojemoch, ktoré môžu byť nadzemné alebo podzemné
+- Spôsob privádzania vody do strediska môže byť samospádový alebo výtlačný
+
+## Vnútorný vodovod
+- Bezpečne, plynule a v potrebnom množstve dodávať vodu k jednotlivým výtokom a iným spotrebičom v objekte  
+- Musia sa dodržať prevádzkové, bezpečnostné a hygienické zásady
+- Môže byť napojený na verejný vodovod alebo domácu studňu
+- Pre priemyselné objekty sa zriaďuje delený vodovod zvlášť pre pitnú, úžitkovú a prevádzkovú vodu
+- Musí sa riadne a trvalo udržiavať
+- Pri rozpočte sa uvažuje 1 m pred obvodovou stenou objektu
+### Časti
+- Ležaté rozvodné potrubie
+- Zvislé stúpacie potrubie
+- Prípojky k zariaďovacím predmetom
+
+## Vodovodná prípojka
+- Privádza vodu z verejného vodovodu k domovému
+- Tvorí ju potrubie od vonkajšieho radu až tesne za vodomer pred hlavný domový uzáver vody
+### Rozdelenie
+- Verejná časť
+    - Vedie od vodovodného radu až k regulačnej čiare
+- Domová časť
+    - Tvorí pokračovanie verejnej až pred hlavný domový uzáver  
+&nbsp;  
+- Smer potrubia má byť od budovy smerom k verejnému radu min. 3‰
+- Krycia hĺbka má byť min. 1500 mm
+- Zriaďovať ich môže len správa vodárne
+- V mieste napojenia musí byť na prípojke uzáver
+- Poloha uzávera sa označuje orientačnou tabuľkou
+- Ďalší hlavný uzáver je osadený za vodomerom na vnútornom vodovodnom potrubí
+
+## Vodomery
+- Montujú sa na meranie spotreby vody
+- Umiestnené sú do vodovodného potrubia
+- Rozdelenie
+    - Hlavné - jeden pre celý bytový dom
+    - Vedľajšie - každý byt zvlášť  
+- Musia byť úradne odskúšané ("ocajchované") každého 3.5 roka
+- Osadenie hlavného vodomeru určuje správa vodárne, je aj jeho majiteľom
+- Rozdelenie
+    - Rýchlostný lopatkový
+    - Skrutkový
+- Môžu byť umiestnené
+    - Mimo tlakového priestoru - suchobežné
+    - V tlakovom priestore - mokrobežné
+- Nesmie mať malý menovitý prietok aby sa nepreťažoval
+- Nesmie mať príliš veľký menovitý prietok, lebo by nezaznamenal malé pretekajúce množstvo vody
+
+## Kanalizácia
+- Jednotná - splašky aj dažďová voda v jednom potrubí
+- Delená
+
+## Vnútorná kanalizácia
+### Časti
+- Kanalizačná prípojka (pripojovacie potrubie)
+    - Ide od zariaďovacieho predmetu po odpad
+    - Má sklon k odpadu
+    - Môže byť dlhé max. 3 m
+    - Vyhotovuje sa z plastu
+    - Môže byť ako
+        - Pevná rúra (od umývadla)
+        - Tvarovateľná rúra ("harmonika" od WC)
+- Ventilačné potrubie
+- Zvislé potrubie (odpad)
+- Vodorovné potrubie (zvod)
+### Materiál
+- Liatina
+- Plast
+- Kamenina
+- Sklo
+### Spájanie a montáž potrubí
+- Tesnenie musí byť dokonalé
+- Spoje musia byť pevné, nepriepustné, primerane pružné a odolné voči chemikáliám
+- Montáž sa začína po ukončení hrubej stavby
+- Šikmé pripojovacie potrubie sa inštaluje až po vymurovaní priečok
+- Zariaďovacie predmety sa kompletizujú až po omietkach a podlahách
+### Stavebné úpravy
+- V základoch treba vynechať priestup ak kanalizácia pôjde cez ne
+- Kanalizácia musí byť vyhotovená v predpísanom spáde
+- Spoj potrubí nesmie byť v inej konštrukcií
+- Okolo spojov sa vyhotoví pieskové lôžko
+### Príslušenstvo kanalizácie
+- Podlahové vpusty
+    - Na odvodnenie prevádzkových plôch (veľkokapacitné kuchyne)
+- Odlučovače tukov
+    - Na odvod mastných splaškov z kuchýň
+- Odlučovače benzínov a olejov
+    - V priemyselných prevádzkach, autoservisoch
+
+## Plynovod
+- Potrubím je dopravovaný až z Ruska
+- Potrubie má postupne menší priemer a je v ňom menší tlak
+- Pre odbernými miestami prechádza cez regulačné stanice
+
+## Žumpy
+- Zriaďujú sa pre malé objekty, ktoré nie sú napojené na verejnú kanalizáciu
+- Nemajú odtok, po naplnení sa musia vyberať
+- Musí byť vodotesná
+- Je pod úrovňou terénu
+- Musí byť vetraná
+
+## Septik
+- Zriaďuje sa pri malých a stredných objektoch
+- Splašky v nej nezostávajú, ale po prečistení odtekajú do verejnej kanalizácie
+- Čistenie od hrubých nečistôt je zabezpečované mikroorganizmami, ktoré rozkladajú kal
+
+## Čističky odpadových vôd
+- Zriaďujú sa pre väčšie aglomerácie (mestá, obce)
+- Splašky sú do nich privádzané verejnou kanalizáciou
+- Čistenie je prevádzané vo viacerých fázach
+- Po odstránení hrubých nečistôt sa voda čistí biologicky a chemicky
+- Pri čistení vzniká plyn, ktorý sa využíva na vykurovanie
+- Prečistené splašky sa vypúšťajú do riek
+- v Prievidzi je pri rieke Nitra smerom na Nováky
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 [↑ Späť na začiatok ↑](#staviteľstvo---maturitné-otázky)
