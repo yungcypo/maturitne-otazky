@@ -27,4 +27,4 @@ Ak je niečo zle, máš námietky, chcel by si niečo doplniť, niečo sa opýta
 &nbsp;  
 > **Disclaimer**  
 Otázky som vypracoval ja, ako už bolo povedané, t.j. je prudko možné že nemusia byť správne vypracované, môžu byť neúplné a podobne :) Čiže netreba sa úplne 100% spoliehať  
-Používaním dávate najavo súhlas so [zmluvnými podmienkami]()
+Používaním dávate najavo súhlas so [zmluvnými podmienkami](zmluvnepodmienky.md)
