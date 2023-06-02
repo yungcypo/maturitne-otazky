@@ -2104,12 +2104,247 @@ Podmienkou je, že pôdorysný tvar miestností, poloha okien, dverí a vykurova
 
 &nbsp;
 # 20 - Izolácie
+## Účel
+- Ochrana stavebnej konštrukcie pred vplyvom prostredia, napr.:
+    - Počasie
+    - Technologické procesy (výťah)
+- Zabezpečenie dlhšej životnosti konštrukcie
+- Vyhotovenie vhodného hygienického prostredia
+
+## Druhy
+- Proti vode
+    - Para
+    - Voda
+    - Sneh
+    - Ľad
+- Tepelné
+    - Teplo
+    - Chlad
+- Zvukové
+- Proti otrasom
+- Proti radónu
+
+## Hydroizolácie
+### Pôsobí voči 
+- Dážď
+    - Na strechu
+    - Vonkajšie zvislé konštrukcie
+- Para
+    - Prevádzky v objekte (kuchyňa, kúpeľňa)
+    - Vniká do stropov, strechy, stien
+- Voda
+    - Zo zeme vzlínaním
+    - Beztlaková - bežná spodná
+    - Tlaková - pri vodných tokoch a prameňoch
+    - Agresívna - minerálna
+- Sneh
+    - Vsakovanie do plochej strechy
+    - Tlak na strechu
+
+## Navrhuje sa podľa
+- Druhu konštrukcie
+- Geodetického prieskumu
+- Odporúčania výrobcu
+- Rozboru vody
+
+## Použitie
+### Vodorovná
+- Nepodpivničené stavby
+- Medzi základovú konštrukciu (spodnú stavbu) a vrchnú stavbu
+### Zvislá
+- Podpivničené stavby
+- Bazény
+- Žumpy
+
+### Vyhotovenie
+- Na pevný, suchý a rovný podklad (betón hrúbky 100 mm)
+- Penetračný náter za studena
+- Pás izolácie do horúceho asfaltu
+- Pri napájaní sa pásy presahujú 100 mm
+- Presahy nesmú byť nad sebou
+- Prechod medzi vodorovnou a zvislou konštrukciou je oblúk s polomerom 40 mm
+- Vodorovná izolácia presahuje na zvislú 100 mm
+- Zvislú izoláciu chrániť pred poškodením primurovkou
+- Primurovku od základu oddeliť lepenkou
+
+## Tepelné izolácie
+### Pôvod
+- Dodržanie tepelnotechnickej normy konštrukcií
+- Hygienické podmienky
+- Životnosť objektu
+- Zníženie energetickej náročnosti objektu (vykurovanie)
+### Príčina vyhotovenia
+- V konštrukcií prebiehajú deje - prechod
+    - Tepla
+    - Vlhkosti
+    - Vzduchu
+- Spôsobené príčiny
+    - Rozdiel teplôt
+    - Tlaky vodnej pary
+    - Obsah vlhkosti vo vzduchu
+### Umiestnenie
+- Na vnútornom povrchu
+    - Rýchle vykurovanie, ale aj vychladnutie miestnosti
+    - Vhodné najmä na chaty, pri nesúvislom vykurovaní
+- Na vonkajšom povrchu
+    - Dlhší čas na kúrenie miestnosti (steny akumulujú teplo)
+    - Pomalšie vychladzovanie
+    - Riziko navlhnutia múrov pri zlom návrhu izolácie
+    - Vhodné na súvislé vykurovanie aj na slabo, ale nevypínať pri neprítomnosti
+### Vyhotovenie
+- Návrh konštrukcie musí vyhovovať Európskej norme
+- Obvodové steny z pevných
+### Vyhotovenie dodatočnej izolácie
+- Pripevnenie na zvislú konštrukciu
+    - Prilepením (lepidlo, malta)
+    - Pribitím
+    - Priviazaním
+- Nasypanie, položenie na vodorovnú
+- Nastriekanie
+    - Ťažko prístupné miesta
+    - Okolo rámov okien a dverí
+### Materiál
+- Z anorganických látok
+    - Minerálne vlákna
+        - Vlna
+        - Vata
+        - Rohož
+    - Expandovaná perlit - sypká izolácia
+    - Penové sklo
+- Z organických látok
+    - Ľahčené plasty 
+        - Polystyrén (nie je vhodný z požiarneho hľadiska)
+        - Polyetylén
+        - Drevná vlna
+        - Piliny
+        - Korok
+- Z kombinovaných látok
+    - Drevocementové dosky - Heraklit
+    - Ľahké betóny
+
+### Tepelný odpor
+- Vyjadruje tepelnoizolačnú vlastnosť konštrukcie
+- Závislý od 
+    - Hrúbky konštrukcie
+    - Súčiniteľa tepelnej vodivosti $\lambda$ *(lambda)*
+- Jeho zvýšenie môžeme dosiahnuť 
+    - Zvýšením hrúbky konštrukcie 
+    - Voľbou materiálov tak, aby mali čo najnižšiu hodnotu súčiniteľa $\lambda$
+
+## Zvukové
+- Problémom sa zaoberá odbor akustika stavebných konštrukcií
+- Pohlcovanie zvuku
+    - Málo - tvrdé, hutné, ťažké konštrukcie s hladkým povrchom
+    - Veľa - vláknité, hubovité, ľahké konštrukcie s drsnejším povrchom
+
+## Izolácia vonkajšieho zvuku
+### Vzduchová nepriezvučnosť závisí od
+- Chybovej tuhosti konštrukcie
+- Plošnej hmotnosti
+### Možnosti vyhotovenia
+- Jednoduché
+    - Jednovrstvové plné
+    - Jednovrstvové s dutinami
+    - Viacvrstvové (omietka na murive)
+- Dvojité
+    - Medzi tuhými materiálmi je medzivrstva pórovitého materiálu
+    - Nevýhodou je komplikovanosť vyhotovenia
+    - Napr. sendvičové panely
+- Zložené
+    - Stena s oknami a dverami
+    - Výsledná nepriezvučnosť závisí od konštrukcie s najmenšou nepriezvučnosťou
+
+## Izolácia voči kročajovému zvuku
+### Zdroje
+- Chôdza
+- Domová inštalácia
+- Reproduktory
+- Strojové zariadenia
+### Riešenie
+- Vkladanie zvukoizolačných vložiek medzi zdroje hluku a konštrukciu (plávajúca podlaha)
+### Materiály
+- Malá objemová hmotnosť
+- Pružiny (struny pod stroje)
+
+## Izolácie proti otrasom
+### Vplyv otrasov
+- Pôsobiace sily
+    - Ťah
+    - Tlak
+    - Šmyk
+    - Pohyb
+- Vznikajú poškodené konštrukcie
+    - Trhliny
+    - Posun
+- Hluk v priestore
+### Príčiny
+- Vonkajšie
+    - Doprava
+    - Seizmatické účinky (zemetrasenie)
+    - Práca strojov
+- Vnútorné - prevádzky v budove
+    - Stroje
+    - Pohyb mechanizmu
+### Riešenie problémov
+- Doprava
+    - Vyhotoviť pružnú vozovku
+    - Medzi cestu a objekt zhotoviť podzemnú stenu
+- Seizmatické účinky
+    - Zakladať objekt na pohyblivé základy
+- Práca strojov
+    - Dilatačná škára medzi stroj a budovu
+- Stroje v budove
+    - Položiť na pružnú podložku alebo struny
+- Pohyb mechanizmu v budove
+    - Pružné podloženie (mäkký asfalt)
 
 &nbsp;
 # 21 - Poľnohospodárske stavby
 
 &nbsp;
 # 22 - Hydroizolácie
+## Hydroizolácie
+### Pôsobí voči 
+- Dážď
+    - Na strechu
+    - Vonkajšie zvislé konštrukcie
+- Para
+    - Prevádzky v objekte (kuchyňa, kúpeľňa)
+    - Vniká do stropov, strechy, stien
+- Voda
+    - Zo zeme vzlínaním
+    - Beztlaková - bežná spodná
+    - Tlaková - pri vodných tokoch a prameňoch
+    - Agresívna - minerálna
+- Sneh
+    - Vsakovanie do plochej strechy
+    - Tlak na strechu
+
+## Navrhuje sa podľa
+- Druhu konštrukcie
+- Geodetického prieskumu
+- Odporúčania výrobcu
+- Rozboru vody
+
+## Použitie
+### Vodorovná
+- Nepodpivničené stavby
+- Medzi základovú konštrukciu (spodnú stavbu) a vrchnú stavbu
+### Zvislá
+- Podpivničené stavby
+- Bazény
+- Žumpy
+
+### Vyhotovenie
+- Na pevný, suchý a rovný podklad (betón hrúbky 100 mm)
+- Penetračný náter za studena
+- Pás izolácie do horúceho asfaltu
+- Pri napájaní sa pásy presahujú 100 mm
+- Presahy nesmú byť nad sebou
+- Prechod medzi vodorovnou a zvislou konštrukciou je oblúk s polomerom 40 mm
+- Vodorovná izolácia presahuje na zvislú 100 mm
+- Zvislú izoláciu chrániť pred poškodením primurovkou
+- Primurovku od základu oddeliť lepenkou
 
 &nbsp;
 # 23 - Stavby občianskeho vybavenia
