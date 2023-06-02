@@ -1764,10 +1764,10 @@ stavu
 
 
 &nbsp;
-# 15 - Navrhovanie a realizácia oceľobetónovej konštrukcie
+# 15 - Adaptačné a rekonštrukčné práce
 
 &nbsp;
-# 16 - Navrhovanie a realizácia betónovej konštrukcie
+# 16 - Priemyselné stavby
 
 &nbsp;
 # 17 - Okenné otvory
