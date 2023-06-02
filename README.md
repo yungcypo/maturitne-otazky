@@ -9,6 +9,7 @@ Ak je niečo zle, máš námietky, chcel by si niečo doplniť, niečo sa opýta
 
 ## Obsah
 [Anglický jazyk](AnglickýJazyk.md)  
+[Architektúra](Architektúra.md) (otázka 17)  
 [Ekonomika](Ekonomika.md)  
 [Literatúra](Literatúra.md)  
 [Pozemkové právo, realitná prax](PozemkovéPrávoRealitnáPrax.md)  
