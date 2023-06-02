@@ -2531,6 +2531,131 @@ Stavby sú rôznej veľkosti a rozsahu s počtom zvierat až niekoľko stoviek k
 
 &nbsp;
 # 23 - Stavby občianskeho vybavenia
+## Účel
+- Základné občianske vybavenie slúži denný potrebám obyvateľstva
+
+## Rozdelenie
+- Školstvo
+    - Materské
+    - Základné
+- Zdravotné stredisko
+- Predajne potravín a priemyselného tovaru
+- Domy služieb - kaderníctvo, sušiareň
+- Opravovne - obuv, elektrospotrebiče
+- Vyššie občianske vybavenie
+    - Polikliniky
+    - Kiná
+    - Štadióny
+    - Hotely
+    - Obchodné domy
+    - Požiarne zbrojnice
+    - Peňažné ústavy
+
+## Materské školy
+- Výchova detí vo veku 3 až 6 rokov
+- "Uľahčuje" život zamestnaným rodičom
+- Trieda je organizačná jednotka s počtom min. 30 detí
+- Budova by mala byť v zdravom prostredí
+- Dochádzková vzdialenosť by mala byť cca 15 min
+- Budova by mala byť v zdravom prostredí
+- Ku škôlke patrí
+    - Ihrisko
+    - Záhrada
+    - Zariadenia na hranie a cvičenie
+- Vhodné je, ak má budova krytú terasu pre prípad dažďa
+- V súčastnosti je škôlka zriadená aj v budove základnej školy
+- Pri zariaďovaní škôlky platia osobitné predpisy
+    - Výška stupňov schodiska
+    - Výška zábradlia
+    - Umiestnenia WC
+    - Umývadlo
+
+## Základné školy
+- Veľkosť (počet učební) určuje počet obyvateľov obvodu (sídlisko, obec)
+- Budovali sa 8, 12, 16 a 20-triedne
+### Časti školy
+- Učebne - dôležitá je ich orientácia z hľadiska hluku a osvetlenia
+- Dielne - v prízemných priestoroch
+- Telovýchovná časť
+    - Telocvične
+    - Ihrisko
+    - Šatne
+    - Umývarky
+- Šatne - v prízemí, najvýhodnejšie ako prechodné
+- Stravovacia časť
+    - Jedáleň
+    - Kuchyňa
+    - Sklad potravín
+- Školská družina - oddelená od vyučovacích priestorov (hluk)
+- Administratívna časť - blízko vstupu do školy
+### Dispozičné riešenie
+- Samostatný objekt
+- Pavilónový systém
+- Združené pavilóny (spojené chodbami)
+- Orientácia
+    - Základné učebne na juh
+    - Ostatné na iné strany
+- Nie blízko cesty a hlučných priestorov
+- Prevádzky školy sa nemajú navzájom rušiť 
+
+## Zdravotnícke stavby
+- Prevádzka zariadení je veľmi zložitá
+- Zasahuje do mnohých špecifických odborov
+- Navrhovanie si vyžaduje spoluprácu odborníkov rozličných oblastí
+- V minulosti boli zariadenia sústredené do centrálnych objektov
+- V súčasnosti sa najmä polikliniky stavajú ako súkromné objekty zamerané len na jednu špecializáciu 
+### Stavebné riešenie
+- Vstup
+    - Prístup pre záchranky
+    - Bezbariérový vstup
+    - Široké schodisko
+    - Informátor
+- Chodby, dvere, výťahy - široké pre lôžkové vozíky
+- Omietky
+    - Na izbách sadrové (neusádza sa prach)
+    - V röntgenovej miestnosti barytové (neprepúšťajú Röntgenové žiarenie)
+- Hygienické zariadenia - bezbariérové
+- Okná - psychologické oddelenia s mrežami
+- Izby 
+    - VIP pre jedného pacienta
+    - Viaclôžkové
+- Oddelenia
+    - Infekčné v oddelených pavilónoch
+    - Rehabilitačné a transfúzne v oddelených pavilónoch
+- Elektrické generátory - výroba elektrickej energie v prípade poruchy
+- Plocha na pristávanie helikoptéry
+- Atómové kryty v podzemí v prípade vojny
+- Garáže pre sanitky
+- Kuchyne
+- Laboratóriá na vyšetrenie vzoriek
+- Spaľovne
+
+## Kultúrne zariadenia
+### Divadlá a kiná
+- Požiadavky
+    - Rýchle a bezpečné vyprázdnenie
+    - Dobrá viditeľnosť zo všetkých sedadiel (min. 75%)
+    - Dobrá počúvateľnosť
+    - Vhodné zariadenie (WC)
+- Konštrukčné riešenie
+    - Z akustického hľadiska - tvar hľadiska, materiály konštrukcie
+    - Z bezpečnostného hľadiska
+        - Široké únikové cesty
+        - Osvetlenie aj bez elektriny
+        - Požiarne zabezpečenie
+- Prevádzkové požiadavky
+    - Široké vstupy a schodiská
+    - Šatne
+    - Sociálne zariadenia
+    - Komunikačné priestory
+    - Šatne hercov
+    - Zákulisie
+- Dôležité je aj zabezpečenie
+    - Vetrania
+    - Klimatizácie
+    - Vykurovania
+    - Osvetlenia
+- Projekt na stavbu je náročná špecializovaná práca
 
 &nbsp;
 # 24 - Pokrývačské a klampiarske práce
