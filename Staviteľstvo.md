@@ -2659,6 +2659,214 @@ Stavby sú rôznej veľkosti a rozsahu s počtom zvierat až niekoľko stoviek k
 
 &nbsp;
 # 24 - Pokrývačské a klampiarske práce
+## Pokrývačske práce
+### Definícia
+- Práce zahŕňajúce kladenie strešných krytín na strechách
+### Požiadavky
+- Vodonepriepustnosť
+- Pevnosť
+- Trvanlivosť
+- Odolnosť voči ohňu
+- Ľahkosť
+- Hladkosť povrchu
+- Mrazuvzdornosť
+- Estetickosť
+- Ľahká údržba
+### Druhy krytín podľa materiálu
+- Organické - drevo, slama
+- Pálené škridle keramické
+- Cementové škridle (šedé)
+- Sklenené škridle
+- Azbestocementové škridle (zakázané)
+- Plast
+- Bitumén (čierne ploché strechy)
+- Kov
+### Podmienky pre návrh krytín
+- Nadmorská výška stavby
+- Miestne klimatické podmienky
+- Čistota ovzdušia
+- Miestne skúsenosti
+- Architektonické požiadavky
+- Konštrukčné podrobnosti zastrešenia
+- Sklon strechy
+### Druhy krytín
+- Z pálených škridiel
+    - Na šikmé a strmé strechy
+    - Trvanlivé
+    - Nízke užívacie náklady
+    - Sú ťažké
+    - Treba pod ne latovanie
+    - Veľká pracnosť
+    - Zavesujú sa ozubmi na latovanie
+    - Druhy
+        - Obyčajné
+        - Jednodrážkové
+        - Dvojdrážkové
+        - Korýtkové
+        - Hrebenáče
+    - Vhodné do 800 m. n. m.
+    - Kladú sa 
+        - Nasucho
+        - Čiastočne do malty
+        - Úplne do malty
+    - Detailný spôsob vyhotovenia je u každého druhu iný a výrobca k nemu poskytuje návod na vyhotovenie
+- Plastové
+    - Malá hmotnosť
+    - Nepriepustnosť svetla
+    - Krátka životnosť
+    - Nestálosť farieb
+    - Bývajú vystužené vláknami
+- Bituménové
+    - Čiernej farby
+    - V minulosti najpoužívanejšie ploché strechy
+    - Základný materiál je asfalt, môže byť zdokonalovaný fóliami rôznych vlastností a povrchovými úpravami (kamienkami)
+    - Ich trvácnosť závisí od kvality vyhotovenia
+    - V dnešnej dobe sa používajú ako kanadský šindel
+    - Kladú sa na
+        - Betónový podklad
+        - Drevené debnenie
+    - Dôležité je odvetranie strechy, nakoľko by mohli pary z objektu krytinu poškodiť
+    - Najnovšie sa klasické bitumény nahrádzajú rôznymi fóliami lepších vlastností 
+- Kovové
+    - Skladajú sa z jednotlivých plechových prvkov - obdĺžniky, štvorce, pásy
+    - Tvar môže byť
+        - Hladký
+        - Lišty
+        - Vlnitý
+        - Ohýbané profily
+        - Šablóny
+    - Výhody
+        - Rýchlo odvádzajú vodu
+        - Sú tesné voči vode a snehu
+    - Nevýhody
+        - Podmienka precízneho vyhotovenia spojov, cez ktoré môže voda zatekať (kostol Zápotôčky)
+    - Dôležité je zabezpečiť odvetrávanie z vnútra budovy
+    - Krytina sa kladie na jednu vrstvu nepieskovanej lepenky
+    - Pri dĺžke krytina z jedného kusu > 15 m v sklone strechy je treba dilatovať
+    - Vhodné sú do horských a drsných klimatických podmienok 
+    - Nutná je ich údržba (korodovanie, deformovanie)
+    - Z vojenského hľadiska by nemali byť lesklé
+    - Pri ich vyhotovení treba dbať, aby sme miesta zaklincovania zacínovali
+
+## Klampiarske práce
+### Účel 
+- Odvod vody zo strechy
+- Ochrana stykov konštrukcií
+- Zahŕňajú výrobu a osadzovanie plechových výrobkov na streche a priečelí budov
+### Práce na streche
+- Osadzovanie strešných žľabov, okien, poklopov, snehových zachytávačov
+- Oplechovanie odkvapov striech, strešných úžľabí, nadmuroviek, ríms
+- Lemovanie múrov, nadmuroviek, komínov, ventilačných prieduchov, rúr
+- Kladenie hladkých plechových krytín
+### Práce na priečelí budovy
+- Osadzovanie odpadových rúr
+- Oplechovanie ríms, odkvapov, balkónov, terás, podokeníc
+- Lemovanie dilatačných škár
+### Materiál
+- Plech (pozinkovaná oceľ, meď, hliník, čierna oceľ)
+- Pásová a tyčová oceľ
+- Drôty
+- Drobný spájací a pripevňovací materiál (klince, nity, skrutky, skoby)
+- Náterové laky
+- Látky na stesnenie
+### Výroba klampiarskych prvkov
+- Priemyselne vo výrobniach
+- Vo veľmi špecifických prípadoch priamo na stavbe
+- Pomocou klampiarskych strojov a zariadení
+### Spájanie
+- Drážkami
+    - Čiastočne slúžia aj ako dilatácia
+    - Narušujú rovinnosť plechu
+    - Nie sú celkom vodotesné 
+    - Môžu byť
+        - Jednoduché
+        - Dvojité
+- Nitmi
+    - Tenkými
+    - Ploché hlavy
+- Spájkovaním - vodotesné
+- Zváraním - väčšia pevnosť spojov
+- Preložením 
+    - Rúry
+    - Strešná krytina
+### Pripevňovanie k podkladu
+- Klincami
+- Skrutkami
+- Skobami
+- Drôtenými prípojkami
+- Plechovými prípojkami (kúsky plechu)
+
+## Klampiarske výrobky a konštrukcie
+### Spony
+- Pripevňujú sa nimi odpadové rúry k stene
+- Vzdialenosť max. 2 m
+### Žľabové háky
+- Pripevňovanie strešných žľabov k strešnej konštrukcií
+### Strešné žľaby
+- Zachytávajú a odvádzajú zrážkovú vody zo strechy
+- Podľa umiestnenia
+    - Pododkvapové
+    - Nadrímsové
+    - Nástrešné
+    - Medzistrešné
+    - Špeciálne
+- Zadná strana musí byť o 20 mm vyššie ako predná
+- Dĺžka žľabu max. 15 m od odkvapového potrubia
+- Spád žľabu je 5 až 10 mm na 1 m
+### Žľabové kotlíky
+- Prechod zo žľabu do odpadových rúr
+- Majú väčší rozmer ako žľaby
+### Odpadové potrubie
+- Na 1 m<sup>2</sup> plochy strechy prierezu
+- Rúry sa zasúvajú do seba 60 mm v smere toku vody
+### Oplechovanie
+- Sklon 5%
+- Presah od konštrukcie aspoň 50 mm
+- Podľa umiestnenia
+    - Odkvapy
+    - Úžľabia
+    - Atiky
+    - Rímsy
+    - Podokenníky
+### Obrúbovanie
+- Vodotesné napájanie krytiny na zvislé plochy
+- Podľa umiestnenia
+    - Múry
+    - Atiky
+    - Komíny
+    - Štítové múry
+    - Rúry
+### Hladké plechové krytiny
+- Tabule 1 x 2 m alebo 0.6 x 2 m
+### Strešné okná
+### Zachytávače snehu
+### Ventilačné nadstavce
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 &nbsp;
 # 25 - Technické zariadenie budov
