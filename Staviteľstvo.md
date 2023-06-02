@@ -1806,7 +1806,198 @@ stavu
 
 
 &nbsp;
-# 18 - Vystužovanie oceľobetónovej konštrukcie
+# 18 - Stavby na bývanie
+## Byt
+### Definícia
+- Byt je samostatne uzatvorený priestor funkčných jednotiek s príslušným vybavením, ktoré sú usporiadané v súlade s prevádzkovými súvislosťami
+### Funkčné jednotky
+- Každá 1 a viac funkcií
+- Sú nimi priestory a miestnosti v byte
+- Sú zoradené podľa vzájomných vzťahov
+- Musia mať potrebné vybavenie
+### Domové vybavenie
+- Kočikáreň
+- Priestor na bicykle
+- Práčovňa
+- Sušiareň
+### Technické vybavenie
+- Kanalizácia
+- Inžinierske siete
+    - Voda
+    - Plyn
+    - Elektrina
+    - Káblové rozvody (TV, internet)
+- Ústredné vykurovanie
+- Výťah (> 4 poschodia)
+### Kategórie
+- Podľa členov domácnosti (počet)
+- Podľa kvality vyhotovenia
+    - I a II - nerodinné byty (garsónky)
+    - III + - rodinné byty
+### Funkcie
+- Vstup do bytu
+- Obliekanie, prezúvanie
+- Príprava jedál
+- Umývanie riadu
+- Stolovanie
+- Osobná hygiena
+- Spánok
+- Kolektívne formy odpočinku
+- Odkladanie predmetov
+- Návštevy
+- Domáce práce
+- Pobyt detí,...  
+&nbsp;  
+- Dôležitým prvkom je priechod niektorých miestností
+
+### Variabilita bytu
+- Ak plochu bytu nemožno rôznymi úpravami zmeniť na idé riešenie
+- Úpravami
+    - Zbúranie priečky
+    - Vybudovanie priečky
+    - Vybúranie otvoru
+        - Okenného
+        - Dverného
+        - Na jedlá
+
+### Podmienky dispozície bytu
+- Možnosť rozostavať nábytok
+- Zabezpečenie osvetlenia
+- Možnosť otvárania okien a dverí
+
+### Vnútorné zariadenie bytu
+- Základný nábytok - zariadenie nevyhnutné pre funkciu bytu (posteľ)
+- Zabudovaný nábytok (kuchynská linka, vaňa, WC)
+- Doplnkový nábytok (podľa potreby používateľa)
+
+### Jednotlivé miestnosti bytu
+Podmienkou je, že pôdorysný tvar miestností, poloha okien, dverí a vykurovacích telies musí byť účelne rozostavená  
+- Vstupné miestnosti
+    - Prvým článkom bytu
+    - Prechádza sa nimi z vonkajšieho priestoru do vnútra
+- Závetrie (v rodinných domoch)
+    - Chráni vstup pred vonkajším počasím
+- Predsieň
+    - Má byť v každom byte
+    - Voľná šírka najmenej 1100 mm
+    - Vonkajšie dvere otvárať do nej
+    - Musí cez ňu prejsť predmet rozmerov 1800 x 600 x 1800 mm
+- Hala
+    - Komunikačná funkcia bytu (vstup do iných miestností)
+    - Podľa veľkosti spoločensky životnej
+    - Ak je priamo vetraný a osvetlená, ide o obytnú halu
+- Obytné miestnosti
+    - Svetlá výška min. 2600 mm (podkrovie 2550 mm)
+    - Pri šikmom strope v podkroví musí mať min. $\frac{1}{2}$ miestnosti svetlú výšku
+    - V rodinných domoch môže byť 2300 mm
+- Obývacia izba
+    - Pre 3 osoby a väčšie byty plocha min. 18 m<sup>2</sup>
+    - Šírka min. 3.3 m
+- Spálňa
+    - Pre jednu osobu 8 m<sup>2</sup>
+    - Pre dve osoby 12 m<sup>2</sup>
+- Jedáleň
+    - Málo kedy samostatná
+    - Býva ako jedálenský pult v inej izbe
+- Kuchyňa
+    - Buď ako samostatná miestnosť alebo prevádzkovo oddelená
+    - V minulosti bývala obývacia
+    - Obsahuje sporák, priestor na umytie riadu
+- Špajza
+    - Mala by byť odvetraná
+    - Nemá susediť so zdrojom tepla
+- Kúpelňa
+    - Vhodné mať priestor na automatickú práčku
+- WC
+    - Prístup z bytu
+    - V ňom, alebo v blízkosti umývadlo
+    - Medzi ním a obytným priestorom min. dvoje dvere
+
+## Rodinné domy
+### Výhody
+- Menej rušené bývanie (menej susedov)
+- Priame spojenie s vonkajším priestorom (záhrada)
+- Priaznivé podmienky pre vývoj detí
+### Druhy
+- Izolované
+    - Využitie všetkých svetových strán
+- Dvojdomy
+    - Hospodárnejšie vo využití pozemku
+    - Orientácia východ-západ
+- Radové
+    - Ekonomické
+    - Úzky pozemok bez prístupu auta
+    - Možno využiť iba dve strany (pri letisku)
+- Reťazové
+    - Ako radové, len medzi domami je spojovací článok
+    - Možnosť prístupu autom na pozemok
+- V dvojnásobnom rade
+    - Veľmi ekonomické
+    - Malá hĺbka
+    - Orientácia na jednu svetovú stranu
+    - Bez priečneho prevetrania
+- Štvordomy
+    - Ekonomické
+    - Nemajú rovnakú hodnotu orientácie k svetovým stranám
+- Atriové
+    - Miestnosť obrátené do vnútra dvora
+    - Postavením domov tesne vedľa seba vzniká zostavenie
+- Terasové
+    - V sklonitom teréne
+    - Jednopodlažné
+    - Dvojpodlažné - mezonety
+
+## Bytové domy
+### Definícia
+- Majú byty prístupné zo spoločnej komunikácie (schodisko, chodba, pavlač)
+### Druhy
+- Schodiskové
+    - Vstup do bytov z podesty
+    - Výhodný pre väčšie byty
+    - Podľa počtu bytov na poschodí závisí od
+        - Orientácie (preslnenie)
+        - Priečne prevetrávanie
+        - Ak sú napr. 3 byty na poschodí, tak 3. byt je len na jednu stranu
+- Chodbové
+    - Majú prístup zo spoločnej chodby, ktorá je uprostred
+    - Majú orientáciu len na jednu stranu
+- Pavlačové
+    - Prístup z pavlače (akoby balkón po celej dĺžke domu)
+    - Do pavlače sú umiestnené miestnosti príslušenstva (WC, kuchyňa)
+- Mezonetové
+    - V dvoch alebo troch podlažiach
+    - Môže vzniknúť využitím podkrovia alebo pivničného priestoru k jestvujúcemu bytu
+- Bodové
+    - Voľne stojace
+    - Tvar hranola
+- Vežové
+    - Väčší počet podlaží
+    - Schodiskové
+    - Výška veľmi prevláda nad pôdorysom
+- Doskové
+    - Dĺžky až 20 m
+    - Vyžadujú značné odstupy medzi sebou
+    - "Čínsky múr", Dlhá ulica
+- Terasové
+    - "Pyramídy"
+    - Zaujímavé architektonicky
+- Hotelové
+    - Dlhotrvajúce prechodné bývanie
+    - V minulosti naša škola
+    - Tzv. "slobodárky" pri dome kultúry
+- Domy s opatrovateľskou službou
+    - Vstup aj rampou
+    - Spoločné jedálne
+    - Izby pre zdravotnícky personál
+    - S výťahom
+    - Pri Dráčiku (Zápotôčky)
+- Kolektívne domy
+    - V minulosti, aj najnovšie
+    - V mrakodrape
+        - Byty
+        - Obchody
+        - Reštaurácie
+        - Škôlky
 
 &nbsp;
 # 19 - Zemné práce
