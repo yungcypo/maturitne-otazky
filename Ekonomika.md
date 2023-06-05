@@ -214,8 +214,10 @@ Pracovný čas môže byť pružný - zamestnávateľ nestanoví presný začiat
 - Variabilné (premenlivé, pružné) - menia sa so zmenou objemu výroby
     - Proporcionálne - rastú v tom istom pomere ako objem výkonov, napr. spotreba priameho materiálu na výrobok
     - Neproporcionálne
-        - Progresívne - ich celková výška rastie rýchlejšie ako objem výkonov (ak objem výkonov rastie) a klesá pomalšie ako objem výkonov (v prípade ak objem výkonov klesá). Napr. príplatky za nadčas, príplatky v dňoch pracovného pokoja, náklady na nepodarky. *Priama mzda pracovníka je 5€/hod., ak pracuje nadčas je jeho mzda 5,50€/hod. Čím viac nadčasových hodín odpracuje, tým sú celkové náklady vyššie a rastú rýchlejšie*
-        - Degresívne - ich celková výška rastie pomalšie ako objem výkonov (ak objem výkonov rastie) a klesá rýchlejšie ako objem výkonov (ak objem výkonov klesá). Napr. náklady na opravy DM, náklady na pomocný materiál, technologické palivo a pod. *Podnik vlastní stroje, na ktorých sa robia každoročne opravy 100€ na 10 000 ks výrobkov -> 0,01€/ks. Ak vyrobí 15 000 ks výrobkov, stroje treba opravovať častejšie a cena opravy je 130€ -> 0,0086€/ks. Pri 20 000 ks je cena 160€ -> 0,008€/ks.*
+        - Progresívne - ich celková výška rastie rýchlejšie ako objem výkonov (ak objem výkonov rastie) a klesá pomalšie ako objem výkonov (v prípade ak objem výkonov klesá). Napr. príplatky za nadčas, príplatky v dňoch pracovného pokoja, náklady na nepodarky.  
+        *Priama mzda pracovníka je 5€/hod., ak pracuje nadčas je jeho mzda 5,50€/hod. Čím viac nadčasových hodín odpracuje, tým sú celkové náklady vyššie a rastú rýchlejšie*
+        - Degresívne - ich celková výška rastie pomalšie ako objem výkonov (ak objem výkonov rastie) a klesá rýchlejšie ako objem výkonov (ak objem výkonov klesá). Napr. náklady na opravy DM, náklady na pomocný materiál, technologické palivo a pod.  
+        *Podnik vlastní stroje, na ktorých sa robia každoročne opravy 100€ na 10 000 ks výrobkov -> 0,01€/ks. Ak vyrobí 15 000 ks výrobkov, stroje treba opravovať častejšie a cena opravy je 130€ -> 0,0086€/ks. Pri 20 000 ks je cena 160€ -> 0,008€/ks.*
         - Regresívne - vyvíjajú sa nepriamo úmerne s objemom výkonov. Napr. mzdy vyplatené za prestoje
 
 ## Položky kalkulačného vzorca + úloha vzorca

@@ -612,9 +612,8 @@ $L = 1960mm$
 - Sedlové
 - Valbové
 - Polvalbové
-    - S hornou polvalbou
-    - S dolnou polvalbou
-- Stanové
+- S hornou polvalbou
+- S dolnou polvalbou
 - Manzardové
 - Pílové
 - Vežové 
