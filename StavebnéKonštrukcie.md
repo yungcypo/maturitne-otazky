@@ -89,15 +89,6 @@
 - Betóny s organickým plnivom - piliny, hobliny, triesky, pazderie
 - Betón z expandovaného perlitu
 
-
-
-
-
-
-
-
-
-
 &nbsp;  
 # 3 - Návrh výstuže jednoduchej dosky, prútové a doskové prvky, spôsoby vystužovania spojitej dosky
 
@@ -120,7 +111,7 @@
 # 16 - Navrhovanie a realizácia betónovej konštrukcie
 
 &nbsp;  
-# 17 - Navrhovanie a realizácia betónovej konštrukcie
+# 17 - Navrhovanie a vystužovanie železobetónových konštrukcií podľa metódy medzných stavov
 
 &nbsp;  
 # 18 - Vystužovanie železobetónových konštrukcií
