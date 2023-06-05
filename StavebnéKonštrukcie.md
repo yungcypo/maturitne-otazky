@@ -1,5 +1,5 @@
 # Stavebné konštrukcie - maturitné otázky
-# 1 - Návrh železobetónovej konštrukcie, vystužovania prútových prvkov
+# 1 - Návrh železobetónovej konštrukcie, spôsoby vystužovania prútových prvkov
 
 &nbsp;  
 # 2 - Ľahké betóny
