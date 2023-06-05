@@ -28,90 +28,7 @@
 - [Znaky gotickej a románskej architektúry]()
 -->
 
-
-&nbsp;
-# Geometrický plán
-Geometrický plán slúži ako technický podklad pre rozdelenie alebo zlúčenie pozemkov, na vyznačenie vecného bremena alebo stavby do katastrálnej mapy  
-Geometrické plány vyhotovujú geodeti  
-
-Podľa *vyhlášky č. 461/2009 Z.z.* sa geometrický plán vyhotovuje najmä na tieto účely:
-- Zmena hranice katastrálneho územia
-- Rozdelenie nehnuteľnosti
-- Zlúčenie nehnuteľnosti
-- Zameranie stavby
-- Určenie práv k nehnuteľnosti vlastníkov alebo iných oprávnených osôb
-- Vymedzenie rozsahu vecného bremena
-- Vymedzenie duplicitného vlastníctva
-- Spresnenie geometrického a polohového určenia nehnuteľnosti
-- Pozemkové úpravy
-
-
-
-Overením sa má zaručiť, že geometrický plán zodpovedá technickým normám, a že vychádza z údajov katastra
-
-## Časti geometrického plánu
-1. Popisové pole 
-    - tabuľka, v ktorej sú zhrnuté základné informácie o geometrickom pláne
-2. Grafické znázornenie doterajšieho stavu nehnuteľnosti a návrhu zmien
-    - Pôvodný stav (čiernou farbou) 
-    - Nový stav (červenou farbou)
-    - Hranice parciel registra EKN (zelenou farbou)
-3. Výkaz výmer parciel a dielov parciel
-    - Sú tu zapísané údaje pôvodného stavu (doterajší) a nového stavu a vzájomné zmeny výmer
-    - Obsahuje:
-        - Číslo parcely
-        - Výmeru
-        - Druh pozemku
-        - Doplňujúce údaje
-        - Vlastníka (stĺpec s vlastníkom a doplňujúcimi údajmi má len informatívny charakter)
-        - Zmena
-
-Aby mohli byť údaje z geometrického plánu zapísané do katastra, musí byť **overený** dvoma spôsobmi:
-1. Autorizovaným geodetom
-2. Správou katastra (úradné overenie)
-
-Správa katastra pred úradným overením geometrického plánu preskúma:
-- Či predložený operát geometrického plánu obsahuje súčasti podľa osobitného predpisu
-- Vzájomný súlad údajov jednotlivých súčastí operátu geometrického plánu
-- Súlad východiskových údajov s platnými údajmi katastra
-- Súlad označenia nových parciel s pridelenými parcelnými číslami
-- Súlad čísel novourčených podrobných geodetických bodov s pridelenými číslami
-- Či podklady na aktualizáciu údajov katastra nehnuteľností vo výmenných formátoch sú použiteľné na aktualizáciu údajov
-- Či meranie bolo pripojené na aktívne geodetické základy alebo spôsobom podľa osobitného predpisu
-
-&nbsp;
-# Katastrálna inšpekcia
-Katastrálnou inšpekciou vykonáva úrad štátny dozor nad:
-- Úrovňou spravovania
-- Aktuálnosti a obnovy katastra
-- Úrovňou zabezpečovania úloh súvisiacich s katastrom  
-
-Katastrálnej inšpekcií **podliehajú** FO a PO vykonávajúce geodetické a kartografické činnosti ktorých výsledky sa preberajú do katastra, alebo pri ktorých výkone sa využívajú údaje z katastra (najmä geometrické plány, vytyčovanie hraníc pozemkov, zriaďovanie a aktualizácia geodetických bodov, meranie a zobrazovanie pozemkov, ktoré sa preberajú do základných štátnych mapových diel)  
-
-Katastrálnu inšpekciu **vykonávajú** poverení katastrálni inšpektori  
-
-Katastrálny inšpektor pri zabezpečovaní úloh v oblasti katastra:
-- Kontroluje úroveň spravovania katastra a súvisiacich činností
-- Schvaľuje projekty úloh vecného plánu a vyjadruje sa k objektívnosti správ týkajúcich sa hodnotenia činností, ktoré patria do jeho vecnej pôsobnosti
-- Ukladá kontrolovaným subjektom prijať opatrenia na odstránenie zistených nedostatkov a kontroluje ich splnenie v určenej lehote
-- Ukladá kontrolovaným subjektom odstrániť zistené nedostatky v priebehu kontroly alebo v určenej lehote, ak ide o drobné a formálne nedostatky, ktoré nevyžadujú prijatie osobitných opatrení
-
-Katastrálny inšpektor pri kontrole FO a PO kontroluje
-- Dodržiavanie všeobecne záväzných právnych predpisov, administratívnych opatrení a technických noriem v oblasti geodézie, kartografie a katastra
-- Výsledky meračských prác a ich premietnutie v súbore geodetických informácií
-
-### Oprávnenie katastrálneho inšpektora
-Katastrálny inšpektor je oprávnený pri výkone katastrálnej inšpekcie požadovať od FO alebo PO potrebné údaje, vysvetlenia a nazerať do príslušnej dokumentácie  
-Katastrálny inšpektor je povinný pri výkone katastrálnej inšpekcie preukázať sa preukazom vydaným úradom, ktorý ho oprávňuje vykonávať katastrálnu inšpekciu  
-
-
-&nbsp;  
-
----  
----  
-
-&nbsp;  
-# Znalecký posudok
+# 7 - Znalecký posudok
 ## Časti znaleckého posudku
 1. Titulná strana
     - Meno znalca
@@ -202,9 +119,169 @@ Je užitočný nielen pre majiteľa ako informačný údaj, ale najmä potrebný
 - Doklad o veku stavby
 - Pôdorys bytu
 - Fotodokumentácia
-    
+
 &nbsp;
-# Kataster nehnuteľností
+# 9 - Geometrický plán
+Geometrický plán slúži ako technický podklad pre rozdelenie alebo zlúčenie pozemkov, na vyznačenie vecného bremena alebo stavby do katastrálnej mapy  
+Geometrické plány vyhotovujú geodeti  
+
+Podľa *vyhlášky č. 461/2009 Z.z.* sa geometrický plán vyhotovuje najmä na tieto účely:
+- Zmena hranice katastrálneho územia
+- Rozdelenie nehnuteľnosti
+- Zlúčenie nehnuteľnosti
+- Zameranie stavby
+- Určenie práv k nehnuteľnosti vlastníkov alebo iných oprávnených osôb
+- Vymedzenie rozsahu vecného bremena
+- Vymedzenie duplicitného vlastníctva
+- Spresnenie geometrického a polohového určenia nehnuteľnosti
+- Pozemkové úpravy
+
+
+
+Overením sa má zaručiť, že geometrický plán zodpovedá technickým normám, a že vychádza z údajov katastra
+
+## Časti geometrického plánu
+1. Popisové pole 
+    - tabuľka, v ktorej sú zhrnuté základné informácie o geometrickom pláne
+2. Grafické znázornenie doterajšieho stavu nehnuteľnosti a návrhu zmien
+    - Pôvodný stav (čiernou farbou) 
+    - Nový stav (červenou farbou)
+    - Hranice parciel registra EKN (zelenou farbou)
+3. Výkaz výmer parciel a dielov parciel
+    - Sú tu zapísané údaje pôvodného stavu (doterajší) a nového stavu a vzájomné zmeny výmer
+    - Obsahuje:
+        - Číslo parcely
+        - Výmeru
+        - Druh pozemku
+        - Doplňujúce údaje
+        - Vlastníka (stĺpec s vlastníkom a doplňujúcimi údajmi má len informatívny charakter)
+        - Zmena
+
+Aby mohli byť údaje z geometrického plánu zapísané do katastra, musí byť **overený** dvoma spôsobmi:
+1. Autorizovaným geodetom
+2. Správou katastra (úradné overenie)
+
+Správa katastra pred úradným overením geometrického plánu preskúma:
+- Či predložený operát geometrického plánu obsahuje súčasti podľa osobitného predpisu
+- Vzájomný súlad údajov jednotlivých súčastí operátu geometrického plánu
+- Súlad východiskových údajov s platnými údajmi katastra
+- Súlad označenia nových parciel s pridelenými parcelnými číslami
+- Súlad čísel novourčených podrobných geodetických bodov s pridelenými číslami
+- Či podklady na aktualizáciu údajov katastra nehnuteľností vo výmenných formátoch sú použiteľné na aktualizáciu údajov
+- Či meranie bolo pripojené na aktívne geodetické základy alebo spôsobom podľa osobitného predpisu
+
+&nbsp;  
+# 10 - Katastrálny operát
+Katastrálny operát tvoria dokumentačné materiály potrebné na spravovanie katastra a obnovu katastrálneho operátu  
+Katastrálny operát sa vedie v papierovej podobe alebo v elektronickej podobe  
+
+Katastrálny operát obsahuje tieto časti
+- **Súbor geodetických informácií**, ktoré tvoria
+    - Katastrálne mapy
+    - Mapy určeného operátu
+    - Geometrické plány
+    - Záznamy podrobného merania zmien
+    - Zoznamy súradníc
+    - Údaje o spojení lomových bodov a ďalšia geodetická dokumentácia
+- **Súbor popisných informácií**, ktorý tvoria
+    - *Údaje o katastrálnych územiach*, parcelách, právach k nehnuteľnostiam a iných oprávnených osobách (meno, priezvisko, rodné priezvisko, dátum narodenia, rodné číslo a miesto trvalého pobytu/názov sídlo, IČO), prípadne iné identifikačné údaje o skutočnostiach súvisiacich s právami k nehnuteľnostiam, o ohlásených zmenách, ako aj o zmenách zistených pri prešetrovaní zmien, pri revízií údajov katastra a pri obnove katastrálneho operátu
+    - *Údaje o nehnuteľnostiach*, údaje o vlastníkoch alebo iných oprávnených osobách a iné údaje, ktoré sa zapisujú do [listu vlastníctva](#list-vlastníctva)  
+    - *Údaje o sídelných a nesídelných názvoch*
+- **Zbierku listín**, ktorá obsahuje najmä písomné vyhotovenia zmlúv, dohôd a písomných vyhlásení vkladateľov o vložení nehnuteľnosti do majetku právnických osôb, písomné vyhotovenia rozhodnutí štátnych orgánov a notárskych osvedčení a iných listín, ktoré podľa zákona potvrdzujú práva k nehnuteľnostiam, a dokumentáciu sídelných a nesídelných geografických názvov
+- **Sumárne údaje katastra o pôdnom fonde**
+- **Pozemkové knihy**, železničnú knihu a ich operát; pozemkové knihy a železničná kniha slúžia ako zdroj údajov o katastrálnych územiach, parcelách, vlastníkoch a o právach k nehnuteľnostiam
+
+&nbsp;
+# 11 - ?
+
+&nbsp;
+# 12 - List vlastníctva
+## Charakteristika + časti
+List vlastníctva je verejnou listinou, ktorá osvedčuje vlastnícke a iné vecné práva k nehnuteľnosti  
+Obsahuje základné údaje o nehnuteľnostiach, vlastníkoch, právach k nehnuteľnostiam  
+Základným dokladom pre preukázanie vlastníckych vzťahov k nehnuteľnosti je okolkovaný list vlastníctva určený pre právne úkony. Nesmie byť starší ako 3 mesiace  
+Informácie, ktoré sa týkajú konkrétnej nehnuteľnosti treba žiadať vždy len na tej správe katastra, v ktorej katastrálnom území sa nehnuteľnosť nachádza. Jedine tam po zaplatení správneho poplatku vydajú aktuálny výpis z listu vlastníctva  
+List vlastníctva obsahuje číslo listu vlastníctva, názov okresu, názov obce a názov katastrálneho územia
+
+Skladá sa z:
+- A - majetková podstata
+    - Označenie všetkých nehnuteľností, ktoré sú predmetom práv k nehnuteľnosti (majetkové teleso)
+    - Parcelné čísla registra "C" alebo "E"
+    - Výmery
+    - Druh pozemkov
+    - Kódy spôsobu užívania pozemkov
+    - Príslušnosť pozemkov k zastavanému územiu obce
+    - Iné údaje doplňujúce bližšie vysvetlenia k časti "A"
+- B - vlastníci a iné oprávnené osoby
+    - Mená, priezviská, rodné priezviská alebo názvy vlastníkov nehnuteľnosti a iných oprávnených osôb
+    - Dátumy narodenia, rodné číslo alebo IČO
+    - Adresu trvalého pobytu alebo sídlo
+    - Spoluvlastnícke podiely
+    - Titul nadobudnutia
+    - Iné údaje obsahujúce vysvetlenie k časti "B"
+    - Byty a nebytové priestory
+    - Nájomné práva k pozemkom
+    - Poznámka o skutočnostiach súvisiacich s právami k nehnuteľnosti
+- C - ťarchy
+    - Vecné bremená
+    - Záložné práva - vrátane označenia záložného veriteľa
+    - Predkupné práva, ak majú mať účinky vecných práv
+    - Iné práva, ak boli dohodnuté ako vecné práva
+    - Iné údaje obsahujúce bližšie vysvetlenie k časti "C"
+
+List vlastníctva využívajú:
+- Súdy pri rozhodovaní v prípade vlastníckych sporov
+- Notárske úrady pri dedičskom konaní
+- Advokátske kancelárie pri spisovaní zmlúv
+- Súdni znalci pri spracovaní znaleckých posudkov na ohodnocovanie nehnuteľností
+- Stavebné úrady pri svojom rozhodovaní
+- Matričné úrady
+- Daňové úrady (prenájom nehnuteľností)
+- Pozemkové úrady pri rozhodovaní o odňatí poľnohospodárskej pôdy
+- Lesné úrady pri rozhodovaní o odňatí lesnej pôdy
+- Peňažné ústavy pri rozhodovaní o pridelení hypotekárskych a iných finančných úverov
+- Nebankové subjekty pri poskytovaní úverov
+- Realitné kancelárie pri sprostredkovaní kúpy a predaja nehnuteľností
+- Obecné úrady pri vyrubovaní daní z nehnuteľností
+- Polícia
+- Orgány prokurátory
+- Cudzinecká polícia pri prihlasovaní cudzincov k prechodnému pobytu
+- Iné orgány štátu a verejnej správy pri vydávaní vyjadrení
+
+V prípade, že k danej nehnuteľnosti nie je založený list vlastníctva, vlastníctvo je možné preukázať výpisom z pozemkovej knihy a identifikáciou, prípadne inou verejnou listinou  
+Ak je v rámci katastrálneho konania na správny orgán doručená listina týkajúca sa zmeny vlastníckych alebo iných práv, list vlastníctva sa plombuje  
+Z vlastníctva nehnuteľnosti tiež vyplýva povinnosť ohlasovať zmeny správe katastra do 30 dní od zmeny, aby mohli byť v katastri riadne evidované a zaznačené do listu vlastníctva  
+List vlastníctva potreba najmä pokiaľ potreba oficiálne preukázať vlastníctvo nehnuteľnosti  
+
+**Plomba** - signalizuje začaté konanie, že právo je dotknuté zmenou
+
+&nbsp;
+# 13 - Katastrálna inšpekcia
+Katastrálnou inšpekciou vykonáva úrad štátny dozor nad:
+- Úrovňou spravovania
+- Aktuálnosti a obnovy katastra
+- Úrovňou zabezpečovania úloh súvisiacich s katastrom  
+
+Katastrálnej inšpekcií **podliehajú** FO a PO vykonávajúce geodetické a kartografické činnosti ktorých výsledky sa preberajú do katastra, alebo pri ktorých výkone sa využívajú údaje z katastra (najmä geometrické plány, vytyčovanie hraníc pozemkov, zriaďovanie a aktualizácia geodetických bodov, meranie a zobrazovanie pozemkov, ktoré sa preberajú do základných štátnych mapových diel)  
+
+Katastrálnu inšpekciu **vykonávajú** poverení katastrálni inšpektori  
+
+Katastrálny inšpektor pri zabezpečovaní úloh v oblasti katastra:
+- Kontroluje úroveň spravovania katastra a súvisiacich činností
+- Schvaľuje projekty úloh vecného plánu a vyjadruje sa k objektívnosti správ týkajúcich sa hodnotenia činností, ktoré patria do jeho vecnej pôsobnosti
+- Ukladá kontrolovaným subjektom prijať opatrenia na odstránenie zistených nedostatkov a kontroluje ich splnenie v určenej lehote
+- Ukladá kontrolovaným subjektom odstrániť zistené nedostatky v priebehu kontroly alebo v určenej lehote, ak ide o drobné a formálne nedostatky, ktoré nevyžadujú prijatie osobitných opatrení
+
+Katastrálny inšpektor pri kontrole FO a PO kontroluje
+- Dodržiavanie všeobecne záväzných právnych predpisov, administratívnych opatrení a technických noriem v oblasti geodézie, kartografie a katastra
+- Výsledky meračských prác a ich premietnutie v súbore geodetických informácií
+
+### Oprávnenie katastrálneho inšpektora
+Katastrálny inšpektor je oprávnený pri výkone katastrálnej inšpekcie požadovať od FO alebo PO potrebné údaje, vysvetlenia a nazerať do príslušnej dokumentácie  
+Katastrálny inšpektor je povinný pri výkone katastrálnej inšpekcie preukázať sa preukazom vydaným úradom, ktorý ho oprávňuje vykonávať katastrálnu inšpekciu  
+
+&nbsp;
+# 20 - Kataster nehnuteľností 
 Geometrické určenie, súpis a popis nehnuteľností  
 
 Súčasťou katastra sú údaje o právach k týmto nehnuteľnostiam. Sú tu údaje o:
@@ -265,13 +342,16 @@ Kataster obsahuje tieto údaje:
 - Vybrané údaje pre iné informačné systémy o nehnuteľnosti
 - Údaje o právach nehnuteľnosti
 - Údaje o vlastníkoch nehnuteľnosti a iných oprávnených z práv k nehnuteľnosti: 
-    - Ak ide o FO - meno, priezvisko, rodné priezvisko, dátum narodenia, rodné číslo a miesto trvalého bydliska)
+    - Ak ide o FO - meno, priezvisko, rodné priezvisko, dátum narodenia, rodné číslo a miesto trvalého bydliska
     - Ak ide o PO - názov, sídlo a identifikačné číslo, údaje o skutočnostiach súvisiacich s právami k nehnuteľnosti
 - Údaje o základných a podrobných polohových bodových poliach 
 - Sídelné a nesídelné geografické názvy
 
 &nbsp;
-# Katastrálne konanie
+# 22 - Nadobudnutie vlastníctva podľa občianskeho zákonníka
+
+&nbsp;
+# 23 - Katastrálne konanie
 V katastrálnom konaní sa:
 - Zapisujú práva k nehnuteľnostiam
 - Rozhoduje o zmenách hraníc katastrálnych území
@@ -329,108 +409,8 @@ Na základe oznámenia súdu zapíše okresný úrad do katastra poznámku o za�
 Okresný úrad zruší poznámku na návrh toho, kto podal návrh na jej zápis a preukáže sa, že pominuli dôvody zápisu
 
 &nbsp;
-# Katastrálny operát
-Katastrálny operát tvoria dokumentačné materiály potrebné na spravovanie katastra a obnovu katastrálneho operátu  
-Katastrálny operát sa vedie v papierovej podobe alebo v elektronickej podobe  
-
-Katastrálny operát obsahuje tieto časti
-- **Súbor geodetických informácií**, ktoré tvoria
-    - Katastrálne mapy
-    - Mapy určeného operátu
-    - Geometrické plány
-    - Záznamy podrobného merania zmien
-    - Zoznamy súradníc
-    - Údaje o spojení lomových bodov a ďalšia geodetická dokumentácia
-- **Súbor popisných informácií**, ktorý tvoria
-    - *Údaje o katastrálnych územiach*, parcelách, právach k nehnuteľnostiam a iných oprávnených osobách (meno, priezvisko, rodné priezvisko, dátum narodenia, rodné číslo a miesto trvalého pobytu/názov sídlo, IČO), prípadne iné identifikačné údaje o skutočnostiach súvisiacich s právami k nehnuteľnostiam, o ohlásených zmenách, ako aj o zmenách zistených pri prešetrovaní zmien, pri revízií údajov katastra a pri obnove katastrálneho operátu
-    - *Údaje o nehnuteľnostiach*, údaje o vlastníkoch alebo iných oprávnených osobách a iné údaje, ktoré sa zapisujú do [listu vlastníctva](#list-vlastníctva)  
-    - *Údaje o sídelných a nesídelných názvoch*
-- **Zbierku listín**, ktorá obsahuje najmä písomné vyhotovenia zmlúv, dohôd a písomných vyhlásení vkladateľov o vložení nehnuteľnosti do majetku právnických osôb, písomné vyhotovenia rozhodnutí štátnych orgánov a notárskych osvedčení a iných listín, ktoré podľa zákona potvrdzujú práva k nehnuteľnostiam, a dokumentáciu sídelných a nesídelných geografických názvov
-- **Sumárne údaje katastra o pôdnom fonde**
-- **Pozemkové knihy**, železničnú knihu a ich operát; pozemkové knihy a železničná kniha slúžia ako zdroj údajov o katastrálnych územiach, parcelách, vlastníkoch a o právach k nehnuteľnostiam
-
-
-&nbsp;
-# List vlastníctva
-## Charakteristika + časti
-List vlastníctva je verejnou listinou, ktorá osvedčuje vlastnícke a iné vecné práva k nehnuteľnosti  
-Obsahuje základné údaje o nehnuteľnostiach, vlastníkoch, právach k nehnuteľnostiam  
-Základným dokladom pre preukázanie vlastníckych vzťahov k nehnuteľnosti je okolkovaný list vlastníctva určený pre právne úkony. Nesmie byť starší ako 3 mesiace  
-Informácie, ktoré sa týkajú konkrétnej nehnuteľnosti treba žiadať vždy len na tej správe katastra, v ktorej katastrálnom území sa nehnuteľnosť nachádza. Jedine tam po zaplatení správneho poplatku vydajú aktuálny výpis z listu vlastníctva  
-List vlastníctva obsahuje číslo listu vlastníctva, názov okresu, názov obce a názov katastrálneho územia
-
-Skladá sa z:
-- A - majetková podstata
-    - Označenie všetkých nehnuteľností, ktoré sú predmetom práv k nehnuteľnosti (majetkové teleso)
-    - Parcelné čísla registra "C" alebo "E"
-    - Výmery
-    - Druh pozemkov
-    - Kódy spôsobu užívania pozemkov
-    - Príslušnosť pozemkov k zastavanému územiu obce
-    - Iné údaje doplňujúce bližšie vysvetlenia k časti "A"
-- B - vlastníci a iné oprávnené osoby
-    - Mená, priezviská, rodné priezviská alebo názvy vlastníkov nehnuteľnosti a iných oprávnených osôb
-    - Dátumy narodenia, rodné číslo alebo IČO
-    - Adresu trvalého pobytu alebo sídlo
-    - Spoluvlastnícke podiely
-    - Titul nadobudnutia
-    - Iné údaje obsahujúce vysvetlenie k časti "B"
-    - Byty a nebytové priestory
-    - Nájomné práva k pozemkom
-    - Poznámka o skutočnostiach súvisiacich s právami k nehnuteľnosti
-- C - ťarchy
-    - Vecné bremená
-    - Záložné práva - vrátane označenia záložného veriteľa
-    - Predkupné práva, ak majú mať účinky vecných práv
-    - Iné práva, ak boli dohodnuté ako vecné práva
-    - Iné údaje obsahujúce bližšie vysvetlenie k časti "C"
-
-List vlastníctva využívajú:
-- Súdy pri rozhodovaní v prípade vlastníckych sporov
-- Notárske úrady pri dedičskom konaní
-- Advokátske kancelárie pri spisovaní zmlúv
-- Súdni znalci pri spracovaní znaleckých posudkov na ohodnocovanie nehnuteľností
-- Stavebné úrady pri svojom rozhodovaní
-- Matričné úrady
-- Daňové úrady (prenájom nehnuteľností)
-- Pozemkové úrady pri rozhodovaní o odňatí poľnohospodárskej pôdy
-- Lesné úrady pri rozhodovaní o odňatí lesnej pôdy
-- Peňažné ústavy pri rozhodovaní o pridelení hypotekárskych a iných finančných úverov
-- Nebankové subjekty pri poskytovaní úverov
-- Realitné kancelárie pri sprostredkovaní kúpy a predaja nehnuteľností
-- Obecné úrady pri vyrubovaní daní z nehnuteľností
-- Polícia
-- Orgány prokurátory
-- Cudzinecká polícia pri prihlasovaní cudzincov k prechodnému pobytu
-- Iné orgány štátu a verejnej správy pri vydávaní vyjadrení
-
-V prípade, že k danej nehnuteľnosti nie je založený list vlastníctva, vlastníctvo je možné preukázať výpisom z pozemkovej knihy a identifikáciou, prípadne inou verejnou listinou  
-Ak je v rámci katastrálneho konania na správny orgán doručená listina týkajúca sa zmeny vlastníckych alebo iných práv, list vlastníctva sa plombuje  
-Z vlastníctva nehnuteľnosti tiež vyplýva povinnosť ohlasovať zmeny správe katastra do 30 dní od zmeny, aby mohli byť v katastri riadne evidované a zaznačené do listu vlastníctva  
-List vlastníctva potreba najmä pokiaľ potreba oficiálne preukázať vlastníctvo nehnuteľnosti  
-
-**Plomba** - signalizuje začaté konanie, že právo je dotknuté zmenou
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# 24 - List vlastníctva, zápis práv k nehnuteľnostiam
+>[List vlastníctva](#12---list-vlastníctva) je už spracovaný v otázke 12
 
 ---
 [↑ Späť na začiatok ↑](#pozemkové-právo-realitná-prax---maturitné-otázky)
