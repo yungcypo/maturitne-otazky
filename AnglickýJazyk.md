@@ -29,53 +29,13 @@
 
 ## Audionahrávky
 V audionahrávkach sa nachádzajú hovorené [úvodné texty](#úvodné-texty) k otázkam 1-20 a texty k počúvaniu s porozumením  
-Audionahrávky je možné prehrať online alebo stiahnuť na [tomto linku](https://mega.nz/folder/Cu5iWKyR#eGQmG-ondWJ5tWGKO8oDZQ)  
+>Hovorené texty k otázkam 21-25 neboli na pôvodnom CD, ale sú vygenerované pomocou AI  
 
-### Zoznam audionahrávok:
-- 1 - Family
-- 2 - Culture and Art
-- 3 - Sports and Games
-- 4 - Housing
-- 5 - Shopping and Services
-- 6 - Health Care
-- 7 - Traveling
-- 8 - Education
-- 9 - Jobs
-- 10 - People and Nature
-- 11 - Science and Technology
-- 12 - People and Society
-- 13 - The Young and Their World
-- 14 - Food
-- 15 - Hobbies, Leisure and Lifestyle
-- 16 - Multicultural Society
-- 17 - Towns and Places
-- 18 - Fashion
-- 19 - English-Speaking Countries
-- 20 - Slovakia - My Homeland
-- Počúvanie s porozumením - 01 - Zadanie
-- Počúvanie s porozumením - 01
-- Počúvanie s porozumením - 02 - Zadanie
-- Počúvanie s porozumením - 02
-- Počúvanie s porozumením - 03 - Zadanie
-- Počúvanie s porozumením - 03
-- Počúvanie s porozumením - 04 - Zadanie
-- Počúvanie s porozumením - 04
-- Počúvanie s porozumením - 05 - Zadanie
-- Počúvanie s porozumením - 05
-- Počúvanie s porozumením - 06 - Zadanie
-- Počúvanie s porozumením - 06
-- Počúvanie s porozumením - 07 - Zadanie
-- Počúvanie s porozumením - 07
-- Počúvanie s porozumením - 08 - Zadanie
-- Počúvanie s porozumením - 08
-- Počúvanie s porozumením - 09 - Zadanie
-- Počúvanie s porozumením - 09
-- Počúvanie s porozumením - 10 - Zadanie
+Audionahrávky je možné prehrať online alebo [**stiahnuť na tomto linku**](https://mega.nz/folder/Cu5iWKyR#eGQmG-ondWJ5tWGKO8oDZQ)  
 
 # Úvodné texty
 >Úvodné texty z Yesky  
->Pre nahovorené texty pozri [audionahrávky](#audionahrávky)  
->Upozorňujem že texty som nahrával cez image to text converter a nejak moc som ich neupravoval, tak nemusia byť úplne 100%-ne správne  
+>Upozorňujem, že texty som nahrával cez image to text converter a nejak moc som ich neupravoval, tak nemusia byť úplne 100%-ne správne  
 ## 1. Family
 A family usually consists of a mother, father and children, who live together in one home. A functioning family should provide protection, education, help and security to all its members. Strong relationships are often created between siblings, cousins, parents, aunts, uncles, grandparents and other relatives. 
 
@@ -151,7 +111,7 @@ Many people like travelling by bike. Some go to school by bike; others prefer cy
 ## 8. Education 
 Good education is very important for a successful life. In Slovakia school attendance is compulsory from the age of 6 to 16. After nursery schools and kindergartens, children start to attend an elementary school at the age of 6. When they are 16, they can decide to leave the school with an elementary qualification or to continue to a secondary school. Pupils usually have to pass entrance exams to continue their studies at secondary schools. The best students apply to study at a grammar school (or high school) called gymnázium, which prepares for university study. There are ary different types of secondary schools which usually take 4 years; the most popular are secondary business schools, technical schools and medical schools. Vocational schools and their training centres prepare students for different kinds of professions. The study lasts either 3 years and it ends with achieving a skill certificate or 5 years which ends with a school-leaving exam called maturita. Some subjects are compulsory, others are elective. Students at vocational schools must take a theoretical and practical exam from their specialised subjects too. After finishing study at secondary schools, students can get a job or apply to study at university. In most cases, they have to take an entrance exam to get in. A study at university takes 5 or 6 years and finishes with graduation where graduates are given diplomas to their majors. 
 
-Students schedule and school subjects differ from school to school. Vocational school students must also take some practical lessons outside their schools, called the practice. A school year in Slovakia starts the first week of September and finishes the last week of June. Unit 8: EDUCATION 55 In between, there are a few days off (for example the All Saint's Day, Easter or the May days). There are winter holidays, which last about two weeks and spring holidays, which last one week. The summer holidays are the longest and last two months. 
+Students schedule and school subjects differ from school to school. Vocational school students must also take some practical lessons outside their schools, called the practice. A school year in Slovakia starts the first week of September and finishes the last week of June. In between, there are a few days off (for example the All Saint's Day, Easter or the May days). There are winter holidays, which last about two weeks and spring holidays, which last one week. The summer holidays are the longest and last two months. 
 
 Extracurricular activities are very popular in the afternoons. There are many different clubs and sports teams at schools which meet after the classes. Many schools publish their own student newspapers and some have their own radio stations. Most schools in Slovakia have their own gym, school canteen and sometimes a swimming pool, school playground and language schools. 
 
@@ -185,7 +145,7 @@ Great progress has been made in medicine. Science and technology helps ease the 
 
 During the last ten years, there was a great change in information and communication technologies, especially in wireless technology. Nowadays, computers are used almost everywhere. The inventions of a cell phone and the Internet help people communicate faster. Mobile phones are a symbol of comfortable and quick communication or fashion, mainly among the young. A cell phone, music player, camera and a palm computer are being put together into one little gadget. 
 
-The Internet saves our time and money to find information. Many professions or services depend on the Internet. Via the Internet, we send documents, buy things, book hotels, reserve tickets, transfer our money or find life partners. These days, more and more Unit 11: SCIENCE AND TECHNOLOGY 73 people use e-mail to communicate and send information or documents. Many Slovaks use the Internet as a type of entertainment. They can easily find articles about what they are interested in, download music or films. Chatting, joining different discussion groups and reading blogs is very popular, especially among the young. 
+The Internet saves our time and money to find information. Many professions or services depend on the Internet. Via the Internet, we send documents, buy things, book hotels, reserve tickets, transfer our money or find life partners. These days, more and more people use e-mail to communicate and send information or documents. Many Slovaks use the Internet as a type of entertainment. They can easily find articles about what they are interested in, download music or films. Chatting, joining different discussion groups and reading blogs is very popular, especially among the young. 
 
 Modern technology helps us daily. However, it can also be misused. For example, on the one hand, we drive cars daily and on the other hand, they pollute the air. 
 
@@ -327,7 +287,7 @@ Students at secondary schools take a final exam in one foreign language. The fin
 
 &nbsp;
 ## 23. Mass Media
-We are in daily contact with different types of mass media. We receive information through television, newspaper, radio or the Internet. They are called mass media because they reach a very large audience. Mass media inform, educate and entertain They allow us to follow world affairs. Most people follow the national and international news regularly because they want to be well-informed. Many people watch them on TV or read them in newspapers; some read them on the Internet. 
+We are in daily contact with different types of mass media. We receive information through television, newspaper, radio or the Internet. They are called mass media because they reach a very large audience. Mass media inform, educate and entertain They allow us to follow world affairs. Most people follow the national and international news regularly because they want to be well-informed. Many people watch them on TV or read them in newspapers, some read them on the Internet. 
 
 ### Television, Radio
 There are people who like to watch documentary programmes because they take them to places they would never have a chance to see. People like to relax watching films, sitcoms, soap operas or series. Some people prefer reality shows. Watching TV for several hours a day damages the eyesight. It also prevents people from doing sports or being outside. Violence in films influences people in a bad way. Advertising helps finance TV channels. It has a great impact on people. 
